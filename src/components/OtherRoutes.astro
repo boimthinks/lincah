@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  currentRouteId: string;
+}
+
+const { currentRouteId } = Astro.props;
+
+const capitalize = (str: string) => str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+
+const allRoutes = await getCollection('rute');
+const otherRoutes = allRoutes.filter(route => route.id !== currentRouteId).slice(0, 5); // Limit to 5 other routes for sidebar
+
+---
+
+<div class="bg-white border border-slate-200 overflow-hidden shadow-sm p-6 lg:p-8">
+  <h2 class="text-xl sm:text-2xl font-black text-blue-900 mb-6">Rute Lainnya</h2>
+  <ul class="space-y-4">
+    {otherRoutes.length === 0 ? (
+      <p class="text-slate-600">Tidak ada rute lain yang tersedia.</p>
+    ) : (
+      otherRoutes.map(route => (
+        <li>
+          <a
+            href={`/${route.data.from.toLowerCase().replace(/\s+/g, '-')}/${route.data.to.toLowerCase().replace(/\s+/g, '-')}`}
+            class="block text-blue-700 hover:text-blue-900 font-medium text-lg"
+          >
+            Travel {capitalize(route.data.from)} → {capitalize(route.data.to)}
+          </a>
+          <p class="text-sm text-slate-500">Tarif: Rp {route.data.price.toLocaleString('id-ID')}</p>
+        </li>
+      ))
+    )}
+  </ul>
+</div>

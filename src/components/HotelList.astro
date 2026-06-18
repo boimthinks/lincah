@@ -1,0 +1,30 @@
+---
+interface Item {
+  name: string;
+  image: string;
+  address: string;
+  phone: string;
+}
+interface Props {
+  items: Item[];
+}
+const { items } = Astro.props as Props;
+---
+{items && items.length > 0 && (
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+    {items.map((item) => (
+      <div class="bg-white border border-slate-200 overflow-hidden shadow-sm flex flex-col">
+        <div class="aspect-[4/3] overflow-hidden bg-slate-100">
+          <img src={item.image} alt={item.name} class="w-full h-full object-cover" loading="lazy" referrerpolicy="no-referrer" />
+        </div>
+        <div class="p-4 flex flex-col flex-1">
+          <h4 class="text-sm font-bold text-blue-900 uppercase mb-2 leading-snug">{item.name}</h4>
+          <p class="text-xs text-slate-600 mb-2 leading-relaxed">{item.address}</p>
+          <a href={`https://wa.me/${item.phone.replace(/[^0-9]/g, '')}`} target="_blank" rel="noopener" class="mt-auto text-xs font-bold text-blue-700 hover:underline">
+            {item.phone}
+          </a>
+        </div>
+      </div>
+    ))}
+  </div>
+)}

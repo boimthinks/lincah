@@ -1,0 +1,155 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Navbar from '../../components/NavbarInner.tsx';
+import Footer from '../../components/Footer.astro';
+
+import OtherRoutes from '../../components/OtherRoutes.astro';
+import HotelList from '../../components/HotelList.astro';
+import PublicTransportList from '../../components/PublicTransportList.astro';
+import DistrictList from '../../components/DistrictList.astro';
+
+import { getCollection, getEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const routes = await getCollection('rute');
+  return routes.map((entry: any) => {
+    const fromSlug = entry.data.from.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
+    const toSlug = entry.data.to.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
+    return {
+      params: { from: fromSlug, to: toSlug },
+      props: { entry },
+    };
+  });
+}
+
+const { entry } = Astro.props as { entry: any };
+const { from, to, price, duration, departureTimes, description, img } = entry.data;
+
+const capitalize = (str: string) => str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+
+const title = `Travel ${capitalize(from)} ke ${capitalize(to)} - Tiket Resmi & Jadwal`;
+
+// Fetch additional data for 'from' and 'to' cities
+const fromCitySlug = from.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
+const toCitySlug = to.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
+
+const fromHotelsEntry = await getEntry('hotels', fromCitySlug).catch(() => null);
+const fromPublicTransportEntry = await getEntry('public_transport', fromCitySlug).catch(() => null);
+const fromDistrictsEntry = await getEntry('districts', fromCitySlug).catch(() => null);
+
+const toHotelsEntry = await getEntry('hotels', toCitySlug).catch(() => null);
+const toPublicTransportEntry = await getEntry('public_transport', toCitySlug).catch(() => null);
+const toDistrictsEntry = await getEntry('districts', toCitySlug).catch(() => null);
+
+const fromHotels = fromHotelsEntry?.data.items || [];
+const fromPublicTransport = fromPublicTransportEntry?.data.items || [];
+const fromDistricts = fromDistrictsEntry?.data.items || [];
+
+const toHotels = toHotelsEntry?.data.items || [];
+const toPublicTransport = toPublicTransportEntry?.data.items || [];
+const toDistricts = toDistrictsEntry?.data.items || [];
+---
+
+<Layout title={title}>
+  <Navbar client:load />
+  <main class="pt-24 bg-slate-50">
+    <section class="py-12 sm:py-20">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
+          <div class="lg:col-span-8">
+            <div class="bg-white border border-slate-200 overflow-hidden shadow-sm">
+              {img && (
+                <img src={img} alt={`${from} to ${to}`} class="w-full aspect-[4/3] object-cover" />
+              )}
+              <div class="p-8">
+                <div class="flex items-center gap-2 text-blue-700 font-bold text-xs uppercase tracking-widest mb-4">
+                  <span class="w-2 h-2 bg-blue-700"></span>
+                  Rute Perjalanan Resmi
+                </div>
+                <h1 class="text-3xl sm:text-4xl font-black text-blue-900 uppercase mb-6">
+                  Travel {capitalize(from)} {capitalize(to)}
+                </h1>
+                
+                <div class="prose prose-slate max-w-none mb-8">
+                  <p class="text-lg text-slate-600 leading-relaxed">
+                    {description || `Nikmati layanan travel terbaik dari ${capitalize(from)} menuju ${capitalize(to)} dengan sistem antar jemput alamat (door to door). Armada prima, tepat waktu, dan driver berpengalaman.`}
+                  </p>
+                </div>
+
+                <div class="grid grid-cols-2 sm:grid-cols-3 gap-6 py-6 border-y border-slate-100 mb-8">
+                  <div>
+                    <span class="block text-[10px] font-bold text-slate-400 uppercase tracking-wider">Tarif Flat</span>
+                    <span class="text-xl font-bold text-blue-900">Rp {price.toLocaleString('id-ID')}</span>
+                  </div>
+                  <div>
+                    <span class="block text-[10px] font-bold text-slate-400 uppercase tracking-wider">Durasi</span>
+                    <span class="text-xl font-bold text-slate-700">{duration}</span>
+                  </div>
+                  <div class="col-span-2 sm:col-span-1">
+                    <span class="block text-[10px] font-bold text-slate-400 uppercase tracking-wider">Keberangkatan</span>
+                    <div class="flex flex-wrap gap-1 mt-1">
+                      {departureTimes.map(   (time: string) => (
+                        <span class="bg-blue-50 text-blue-700 text-[10px] font-bold px-2 py-0.5 border border-blue-100">{time}</span>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+
+                <div class="bg-blue-50 border-l-4 border-blue-600 p-4 mb-8">
+                  <p class="text-sm text-blue-800 font-medium">
+                    Layanan door-to-door: Kami menjemput Anda di alamat asal dan mengantar langsung ke alamat tujuan di {capitalize(to)}.
+                  </p>
+                </div>
+
+                {/* Displaying 'from' city data */}
+                {fromHotels.length > 0 && (
+                  <div class="mt-12">
+                    <h2 class="text-2xl font-bold text-blue-900 mb-6">Pilihan Hotel di {capitalize(from)} (Titik Jemput Potensial)</h2>
+                    <HotelList items={fromHotels} />
+                  </div>
+                )}
+                {fromPublicTransport.length > 0 && (
+                  <div class="mt-12">
+                    <h2 class="text-2xl font-bold text-blue-900 mb-6">Transportasi Umum di {capitalize(from)} (Titik Jemput Potensial)</h2>
+                    <PublicTransportList items={fromPublicTransport} />
+                  </div>
+                )}
+                {fromDistricts.length > 0 && (
+                  <div class="mt-12">
+                    <h2 class="text-2xl font-bold text-blue-900 mb-6">Area Layanan Penjemputan di {capitalize(from)}</h2>
+                    <DistrictList items={fromDistricts} />
+                  </div>
+                )}
+
+                {/* Displaying 'to' city data */}
+                {toHotels.length > 0 && (
+                  <div class="mt-12">
+                    <h2 class="text-2xl font-bold text-blue-900 mb-6">Pilihan Hotel di {capitalize(to)} (Tujuan Antar)</h2>
+                    <HotelList items={toHotels} />
+                  </div>
+                )}
+                {toPublicTransport.length > 0 && (
+                  <div class="mt-12">
+                    <h2 class="text-2xl font-bold text-blue-900 mb-6">Transportasi Umum di {capitalize(to)} (Tujuan Antar)</h2>
+                    <PublicTransportList items={toPublicTransport} />
+                  </div>
+                )}
+                {toDistricts.length > 0 && (
+                  <div class="mt-12">
+                    <h2 class="text-2xl font-bold text-blue-900 mb-6">Area Layanan Pengantaran di {capitalize(to)}</h2>
+                    <DistrictList items={toDistricts} />
+                  </div>
+                )}
+
+              </div>
+            </div>
+          </div>
+          <div class="lg:col-span-4">
+            <OtherRoutes currentRouteId={entry.id} />
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <Footer />
+</Layout>

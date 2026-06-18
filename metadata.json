@@ -1,0 +1,6 @@
+{
+  "name": "Travel Palembang",
+  "description": "Website Travel Palembang Modern dan Profesional. Melayani rute utama Palembang Baturaja, Palembang Lampung, Palembang Jambi, dan seluruh wilayah Sumatera Selatan dengan pemesanan otomatis WA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

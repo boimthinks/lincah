@@ -1,0 +1,54 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Navbar from '../../components/NavbarInner.tsx';
+import Footer from '../../components/Footer.astro';
+import RoutesPrices from '../../components/RoutesPrices.tsx';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const routes = await getCollection('rute');
+  const origins = [...new Set(routes.map(r => r.data.from.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '')))];
+  
+  return origins.map(from => ({
+    params: { from },
+  }));
+}
+
+const { from } = Astro.params;
+const allRoutes = await getCollection('rute');
+
+const capitalize = (str: string) => str.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+const originalFromName = capitalize(from);
+
+const filteredRoutes = allRoutes.filter(r => 
+  r.data.from.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '') === from
+);
+
+const routesData = filteredRoutes.map(r => ({ 
+  id: r.id, 
+  ...r.data,
+  from: r.data.from.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' '),
+  to: r.data.to.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')
+}));
+
+const title = `Daftar Travel dari ${originalFromName} - Rute & Harga Tiket`;
+---
+
+<Layout title={title}>
+  <Navbar client:load />
+  <main class="pt-24 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div class="text-center mb-16">
+        <h1 class="text-3xl sm:text-5xl font-black text-blue-900 uppercase mb-4">
+          Travel dari <span class="text-blue-600">{originalFromName}</span>
+        </h1>
+        <p class="text-lg text-slate-500 max-w-2xl mx-auto">
+          Pilih kota tujuan Anda dari {originalFromName}. Kami melayani berbagai rute di seluruh wilayah Sumatera Selatan dan sekitarnya.
+        </p>
+      </div>
+
+      <RoutesPrices routes={routesData} client:load />
+    </div>
+  </main>
+  <Footer />
+</Layout>

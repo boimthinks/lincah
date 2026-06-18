@@ -1,0 +1,325 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/NavbarInner.tsx';
+import Footer from '../components/Footer.astro';
+import { Phone, Mail, MapPin, MessageCircle, Clock, Globe, Shield, Users, Car, CheckCircle2 } from 'lucide-react';
+
+const ADMIN_WA = '6281369231893';
+const title = "Hubungi Kami - Reservasi Lincah Travel 24 Jam";
+const description = "Hubungi admin Lincah Travel untuk reservasi tiket travel, rental mobil, dan charter drop. Layanan WhatsApp 24 jam non-stop dengan respon cepat di Sumatera Selatan.";
+---
+
+<Layout title={title} description={description}>
+  <Navbar client:load />
+  <main class="pt-24 bg-slate-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+      <div class="text-center mb-16">
+        <span class="inline-block bg-blue-100 text-blue-700 text-xs font-bold uppercase tracking-widest px-4 py-1.5 mb-4">Pusat Bantuan & Reservasi</span>
+        <h1 class="text-4xl sm:text-5xl font-black text-blue-900 uppercase mb-4">Hubungi <span class="text-blue-600">Kontak Kami</span></h1>
+        <p class="text-lg text-slate-600 max-w-3xl mx-auto leading-relaxed">
+          Tim customer service <strong>Lincah Travel</strong> siap melayani reservasi tiket shuttle, rental mobil, dan paket charter drop kapan pun Anda butuhkan. Kami berkomitmen memberikan respon cepat, solusi tepat, dan pelayanan ramah selama 24 jam non-stop untuk seluruh wilayah Sumatera Selatan dan sekitarnya.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        <div class="bg-white p-8 border border-slate-200 flex flex-col items-center text-center shadow-sm hover:shadow-md transition-shadow">
+          <div class="w-16 h-16 bg-blue-50 text-blue-700 flex items-center justify-center rounded-none mb-6">
+            <MessageCircle class="w-8 h-8" />
+          </div>
+          <h3 class="text-xl font-bold text-slate-800 uppercase mb-2">WhatsApp Reservasi</h3>
+          <p class="text-slate-500 mb-6 italic">Respon cepat via Chat</p>
+          <a href={`https://wa.me/${ADMIN_WA}`} class="text-blue-700 font-bold text-lg hover:text-blue-900">+62 813-6923-1893</a>
+        </div>
+
+        <div class="bg-white p-8 border border-slate-200 flex flex-col items-center text-center shadow-sm hover:shadow-md transition-shadow">
+          <div class="w-16 h-16 bg-blue-50 text-blue-700 flex items-center justify-center rounded-none mb-6">
+            <Mail class="w-8 h-8" />
+          </div>
+          <h3 class="text-xl font-bold text-slate-800 uppercase mb-2">Email Support</h3>
+          <p class="text-slate-500 mb-6 italic">Untuk kerjasama & bantuan</p>
+          <a href="mailto:info@travelpalembang.co.id" class="text-blue-700 font-bold text-lg hover:text-blue-900">info@travelpalembang.co.id</a>
+        </div>
+
+        <div class="bg-white p-8 border border-slate-200 flex flex-col items-center text-center shadow-sm hover:shadow-md transition-shadow">
+          <div class="w-16 h-16 bg-blue-50 text-blue-700 flex items-center justify-center rounded-none mb-6">
+            <MapPin class="w-8 h-8" />
+          </div>
+          <h3 class="text-xl font-bold text-slate-800 uppercase mb-2">Kantor Utama</h3>
+          <p class="text-slate-500 mb-6 italic">Palembang, Sumatera Selatan</p>
+          <span class="text-slate-700 font-medium">Jl. Mayor Ruslan No. 104, IT II, Palembang</span>
+        </div>
+      </div>
+
+      <div class="mt-16 bg-blue-900 text-white p-8 sm:p-12 overflow-hidden relative">
+        <div class="absolute right-0 top-0 w-64 h-64 bg-blue-800 rounded-full -mr-32 -mt-32"></div>
+        <div class="relative z-10 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+          <div>
+            <h2 class="text-3xl font-black uppercase mb-6">Admin Siap Melayani 24/7</h2>
+            <p class="text-blue-100 text-lg leading-relaxed mb-8">
+              Jangan ragu untuk menghubungi kami kapan saja. Tim CS kami siaga untuk memastikan Anda mendapatkan kursi dan layanan terbaik.
+            </p>
+            <div class="flex items-center gap-4 text-yellow-400 font-bold">
+              <Clock class="w-6 h-6" />
+              <span>Sistem Booking Online Aktif</span>
+            </div>
+          </div>
+          <div class="flex justify-center">
+             <a href={`https://wa.me/${ADMIN_WA}?text=Halo%20Admin%2C%20saya%20ingin%20booking%20travel.`} class="bg-yellow-400 text-blue-900 font-black text-xl px-10 py-6 uppercase tracking-widest hover:bg-yellow-300 transition-all shadow-xl shadow-blue-950/20">Chat Sekarang</a>
+          </div>
+        </div>
+      </div>
+
+      <section class="mt-20">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl sm:text-4xl font-black text-blue-900 uppercase mb-4">Mengapa Memilih <span class="text-blue-600">Lincah Travel?</span></h2>
+          <p class="text-slate-600 max-w-2xl mx-auto">Lebih dari sekadar layanan transportasi, kami adalah solusi perjalanan terpercaya dengan standar pelayanan profesional.</p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div class="bg-white p-6 border border-slate-200 text-center">
+            <div class="w-12 h-12 bg-blue-50 text-blue-700 flex items-center justify-center mx-auto mb-4">
+              <Clock class="w-6 h-6" />
+            </div>
+            <h3 class="font-bold text-slate-800 uppercase mb-2 text-sm">Layanan 24 Jam</h3>
+            <p class="text-slate-500 text-sm">Customer service siap melayani reservasi kapan saja, termasuk hari libur nasional.</p>
+          </div>
+
+          <div class="bg-white p-6 border border-slate-200 text-center">
+            <div class="w-12 h-12 bg-blue-50 text-blue-700 flex items-center justify-center mx-auto mb-4">
+              <Shield class="w-6 h-6" />
+            </div>
+            <h3 class="font-bold text-slate-800 uppercase mb-2 text-sm">Aman & Terpercaya</h3>
+            <p class="text-slate-500 text-sm">Driver profesional berpengalaman dengan armada terawat dan asuransi perjalanan.</p>
+          </div>
+
+          <div class="bg-white p-6 border border-slate-200 text-center">
+            <div class="w-12 h-12 bg-blue-50 text-blue-700 flex items-center justify-center mx-auto mb-4">
+              <Car class="w-6 h-6" />
+            </div>
+            <h3 class="font-bold text-slate-800 uppercase mb-2 text-sm">Armada Premium</h3>
+            <p class="text-slate-500 text-sm">Toyota Hiace Premio, Innova Reborn, dan Avanza dalam kondisi prima dan bersih.</p>
+          </div>
+
+          <div class="bg-white p-6 border border-slate-200 text-center">
+            <div class="w-12 h-12 bg-blue-50 text-blue-700 flex items-center justify-center mx-auto mb-4">
+              <Users class="w-6 h-6" />
+            </div>
+            <h3 class="font-bold text-slate-800 uppercase mb-2 text-sm">Ribuan Pelanggan</h3>
+            <p class="text-slate-500 text-sm">Dipercaya ribuan pelanggan tetap untuk perjalanan bisnis dan wisata keluarga.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="mt-20">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl sm:text-4xl font-black text-blue-900 uppercase mb-4">Cara <span class="text-blue-600">Melakukan Pemesanan</span></h2>
+          <p class="text-slate-600 max-w-2xl mx-auto">Hanya dalam 3 langkah mudah, tiket travel Anda siap di tangan.</p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div class="bg-white p-8 border border-slate-200 relative">
+            <div class="absolute -top-4 -left-4 w-10 h-10 bg-blue-700 text-white font-black text-xl flex items-center justify-center">1</div>
+            <h3 class="text-lg font-bold text-blue-900 uppercase mb-3 mt-2">Hubungi Admin</h3>
+            <p class="text-slate-600 text-sm leading-relaxed">Kirim pesan WhatsApp ke nomor resmi kami. Sampaikan rute, tanggal keberangkatan, dan jumlah penumpang yang akan berangkat.</p>
+          </div>
+
+          <div class="bg-white p-8 border border-slate-200 relative">
+            <div class="absolute -top-4 -left-4 w-10 h-10 bg-blue-700 text-white font-black text-xl flex items-center justify-center">2</div>
+            <h3 class="text-lg font-bold text-blue-900 uppercase mb-3 mt-2">Konfirmasi Jadwal</h3>
+            <p class="text-slate-600 text-sm leading-relaxed">Tim kami akan mengkonfirmasi ketersediaan kursi, jadwal keberangkatan, dan alamat penjemputan door-to-door Anda.</p>
+          </div>
+
+          <div class="bg-white p-8 border border-slate-200 relative">
+            <div class="absolute -top-4 -left-4 w-10 h-10 bg-blue-700 text-white font-black text-xl flex items-center justify-center">3</div>
+            <h3 class="text-lg font-bold text-blue-900 uppercase mb-3 mt-2">Lakukan Pembayaran</h3>
+            <p class="text-slate-600 text-sm leading-relaxed">Selesaikan pembayaran via transfer bank. E-tiket dan detail penjemputan akan dikirim langsung ke WhatsApp Anda.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="mt-20">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl sm:text-4xl font-black text-blue-900 uppercase mb-4">Layanan <span class="text-blue-600">Yang Kami Sediakan</span></h2>
+          <p class="text-slate-600 max-w-2xl mx-auto">Berbagai pilihan layanan transportasi untuk memenuhi semua kebutuhan perjalanan Anda di Sumatera Selatan.</p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div class="bg-white p-6 border border-slate-200 flex gap-4">
+            <div class="w-12 h-12 bg-blue-50 text-blue-700 flex items-center justify-center flex-shrink-0">
+              <CheckCircle2 class="w-6 h-6" />
+            </div>
+            <div>
+              <h3 class="font-bold text-slate-800 uppercase mb-2 text-sm">Travel Shuttle Antar Kota</h3>
+              <p class="text-slate-500 text-sm leading-relaxed">Layanan travel reguler dengan rute tetap Palembang – Lubuk Linggau, Palembang – Bengkulu, Palembang – Jambi, Palembang – Bandar Lampung, dan rute populer lainnya dengan harga tiket flat.</p>
+            </div>
+          </div>
+
+          <div class="bg-white p-6 border border-slate-200 flex gap-4">
+            <div class="w-12 h-12 bg-blue-50 text-blue-700 flex items-center justify-center flex-shrink-0">
+              <CheckCircle2 class="w-6 h-6" />
+            </div>
+            <div>
+              <h3 class="font-bold text-slate-800 uppercase mb-2 text-sm">Charter Drop Private</h3>
+              <p class="text-slate-500 text-sm leading-relaxed">Sewa mobil pribadi untuk keluarga atau rombongan dengan tujuan fleksibel. Tersedia Hiace Premio, Innova Reborn, hingga Elf Long untuk kapasitas besar.</p>
+            </div>
+          </div>
+
+          <div class="bg-white p-6 border border-slate-200 flex gap-4">
+            <div class="w-12 h-12 bg-blue-50 text-blue-700 flex items-center justify-center flex-shrink-0">
+              <CheckCircle2 class="w-6 h-6" />
+            </div>
+            <div>
+              <h3 class="font-bold text-slate-800 uppercase mb-2 text-sm">Rental Mobil Lepas Kunci</h3>
+              <p class="text-slate-500 text-sm leading-relaxed">Sewa mobil harian, mingguan, hingga bulanan dengan opsi lepas kunci atau dengan driver profesional. Cocok untuk keperluan bisnis dan liburan keluarga.</p>
+            </div>
+          </div>
+
+          <div class="bg-white p-6 border border-slate-200 flex gap-4">
+            <div class="w-12 h-12 bg-blue-50 text-blue-700 flex items-center justify-center flex-shrink-0">
+              <CheckCircle2 class="w-6 h-6" />
+            </div>
+            <div>
+              <h3 class="font-bold text-slate-800 uppercase mb-2 text-sm">Antar Jemput Bandara & Hotel</h3>
+              <p class="text-slate-500 text-sm leading-relaxed">Layanan point-to-point dari dan ke Bandara Sultan Mahmud Badaruddin II, hotel, terminal, pelabuhan, dan stasiun KA Kertapati Palembang.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="mt-20">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl sm:text-4xl font-black text-blue-900 uppercase mb-4">Wilayah <span class="text-blue-600">Layanan Kami</span></h2>
+          <p class="text-slate-600 max-w-2xl mx-auto">Melayani perjalanan door-to-door ke berbagai kota di Sumatera bagian selatan dengan jaringan agen terpercaya.</p>
+        </div>
+
+        <div class="bg-white p-8 border border-slate-200">
+          <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
+            {['Palembang', 'Lubuk Linggau', 'Bengkulu', 'Jambi', 'Bandar Lampung', 'Muara Enim', 'Lahat', 'Pagar Alam', 'Baturaja', 'Tanjung Enim', 'Kayu Agung', 'Prabumulih', 'Sekayu', 'Indralaya', 'Musi Banyuasin', 'Pangkal Pinang', 'Mentok', 'Toboali', 'Muntok', 'Belinyu'].map((city) => (
+              <div class="flex items-center gap-2 text-sm text-slate-700 bg-slate-50 px-3 py-2 border border-slate-200">
+                <Globe class="w-4 h-4 text-blue-700 flex-shrink-0" />
+                <span>{city}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section class="mt-20">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl sm:text-4xl font-black text-blue-900 uppercase mb-4">Pertanyaan <span class="text-blue-600">Yang Sering Diajukan</span></h2>
+          <p class="text-slate-600 max-w-2xl mx-auto">Informasi cepat untuk menjawab pertanyaan umum seputar layanan travel kami.</p>
+        </div>
+
+        <div class="space-y-4 max-w-4xl mx-auto">
+          <details class="bg-white border border-slate-200 p-6 group">
+            <summary class="font-bold text-slate-800 uppercase text-sm cursor-pointer flex justify-between items-center">
+              <span>Berapa tarif travel Palembang ke Lubuk Linggau?</span>
+              <span class="text-blue-700 text-xl group-open:rotate-45 transition-transform">+</span>
+            </summary>
+            <p class="text-slate-600 text-sm leading-relaxed mt-4">Tarif travel Palembang – Lubuk Linggau adalah Rp 250.000 per orang untuk layanan shuttle door-to-door. Harga sudah termasuk penjemputan di alamat dalam kota Palembang dan pengantaran hingga tujuan di Lubuk Linggau serta sekitarnya.</p>
+          </details>
+
+          <details class="bg-white border border-slate-200 p-6 group">
+            <summary class="font-bold text-slate-800 uppercase text-sm cursor-pointer flex justify-between items-center">
+              <span>Bagaimana cara booking travel secara online?</span>
+              <span class="text-blue-700 text-xl group-open:rotate-45 transition-transform">+</span>
+            </summary>
+            <p class="text-slate-600 text-sm leading-relaxed mt-4">Anda bisa melakukan pemesanan dengan mengirim pesan WhatsApp ke nomor +62 813-6923-1893. Sampaikan rute, tanggal, dan jumlah penumpang. Tim kami akan mengkonfirmasi ketersediaan kursi dan detail pembayaran dalam hitungan menit.</p>
+          </details>
+
+          <details class="bg-white border border-slate-200 p-6 group">
+            <summary class="font-bold text-slate-800 uppercase text-sm cursor-pointer flex justify-between items-center">
+              <span>Apakah tersedia layanan antar jemput di alamat?</span>
+              <span class="text-blue-700 text-xl group-open:rotate-45 transition-transform">+</span>
+            </summary>
+            <p class="text-slate-600 text-sm leading-relaxed mt-4">Ya, semua layanan travel kami menggunakan sistem door-to-door. Driver akan menjemput Anda di alamat yang ditentukan (rumah, kantor, hotel, bandara, atau terminal) dan mengantar langsung ke tujuan tanpa transit di pool.</p>
+          </details>
+
+          <details class="bg-white border border-slate-200 p-6 group">
+            <summary class="font-bold text-slate-800 uppercase text-sm cursor-pointer flex justify-between items-center">
+              <span>Metode pembayaran apa saja yang didukung?</span>
+              <span class="text-blue-700 text-xl group-open:rotate-45 transition-transform">+</span>
+            </summary>
+            <p class="text-slate-600 text-sm leading-relaxed mt-4">Kami menerima pembayaran melalui transfer bank (BCA, BRI, BNI, Mandiri, dan bank lokal lainnya). Detail rekening akan diinformasikan oleh admin setelah pemesanan dikonfirmasi.</p>
+          </details>
+
+          <details class="bg-white border border-slate-200 p-6 group">
+            <summary class="font-bold text-slate-800 uppercase text-sm cursor-pointer flex justify-between items-center">
+              <span>Apakah bisa melakukan pembatalan atau reschedule tiket?</span>
+              <span class="text-blue-700 text-xl group-open:rotate-45 transition-transform">+</span>
+            </summary>
+            <p class="text-slate-600 text-sm leading-relaxed mt-4">Pembatalan dan perubahan jadwal (reschedule) dapat dilakukan maksimal H-1 sebelum keberangkatan. Hubungi admin WhatsApp kami untuk proses reschedule dengan biaya administrasi sesuai kebijakan yang berlaku.</p>
+          </details>
+
+          <details class="bg-white border border-slate-200 p-6 group">
+            <summary class="font-bold text-slate-800 uppercase text-sm cursor-pointer flex justify-between items-center">
+              <span>Jam berapa saja travel berangkat setiap hari?</span>
+              <span class="text-blue-700 text-xl group-open:rotate-45 transition-transform">+</span>
+            </summary>
+            <p class="text-slate-600 text-sm leading-relaxed mt-4">Jadwal keberangkatan travel bervariasi tergantung rute, mulai dari pagi, siang, hingga malam hari. Silakan cek halaman <a href="/rute" class="text-blue-700 font-bold hover:underline">Harga & Rute</a> atau tanyakan langsung ke admin untuk jadwal spesifik sesuai kebutuhan Anda.</p>
+          </details>
+        </div>
+      </section>
+
+      <section class="mt-20 grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div class="bg-white border border-slate-200 p-8">
+          <div class="flex items-center gap-3 mb-6">
+            <div class="w-12 h-12 bg-blue-50 text-blue-700 flex items-center justify-center">
+              <Clock class="w-6 h-6" />
+            </div>
+            <h2 class="text-2xl font-black text-blue-900 uppercase">Jam Operasional</h2>
+          </div>
+          <div class="space-y-3 text-sm">
+            <div class="flex justify-between border-b border-slate-100 pb-2">
+              <span class="font-bold text-slate-700">Senin – Minggu</span>
+              <span class="text-blue-700 font-bold">24 Jam Non-Stop</span>
+            </div>
+            <div class="flex justify-between border-b border-slate-100 pb-2">
+              <span class="font-bold text-slate-700">Customer Service</span>
+              <span class="text-slate-600">WhatsApp 24/7</span>
+            </div>
+            <div class="flex justify-between border-b border-slate-100 pb-2">
+              <span class="font-bold text-slate-700">Respon Chat</span>
+              <span class="text-slate-600">± 5 Menit</span>
+            </div>
+            <div class="flex justify-between">
+              <span class="font-bold text-slate-700">Hari Libur Nasional</span>
+              <span class="text-slate-600">Tetap Melayani</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="bg-white border border-slate-200 p-8">
+          <div class="flex items-center gap-3 mb-6">
+            <div class="w-12 h-12 bg-blue-50 text-blue-700 flex items-center justify-center">
+              <MapPin class="w-6 h-6" />
+            </div>
+            <h2 class="text-2xl font-black text-blue-900 uppercase">Lokasi Kantor</h2>
+          </div>
+          <p class="text-slate-600 text-sm leading-relaxed mb-4">
+            Kantor operasional kami berlokasi di pusat Kota Palembang, mudah diakses dari berbagai penjuru kota. Silakan datang langsung untuk konsultasi kebutuhan travel, atau gunakan layanan WhatsApp untuk respon lebih cepat.
+          </p>
+          <div class="bg-slate-50 p-4 border-l-4 border-blue-700">
+            <p class="text-slate-800 font-bold text-sm">Lincah Travel</p>
+            <p class="text-slate-600 text-sm">Jl. Mayor Ruslan No. 104, IT II, Palembang, Sumatera Selatan</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="mt-20 text-center">
+        <h2 class="text-2xl sm:text-3xl font-black text-blue-900 uppercase mb-4">Siap Memesan Tiket Travel?</h2>
+        <p class="text-slate-600 max-w-2xl mx-auto mb-8">Hubungi admin kami sekarang juga dan dapatkan penawaran terbaik untuk perjalanan Anda.</p>
+        <div class="flex flex-wrap justify-center gap-4">
+          <a href={`https://wa.me/${ADMIN_WA}?text=Halo%20Admin%20Travel%20Palembang%2C%20saya%20ingin%20tanya%20informasi%20rute%20dan%20jadwal%20keberangkatan.`} class="bg-blue-700 text-white font-bold px-8 py-4 uppercase tracking-widest hover:bg-blue-800 transition-all inline-flex items-center gap-2">
+            <MessageCircle class="w-5 h-5" />
+            Chat WhatsApp
+          </a>
+          <a href="/rute" class="bg-white border-2 border-blue-700 text-blue-700 font-bold px-8 py-4 uppercase tracking-widest hover:bg-blue-50 transition-all inline-flex items-center gap-2">
+            Lihat Rute & Harga
+          </a>
+        </div>
+      </section>
+    </div>
+  </main>
+  <Footer />
+</Layout>

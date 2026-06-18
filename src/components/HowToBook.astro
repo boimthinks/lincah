@@ -1,0 +1,99 @@
+---
+import { Search, FormInput, Send, UserCheck, Smartphone } from 'lucide-react';
+
+const steps = [
+  {
+    num: '01',
+    icon: Search,
+    title: 'Cari Rute Kota',
+    description: 'Lihat daftar rute utama kami atau cari kota tujuan Anda di Sumatera Selatan pada kolom pencarian tarif resmi.',
+  },
+  {
+    num: '02',
+    icon: FormInput,
+    title: 'Isi Form Lengkap',
+    description: 'Masukkan nama penumpang, nomor WhatsApp aktif, tanggal travel, jam berangkat, serta alamat jemput dan antar.',
+  },
+  {
+    num: '03',
+    icon: Send,
+    title: 'Kirim via WhatsApp',
+    description: 'Klik tombol pesan. Sistem akan otomatis memindahkan Anda ke chat WhatsApp Admin. Cukup klik tombol kirim.',
+  },
+  {
+    num: '04',
+    icon: UserCheck,
+    title: 'Driver Menjemput',
+    description: 'Driver kami akan mengonfirmasi jam jemput pada hari H, menjemput ke rumah, dan mengantarkannya Anda sampai ke tujuan.',
+  },
+];
+---
+
+<section id="cara-pesan" class="py-20 sm:py-28 bg-slate-950 text-white overflow-hidden text-left relative border-t border-blue-900">
+  <div class="absolute right-0 bottom-0 w-80 h-80 bg-blue-700/10 rounded-full blur-3xl"></div>
+  
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+    
+    {/* Header Text */}
+    <div class="text-center max-w-3xl mx-auto mb-16 sm:mb-20">
+      <span class="inline-flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-widest text-yellow-300 bg-blue-900 px-3.5 py-2 border border-blue-700 rounded-none mb-3">
+        📑 ALUR BOOKING REGULER
+      </span>
+      <h2 class="text-3xl sm:text-4xl font-extrabold text-white tracking-tight uppercase">
+        Bagaimana Cara Memesan Tiket Di Sini?
+      </h2>
+      <p class="text-sm sm:text-base text-blue-200 mt-3 font-normal max-w-xl mx-auto leading-relaxed">
+        Sistem pemesanan kami dirancang sesederhana mungkin untuk memudahkan Anda kapan saja tanpa ribet daftar akun/login.
+      </p>
+    </div>
+
+    {/* Steps Horizontal Grid */}
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+      {steps.map((step, idx) => (
+        <div
+          class="relative bg-blue-900/60 border border-blue-800 p-6 sm:p-8 rounded-none hover:bg-blue-900 transition-colors"
+        >
+          {/* Number tag */}
+          <div class="absolute top-4 right-6 text-4xl font-black text-yellow-450 text-yellow-400/10 font-mono">
+            {step.num}
+          </div>
+
+          {/* Icon round sphere */}
+          <div class="w-12 h-12 bg-blue-950 border border-blue-800 rounded-none flex items-center justify-center mb-6">
+            <step.icon class="w-6 h-6 text-yellow-400" />
+          </div>
+
+          {/* Step info details */}
+          <div class="space-y-2">
+            <h3 class="text-lg font-extrabold text-white tracking-tight uppercase">{step.title}</h3>
+            <p class="text-xs sm:text-sm text-blue-200 leading-relaxed font-normal">
+              {step.description}
+            </p>
+          </div>
+
+          {/* Linking helper lines for widescreen desktop */}
+          {idx < 3 && (
+            <div class="hidden lg:block absolute top-1/2 -right-4 transform -translate-y-1/2 z-20 text-blue-800 font-mono text-lg font-bold">
+              ➔
+            </div>
+          )}
+        </div>
+      ))}
+    </div>
+
+    {/* Notice of guarantee at bottom */}
+    <div class="mt-16 bg-blue-900/30 border border-blue-850 p-5 rounded-none flex flex-col sm:flex-row items-center justify-between gap-4 max-w-3xl mx-auto text-xs sm:text-sm">
+      <span class="flex items-center gap-2 font-semibold">
+        <Smartphone class="w-5 h-5 text-yellow-400" />
+        Admin siap merespon konfirmasi kursi Anda dalam waktu kurang dari 5 menit!
+      </span>
+      <a
+        href="#booking-form-anchor"
+        class="bg-yellow-400 hover:bg-yellow-300 text-blue-950 font-extrabold uppercase tracking-widest text-[11px] px-5 py-3 rounded-none transition-all leading-none"
+      >
+        Mulai Booking Sekarang
+      </a>
+    </div>
+
+  </div>
+</section>

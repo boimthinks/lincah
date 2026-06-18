@@ -1,0 +1,51 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/NavbarHome.tsx';
+import Hero from '../components/Hero.tsx';
+import Features from '../components/Features.astro';
+import RoutesPrices from '../components/RoutesPrices.tsx';
+import Fleet from '../components/Fleet.astro';
+import HowToBook from '../components/HowToBook.astro';
+import Testimonials from '../components/Testimonials.astro';
+import FAQ from '../components/FAQ.tsx';
+import BookingForm from '../components/BookingForm.tsx';
+import Footer from '../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const routes = await getCollection('rute');
+const vehicles = await getCollection('vehicles');
+const testimonials = await getCollection('testimonials');
+const faqs = await getCollection('faq');
+
+// Helper function to capitalize city names for display
+const capitalize = (str: string) => str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+
+// Map collection data to match the component props if needed
+const routesData = routes.map(r => ({ 
+  id: r.id, 
+  ...r.data,
+  from: capitalize(r.data.from),
+  to: capitalize(r.data.to)
+}));
+const vehiclesData = vehicles.map(v => ({ id: v.id, ...v.data }));
+const testimonialsData = testimonials.map(t => ({ id: t.id, ...t.data }));
+const faqsData = faqs.map(f => ({ id: f.id, ...f.data }));
+
+const ADMIN_WA = '6281369231893';
+const title = "Lincah Travel | Executive Shuttle & Charter";
+---
+
+<Layout title={title}>
+  <Navbar client:load />
+  <main>
+    <Hero routes={routesData} client:load />
+    <Features />
+    <RoutesPrices routes={routesData} client:load />
+    <Fleet vehicles={vehiclesData} />
+    <HowToBook />
+    <BookingForm routes={routesData} client:load />
+    <Testimonials testimonials={testimonialsData} />
+    <FAQ faqs={faqsData} client:load />
+  </main>
+  <Footer />
+</Layout>

@@ -1,0 +1,22 @@
+---
+city: "palembang"
+items:
+  - "Ilir Barat I"
+  - "Ilir Barat II"
+  - "Ilir Timur I"
+  - "Ilir Timur II"
+  - "Seberang Ulu I"
+  - "Seberang Ulu II"
+  - "Sukarami"
+  - "Sako"
+  - "Kemuning"
+  - "Kalidoni"
+  - "Bukit Kecil"
+  - "Gandus"
+  - "Kertapati"
+  - "Plaju"
+  - "Alang-Alang Lebar"
+  - "Sematang Borang"
+  - "Jakabaring"
+  - "Sungai Kunjang"
+---

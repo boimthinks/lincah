@@ -1,0 +1,27 @@
+---
+interface Item {
+  name: string;
+  type: string;
+  address: string;
+}
+interface Props {
+  items: Item[];
+}
+const { items } = Astro.props as Props;
+---
+{items && items.length > 0 && (
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+    {items.map((item) => (
+      <div class="bg-white border border-slate-200 p-5 flex items-start gap-4 shadow-sm">
+        <div class="flex-shrink-0 w-10 h-10 bg-blue-50 flex items-center justify-center text-blue-700 font-black text-xs uppercase">
+          {item.type.charAt(0)}
+        </div>
+        <div>
+          <span class="block text-[10px] font-bold text-blue-700 uppercase tracking-widest mb-1">{item.type}</span>
+          <h4 class="text-sm font-bold text-slate-800 uppercase leading-snug mb-1">{item.name}</h4>
+          <p class="text-xs text-slate-600 leading-relaxed">{item.address}</p>
+        </div>
+      </div>
+    ))}
+  </div>
+)}
