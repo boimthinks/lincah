@@ -80,6 +80,13 @@ const districtsCollection = defineCollection({
   }),
 });
 
+const cityImagesCollection = defineCollection({
+  loader: glob({ pattern: 'city-images.md', base: "./src/content" }),
+  schema: z.object({
+    cities: z.record(z.string(), z.string()),
+  }),
+});
+
 export const collections = {
   rute: routesCollection,
   vehicles: vehiclesCollection,
@@ -88,4 +95,5 @@ export const collections = {
   hotels: hotelsCollection,
   public_transport: publicTransportCollection,
   districts: districtsCollection,
+  city_images: cityImagesCollection,
 };

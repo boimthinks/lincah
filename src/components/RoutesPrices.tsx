@@ -14,9 +14,10 @@ interface Route {
 
 interface RoutesPricesProps {
   routes: Route[];
+  cityImages: Record<string, string>;
 }
 
-export default function RoutesPrices({ routes }: RoutesPricesProps) {
+export default function RoutesPrices({ routes, cityImages }: RoutesPricesProps) {
   const [searchQuery, setSearchQuery] = useState('');
   const [filterType, setFilterType] = useState<'semua' | 'utama' | 'sumsel'>('semua');
 
@@ -37,6 +38,11 @@ export default function RoutesPrices({ routes }: RoutesPricesProps) {
     const fromSlug = route.from.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
     const toSlug = route.to.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
     window.location.href = `/${fromSlug}/${toSlug}`;
+  };
+
+  const getRouteImage = (toCity: string) => {
+    const slug = toCity.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
+    return cityImages[slug] || `https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=400`;
   };
 
   return (
@@ -72,57 +78,45 @@ export default function RoutesPrices({ routes }: RoutesPricesProps) {
             {mainRoutes.map((route) => (
               <div
                 key={route.id}
-                className="bg-white rounded-none border border-slate-200 hover:border-blue-500 overflow-hidden shadow-sm transition-all duration-300 flex flex-col justify-between"
+                className="bg-white rounded-none border border-slate-200 hover:border-blue-500 overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 flex flex-col justify-between"
               >
-                <div className="bg-blue-700 text-white px-5 py-3 flex justify-between items-center text-[10px] font-bold tracking-widest uppercase">
-                  <span className="flex items-center gap-1.5">
-                    <span className="w-1.5 h-1.5 bg-yellow-400 animate-pulse rounded-none"></span>
-                  </span>
-
+                <div className="relative w-full aspect-[4/3] overflow-hidden bg-slate-100">
+                  <img 
+                    src={getRouteImage(route.to)} 
+                    alt={`travel ${route.from} ${route.to} murah`} 
+                    className="w-full h-full object-cover transition-transform duration-500 hover:scale-110" 
+                  />
+                  <div className="absolute inset-x-0 bottom-0 h-2/3 bg-gradient-to-t from-white via-white/90 to-transparent"></div>
+                  
+                  <div className="absolute bottom-4 left-4 right-4 z-10 flex items-center justify-between text-left">
+                    <div>
+                      <span className="block text-[9px] uppercase font-bold text-slate-400 tracking-wider mb-0.5">Dari</span>
+                      <h4 className="text-lg font-extrabold text-blue-900 uppercase leading-none">{route.from}</h4>
+                    </div>
+                    <div className="text-right">
+                      <span className="block text-[9px] uppercase font-bold text-slate-400 tracking-wider mb-0.5">Tujuan</span>
+                      <h4 className="text-lg font-extrabold text-blue-900 uppercase leading-none">{route.to}</h4>
+                    </div>
+                  </div>
                 </div>
 
                 <div className="p-6 sm:p-8 space-y-6 text-left flex-grow">
-                  <div className="flex items-center justify-between">
-                    <div>
-                      <span className="text-[10px] uppercase font-extrabold text-slate-450 tracking-wider">Dari</span>
-                      <h4 className="text-lg font-extrabold text-slate-800 uppercase">{route.from}</h4>
-                    </div>
-                    <div className="p-2 bg-blue-50 border border-blue-105 rounded-none">
-                      <ArrowRightLeft className="w-4 h-4 text-blue-700" />
-                    </div>
-                    <div className="text-right">
-                      <span className="text-[10px] uppercase font-extrabold text-slate-450 tracking-wider">Tujuan</span>
-                      <h4 className="text-lg font-extrabold text-blue-700 uppercase">{route.to}</h4>
-                    </div>
-                  </div>
-
-                  <hr className="border-slate-100" />
-
                   <div className="space-y-3 text-xs sm:text-sm text-slate-600 font-medium">
                     <div className="flex items-center gap-2">
                       <Clock className="w-4 h-4 text-slate-400 flex-shrink-0" />
                       <span>{route.duration} perjalanan</span>
                     </div>
-                    <div className="flex items-start gap-2">
-                      <Calendar className="w-4 h-4 text-slate-400 mt-0.5 flex-shrink-0" />
-                      <div>
-                        <span className="block font-semibold mb-0.5 text-slate-705">Jadwal Keberangkatan:</span>
-                        <div className="flex flex-wrap gap-1.5 mt-1">
-                          {route.departureTimes.map((time) => (
-                            <span key={time} className="bg-blue-50 text-blue-900 border border-blue-150 font-bold text-[10px] px-2 py-0.5 rounded-none">
-                              {time}
-                            </span>
-                          ))}
-                        </div>
+                    <div className="flex items-center gap-2">
+                      <Calendar className="w-4 h-4 text-slate-400 flex-shrink-0" />
+                      <div className="flex flex-wrap gap-1.5">
+                        {route.departureTimes.map((time) => (
+                          <span key={time} className="bg-blue-50 text-blue-900 border border-blue-150 font-bold text-[10px] px-2 py-0.5 rounded-none">
+                            {time}
+                          </span>
+                        ))}
                       </div>
                     </div>
                   </div>
-
-                  {route.description && (
-                    <p className="text-xs text-slate-500 leading-relaxed italic bg-slate-50 p-3 rounded-none border border-dashed border-slate-205">
-                      {route.description}
-                    </p>
-                  )}
                 </div>
 
                 <div className="p-6 sm:p-8 bg-slate-50 border-t border-slate-200 flex items-center justify-between mt-auto">

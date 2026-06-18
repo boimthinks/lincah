@@ -4,7 +4,7 @@ to: palembang
 price: 300000
 duration: 4 - 5 Jam (Via Tol)
 departureTimes: ["09:00 WIB", "15:00 WIB", "21:00 WIB"]
-type: utama
+type: semua
 distance: 350 km
 description: Layanan travel sebaliknya dari lampung ke palembang dengan kenyamanan yang sama.
 img: https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=600

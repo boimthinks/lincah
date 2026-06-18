@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, getEntry } from 'astro:content';
 
 interface Props {
   currentRouteId: string;
@@ -12,6 +12,8 @@ const capitalize = (str: string) => str.split(' ').map(word => word.charAt(0).to
 const allRoutes = await getCollection('rute');
 const otherRoutes = allRoutes.filter(route => route.id !== currentRouteId).slice(0, 5); // Limit to 5 other routes for sidebar
 
+const cityImagesEntry = await getEntry('city_images', 'city-images').catch(() => null);
+const cityImages = cityImagesEntry?.data.cities || {};
 ---
 
 <div class="bg-white border border-slate-200 overflow-hidden shadow-sm p-6 lg:p-8">
@@ -20,17 +22,25 @@ const otherRoutes = allRoutes.filter(route => route.id !== currentRouteId).slice
     {otherRoutes.length === 0 ? (
       <p class="text-slate-600">Tidak ada rute lain yang tersedia.</p>
     ) : (
-      otherRoutes.map(route => (
-        <li>
-          <a
-            href={`/${route.data.from.toLowerCase().replace(/\s+/g, '-')}/${route.data.to.toLowerCase().replace(/\s+/g, '-')}`}
-            class="block text-blue-700 hover:text-blue-900 font-medium text-lg"
-          >
-            Travel {capitalize(route.data.from)} → {capitalize(route.data.to)}
-          </a>
-          <p class="text-sm text-slate-500">Tarif: Rp {route.data.price.toLocaleString('id-ID')}</p>
-        </li>
-      ))
+      otherRoutes.map(route => {
+        const toSlug = route.data.to.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
+        const routeImg = cityImages[toSlug] || "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=400";
+        
+        return (
+          <li class="flex gap-4 items-center">
+            <img src={routeImg} alt={route.data.to} class="w-16 h-12 object-cover rounded shadow-sm" />
+            <div>
+              <a
+                href={`/${route.data.from.toLowerCase().replace(/\s+/g, '-')}/${toSlug}`}
+                class="block text-blue-700 hover:text-blue-900 font-bold text-sm"
+              >
+                Travel {capitalize(route.data.from)} → {capitalize(route.data.to)}
+              </a>
+              <p class="text-xs text-slate-500">Tarif: Rp {route.data.price.toLocaleString('id-ID')}</p>
+            </div>
+          </li>
+        );
+      })
     )}
   </ul>
 </div>

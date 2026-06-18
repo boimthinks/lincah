@@ -4,7 +4,7 @@ to: martapura
 price: 160000
 duration: 5 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "20:00 WIB"]
-type: semua
+type: utama
 distance: 220 km
 description: Menuju perbatasan Lampung-Sumsel di Martapura dengan rute nyaman dan aman.
 img: https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=600

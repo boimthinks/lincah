@@ -4,7 +4,7 @@ to: palembang
 price: 120000
 duration: 4 - 5 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "17:00 WIB", "20:00 WIB"]
-type: utama
+type: semua
 distance: 200 km
 description: Layanan travel sebaliknya dari baturaja ke palembang dengan kenyamanan yang sama.
 img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw8kYtEzjovzjHt70gWopSK7jpyEW2_z5lZ-d_hdhkTRIJAOM5Po-B6oeC_ayOpv_ATbtE73F0LgoXSXhHRv-ex6XwXcACDT_U02NRwXNLzkpzOw0yI8OFxLjcZPNFkDjP7VrfjAW31QCtGGt1t02S3XJHTJQ9AR-XXPUZlNMbiL08zQeEV_UnJBTg_sQh/s600/travel-palembang-baturaja.webp

@@ -41,6 +41,13 @@ const toHotelsEntry = await getEntry('hotels', toCitySlug).catch(() => null);
 const toPublicTransportEntry = await getEntry('public_transport', toCitySlug).catch(() => null);
 const toDistrictsEntry = await getEntry('districts', toCitySlug).catch(() => null);
 
+const cityImagesEntry = await getEntry('city_images', 'city-images').catch(() => null);
+const cityImages = cityImagesEntry?.data.cities || {};
+
+// Determine image to use: check global city images first, then fall back to route img, then a generic placeholder
+const resolvedImg = cityImages[toCitySlug] || img || "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=1200";
+const imgAlt = `travel ${from} ${to} murah`;
+
 const fromHotels = fromHotelsEntry?.data.items || [];
 const fromPublicTransport = fromPublicTransportEntry?.data.items || [];
 const fromDistricts = fromDistrictsEntry?.data.items || [];
@@ -58,8 +65,8 @@ const toDistricts = toDistrictsEntry?.data.items || [];
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
           <div class="lg:col-span-8">
             <div class="bg-white border border-slate-200 overflow-hidden shadow-sm">
-              {img && (
-                <img src={img} alt={`${from} to ${to}`} class="w-full aspect-[4/3] object-cover" />
+              {resolvedImg && (
+                <img src={resolvedImg} alt={imgAlt} title={imgAlt} class="w-full aspect-[4/3] object-cover" />
               )}
               <div class="p-8">
                 <div class="flex items-center gap-2 text-blue-700 font-bold text-xs uppercase tracking-widest mb-4">

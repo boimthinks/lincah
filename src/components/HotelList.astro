@@ -20,9 +20,9 @@ const { items } = Astro.props as Props;
         <div class="p-4 flex flex-col flex-1">
           <h4 class="text-sm font-bold text-blue-900 uppercase mb-2 leading-snug">{item.name}</h4>
           <p class="text-xs text-slate-600 mb-2 leading-relaxed">{item.address}</p>
-          <a href={`https://wa.me/${item.phone.replace(/[^0-9]/g, '')}`} target="_blank" rel="noopener" class="mt-auto text-xs font-bold text-blue-700 hover:underline">
+          <span class="mt-auto text-xs font-bold text-slate-700">
             {item.phone}
-          </a>
+          </span>
         </div>
       </div>
     ))}
