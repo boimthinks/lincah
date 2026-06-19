@@ -36,7 +36,7 @@ export default function Hero({ routes }: HeroProps) {
     >
       <div className="absolute inset-0">
         <img
-          src="/src/assets/images/hero_ampera_sunset_1781441848926.jpg"
+          src="/img/hero_ampera_sunset_1781441848926.jpg"
           alt="Ampera Bridge Sunset Palembang"
           className="w-full h-full object-cover object-center opacity-30 scale-105"
         />

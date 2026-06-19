@@ -5,6 +5,7 @@ interface Props {
 }
 
 const { title, description = "Layanan Lincah Travel Terpercaya" } = Astro.props;
+import '../index.css';
 ---
 
 <!doctype html>
@@ -12,15 +13,14 @@ const { title, description = "Layanan Lincah Travel Terpercaya" } = Astro.props;
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="description" content={description} />
-		<meta name="viewport" content="width=device-width" />
+		<meta name="viewport" content="width=device-width, />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-		<link rel="stylesheet" href="/src/index.css" />
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 		<style is:global>
 			:root {
 				--accent: 136, 58, 234;
