@@ -42,7 +42,7 @@ export default function RoutesPrices({ routes, cityImages }: RoutesPricesProps) 
 
   const getRouteImage = (toCity: string) => {
     const slug = toCity.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
-    return cityImages[slug] || `https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=400`;
+    return (cityImages && cityImages[slug]) || `https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=400`;
   };
 
   return (

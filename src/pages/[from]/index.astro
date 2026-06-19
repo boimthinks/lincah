@@ -3,7 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import Navbar from '../../components/NavbarInner.tsx';
 import Footer from '../../components/Footer.astro';
 import RoutesPrices from '../../components/RoutesPrices.tsx';
-import { getCollection } from 'astro:content';
+import { getCollection, getEntry } from 'astro:content';
 
 export async function getStaticPaths() {
   const routes = await getCollection('rute');
@@ -31,6 +31,9 @@ const routesData = filteredRoutes.map(r => ({
   to: r.data.to.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')
 }));
 
+const cityImagesEntry = await getEntry('city_images', 'city-images').catch(() => null);
+const cityImages = cityImagesEntry?.data.cities || {};
+
 const title = `Daftar Travel dari ${originalFromName} - Rute & Harga Tiket`;
 ---
 
@@ -47,7 +50,7 @@ const title = `Daftar Travel dari ${originalFromName} - Rute & Harga Tiket`;
         </p>
       </div>
 
-      <RoutesPrices routes={routesData} client:load />
+      <RoutesPrices routes={routesData} cityImages={cityImages} client:load />
     </div>
   </main>
   <Footer />
