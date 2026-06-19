@@ -1,0 +1,20 @@
+---
+city: "jambi"
+items:
+  - name: "Aston Jambi Hotel & Conference Center"
+    image: ""
+    address: "Jl. Sultan Thaha No.99, Telanaipura, Kota Jambi, 36122"
+    phone: "0741-39777"
+  - name: "Swiss-Belhotel Jambi"
+    image: ""
+    address: "Jl. Prof. Dr. Satria, Telanaipura, Kota Jambi, 36122"
+    phone: "0741-30111"
+  - name: "Hotel Jayakarta Jambi"
+    image: ""
+    address: "Jl. Jend. Sudirman No.2, Sungai Asam, Kec. Pasar Jambi, Kota Jambi, 36138"
+    phone: "0741-35066"
+  - name: "Grand Malioboro Hotel Jambi"
+    image: ""
+    address: "Jl. Iskandar Muda No.168, Thehok, Kec. Jambi Sel., Kota Jambi, 36124"
+    phone: "0741-30500"
+---

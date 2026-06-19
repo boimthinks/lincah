@@ -13,23 +13,34 @@ const title = "Rental Mobil Palembang - Sewa Mobil Lepas Kunci & Driver";
 
 <Layout title={title}>
   <Navbar client:load />
-  <main class="pt-24">
-    <section class="bg-blue-900 text-white py-20 relative overflow-hidden">
-      <div class="absolute inset-0 opacity-20">
-        <img src="/src/assets/images/hero_ampera_sunset_1781441848926.jpg" class="w-full h-full object-cover" alt="Background" />
+  <main>
+    <section class="relative min-h-[60vh] flex items-center justify-center pt-32 pb-20 bg-slate-950 overflow-hidden text-center">
+      <div class="absolute inset-0">
+        <img
+          src="/src/assets/images/hero_ampera_sunset_1781441848926.jpg"
+          alt="Background Rental"
+          class="w-full h-full object-cover object-top opacity-30 scale-105"
+        />
+        <div class="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/80 to-transparent"></div>
+        <div class="absolute inset-0 bg-gradient-to-r from-slate-950/95 via-transparent to-slate-950/30"></div>
       </div>
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-        <div class="text-center max-w-3xl mx-auto">
-          <h1 class="text-4xl sm:text-6xl font-black uppercase mb-6 leading-tight">
-            Rental Mobil <span class="text-yellow-400">Palembang</span> Terpercaya
-          </h1>
-          <p class="text-xl text-blue-100 mb-10">
-            Layanan sewa mobil harian, mingguan, dan bulanan. Tersedia pilihan lepas kunci atau dengan driver profesional.
-          </p>
-          <div class="flex flex-wrap justify-center gap-4">
-            <a href="https://wa.me/6281369231893?text=Halo%20Admin%2C%20saya%20ingin%20tanya%20info%20rental%20mobil." class="bg-yellow-400 text-blue-900 font-bold px-8 py-4 uppercase tracking-widest hover:bg-yellow-300 transition-all">Pesan Sekarang</a>
-            <a href="#pilihan-mobil" class="bg-white/10 border border-white/20 text-white font-bold px-8 py-4 uppercase tracking-widest hover:bg-white/20 transition-all">Lihat Armada</a>
-          </div>
+
+      <div class="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h1 class="text-4xl sm:text-5xl lg:text-6xl font-light text-white tracking-tight leading-tight uppercase mb-6">
+          <span class="font-extrabold text-yellow-400">Rental Mobil</span> Palembang Terpercaya
+        </h1>
+        
+        <p class="text-lg sm:text-xl text-slate-300 max-w-2xl mx-auto font-normal leading-relaxed mb-10">
+          Layanan sewa mobil harian, mingguan, dan bulanan. Tersedia pilihan lepas kunci atau dengan driver profesional.
+        </p>
+
+        <div class="flex flex-col sm:flex-row justify-center gap-4">
+          <a href="https://wa.me/6281369231893?text=Halo%20Admin%2C%20saya%20ingin%20tanya%20info%20rental%20mobil." class="bg-yellow-400 hover:bg-yellow-300 text-blue-950 font-extrabold uppercase tracking-widest text-xs px-6 py-4 rounded-none shadow-md transition-all flex items-center justify-center">
+            Pesan Sekarang
+          </a>
+          <a href="#pilihan-mobil" class="bg-blue-700 hover:bg-blue-800 text-white font-extrabold uppercase tracking-widest text-xs px-6 py-4 rounded-none border border-blue-600 transition-colors flex items-center justify-center">
+            Lihat Armada
+          </a>
         </div>
       </div>
     </section>

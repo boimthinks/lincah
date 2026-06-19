@@ -6,7 +6,7 @@ duration: 2 Jam
 departureTimes: ["Setiap Jam (07:00 - 21:00)"]
 type: semua
 distance: 95 km
-description: Layanan travel sebaliknya dari prabumulih ke palembang dengan kenyamanan yang sama.
+description: Akses cepat Prabumulih ke Palembang via tol. Jadwal keberangkatan setiap jam, harga terjangkau, dan layanan antar jemput langsung ke alamat Anda.
 img: https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=600
 ---
 ## What is Lorem Ipsum

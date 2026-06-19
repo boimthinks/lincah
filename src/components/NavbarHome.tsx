@@ -17,8 +17,8 @@ export default function NavbarHome() {
 
   const navItems = [
     { name: 'Beranda', id: '', path: '/' },
-    { name: 'Harga & Rute', id: 'rute', path: '/rute' },
-    { name: 'Rental Mobil', id: 'rental-mobil', path: '/rental-mobil' },
+    { name: 'Harga Travel', id: 'travel', path: '/travel' },
+    { name: 'Rental Mobil', id: 'rental', path: '/rental' },
     { name: 'Tentang Kami', id: 'tentang-kami', path: '/tentang-kami' },
     { name: 'Kontak', id: 'kontak', path: '/kontak' },
   ];
@@ -51,7 +51,7 @@ export default function NavbarHome() {
                 LINCAH<span className="text-blue-600">TRAVEL</span>
               </span>
               <span className="block text-[10px] text-slate-500 font-medium tracking-widest uppercase">
-                Executive Shuttle & Charter
+                Cepat . Aman . Nyaman
               </span>
             </div>
           </a>

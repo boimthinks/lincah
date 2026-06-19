@@ -6,7 +6,7 @@ duration: 3 Jam
 departureTimes: ["08:00 WIB", "13:00 WIB", "16:00 WIB"]
 type: semua
 distance: 120 km
-description: Layanan travel sebaliknya dari sekayu ke palembang dengan kenyamanan yang sama.
+description: Perjalanan aman dari Sekayu ke Palembang menyusuri jalur lintas tengah Musi Banyuasin. Armada ber-AC, jadwal regular, dan layanan door-to-door.
 img: https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=600
 ---
 ## What is Lorem Ipsum

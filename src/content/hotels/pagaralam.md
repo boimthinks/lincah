@@ -1,0 +1,20 @@
+---
+city: "pagaralam"
+items:
+  - name: "Hotel Garuda ZZ"
+    image: ""
+    address: "Jl. Kapten Sanaf No.54, Beringin Jaya, Pagar Alam Utara, Kota Pagar Alam, Sumsel 31518"
+    phone: "0730-622177"
+  - name: "D'Cabin Hotel Pagaralam"
+    image: ""
+    address: "Gn. Dempo, Kec. Pagar Alam Sel., Kota Pagar Alam, Sumsel"
+    phone: "0821-8281-1171"
+  - name: "Hotel Orchid Dempo"
+    image: ""
+    address: "Kota Pagar Alam, Sumsel"
+    phone: "0822-6227-0047"
+  - name: "Hotel Mirasa"
+    image: ""
+    address: "Jl. Kolonel M. Nuh No.80, Kuripan Babas, Pagar Alam Utara, Kota Pagar Alam, Sumsel 31516"
+    phone: "0730-6260020"
+---

@@ -37,9 +37,4 @@ items:
     image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkxrUC1NJ7MOJgzXEVD_lX2Vx90RaRU2wWliu6x9qOmF6EYgVTZUujn_m20TTF8W3ot3psAxLJBUXD84ffN4MNyM58hbSB5surqz2T9R11VAi16S7i8sJeDJDb0UlXsmhpPPt-kuIzYex0BifM-pQJDRWmoM5rL69UZd4MwFoA4MkkaTmOKEFvjPBtpPdm/s200/1O1%20Palembang%20Rajawali.webp"
     address: "Jl. Rajawali No.18, 9 Ilir, Kec. Ilir Tim. II, Kota Palembang"
     phone: "0711-3031101"
-
-
-
-
-
 ---

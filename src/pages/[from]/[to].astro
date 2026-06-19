@@ -4,6 +4,7 @@ import Navbar from '../../components/NavbarInner.tsx';
 import Footer from '../../components/Footer.astro';
 
 import OtherRoutes from '../../components/OtherRoutes.astro';
+import SidebarCTA from '../../components/SidebarCTA.astro';
 import HotelList from '../../components/HotelList.astro';
 import PublicTransportList from '../../components/PublicTransportList.astro';
 import DistrictList from '../../components/DistrictList.astro';
@@ -27,7 +28,7 @@ const { from, to, price, duration, departureTimes, description, img } = entry.da
 
 const capitalize = (str: string) => str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
 
-const title = `Travel ${capitalize(from)} ke ${capitalize(to)} - Tiket Resmi & Jadwal`;
+const title = `Travel ${capitalize(from)} ${capitalize(to)} Murah. Lincah Travel Cepat, Aman, Nyaman`;
 
 // Fetch additional data for 'from' and 'to' cities
 const fromCitySlug = from.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
@@ -58,10 +59,71 @@ const toDistricts = toDistrictsEntry?.data.items || [];
 ---
 
 <Layout title={title}>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Beranda",
+        "item": "https://lincah.web.id/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Travel",
+        "item": "https://lincah.web.id/travel"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": `Travel ${capitalize(from)} ke ${capitalize(to)}`,
+        "item": `https://lincah.web.id/${fromCitySlug}/${toCitySlug}`
+      }
+    ]
+  })} />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": `Travel ${capitalize(from)} ke ${capitalize(to)}`,
+    "description": description || `Layanan travel eksekutif door-to-door dari ${capitalize(from)} ke ${capitalize(to)} dengan harga terjangkau.`,
+    "image": resolvedImg,
+    "offers": {
+      "@type": "Offer",
+      "url": `https://lincah.web.id/${fromCitySlug}/${toCitySlug}`,
+      "price": price,
+      "priceCurrency": "IDR",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "LocalBusiness",
+        "name": "Lincah Travel",
+        "telephone": "+6281369231893",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Jl. Mayor Ruslan No. 104, Duku, Kec. Ilir Timur II",
+          "addressLocality": "Palembang",
+          "addressRegion": "Sumatera Selatan",
+          "postalCode": "30114",
+          "addressCountry": "ID"
+        }
+      }
+    }
+  })} />
+
   <Navbar client:load />
   <main class="pt-24 bg-slate-50">
-    <section class="py-12 sm:py-20">
+    <section class="pb-12 sm:pb-20">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <nav class="flex items-center space-x-2 text-xs font-medium text-slate-500 uppercase tracking-wider pt-2 pb-2 sm:pt-4 sm:pb-3">
+          <a href="/" class="hover:text-blue-700 transition-colors">Lincah</a>
+          <span class="text-slate-300">/</span>
+          <a href="/travel" class="hover:text-blue-700 transition-colors">Travel</a>
+          <span class="text-slate-300">/</span>
+          <span class="text-slate-900 font-bold">{capitalize(from)} {capitalize(to)}</span>
+        </nav>
+
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
           <div class="lg:col-span-8">
             <div class="bg-white border border-slate-200 overflow-hidden shadow-sm">
@@ -71,7 +133,7 @@ const toDistricts = toDistrictsEntry?.data.items || [];
               <div class="p-8">
                 <div class="flex items-center gap-2 text-blue-700 font-bold text-xs uppercase tracking-widest mb-4">
                   <span class="w-2 h-2 bg-blue-700"></span>
-                  Rute Perjalanan Resmi
+                  Travel {capitalize(from)} 
                 </div>
                 <h1 class="text-3xl sm:text-4xl font-black text-blue-900 uppercase mb-6">
                   Travel {capitalize(from)} {capitalize(to)}
@@ -108,50 +170,60 @@ const toDistricts = toDistrictsEntry?.data.items || [];
                   </p>
                 </div>
 
-                {/* Displaying 'from' city data */}
-                {fromHotels.length > 0 && (
-                  <div class="mt-12">
-                    <h2 class="text-2xl font-bold text-blue-900 mb-6">Pilihan Hotel di {capitalize(from)} (Titik Jemput Potensial)</h2>
-                    <HotelList items={fromHotels} />
-                  </div>
-                )}
-                {fromPublicTransport.length > 0 && (
-                  <div class="mt-12">
-                    <h2 class="text-2xl font-bold text-blue-900 mb-6">Transportasi Umum di {capitalize(from)} (Titik Jemput Potensial)</h2>
-                    <PublicTransportList items={fromPublicTransport} />
-                  </div>
-                )}
-                {fromDistricts.length > 0 && (
-                  <div class="mt-12">
-                    <h2 class="text-2xl font-bold text-blue-900 mb-6">Area Layanan Penjemputan di {capitalize(from)}</h2>
-                    <DistrictList items={fromDistricts} />
-                  </div>
-                )}
+        {/* Displaying 'to' city data */}
+        {toHotels.length > 0 && (
+          <div class="mt-12">
+            <h2 class="text-2xl font-bold text-blue-900 mb-6">Hotel di {capitalize(to)}</h2>
+            <HotelList items={toHotels} />
+          </div>
+        )}
+        {toPublicTransport.length > 0 && (
+          <div class="mt-12">
+            <h2 class="text-2xl font-bold text-blue-900 mb-6">Transportasi Umum di {capitalize(to)}</h2>
+            <PublicTransportList items={toPublicTransport} />
+          </div>
+        )}
+        {toDistricts.length > 0 && (
+          <div class="mt-12">
+            <h2 class="text-2xl font-bold text-blue-900 mb-6">Area Layanan Pengantaran di {capitalize(to)}</h2>
+            <DistrictList items={toDistricts} />
+          </div>
+        )}
 
-                {/* Displaying 'to' city data */}
-                {toHotels.length > 0 && (
-                  <div class="mt-12">
-                    <h2 class="text-2xl font-bold text-blue-900 mb-6">Pilihan Hotel di {capitalize(to)} (Tujuan Antar)</h2>
-                    <HotelList items={toHotels} />
-                  </div>
-                )}
-                {toPublicTransport.length > 0 && (
-                  <div class="mt-12">
-                    <h2 class="text-2xl font-bold text-blue-900 mb-6">Transportasi Umum di {capitalize(to)} (Tujuan Antar)</h2>
-                    <PublicTransportList items={toPublicTransport} />
-                  </div>
-                )}
-                {toDistricts.length > 0 && (
-                  <div class="mt-12">
-                    <h2 class="text-2xl font-bold text-blue-900 mb-6">Area Layanan Pengantaran di {capitalize(to)}</h2>
-                    <DistrictList items={toDistricts} />
-                  </div>
-                )}
+        {/* Displaying 'from' city data */}
+                {fromDistricts.length > 0 && (
+                   <div class="mt-12">
+                     <h2 class="text-2xl font-bold text-blue-900 mb-6">Wilayah Penjemputan</h2>
+                     <p class="text-slate-600 leading-relaxed">
+                       Lincah Travel menyediakan layanan antar-jemput alamat (door-to-door) yang memudahkan Anda. Kami siap menjemput Anda yang berada di wilayah {capitalize(from)}, meliputi: {fromDistricts.join(', ')} dan area sekitarnya. Anda tidak perlu repot keluar rumah, driver kami akan menjemput Anda tepat di titik lokasi Anda berada untuk memulai perjalanan menuju {capitalize(to)}.
+                     </p>
+                   </div>
+                 )}
+                 {fromHotels.length > 0 && (
+                   <div class="mt-12">
+                     <h2 class="text-2xl font-bold text-blue-900 mb-6">Jemput di Hotel {capitalize(from)}</h2>
+                     <p class="text-slate-600 leading-relaxed">
+                       Sedang mencari layanan <strong>travel di dekat hotel di {capitalize(from)}</strong>? Kami melayani penjemputan langsung dari lobby berbagai hotel ternama. Jika Anda menginap di {fromHotels.map((hotel: any) => hotel.name).join(', ')} atau hotel lainnya di pusat kota {capitalize(from)}, Lincah Travel adalah pilihan tepat untuk perjalanan Anda menuju {capitalize(to)}. Perjalanan menjadi lebih praktis tanpa harus mencari transportasi tambahan dari hotel.
+                     </p>
+                   </div>
+                 )}
+                 {fromPublicTransport.length > 0 && (
+                   <div class="mt-12">
+                     <h2 class="text-2xl font-bold text-blue-900 mb-6">Transportasi Umum di {capitalize(from)}</h2>
+                     <p class="text-slate-600 leading-relaxed">
+                       Kami juga melayani penjemputan dari titik-titik transportasi umum utama di {capitalize(from)}. Bagi Anda yang baru saja tiba melalui {fromPublicTransport.map((item: any) => item.name).join(', ')}, Anda bisa langsung memesan layanan kami untuk pengantaran langsung ke alamat tujuan di {capitalize(to)} dengan nyaman, aman, dan tepat waktu.
+                     </p>
+                   </div>
+                 )}
 
               </div>
             </div>
           </div>
-          <div class="lg:col-span-4">
+          <div class="lg:col-span-4 space-y-6 lg:sticky lg:top-28 h-fit">
+            <SidebarCTA 
+              title="Pesan Travel Sekarang" 
+              description="Hubungi admin kami untuk pemesanan cepat dan info jadwal terbaru." 
+            />
             <OtherRoutes currentRouteId={entry.id} />
           </div>
         </div>

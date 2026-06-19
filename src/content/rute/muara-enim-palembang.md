@@ -6,7 +6,7 @@ duration: 4 - 5 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "17:00 WIB", "20:00 WIB"]
 type: semua
 distance: 180 km
-description: Layanan travel sebaliknya dari muara enim ke palembang dengan kenyamanan yang sama.
+description: Travel andalan karyawan dan masyarakat Muara Enim menuju Palembang. Rute dinas & logistik dengan armada prima dan layanan door-to-door.
 img: https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=600
 ---
 ## What is Lorem Ipsum

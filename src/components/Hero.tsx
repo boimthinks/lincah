@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Search, Compass, Shield, Users, ArrowRight, Star } from 'lucide-react';
+import { Search, Compass, Shield, Users, ArrowRight, Star, MessageSquare } from 'lucide-react';
 
 interface Route {
   id: string;
@@ -16,12 +16,14 @@ interface HeroProps {
 export default function Hero({ routes }: HeroProps) {
   const [selectedRouteId, setSelectedRouteId] = useState('');
   const mainRoutes = routes.filter((r) => r.type === 'utama');
+  const activeRoute = routes.find(r => r.id === selectedRouteId);
 
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    if (selectedRouteId) {
-      const element = document.getElementById('booking-form-anchor');
-      element?.scrollIntoView({ behavior: 'smooth' });
+    if (activeRoute) {
+      const message = `Pesan travel dari ${activeRoute.from} ke ${activeRoute.to}`;
+      const whatsappUrl = `https://wa.me/6281369231893?text=${encodeURIComponent(message)}`;
+      window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
     } else {
       document.getElementById('rute')?.scrollIntoView({ behavior: 'smooth' });
     }
@@ -83,7 +85,7 @@ export default function Hero({ routes }: HeroProps) {
 
             <div className="flex flex-col sm:flex-row gap-3 pt-2">
               <a
-                href="#rute"
+                href="/travel"
                 className="bg-yellow-400 hover:bg-yellow-300 text-blue-950 font-extrabold uppercase tracking-widest text-xs px-6 py-4 rounded-none shadow-md transition-all cursor-pointer flex items-center justify-center gap-2"
               >
                 <span>Lihat Semua Rute & Harga</span>
@@ -161,10 +163,23 @@ export default function Hero({ routes }: HeroProps) {
 
                 <button
                   type="submit"
-                  className="w-full py-4 bg-yellow-400 text-blue-900 font-bold uppercase tracking-widest text-xs hover:bg-yellow-350 transition-colors rounded-none shadow-lg shadow-yellow-200/10 flex items-center justify-center gap-2 cursor-pointer"
+                  className={`w-full py-4 font-bold uppercase tracking-widest text-xs transition-colors rounded-none shadow-lg flex items-center justify-center gap-2 cursor-pointer ${
+                    activeRoute 
+                      ? 'bg-emerald-500 hover:bg-emerald-600 text-white shadow-emerald-500/20' 
+                      : 'bg-yellow-400 hover:bg-yellow-300 text-blue-900 shadow-yellow-200/10'
+                  }`}
                 >
-                  <Search className="w-4 h-4" />
-                  <span>Isi Form Booking Otomatis</span>
+                  {activeRoute ? (
+                    <>
+                      <MessageSquare className="w-4 h-4" />
+                      <span>PESAN TRAVEL</span>
+                    </>
+                  ) : (
+                    <>
+                      <Search className="w-4 h-4" />
+                      <span>Cari Rute Sekarang</span>
+                    </>
+                  )}
                 </button>
               </form>
 

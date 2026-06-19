@@ -1,5 +1,5 @@
 ---
-import { getCollection, getEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
 
 interface Props {
   currentRouteId: string;
@@ -10,10 +10,7 @@ const { currentRouteId } = Astro.props;
 const capitalize = (str: string) => str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
 
 const allRoutes = await getCollection('rute');
-const otherRoutes = allRoutes.filter(route => route.id !== currentRouteId).slice(0, 5); // Limit to 5 other routes for sidebar
-
-const cityImagesEntry = await getEntry('city_images', 'city-images').catch(() => null);
-const cityImages = cityImagesEntry?.data.cities || {};
+const otherRoutes = allRoutes.filter(route => route.id !== currentRouteId).slice(0, 5);
 ---
 
 <div class="bg-white border border-slate-200 overflow-hidden shadow-sm p-6 lg:p-8">
@@ -24,19 +21,22 @@ const cityImages = cityImagesEntry?.data.cities || {};
     ) : (
       otherRoutes.map(route => {
         const toSlug = route.data.to.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
-        const routeImg = cityImages[toSlug] || "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=400";
         
         return (
-          <li class="flex gap-4 items-center">
-            <img src={routeImg} alt={route.data.to} class="w-16 h-12 object-cover rounded shadow-sm" />
-            <div>
+          <li class="flex gap-3 items-center group">
+            <div class="flex-shrink-0 w-10 h-10 bg-blue-50 border border-blue-100 text-blue-700 flex items-center justify-center rounded-none">
+              <span class="material-icons text-xl">location_on</span>
+            </div>
+            <div class="flex-grow">
               <a
                 href={`/${route.data.from.toLowerCase().replace(/\s+/g, '-')}/${toSlug}`}
-                class="block text-blue-700 hover:text-blue-900 font-bold text-sm"
+                class="block text-slate-700 group-hover:text-blue-700 font-bold text-sm uppercase tracking-wide transition-colors"
               >
-                Travel {capitalize(route.data.from)} → {capitalize(route.data.to)}
+                {capitalize(route.data.from)} - {capitalize(route.data.to)}
               </a>
-              <p class="text-xs text-slate-500">Tarif: Rp {route.data.price.toLocaleString('id-ID')}</p>
+              <p class="text-xs font-extrabold text-blue-900 mt-0.5">
+                Rp {route.data.price.toLocaleString('id-ID')}
+              </p>
             </div>
           </li>
         );

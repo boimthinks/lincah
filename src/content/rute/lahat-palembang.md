@@ -6,7 +6,7 @@ duration: 5 - 6 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "20:00 WIB"]
 type: semua
 distance: 220 km
-description: Layanan travel sebaliknya dari lahat ke palembang dengan kenyamanan yang sama.
+description: Travel reguler Lahat ke Palembang dengan pengemudi berpengalaman menguasai medan jalan lintas Sumatera. Armada prima, layanan door-to-door.
 img: https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=600
 ---
 ## What is Lorem Ipsum

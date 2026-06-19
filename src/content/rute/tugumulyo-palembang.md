@@ -6,7 +6,7 @@ duration: 7 - 8 Jam
 departureTimes: ["09:00 WIB", "16:00 WIB", "20:00 WIB"]
 type: semua
 distance: 300 km
-description: Layanan travel sebaliknya dari tugumulyo ke palembang dengan kenyamanan yang sama.
+description: Layanan travel door-to-door dari Tugumulyo ke Palembang. Menjangkau kawasan transmigrasi dengan armada terbaik dan harga terjangkau.
 img: https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=600
 ---
 ## What is Lorem Ipsum

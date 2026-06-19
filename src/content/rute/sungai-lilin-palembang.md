@@ -6,7 +6,7 @@ duration: 3 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "18:00 WIB"]
 type: semua
 distance: 110 km
-description: Layanan travel sebaliknya dari sungai lilin ke palembang dengan kenyamanan yang sama.
+description: Travel dari Sungai Lilin ke Palembang menjangkau area perkebunan sawit. Layanan antar langsung depan pintu dengan armada nyaman.
 img: https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=600
 ---
 ## What is Lorem Ipsum

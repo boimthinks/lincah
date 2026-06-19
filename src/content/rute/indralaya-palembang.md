@@ -6,7 +6,7 @@ duration: 45 Menit
 departureTimes: ["Setiap Jam (06:00 - 20:00)"]
 type: semua
 distance: 35 km
-description: Layanan travel sebaliknya dari indralaya ke palembang dengan kenyamanan yang sama.
+description: Travel harian Indralaya ke Palembang untuk mahasiswa UNSRI dan pekerja komuter. Perjalanan 45 menit, jadwal setiap jam, harga terjangkau.
 img: https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=600
 ---
 ## What is Lorem Ipsum

@@ -6,7 +6,7 @@ duration: 4 - 5 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "19:00 WIB"]
 type: semua
 distance: 180 km
-description: Layanan travel sebaliknya dari bayung lencir ke palembang dengan kenyamanan yang sama.
+description: Konektivitas andalan perbatasan Jambi-Muba, Bayung Lencir ke Palembang. Perjalanan melintasi aspal mulus lintas timur dengan armada nyaman.
 img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVKzVo64a_jAnwMWEDxfp_bWsiEu0JUsuc0iigPrF70-O4FibxS3AgZQlUIpVFBE4sZYMaZQraj00zfTvqRxs7DaUKDivmYybrWPOR76JztAWiQfdCNvY1i04x1smw_Idqb9zukXQ05hmYJsvyqVY3AjPS8mKk0Ni1KPF8x0tnzGWryzAKDvoqB1_A-hI2/s600/travel-palembang-bayung-lencir.webp
 ---
 ## What is Lorem Ipsum

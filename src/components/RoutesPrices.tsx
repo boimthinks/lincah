@@ -46,21 +46,10 @@ export default function RoutesPrices({ routes, cityImages }: RoutesPricesProps) 
   };
 
   return (
-    <section id="rute" className="py-20 sm:py-28 bg-white overflow-hidden">
+    <section id="travel" className="py-20 sm:py-28 bg-white overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
-        {/* Section Header */}
-        <div className="text-center max-w-3xl mx-auto mb-16 sm:mb-20">
-          <span className="inline-flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-widest text-blue-700 bg-blue-50 px-3.5 py-2 border border-blue-200 rounded-none mb-3">
-            RUTE REGULER & TARIF FLAT
-          </span>
-          <h2 className="text-3xl sm:text-4xl font-extrabold text-blue-900 tracking-tight uppercase">
-            Tarif Tiket Resmi & Jadwal Keberangkatan
-          </h2>
-          <p className="text-base sm:text-lg text-slate-500 mt-4 leading-relaxed font-normal">
-            Tarif transparan, hemat, flat, bebas biaya tambahan tersembunyi. Silakan pilih rute utama kami atau gunakan kotak pencarian untuk semua wilayah Sumatera Selatan.
-          </p>
-        </div>
+
 
         {/* 1. RUTE UTAMA HIGHLIGHTS */}
         <div className="mb-20">

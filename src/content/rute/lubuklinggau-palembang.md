@@ -6,7 +6,7 @@ duration: 7 - 8 Jam
 departureTimes: ["09:00 WIB", "16:00 WIB", "20:00 WIB"]
 type: semua
 distance: 320 km
-description: Layanan travel sebaliknya dari lubuklinggau ke palembang dengan kenyamanan yang sama.
+description: Layanan travel harian Lubuklinggau ke Palembang melintasi kabupaten-kabupaten utama. Kenyamanan armada terbaik dan ketepatan waktu yang terjamin.
 img: https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=600
 ---
 ## What is Lorem Ipsum

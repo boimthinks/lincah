@@ -6,7 +6,7 @@ duration: 5 - 6 Jam
 departureTimes: ["08:00 WIB", "15:00 WIB", "19:00 WIB"]
 type: semua
 distance: 240 km
-description: Layanan travel sebaliknya dari belitang ke palembang dengan kenyamanan yang sama.
+description: Travel andalan menuju sentra padi Belitang ke Palembang. Kenyamanan maksimal, harga bersahabat, dan layanan door-to-door.
 img: https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=600
 ---
 ## What is Lorem Ipsum

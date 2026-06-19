@@ -8,7 +8,6 @@ import Fleet from '../components/Fleet.astro';
 import HowToBook from '../components/HowToBook.astro';
 import Testimonials from '../components/Testimonials.astro';
 import FAQ from '../components/FAQ.tsx';
-import BookingForm from '../components/BookingForm.tsx';
 import Footer from '../components/Footer.astro';
 import { getCollection, getEntry } from 'astro:content';
 
@@ -24,21 +23,62 @@ const cityImages = cityImagesEntry?.data.cities || {};
 const capitalize = (str: string) => str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
 
 // Map collection data to match the component props if needed
-const routesData = routes.map(r => ({ 
+const routesData = routes.map((r: any) => ({ 
   id: r.id, 
   ...r.data,
   from: capitalize(r.data.from),
   to: capitalize(r.data.to)
 }));
-const vehiclesData = vehicles.map(v => ({ id: v.id, ...v.data }));
-const testimonialsData = testimonials.map(t => ({ id: t.id, ...t.data }));
-const faqsData = faqs.map(f => ({ id: f.id, ...f.data }));
+const vehiclesData = vehicles.map((v: any) => ({ id: v.id, ...v.data }));
+const testimonialsData = testimonials.map((t: any) => ({ id: t.id, ...t.data }));
+const faqsData = faqs.map((f: any) => ({ id: f.id, ...f.data }));
 
 const ADMIN_WA = '6281369231893';
-const title = "Lincah Travel | Executive Shuttle & Charter";
+const title = "Lincah Travel Palembang. Murah, Cepat, Aman dan Nyaman";
 ---
 
 <Layout title={title}>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Lincah Travel",
+    "url": "https://lincah.web.id/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://lincah.web.id/travel?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  })} />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Lincah Travel",
+    "url": "https://lincah.web.id/",
+    "logo": "https://lincah.web.id/favicon.svg",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+6281369231893",
+      "contactType": "customer service",
+      "availableLanguage": ["Indonesian"]
+    },
+    "sameAs": [
+      "https://www.instagram.com/lincahtravel",
+      "https://www.facebook.com/lincahtravel"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Jl. Mayor Ruslan No. 104, Duku, Kec. Ilir Timur II",
+      "addressLocality": "Palembang",
+      "addressRegion": "Sumatera Selatan",
+      "postalCode": "30114",
+      "addressCountry": "ID"
+    }
+  })} />
+
   <Navbar client:load />
   <main>
     <Hero routes={routesData} client:load />
@@ -46,7 +86,6 @@ const title = "Lincah Travel | Executive Shuttle & Charter";
     <RoutesPrices routes={routesData} cityImages={cityImages} client:load />
     <Fleet vehicles={vehiclesData} />
     <HowToBook />
-    <BookingForm routes={routesData} client:load />
     <Testimonials testimonials={testimonialsData} />
     <FAQ faqs={faqsData} client:load />
   </main>

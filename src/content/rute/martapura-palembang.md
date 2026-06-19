@@ -6,7 +6,7 @@ duration: 5 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "20:00 WIB"]
 type: semua
 distance: 220 km
-description: Layanan travel sebaliknya dari martapura ke palembang dengan kenyamanan yang sama.
+description: Layanan travel Martapura ke Palembang dari perbatasan Lampung-Sumsel. Rute nyaman, aman, dan armada terbaik untuk perjalanan Anda.
 img: https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=600
 ---
 ## What is Lorem Ipsum

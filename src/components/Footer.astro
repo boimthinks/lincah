@@ -13,14 +13,23 @@ const ADMIN_WA = '6281369231893';
       
       {/* Col 1 - Brand description */}
       <div class="md:col-span-4 space-y-4">
-        <div class="flex items-center space-x-2">
-          <div class="flex items-center justify-center w-8 h-8 bg-blue-700 text-white rounded-none">
-            <Compass class="w-4 h-4" />
+        <a href="/" class="flex items-center space-x-2 text-left focus:outline-none">
+          <div class="w-10 h-10 flex items-center justify-center shrink-0">
+            <svg
+              viewBox="0 0 513 512"
+              class="w-full h-full shadow-sm"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path fillRule="evenodd" fill="rgb(20, 71, 230)" d="M84.911,0.000 L429.089,0.000 C475.432,0.000 512.1000,37.568 512.1000,83.911 L512.1000,428.089 C512.1000,474.432 475.432,511.1000 429.089,511.1000 L84.911,511.1000 C38.568,511.1000 1.000,474.432 1.000,428.089 L1.000,83.911 C1.000,37.568 38.568,0.000 84.911,0.000 Z"/>
+              <path fillRule="evenodd" fill="rgb(255, 255, 255)" d="M447.263,256.242 C421.875,342.251 316.351,411.975 211.570,411.975 C129.379,411.975 72.074,369.069 63.433,309.059 L0.526,309.059 L0.526,300.365 L244.792,300.365 L268.125,211.490 L212.111,211.490 L201.839,250.614 L69.614,250.614 C74.202,237.059 80.775,223.947 88.1000,211.490 L0.526,211.490 L0.526,202.795 L214.393,202.795 L270.408,202.795 L283.469,153.045 L145.936,153.045 C190.202,120.826 246.959,100.509 303.510,100.509 C408.291,100.509 472.652,170.233 447.263,256.242 ZM186.495,309.059 L173.433,358.810 L326.929,358.810 L341.120,309.059 L186.495,309.059 Z"/>
+            </svg>
           </div>
-          <span class="font-extrabold text-lg tracking-tight">
-            TRAVEL <span class="text-yellow-400">PALEMBANG</span>
-          </span>
-        </div>
+          <div>
+            <span class="font-extrabold text-xl tracking-tight text-white uppercase flex items-center gap-1">
+              LINCAH<span class="text-yellow-400">TRAVEL</span>
+            </span>
+          </div>
+        </a>
         
         <p class="text-xs sm:text-sm text-slate-400 leading-relaxed font-normal">
           Layanan Biro Transportasi Travel Eksekutif Terpercaya dengan sistem antar jemput alamat (door-to-door). Melayani rute harian reguler Palembang - Baturaja, Palembang - Lampung, Palembang - Jambi & semua wilayah Sumatera Selatan.
@@ -45,15 +54,12 @@ const ADMIN_WA = '6281369231893';
         <h4 class="text-sm font-bold uppercase tracking-widest text-slate-200 border-b border-white/10 pb-2">
           Navigasi Halaman
         </h4>
-        <ul class="space-y-2 text-xs sm:text-sm font-medium text-slate-450">
-          <li><a href="#beranda" class="hover:text-yellow-400 transition-colors text-slate-400">Beranda</a></li>
-          <li><a href="#fitur" class="hover:text-yellow-400 transition-colors text-slate-400">Keunggulan & Fasilitas</a></li>
-          <li><a href="#rute" class="hover:text-yellow-400 transition-colors text-slate-400">Rute & Harga Resmi</a></li>
-          <li><a href="#fleet" class="hover:text-yellow-400 transition-colors text-slate-400">Pilihan Armada</a></li>
-          <li><a href="#cara-pesan" class="hover:text-yellow-400 transition-colors text-slate-400">Cara Memesan Tiket</a></li>
-          <li><a href="#testimoni" class="hover:text-yellow-400 transition-colors text-slate-400">Testimoni Pelanggan</a></li>
-          <li><a href="#faq" class="hover:text-yellow-400 transition-colors text-slate-400">FAQ Jasa Travel</a></li>
-        </ul>
+<ul class="space-y-2 text-xs sm:text-sm font-medium text-slate-450">
+            <li><a href="/" class="hover:text-yellow-400 transition-colors text-slate-400">Beranda</a></li>
+            <li><a href="/travel" class="hover:text-yellow-400 transition-colors text-slate-400">Harga Travel</a></li>
+            <li><a href="/rental" class="hover:text-yellow-400 transition-colors text-slate-400">Rental Mobil</a></li>
+            <li><a href="/tentang-kami" class="hover:text-yellow-400 transition-colors text-slate-400">Tentang Kami</a></li>
+          </ul>
       </div>
 
       {/* Col 3 - Contact details */}
