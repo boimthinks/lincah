@@ -25,12 +25,13 @@
   - `/blog/[slug]` (Detail Single Blog)
 - **Blog Layout**: Single blog pages (`/blog/[slug]`) utilize an `8/4 grid layout` with the main content taking `col-span-8` and the sidebar taking `col-span-4`. The sidebar includes `SidebarCTA` and `BlogTOC`. Article content (`<article>`) uses transparent background to blend with the page. Featured image from `image_url` is displayed below breadcrumbs, followed by `title` as H2 heading. The hero section uses `judul_seo` as H1.
 - **Blog Typography**: Global styles for blog content (h2, h3, p, ul, ol, table, blockquote, etc.) are defined in `src/index.css` using the `.blog-content` class.
+- **Mobile Footer**: Sticky bottom navigation bar (MobileFooter.astro) with blue-900 background, white icons, and animated center circle for Travel. Hidden on desktop (`lg:hidden`). Navbar z-index is `[60]` to stay above mobile footer (`z-50`).
 - **Content Config**: Use `src/content.config.ts` (Astro v6 format with `loader: glob`).
 - **City Names**: Stored as **lowercase** in Markdown frontmatter (`from`, `to`). Frontend display uses a capitalization helper.
 - **WhatsApp Integration**: Use `ADMIN_WA = '6281369231893'` for all call-to-actions.
 - **Interactivity**: Use `client:load` on React components (Navbar, RoutesPrices, FAQ, Hero) to ensure they function as islands.
 - **Slugification**: For city data lookup, use: `.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '')`.
-- **SEO**: Implement JSON-LD Schemas (`BreadcrumbList`, `Product`, `Offer`, `Organization`, `WebSite`) on key pages.
+- **SEO**: Implement JSON-LD Schemas (`BreadcrumbList`, `Product`, `Offer`, `Organization`, `WebSite`, `BlogPosting`) and Open Graph meta tags on key pages (`[from]/[to].astro` and `blog/[slug].astro`).
 
 ## Content Collections (Data Structure)
 All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
