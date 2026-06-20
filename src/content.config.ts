@@ -16,6 +16,24 @@ const routesCollection = defineCollection({
   }),
 });
 
+const blogCollection = defineCollection({
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/blog" }),
+  schema: z.object({
+    title: z.string(),
+    judul_seo: z.string(),
+    slug: z.string(),
+    description: z.string(),
+    pubDate: z.coerce.date(),
+    updatedDate: z.coerce.date().optional(),
+    author: z.string().default('Tim Konten Lincah Travel'),
+    image_url: z.string().optional(),
+    kategori: z.enum(['rute', 'armada', 'tips', 'lokal']),
+    pengantar: z.string(),
+    kesimpulan: z.string(),
+    tags: z.array(z.string()).default([]),
+  }),
+});
+
 const vehiclesCollection = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/vehicles" }),
   schema: z.object({
@@ -89,6 +107,7 @@ const cityImagesCollection = defineCollection({
 
 export const collections = {
   rute: routesCollection,
+  blog: blogCollection,
   vehicles: vehiclesCollection,
   testimonials: testimonialsCollection,
   faq: faqCollection,

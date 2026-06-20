@@ -19,6 +19,7 @@ export default function NavbarHome() {
     { name: 'Beranda', id: '', path: '/' },
     { name: 'Harga Travel', id: 'travel', path: '/travel' },
     { name: 'Rental Mobil', id: 'rental', path: '/rental' },
+    { name: 'Blog', id: 'blog', path: '/blog' },
     { name: 'Tentang Kami', id: 'tentang-kami', path: '/tentang-kami' },
     { name: 'Kontak', id: 'kontak', path: '/kontak' },
   ];

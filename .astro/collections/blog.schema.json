@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "judul_seo": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "pubDate": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updatedDate": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "author": {
+      "default": "Tim Konten Lincah Travel",
+      "type": "string"
+    },
+    "image_url": {
+      "type": "string"
+    },
+    "kategori": {
+      "type": "string",
+      "enum": [
+        "rute",
+        "armada",
+        "tips",
+        "lokal"
+      ]
+    },
+    "pengantar": {
+      "type": "string"
+    },
+    "kesimpulan": {
+      "type": "string"
+    },
+    "tags": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "title",
+    "judul_seo",
+    "slug",
+    "description",
+    "pubDate",
+    "kategori",
+    "pengantar",
+    "kesimpulan"
+  ]
+}

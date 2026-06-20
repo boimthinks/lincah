@@ -10,6 +10,7 @@ export default function NavbarInner() {
     { name: 'Beranda', id: '', path: '/' },
     { name: 'Harga Travel', id: 'travel', path: '/travel' },
     { name: 'Rental Mobil', id: 'rental', path: '/rental' },
+    { name: 'Blog', id: 'blog', path: '/blog' },
     { name: 'Tentang Kami', id: 'tentang-kami', path: '/tentang-kami' },
     { name: 'Kontak', id: 'kontak', path: '/kontak' },
   ];
@@ -17,7 +18,7 @@ export default function NavbarInner() {
   return (
     <nav
       id="main-nav"
-      className="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-md shadow-md py-3 border-b border-slate-200"
+      className="fixed top-0 left-0 right-0 z-[60] bg-white/95 backdrop-blur-md shadow-md py-3 border-b border-slate-200"
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center">

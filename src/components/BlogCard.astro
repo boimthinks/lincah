@@ -1,0 +1,77 @@
+---
+interface Props {
+  post: {
+    id: string;
+    data: {
+      title: string;
+      judul_seo: string;
+      slug: string;
+      description: string;
+      pubDate: Date;
+      author: string;
+      image_url?: string;
+      kategori: 'rute' | 'armada' | 'tips' | 'lokal';
+      pengantar: string;
+      kesimpulan: string;
+      tags: string[];
+    };
+  };
+}
+
+const { post } = Astro.props;
+const formattedDate = post.data.pubDate.toLocaleDateString('id-ID', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+// Category label mappings
+const categoryLabels = {
+  rute: 'Rute & Jadwal',
+  armada: 'Armada Kami',
+  tips: 'Tips Perjalanan',
+  lokal: 'Info Lokal',
+};
+
+const categoryBadgeColor = {
+  rute: 'bg-blue-50 text-blue-700 border-blue-200',
+  armada: 'bg-emerald-50 text-emerald-700 border-emerald-200',
+  tips: 'bg-yellow-50 text-yellow-800 border-yellow-200',
+  lokal: 'bg-purple-50 text-purple-700 border-purple-200',
+};
+
+// Fallback image in case image_url is missing
+const fallbackImage = "/img/hero_ampera_sunset_1781441848926.jpg";
+const imageSrc = post.data.image_url || fallbackImage;
+---
+
+<article class="bg-white border border-slate-200 flex flex-col h-full group hover:shadow-lg transition-all duration-300">
+  <div class="relative aspect-video w-full overflow-hidden bg-slate-100">
+    <img
+      src={imageSrc}
+      alt={post.data.title}
+      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+      loading="lazy"
+    />
+    <span class={`absolute top-3 left-3 text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 border rounded-none z-10 ${categoryBadgeColor[post.data.kategori]}`}>
+      {categoryLabels[post.data.kategori]}
+    </span>
+  </div>
+  
+  <div class="p-6 flex flex-col flex-grow text-left">
+    <div class="flex items-center text-xs text-slate-400 font-medium mb-3 gap-2">
+      <span>{formattedDate}</span>
+      
+    </div>
+    
+    <h3 class="text-lg font-bold text-slate-900 leading-snug mb-3 group-hover:text-blue-700 transition-colors">
+      <a href={`/blog/${post.data.slug}`} class="focus:outline-none">
+        {post.data.judul_seo}
+      </a>
+    </h3>
+    
+    <p class="text-sm text-slate-500 line-clamp-3 font-normal leading-relaxed">
+      {post.data.description}
+    </p>
+  </div>
+</article>

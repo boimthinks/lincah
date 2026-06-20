@@ -1,0 +1,57 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  currentPostSlug?: string;
+}
+
+const { currentPostSlug } = Astro.props;
+
+const allPosts = await getCollection('blog');
+const otherPosts = allPosts
+  .filter(post => post.data.slug !== currentPostSlug)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 5);
+
+// Category label mappings
+const categoryLabels = {
+  rute: 'Rute & Jadwal',
+  armada: 'Armada Kami',
+  tips: 'Tips Perjalanan',
+  lokal: 'Info Lokal',
+};
+---
+
+<div class="bg-white border border-slate-200 overflow-hidden shadow-sm p-6 lg:p-8">
+  <h2 class="text-xl sm:text-2xl font-black text-blue-900 mb-6">Artikel Terbaru</h2>
+  <ul class="space-y-4">
+    {otherPosts.length === 0 ? (
+      <p class="text-slate-600">Tidak ada artikel lain yang tersedia.</p>
+    ) : (
+      otherPosts.map(post => {
+        return (
+          <li class="flex gap-3 items-center group">
+            <div class="flex-shrink-0 w-12 h-12 bg-slate-100 overflow-hidden border border-slate-200">
+              <img 
+                src={post.data.image_url || "/img/hero_ampera_sunset_1781441848926.jpg"} 
+                alt={post.data.title} 
+                class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+              />
+            </div>
+            <div class="flex-grow">
+              <a
+                href={`/blog/${post.data.slug}`}
+                class="block text-slate-700 group-hover:text-blue-700 font-bold text-xs sm:text-sm uppercase tracking-wide transition-colors line-clamp-2 leading-snug"
+              >
+                {post.data.title}
+              </a>
+              <span class="text-[10px] font-bold text-blue-700 uppercase tracking-widest mt-1 block">
+                {categoryLabels[post.data.kategori]}
+              </span>
+            </div>
+          </li>
+        );
+      })
+    )}
+  </ul>
+</div>

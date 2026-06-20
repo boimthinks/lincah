@@ -19,6 +19,7 @@ export default function Navbar() {
     { name: 'Beranda', id: '', path: '/' },
     { name: 'Harga Travel', id: 'travel', path: '/travel' },
     { name: 'Rental Mobil', id: 'rental', path: '/rental' },
+    { name: 'Blog', id: 'blog', path: '/blog' },
     { name: 'Tentang Kami', id: 'tentang-kami', path: '/tentang-kami' },
     { name: 'Kontak', id: 'kontak', path: '/kontak' },
   ];
@@ -26,7 +27,7 @@ export default function Navbar() {
   return (
     <nav
       id="main-nav"
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
+      className={`fixed top-0 left-0 right-0 z-[60] transition-all duration-300 ${
         scrolled
           ? 'bg-white/95 backdrop-blur-md shadow-md py-3 border-b border-slate-200'
           : 'bg-transparent py-5'
@@ -127,7 +128,7 @@ export default function Navbar() {
             {navItems.map((item) => (
               <a
                 key={item.id}
-                href={`#${item.id}`}
+                href={item.path}
                 onClick={() => setIsOpen(false)}
                 className="w-full block text-left px-3 py-3 rounded-none text-sm font-bold uppercase tracking-wider transition-all text-slate-700 hover:bg-slate-50"
               >

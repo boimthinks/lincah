@@ -46,7 +46,7 @@ export default function RoutesPrices({ routes, cityImages }: RoutesPricesProps) 
   };
 
   return (
-    <section id="travel" className="py-20 sm:py-28 bg-white overflow-hidden">
+    <section id="travel" className="py-0 sm:py-16 bg-white overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
 

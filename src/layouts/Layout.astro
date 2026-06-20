@@ -6,6 +6,7 @@ interface Props {
 
 const { title, description = "Layanan Lincah Travel Terpercaya" } = Astro.props;
 import '../index.css';
+import MobileFooter from '../components/MobileFooter.astro';
 ---
 
 <!doctype html>
@@ -39,10 +40,17 @@ import '../index.css';
 			}
 			body {
 				margin: 0;
+				padding-bottom: 64px;
+			}
+			@media (min-width: 1024px) {
+				body {
+					padding-bottom: 0;
+				}
 			}
 		</style>
 	</head>
 	<body>
 		<slot />
+		<MobileFooter />
 	</body>
 </html>

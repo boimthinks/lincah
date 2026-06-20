@@ -1,0 +1,41 @@
+---
+interface Props {
+  title: string;
+  subtitle?: string;
+  backgroundImage?: string;
+}
+
+const {
+  title,
+  subtitle = "Temukan artikel, tips perjalanan, rute baru, dan panduan wisata Sumatera Selatan dari Lincah Travel.",
+  backgroundImage = "/img/hero_ampera_sunset_1781441848926.jpg",
+} = Astro.props;
+---
+
+<section class="relative min-h-[50vh] flex items-center justify-center pt-32 pb-20 bg-slate-950 overflow-hidden text-center">
+  <div class="absolute inset-0">
+    <img
+      src={backgroundImage}
+      alt={title}
+      class="w-full h-full object-cover object-top opacity-30 scale-105"
+    />
+    <div class="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/80 to-transparent"></div>
+    <div class="absolute inset-0 bg-gradient-to-r from-slate-950/95 via-transparent to-slate-950/30"></div>
+  </div>
+
+  <div class="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+    <span class="inline-block text-[10px] font-extrabold uppercase tracking-widest text-yellow-400 bg-yellow-450/10 px-3 py-1 border border-yellow-400/20 mb-4">
+      Edukasi & Inspirasi Perjalanan
+    </span>
+    
+    <h1 class="text-4xl sm:text-5xl lg:text-6xl font-light text-white tracking-tight leading-tight uppercase mb-6">
+      <span class="font-extrabold text-white">{title}</span>
+    </h1>
+    
+    {subtitle && (
+      <p class="text-base sm:text-lg text-slate-350 max-w-2xl mx-auto font-normal leading-relaxed">
+        {subtitle}
+      </p>
+    )}
+  </div>
+</section>
