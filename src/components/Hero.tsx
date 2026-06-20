@@ -15,8 +15,9 @@ interface HeroProps {
 
 export default function Hero({ routes }: HeroProps) {
   const [selectedRouteId, setSelectedRouteId] = useState('');
-  const mainRoutes = routes.filter((r) => r.type === 'utama');
-  const activeRoute = routes.find(r => r.id === selectedRouteId);
+  const mainRoutes = routes.filter((r) => r.type === 'utama' && r.to.toLowerCase() !== 'palembang');
+  const allRoutes = routes.filter((r) => r.to.toLowerCase() !== 'palembang');
+  const activeRoute = allRoutes.find(r => r.id === selectedRouteId);
 
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -149,7 +150,7 @@ export default function Hero({ routes }: HeroProps) {
                         ))}
                       </optgroup>
                       <optgroup className="text-slate-950" label="🌆 WILAYAH SUMATERA SELATAN">
-                        {routes.filter((r) => r.type === 'semua')
+                        {allRoutes.filter((r) => r.type === 'semua')
                           .sort((a, b) => a.to.localeCompare(b.to))
                           .map((route) => (
                             <option key={route.id} value={route.id} className="text-slate-950">

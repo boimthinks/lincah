@@ -1,7 +1,7 @@
 ---
 from: palembang
 to: bayung lencir
-price: 140000
+price: 200000
 duration: 4 - 5 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "19:00 WIB"]
 type: semua
