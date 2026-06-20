@@ -58,7 +58,19 @@ const toPublicTransport = toPublicTransportEntry?.data.items || [];
 const toDistricts = toDistrictsEntry?.data.items || [];
 ---
 
-<Layout title={title}>
+<Layout title={title} description={description || `Layanan travel eksekutif door-to-door dari ${capitalize(from)} ke ${capitalize(to)} dengan harga terjangkau.`}>
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description || `Layanan travel eksekutif door-to-door dari ${capitalize(from)} ke ${capitalize(to)} dengan harga terjangkau.`} />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={`https://lincah.web.id/${fromCitySlug}/${toCitySlug}`} />
+  <meta property="og:image" content={resolvedImg.startsWith('http') ? resolvedImg : `https://lincah.web.id${resolvedImg}`} />
+  <meta property="og:site_name" content="Lincah Travel" />
+  <meta property="og:locale" content="id_ID" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description || `Layanan travel eksekutif door-to-door dari ${capitalize(from)} ke ${capitalize(to)} dengan harga terjangkau.`} />
+  <meta name="twitter:image" content={resolvedImg.startsWith('http') ? resolvedImg : `https://lincah.web.id${resolvedImg}`} />
+
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
