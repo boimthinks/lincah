@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import Navbar from '../../components/NavbarInner.tsx';
 import Footer from '../../components/Footer.astro';
+import RouteTicketPopup from '../../components/RouteTicketPopup.astro';
 
 import OtherRoutes from '../../components/OtherRoutes.astro';
 import SidebarCTA from '../../components/SidebarCTA.astro';
@@ -125,8 +126,9 @@ const toDistricts = toDistrictsEntry?.data.items || [];
   })} />
 
   <Navbar client:load />
-  <main class="pt-24 bg-slate-50">
-    <section class="pb-12 sm:pb-20">
+      <main class="pt-24 bg-slate-50">
+        <RouteTicketPopup from={from} to={to} price={price} />
+        <section class="pb-12 sm:pb-20">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <nav class="flex items-center space-x-2 text-xs font-medium text-slate-500 uppercase tracking-wider pt-2 pb-2 sm:pt-4 sm:pb-3">
           <a href="/" class="hover:text-blue-700 transition-colors">Lincah</a>

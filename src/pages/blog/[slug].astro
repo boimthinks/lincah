@@ -5,6 +5,7 @@ import Footer from '../../components/Footer.astro';
 import BlogContent from '../../components/BlogContent.astro';
 import SidebarCTA from '../../components/SidebarCTA.astro';
 import BlogTOC from '../../components/BlogTOC.astro';
+import RelatedPosts from '../../components/RelatedPosts.astro';
 import { getCollection, getEntries, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -39,6 +40,11 @@ const fallbackImage = "/img/hero_ampera_sunset_1781441848926.jpg";
 const imageSrc = post.data.image_url || fallbackImage;
 
 const pageTitle = `${post.data.judul_seo} | Blog Lincah Travel`;
+
+const relatedPosts = (await getCollection('blog'))
+  .filter((item) => item.data.kategori === post.data.kategori && item.data.slug !== post.data.slug)
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+  .slice(0, 3);
 ---
 
 <Layout title={pageTitle} description={post.data.description}>
@@ -186,31 +192,53 @@ const pageTitle = `${post.data.judul_seo} | Blog Lincah Travel`;
             {/* Kesimpulan & CTA */}
             {post.data.kesimpulan && (
               <div class="mt-12 pt-8 border-t border-slate-200">
-                <h2 class="text-lg font-bold text-slate-900 uppercase tracking-wide mb-4">Penutup</h2>
+                <h2 class="text-lg font-bold text-slate-900 uppercase tracking-wide mb-4">Penutup</h2 >
                 <p class="text-slate-600 leading-relaxed">{post.data.kesimpulan}</p>
+              </div >
+            )}
+
+            {/* Tags */}
+            {post.data.tags && post.data.tags.length > 0 && (
+              <div class="mt-8 pt-8">
+                <div class="flex flex-wrap gap-2">
+                  {post.data.tags.map((tag) => (
+                    <span class="text-[10px] font-bold uppercase tracking-widest text-slate-500 bg-slate-100/50 px-2 py-0.5 rounded">
+                      #{tag}
+                    </span>
+                  ))}
+                </div>
               </div>
             )}
+
             
           </article>
 
-          {/* Back to Blog */}
-          <div class="mt-8 text-left">
-            <a href="/blog" class="inline-flex items-center text-xs font-bold uppercase tracking-widest text-slate-550 hover:text-blue-700 transition-colors">
-              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
-              Kembali ke Semua Artikel
-            </a>
-          </div>
         </div>
 
         {/* Sidebar */}
         <div class="lg:col-span-4 space-y-6 lg:sticky lg:top-28 h-fit">
-          <SidebarCTA 
-            title="Butuh Booking Travel?" 
-            description="Hubungi admin Lincah Travel sekarang untuk reservasi kursi, tanya tarif promo, atau rute lainnya." 
+          <SidebarCTA
+            title="Butuh Booking Travel?"
+            description="Hubungi admin Lincah Travel sekarang untuk reservasi kursi, tanya tarif promo, atau rute lainnya."
           />
           <BlogTOC headings={headings} />
         </div>
       </div>
+
+      {/* Related Posts Section (Below Grid) */}
+      {relatedPosts.length > 0 && (
+        <div class="mt-12 pt-12 border-t border-slate-200">
+          <div class="mb-8">
+            <span class="inline-block text-[10px] font-extrabold uppercase tracking-widest text-yellow-400 bg-yellow-400/10 border border-yellow-400/20 px-2 py-0.5 rounded-none mb-3">
+              Artikel Terkait
+            </span>
+            <h2 class="text-2xl sm:text-3xl font-black text-blue-900 uppercase tracking-tight leading-tight">
+              Baca Artikel {categoryLabels[post.data.kategori]} Lainnya
+            </h2>
+          </div>
+          <RelatedPosts posts={relatedPosts} />
+        </div>
+      )}
     </div>
 
   </main>

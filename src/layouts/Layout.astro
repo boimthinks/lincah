@@ -6,7 +6,8 @@ interface Props {
 
 const { title, description = "Layanan Lincah Travel Terpercaya" } = Astro.props;
 import '../index.css';
-import MobileFooter from '../components/MobileFooter.astro';
+import FloatingWhatsApp from '../components/FloatingWhatsApp.astro';
+
 ---
 
 <!doctype html>
@@ -49,8 +50,9 @@ import MobileFooter from '../components/MobileFooter.astro';
 			}
 		</style>
 	</head>
-	<body>
-		<slot />
-		<MobileFooter />
-	</body>
+  <body>
+    <slot />
+    <FloatingWhatsApp />
+  </body>
+
 </html>

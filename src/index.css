@@ -115,11 +115,22 @@ html {
   color: #334155;
 }
 
+.blog-content {
+}
+
 .blog-content table {
   width: 100%;
   border-collapse: collapse;
   margin: 1.5rem 0;
   font-size: 0.875rem;
+}
+
+@media (max-width: 768px) {
+  .blog-content table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
 }
 
 .blog-content th {

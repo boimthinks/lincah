@@ -63,7 +63,9 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 - `OtherPosts.astro`: Sidebar posts navigation (minimalist, icon-based) on `blog/[slug].astro`.
 - `BlogTOC.astro`: Sidebar table of contents (h2 headings) on `blog/[slug].astro`.
 - `SidebarCTA.astro`: Reusable sticky call-to-action for sidebars.
-- `MobileFooter.astro`: Sticky bottom navigation bar for mobile only (hidden on desktop). Contains Home, Travel, and WhatsApp icons.
+- `FloatingWhatsApp.astro`: Floating WhatsApp button with blue-900 theme, bubble notifications, positioned at bottom-right (z-index: 9999).
+- `RelatedPosts.astro`: Horizontal card layout for related articles, used on `[slug].astro` page.
+- `RouteTicketPopup.astro`: Modal popup with airline ticket design for route pages `[from]/[to].astro`, includes auto-generated WhatsApp link with route info, blue-900 overlay, and red close button.
 - `RoutesPrices.tsx`: Main route selector and pricing table on `/` and `/travel`.
 
 ## Layout & Styling Notes
@@ -71,13 +73,21 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 - **Lucide Icons**: Used in React components.
 - **Color Palette**: Primary blue (`blue-700`, `blue-900`), accent yellow (`yellow-400`), neutrals (`slate-50` to `slate-900`).
 - **Typography**: `Plus Jakarta Sans`.
+- **Blog Content Tables**: Responsive tables with horizontal scroll on mobile via CSS media query in `src/index.css`.
+
+## Recent Updates & Progress
+- **Mobile Footer**: Removed `MobileFooter.astro` and replaced with `FloatingWhatsApp.astro` component.
+- **FloatingWhatsApp**: Created new component with blue-900 theme, matching website branding.
+- **RouteTicketPopup**: Created new ticket-style popup component for `[from]/[to].astro` pages with auto-generated WhatsApp link.
+- **RelatedPosts**: Created new component for displaying related articles based on category with compact card design.
+- **Blog Content**: Added responsive table styling with horizontal scroll on mobile.
+- **Routes**: Added new route `palembang-betung` (Rp 180,000) with bidirectional entries.
+- **City Data**: Added `districts/betung.md` and `hotels/betung.md` for Betung city support.
 
 ## Operational Gotchas
 - **Safe Data Fetching**: Always use `.catch(() => null)` when calling `getEntry` for city-specific data (hotels/transport/districts) to prevent build failure if the city file is missing.
 - **Tailwind v4**: Configured via `postcss.config.mjs` and `src/index.css` using `@import "tailwindcss"`. No `tailwind.config.js`.
 - **Windows Paths**: Use forward slashes for Astro imports.
-
----
 
 # 📝 ATURAN MENULIS BLOG — LINCAH TRAVEL PALEMBANG
 

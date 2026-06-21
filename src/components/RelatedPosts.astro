@@ -1,0 +1,51 @@
+---
+interface Props {
+  posts: Array<{
+    id: string;
+    data: {
+      title: string;
+      judul_seo: string;
+      slug: string;
+      description: string;
+      pubDate: Date;
+      author: string;
+      image_url?: string;
+      kategori: 'rute' | 'armada' | 'tips' | 'lokal';
+      pengantar: string;
+      kesimpulan: string;
+      tags: string[];
+    };
+  }>;
+}
+
+const { posts } = Astro.props;
+---
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+  {posts.map((post) => (
+    <a 
+      href={`/blog/${post.data.slug}`} 
+      class="group flex items-center gap-4 p-3 rounded-xl bg-white border border-slate-100 hover:border-blue-200 hover:shadow-md transition-all duration-300"
+    >
+      <div class="flex-shrink-0 w-20 h-20 sm:w-24 sm:h-24 overflow-hidden rounded-lg bg-slate-100">
+        <img
+          src={post.data.image_url || "/img/hero_ampera_sunset_1781441848926.jpg"}
+          alt={post.data.title}
+          class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+          loading="lazy"
+        />
+      </div>
+      <div class="flex flex-col min-w-0">
+        <span class="text-[9px] font-bold uppercase tracking-wider text-blue-600 mb-1">
+          {post.data.kategori}
+        </span>
+        <h3 class="text-sm font-bold text-slate-900 line-clamp-2 group-hover:text-blue-700 transition-colors leading-tight">
+          {post.data.judul_seo}
+        </h3>
+        <span class="text-[10px] text-slate-400 mt-1">
+          {post.data.pubDate.toLocaleDateString('id-ID', { month: 'short', year: 'numeric' })}
+        </span>
+      </div>
+    </a>
+  ))}
+</div>
