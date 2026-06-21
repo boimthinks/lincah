@@ -1,20 +1,23 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 
 interface Props {
   currentPostSlug?: string;
 }
 
+type BlogPost = CollectionEntry<'blog'>;
+
 const { currentPostSlug } = Astro.props;
 
 const allPosts = await getCollection('blog');
 const otherPosts = allPosts
-  .filter(post => post.data.slug !== currentPostSlug)
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .filter((post: BlogPost) => post.data.slug !== currentPostSlug)
+  .sort((a: BlogPost, b: BlogPost) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 5);
 
 // Category label mappings
-const categoryLabels = {
+type CategoryKey = 'rute' | 'armada' | 'tips' | 'lokal';
+const categoryLabels: Record<CategoryKey, string> = {
   rute: 'Rute & Jadwal',
   armada: 'Armada Kami',
   tips: 'Tips Perjalanan',
@@ -28,7 +31,7 @@ const categoryLabels = {
     {otherPosts.length === 0 ? (
       <p class="text-slate-600">Tidak ada artikel lain yang tersedia.</p>
     ) : (
-      otherPosts.map(post => {
+      otherPosts.map((post: BlogPost) => {
         return (
           <li class="flex gap-3 items-center group">
             <div class="flex-shrink-0 w-12 h-12 bg-slate-100 overflow-hidden border border-slate-200">
@@ -46,7 +49,7 @@ const categoryLabels = {
                 {post.data.title}
               </a>
               <span class="text-[10px] font-bold text-blue-700 uppercase tracking-widest mt-1 block">
-                {categoryLabels[post.data.kategori]}
+                {categoryLabels[post.data.kategori as CategoryKey]}
               </span>
             </div>
           </li>

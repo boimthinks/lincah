@@ -10,6 +10,7 @@ kategori: "rute"
 pengantar: "Di tengah hiruk-pikuk kota Palembang, ada permata tersembunyi yang sering terlupakan oleh banyak traveler. Danau Ranau, danau vulkanik terbesar kedua di Sumatera, menawarkan keindahan alam yang memukau namun jarang dikunjungi wisatawan. Perjalanan ke destinasi ini ternyata lebih mudah dari yang Anda bayangkan."
 kesimpulan: "Siap menjelajahi Danau Ranau? Hubungi Lincah Travel via WhatsApp di 0813-6923-1893 untuk booking kursi dan informasi perjalanan wisata yang nyaman."
 tags: ["danau ranau", "wisata sumatera selatan", "travel palembang"]
+to: danau ranau
 ---
 
 Bayangkan satu danau vulkanik yang dikelilingi perbukitan hijau, airnya jernih kebiruan, dan udaranya sejuk karena berada di ketinggian. Inilah Danau Ranau yang terletak di perbatasan Sumatera Selatan dan Lampung. Sayangnya, banyak orang yang belum tahu tentang keindahan destinasi ini karena akses transportasinya yang terbatas.

@@ -31,6 +31,7 @@ const blogCollection = defineCollection({
     pengantar: z.string(),
     kesimpulan: z.string(),
     tags: z.array(z.string()).default([]),
+    to: z.string().optional(),
   }),
 });
 

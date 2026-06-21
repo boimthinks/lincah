@@ -10,6 +10,7 @@ kategori: "lokal"
 pengantar: "Mencari hotel di Palembang yang strategis untuk traveler memang bukan hal mudah. Ada banyak pertimbangan: dekat dengan titik penjemputan travel, akses mudah ke tempat wisata, atau lokasi yang dekat dengan bandara. Nah, kami akan membantu Anda menemukan hotel yang paling sesuai dengan kebutuhan perjalanan."
 kesimpulan: "Butuh rekomendasi hotel yang lebih spesifik atau informasi titik penjemputan travel di Palembang? Hubungi admin Lincah Travel via WhatsApp di 0813-6923-1893 untuk konsultasi gratis."
 tags: ["hotel palembang", "travel palembang", "akomodasi"]
+to: lampung
 ---
 
 Pernahkah Anda memesan hotel yang ternyata jauh dari titik penjemputan travel, sehingga harus menempuh perjalanan panjang hanya untuk mencapai lokasi? Pengalaman seperti ini sudah menjadi langganan bagi banyak traveler yang tidak teliti dalam memilih akomodasi. Jangan sampai Anda mengalaminya juga.

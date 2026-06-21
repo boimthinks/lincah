@@ -1,46 +1,41 @@
 ---
 import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
 
-interface Props {
-  currentRouteId: string;
-}
+const allRoutes = await getCollection('rute') as CollectionEntry<'rute'>[];
+const utamaRoutes = allRoutes.filter(route => route.data.type === 'utama');
 
-const { currentRouteId } = Astro.props;
+const cityImagesData = await getCollection('city_images');
+const cityImages = cityImagesData[0]?.data.cities || {};
 
-const capitalize = (str: string) => str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
-
-const allRoutes = await getCollection('rute');
-const otherRoutes = allRoutes.filter(route => route.id !== currentRouteId).slice(0, 5);
+const slugify = (str: string) => str.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
 ---
 
-<div class="bg-white border border-slate-200 overflow-hidden shadow-sm p-6 lg:p-8">
-  <h2 class="text-xl sm:text-2xl font-black text-blue-900 mb-6">Rute Lainnya</h2>
-  <ul class="space-y-4">
-    {otherRoutes.length === 0 ? (
-      <p class="text-slate-600">Tidak ada rute lain yang tersedia.</p>
-    ) : (
-      otherRoutes.map(route => {
-        const toSlug = route.data.to.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
-        
-        return (
-          <li class="flex gap-3 items-center group">
-            <div class="flex-shrink-0 w-10 h-10 bg-blue-50 border border-blue-100 text-blue-700 flex items-center justify-center rounded-none">
-              <span class="material-icons text-xl">location_on</span>
+<div class="mt-8 w-full">
+  <h2 class="text-lg font-bold text-blue-900 mb-4">Rute Utama</h2>
+  <div class="flex flex-col gap-3">
+    {utamaRoutes.map(route => {
+      const from = route.data.from;
+      const to = route.data.to;
+      const slugFrom = slugify(from);
+      const slugTo = slugify(to);
+      
+      const displayFrom = from.charAt(0).toUpperCase() + from.slice(1);
+      const displayTo = to.charAt(0).toUpperCase() + to.slice(1);
+      
+      const img = cityImages[slugTo] || "/img/travel-icon.webp";
+      
+      return (
+        <a href={`/${slugFrom}/${slugTo}`} class="flex items-center gap-3 p-3 bg-slate-50 rounded-lg hover:bg-slate-100 transition-colors">
+          <img src={img} alt={`Travel ${displayFrom} ${displayTo}`} class="w-16 h-12 object-cover rounded">
+          <div class="flex-1 min-w-0">
+            <h3 class="text-sm font-bold text-blue-900 truncate">{displayFrom} - {displayTo}</h3>
+            <div class="mt-1">
+              <span class="text-xs font-medium text-slate-600">Rp {route.data.price.toLocaleString('id-ID')}</span>
             </div>
-            <div class="flex-grow">
-              <a
-                href={`/${route.data.from.toLowerCase().replace(/\s+/g, '-')}/${toSlug}`}
-                class="block text-slate-700 group-hover:text-blue-700 font-bold text-sm uppercase tracking-wide transition-colors"
-              >
-                {capitalize(route.data.from)} - {capitalize(route.data.to)}
-              </a>
-              <p class="text-xs font-extrabold text-blue-900 mt-0.5">
-                Rp {route.data.price.toLocaleString('id-ID')}
-              </p>
-            </div>
-          </li>
-        );
-      })
-    )}
-  </ul>
+          </div>
+        </a>
+      );
+    })}
+  </div>
 </div>

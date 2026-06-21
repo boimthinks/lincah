@@ -6,7 +6,8 @@ import BlogContent from '../../components/BlogContent.astro';
 import SidebarCTA from '../../components/SidebarCTA.astro';
 import BlogTOC from '../../components/BlogTOC.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
-import { getCollection, getEntries, render } from 'astro:content';
+import RouteCard from '../../components/RouteCard.astro';
+import { getCollection, getEntries, render, getEntry } from 'astro:content';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -45,6 +46,18 @@ const relatedPosts = (await getCollection('blog'))
   .filter((item) => item.data.kategori === post.data.kategori && item.data.slug !== post.data.slug)
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
   .slice(0, 3);
+
+// Fetch route data if 'to' exists in blog frontmatter
+let routeData = null;
+if (post.data.to) {
+  const allRoutes = await getCollection('rute');
+  // Assuming travel from palembang
+  routeData = allRoutes.find(r => r.data.from === 'palembang' && r.data.to === post.data.to) 
+              || allRoutes.find(r => r.data.to === post.data.to);
+}
+
+const cityImagesEntry = await getEntry('city_images', 'city-images').catch(() => null);
+const cityImages = cityImagesEntry?.data.cities || {};
 ---
 
 <Layout title={pageTitle} description={post.data.description}>
@@ -183,6 +196,11 @@ const relatedPosts = (await getCollection('blog'))
             <h2 class="text-2xl sm:text-3xl font-black text-blue-900 uppercase tracking-tight leading-tight mb-8">
               {post.data.title}
             </h2>
+
+            {/* Route Card if 'to' field exists */}
+            {routeData && (
+              <RouteCard route={routeData} cityImages={cityImages} />
+            )}
 
             {/* Isi Konten Markdown */}
             <BlogContent>

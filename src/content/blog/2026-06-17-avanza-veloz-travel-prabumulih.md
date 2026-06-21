@@ -10,6 +10,7 @@ kategori: "armada"
 pengantar: "Perjalanan singkat dari Palembang ke Prabumulih tidak membutuhkan armada yang terlalu besar. Yang Anda butuhkan hanyalah kendaraan yang handal, nyaman, dan tentu saja harga yang ramah di kantong. Nah, Toyota Avanza/Veloz adalah jawaban untuk kebutuhan tersebut."
 kesimpulan: "Siap mencoba perjalanan ekonomis dari Palembang ke Prabumulih? Hubungi Lincah Travel via WhatsApp di 0813-6923-1893 untuk booking kursi dan informasi jadwal terbaru."
 tags: ["avanza veloz", "travel palembang prabumulih", "travel ekonomis"]
+to: prabumulih
 ---
 
 Pernahkah Anda merasa bahwa perjalanan singkat ke Prabumulih seharusnya tidak perlu menguras kantong? Nah, Anda tidak sendirian. Banyak mahasiswa, pekerja komuter, dan keluarga yang mencari solusi transportasi hemat namun tetap nyaman untuk rute ini.

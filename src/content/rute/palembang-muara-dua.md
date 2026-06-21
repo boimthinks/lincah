@@ -7,5 +7,5 @@ departureTimes: ["09:00 WIB", "15:00 WIB", "21:00 WIB"]
 type: utama
 distance: 290 km
 description: Travel reguler harian dari Palembang ke Muara Dua (OKU Selatan). Sopir berpengalaman dan armada prima.
-img: https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=600
+img: src\content\city-images.md
 ---
