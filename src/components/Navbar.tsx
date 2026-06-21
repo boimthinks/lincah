@@ -93,15 +93,7 @@ export default function Navbar() {
           </div>
 
           {/* Mobile menu button */}
-          <div className="md:hidden flex items-center space-x-2">
-            <a
-              href={`https://wa.me/${ADMIN_WA}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="p-2 text-blue-700 bg-blue-50 rounded-none hover:bg-blue-100 border border-blue-100"
-            >
-              <PhoneCall className="w-5 h-5" />
-            </a>
+          <div className="md:hidden flex items-center">
             <button
               onClick={() => setIsOpen(!isOpen)}
               className={`p-2 rounded-none transition-colors cursor-pointer border ${
