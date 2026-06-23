@@ -120,6 +120,12 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 - **Armada:** Toyota Hiace Premio, Toyota Innova Reborn, Toyota Avanza/Veloz
 - **Area Layanan:** Palembang, Baturaja, Lampung, Jambi, Lubuklinggau, Muara Enim, Lahat, Pagaralam, dan kota-kota lain di Sumatera Selatan
 - **WhatsApp Admin:** `6281369231893`
+- **Social Media:**
+  - **LinkedIn:** https://www.linkedin.com/company/lincah-travel/
+  - **TikTok:** https://www.tiktok.com/@lincahtravelpalembang
+  - **YouTube:** https://www.youtube.com/@lincahtravel
+  - **Facebook:** https://web.facebook.com/profile.php?id=61591225023421
+  - **Pinterest:** https://id.pinterest.com/lincahtravel/
 - **Alamat Kantor:** Jl. Mayor Ruslan No. 104, Duku, Kec. Ilir Timur II, Palembang, Sumatera Selatan 30114
 
 ### 2.2 Nilai Perusahaan & Keunggulan Kompetitif
