@@ -108,6 +108,19 @@ const toDistricts = toDistrictsEntry?.data.items || [];
       "price": price,
       "priceCurrency": "IDR",
       "availability": "https://schema.org/InStock",
+      "sku": `TRV-${fromSlug}-${toSlug}`,
+      "brand": { "@type": "Brand", "name": "Lincah Travel" },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": { "@type": "MonetaryAmount", "value": "0", "currency": "IDR" },
+        "shippingDestination": { "@type": "DefinedRegion", "addressCountry": "ID" }
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "ID",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 30
+      },
       "seller": {
         "@type": "LocalBusiness",
         "name": "Lincah Travel",

@@ -1,0 +1,93 @@
+# search.google.com
+
+## Masalah Data terstruktur Cuplikan produk baru terdeteksi untuk https://lincah.web.id/
+
+Kepada pemilik https://lincah.web.id/:
+
+Search Console telah mengidentifikasi bahwa situs Anda terpengaruh oleh 2 masalah Data terstruktur Cuplikan produk. Kami menemukan masalah berikut di situs Anda.
+
+Masalah non-kritis teratas‡
+Kolom "aggregateRating" tidak ada
+
+Kolom "review" tidak ada
+
+‡Masalah non-kritis merupakan saran peningkatan, tetapi tidak mencegah halaman atau fitur muncul di Google. Beberapa masalah ini dapat diklasifikasikan ulang sebagai masalah kritis pada masa mendatang, dan masalah kritis dapat memengaruhi muncul tidaknya situs Anda di Penelusuran.
+
+Sebaiknya perbaiki masalah ini jika memungkinkan untuk mendapatkan pengalaman dan cakupan yang optimal di Google Penelusuran.
+
+## Masalah Data terstruktur Listingan penjual baru terdeteksi untuk https://lincah.web.id/
+
+Kepada pemilik https://lincah.web.id/:
+
+Search Console telah mengidentifikasi bahwa situs Anda terpengaruh oleh 3 masalah Data terstruktur Listingan penjual. Kami menemukan masalah berikut di situs Anda.
+
+Masalah non-kritis teratas‡
+Kolom "shippingDetails" tidak ada (dalam "offers")
+
+ID global tidak diberikan (misalnya, GTIN, brand)
+
+Kolom "hasMerchantReturnPolicy" tidak ada (dalam "offers")
+
+‡Masalah non-kritis merupakan saran peningkatan, tetapi tidak mencegah halaman atau fitur muncul di Google. Beberapa masalah ini dapat diklasifikasikan ulang sebagai masalah kritis pada masa mendatang, dan masalah kritis dapat memengaruhi muncul tidaknya situs Anda di Penelusuran.
+
+Sebaiknya perbaiki masalah ini jika memungkinkan untuk mendapatkan pengalaman dan cakupan yang optimal di Google Penelusuran.
+
+## robot.txt
+
+https://lincah.web.id/robots.txt
+20/06/26, 04.11 (terbaru)
+error_outline
+Tidak Diambil - Tidak ditemukan (404)
+
+## Perayapan tidak ditemukan
+
+22/06/26, 15.24	https://lincah.web.id/blog/avanza-veloz-travel-palembang-prabumulih
+22/06/26, 11.28	https://lincah.web.id/kontak
+22/06/26, 09.46	https://lincah.web.id/palembang/betung
+22/06/26, 08.38	https://lincah.web.id/blog/perjalanan-palembang-danau-ranau-wisata
+22/06/26, 07.20	https://lincah.web.id/travel
+22/06/26, 06.38	https://lincah.web.id/blog/travel-palembang-lampung-via-tol
+22/06/26, 06.37	https://lincah.web.id/blog/rute-palembang-lampung-tol-favorit
+22/06/26, 06.36	https://lincah.web.id/blog/rekomendasi-hotel-dekat-titik-penjemputan-travel-palembang
+22/06/26, 06.35	https://lincah.web.id/blog/travel-palembang-ke-betung-rekomendasi-hotel
+22/06/26, 06.34	https://lincah.web.id/blog/travel-palembang-jambi-perjalanan-dinas
+22/06/26, 06.34	https://lincah.web.id/blog/panduan-booking-travel-bandara-smb-ii-palembang
+22/06/26, 06.32	https://lincah.web.id/blog/hiace-premio-vs-innova-reborn-perjalanan-dinas
+22/06/26, 06.32	https://lincah.web.id/blog/tips-aman-pilih-travel-door-to-door
+22/06/26, 06.28	https://lincah.web.id/blog
+21/06/26, 06.49	https://lincah.web.id/rental
+21/06/26, 06.37	https://lincah.web.id/danau-ranau/palembang
+21/06/26, 00.43	https://lincah.web.id/travel
+20/06/26, 19.31	https://lincah.web.id/sekayu/palembang
+20/06/26, 18.43	https://lincah.web.id/palembang/martapura
+20/06/26, 18.38	https://lincah.web.id/palembang/indralaya
+20/06/26, 18.27	https://lincah.web.id/martapura/palembang
+20/06/26, 18.11	https://lincah.web.id/sungai-lilin/palembang
+20/06/26, 17.56	https://lincah.web.id/tugumulyo/palembang
+20/06/26, 17.40	https://lincah.web.id/palembang/tugumulyo
+20/06/26, 17.32	https://lincah.web.id/lampung/palembang
+20/06/26, 17.23	https://lincah.web.id/lahat/palembang
+20/06/26, 17.13	https://lincah.web.id/lubuklinggau/palembang
+20/06/26, 16.34	https://lincah.web.id/batu-marta/palembang
+20/06/26, 15.59	https://lincah.web.id/baturaja/palembang
+20/06/26, 15.17	https://lincah.web.id/belitang/palembang
+20/06/26, 14.50	https://lincah.web.id/muara-enim/palembang
+20/06/26, 14.13	https://lincah.web.id/tentang-kami
+20/06/26, 12.01	https://lincah.web.id/martapura/palembang
+20/06/26, 11.57	https://lincah.web.id/bayung-lencir/palembang
+20/06/26, 10.43	https://lincah.web.id/belitang/palembang
+20/06/26, 10.39	https://lincah.web.id/jambi/palembang
+20/06/26, 10.34	https://lincah.web.id/sungai-lilin/palembang
+20/06/26, 10.32	https://lincah.web.id/travel
+20/06/26, 10.22	https://lincah.web.id/prabumulih/palembang
+20/06/26, 10.02	https://lincah.web.id/kontak
+20/06/26, 09.36	https://lincah.web.id/palembang/prabumulih
+20/06/26, 09.33	https://lincah.web.id/talang-padang/palembang
+20/06/26, 09.20	https://lincah.web.id/palembang/kayu-agung
+20/06/26, 09.17	https://lincah.web.id/danau-ranau/palembang
+20/06/26, 09.09	https://lincah.web.id/palembang/jambi
+20/06/26, 09.01	https://lincah.web.id/palembang/lubuklinggau
+20/06/26, 08.45	https://lincah.web.id/kayu-agung/palembang
+20/06/26, 06.56	https://lincah.web.id/batu-marta/palembang
+20/06/26, 06.12	https://lincah.web.id/rental
+20/06/26, 04.21	https://lincah.web.id/baturaja/palembang
