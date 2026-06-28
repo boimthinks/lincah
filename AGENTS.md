@@ -88,6 +88,7 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 - **Safe Data Fetching**: Always use `.catch(() => null)` when calling `getEntry` for city-specific data (hotels/transport/districts) to prevent build failure if the city file is missing.
 - **Tailwind v4**: Configured via `postcss.config.mjs` and `src/index.css` using `@import "tailwindcss"`. No `tailwind.config.js`.
 - **Windows Paths**: Use forward slashes for Astro imports.
+- **Permalink Redirects (301)**: All old `/travel/from-to/` permalinks are redirected to the new `/{from}/{to}/` structure via `public/_redirects` for Netlify SEO.
 
 # 📝 ATURAN MENULIS BLOG — LINCAH TRAVEL PALEMBANG
 
