@@ -1,19 +1,136 @@
 ---
-layout: "../layouts/Layout.astro"
-title: "Halaman Tidak Ditemukan"
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/NavbarHome.tsx';
+import Footer from '../components/Footer.astro';
+
+const ADMIN_WA = '6281369231893';
+
+const quickLinks = [
+  { name: 'Harga Travel', path: '/travel' },
+  { name: 'Rental Mobil', path: '/rental' },
+  { name: 'Blog', path: '/blog' },
+  { name: 'Tentang Kami', path: '/tentang-kami' },
+  { name: 'Kontak', path: '/kontak' },
+];
 ---
 
-<script>
-  // Tunggu 5 detik sebelum mengarahkan kembali ke homepage
-  setTimeout(() => {
-    window.location.href = '/';
-  }, 5000);
-</script>
+<Layout title="Halaman Tidak Ditemukan">
+  <Navbar client:load />
 
-<div class="flex flex-col items-center justify-center min-h-[60vh] px-4">
-  <h1 class="text-4xl font-bold text-blue-900 mb-4">Oops! Halaman Tidak Ditemukan (404)</h1>
-  <p class="text-slate-600 mb-8 text-center max-w-lg">Maaf, halaman yang Anda cari tidak ditemukan. Mungkin telah dipindahkan atau informasinya sudah diperbarui ke versi terbaru. Anda akan diarahkan kembali ke halaman utama dalam 5 detik...</p>
-  <a href="/" class="px-6 py-3 bg-blue-700 text-white font-bold rounded-lg hover:bg-blue-800 transition-colors">
-    Kembali ke Beranda
-  </a>
-</div>
+  <script>
+    let seconds = 5;
+    const timerEl = document.getElementById('countdown-timer');
+    const interval = setInterval(() => {
+      seconds--;
+      if (timerEl) timerEl.textContent = seconds.toString();
+      if (seconds <= 0) {
+        clearInterval(interval);
+        window.location.href = '/';
+      }
+    }, 1000);
+  </script>
+
+  <section class="relative bg-slate-50 min-h-screen flex items-center overflow-hidden pt-20">
+    {/* Background glow effects */}
+    <div class="absolute top-0 right-0 w-[500px] h-[500px] bg-blue-700/5 rounded-full blur-3xl"></div>
+    <div class="absolute bottom-0 left-0 w-[400px] h-[400px] bg-blue-900/5 rounded-full blur-3xl"></div>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 py-16 sm:py-24">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+
+        {/* Left Column - 404 Display */}
+        <div class="lg:col-span-5 text-center lg:text-left">
+          <div class="inline-flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-widest text-blue-700 bg-blue-50 px-3.5 py-2 border border-blue-200 mb-6">
+            <span class="material-icons text-blue-700" style="font-size: 14px;">warning</span>
+            Halaman Tidak Tersedia
+          </div>
+
+          <h1 class="text-[120px] sm:text-[160px] font-extrabold text-blue-900 leading-none tracking-tighter">
+            404
+          </h1>
+
+          <p class="text-lg sm:text-xl font-bold text-blue-900 mt-4 mb-3">
+            Halaman yang Anda Cari Tidak Ditemukan
+          </p>
+          <p class="text-sm text-slate-500 leading-relaxed mb-8">
+            Sepertinya halaman ini sudah dipindahkan atau tidak tersedia lagi. Jangan khawatir, Anda bisa kembali ke halaman utama atau menjelajahi link cepat di bawah ini.
+          </p>
+
+          {/* Auto redirect info */}
+          <div class="flex items-center gap-3 justify-center lg:justify-start mb-8 bg-white border border-slate-200 px-5 py-3.5 rounded-none">
+            <div class="relative flex items-center justify-center">
+              <svg class="w-10 h-10 -rotate-90" viewBox="0 0 36 36">
+                <circle cx="18" cy="18" r="16" fill="none" stroke="#e2e8f0" stroke-width="2.5"></circle>
+                <circle id="countdown-circle" cx="18" cy="18" r="16" fill="none" stroke="#1d4ed8" stroke-width="2.5" stroke-dasharray="100.53" stroke-dashoffset="0" stroke-linecap="round">
+                  <animate attributeName="stroke-dashoffset" from="0" to="100.53" dur="5s" fill="freeze" />
+                </circle>
+              </svg>
+              <span id="countdown-timer" class="absolute text-sm font-extrabold text-blue-700">5</span>
+            </div>
+            <div class="text-left">
+              <p class="text-xs font-bold text-slate-600 uppercase tracking-wider">Otomatis ke Beranda</p>
+              <p class="text-[11px] text-slate-400">Tunggu sebentar atau klik langsung</p>
+            </div>
+          </div>
+
+          <div class="flex flex-col sm:flex-row gap-3 justify-center lg:justify-start">
+            <a
+              href="/"
+              class="flex items-center justify-center gap-2 px-6 py-3.5 bg-blue-700 text-white text-xs font-extrabold uppercase tracking-wider hover:bg-blue-800 transition-colors rounded-none shadow-lg shadow-blue-250/20"
+            >
+              <span class="material-icons" style="font-size: 16px;">home</span>
+              Kembali ke Beranda
+            </a>
+            <a
+              href={`https://wa.me/${ADMIN_WA}?text=Halo%20Admin%20Lincah%20Travel%2C%20saya%20menemukan%20halaman%20yang%20tidak%20tersedia.`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="flex items-center justify-center gap-2 px-6 py-3.5 bg-white text-blue-700 text-xs font-extrabold uppercase tracking-wider border border-blue-200 hover:bg-blue-50 transition-colors rounded-none"
+            >
+              <span class="material-icons" style="font-size: 16px;">support_agent</span>
+              Hubungi CS
+            </a>
+          </div>
+        </div>
+
+        {/* Right Column - Quick Links */}
+        <div class="lg:col-span-7">
+          <div class="bg-blue-900 p-8 sm:p-10 relative overflow-hidden rounded-none">
+            {/* Abstract glow */}
+            <div class="absolute right-0 top-0 w-72 h-72 bg-blue-700/10 rounded-full blur-3xl"></div>
+
+            <div class="relative z-10">
+              <span class="text-[10px] font-bold text-yellow-400 uppercase tracking-widest block mb-3">Navigasi Cepat</span>
+              <h2 class="text-xl sm:text-2xl font-extrabold text-white uppercase tracking-tight mb-2">
+                Jelajahi Halaman Lainnya
+              </h2>
+              <p class="text-sm text-blue-200 mb-8">
+                Temukan informasi yang Anda butuhkan dari halaman-halaman utama kami.
+              </p>
+
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {quickLinks.map((link) => (
+                  <a
+                    href={link.path}
+                    class="flex items-center gap-3 bg-white/10 border border-white/20 p-4 hover:bg-white/20 transition-all group rounded-none"
+                  >
+                    <span class="material-icons text-yellow-400 group-hover:scale-110 transition-transform" style="font-size: 20px;">
+                      {link.path === '/travel' ? 'route' :
+                       link.path === '/rental' ? 'directions_car' :
+                       link.path === '/blog' ? 'article' :
+                       link.path === '/tentang-kami' ? 'info' : 'call'}
+                    </span>
+                    <span class="text-sm font-semibold text-slate-100 group-hover:text-white transition-colors">{link.name}</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <Footer />
+</Layout>
