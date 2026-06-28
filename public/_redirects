@@ -1,0 +1,57 @@
+# 301 Redirects - Old permalink structure (/travel/from-to/) to new (/from/to/)
+# Format: /old/path  /new/path  301
+
+# Rute dari/kota lain ke Palembang
+/travel/tugumulyo-palembang/  /tugumulyo/palembang/  301
+/travel/tebing-tinggi-palembang/  /tebing-tinggi/palembang/  301
+/travel/talang-padang-palembang/  /talang-padang/palembang/  301
+/travel/sungai-lilin-palembang/  /sungai-lilin/palembang/  301
+/travel/sekayu-palembang/  /sekayu/palembang/  301
+/travel/prabumulih-palembang/  /prabumulih/palembang/  301
+/travel/pagaralam-palembang/  /pagaralam/palembang/  301
+/travel/muara-enim-palembang/  /muara-enim/palembang/  301
+/travel/muara-dua-palembang/  /muara-dua/palembang/  301
+/travel/martapura-palembang/  /martapura/palembang/  301
+/travel/lubuklinggau-palembang/  /lubuklinggau/palembang/  301
+/travel/lampung-palembang/  /lampung/palembang/  301
+/travel/lahat-palembang/  /lahat/palembang/  301
+/travel/kikim-palembang/  /kikim/palembang/  301
+/travel/kayu-agung-palembang/  /kayu-agung/palembang/  301
+/travel/jambi-palembang/  /jambi/palembang/  301
+/travel/indralaya-palembang/  /indralaya/palembang/  301
+/travel/danau-ranau-palembang/  /danau-ranau/palembang/  301
+/travel/betung-palembang/  /betung/palembang/  301
+/travel/belitang-palembang/  /belitang/palembang/  301
+/travel/bayung-lencir-palembang/  /bayung-lencir/palembang/  301
+/travel/baturaja-palembang/  /baturaja/palembang/  301
+/travel/batu-marta-palembang/  /batu-marta/palembang/  301
+
+# Rute Palembang ke kota lain
+/travel/palembang-tugumulyo/  /palembang/tugumulyo/  301
+/travel/palembang-tebing-tinggi/  /palembang/tebing-tinggi/  301
+/travel/palembang-talang-padang/  /palembang/talang-padang/  301
+/travel/palembang-sungai-lilin/  /palembang/sungai-lilin/  301
+/travel/palembang-sekayu/  /palembang/sekayu/  301
+/travel/palembang-prabumulih/  /palembang/prabumulih/  301
+/travel/palembang-pagaralam/  /palembang/pagaralam/  301
+/travel/palembang-muara-enim/  /palembang/muara-enim/  301
+/travel/palembang-muara-dua/  /palembang/muara-dua/  301
+/travel/palembang-martapura/  /palembang/martapura/  301
+/travel/palembang-lubuklinggau/  /palembang/lubuklinggau/  301
+/travel/palembang-lampung/  /palembang/lampung/  301
+/travel/palembang-lahat/  /palembang/lahat/  301
+/travel/palembang-kikim/  /palembang/kikim/  301
+/travel/palembang-kayuagung/  /palembang/kayu-agung/  301
+/travel/palembang-jambi/  /palembang/jambi/  301
+/travel/palembang-indralaya/  /palembang/indralaya/  301
+/travel/palembang-danau-ranau/  /palembang/danau-ranau/  301
+/travel/palembang-betung/  /palembang/betung/  301
+/travel/palembang-belitang/  /palembang/belitang/  301
+/travel/palembang-bayung-lencir/  /palembang/bayung-lencir/  301
+/travel/palembang-baturaja/  /palembang/baturaja/  301
+/travel/palembang-batu-marta/  /palembang/batu-marta/  301
+
+# Rute antar kota lain (non-Palembang)
+/travel/jambi-kuala-tungkal/  /jambi/kuala-tungkal/  301
+/travel/palembang-tanjung-siapiapi/  /palembang/tanjung-siapiapi/  301
+/travel/palembang-tanjung-enim/  /palembang/tanjung-enim/  301
