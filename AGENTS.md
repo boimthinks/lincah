@@ -7,7 +7,7 @@
 
 ## Tech Stack
 - **Framework**: Astro v6 (Static Site Generation)
-- **Styling**: Tailwind CSS v4 via `@tailwindcss/postcss`
+- **Styling**: Tailwind CSS v4 via `@tailwindcss/vite`
 - **Components**: Mix of `.astro` (static) and React `.tsx` (interactive islands)
 - **Data**: Content Layer API (Markdown files in `src/content/`)
 
@@ -86,7 +86,7 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 
 ## Operational Gotchas
 - **Safe Data Fetching**: Always use `.catch(() => null)` when calling `getEntry` for city-specific data (hotels/transport/districts) to prevent build failure if the city file is missing.
-- **Tailwind v4**: Configured via `postcss.config.mjs` and `src/index.css` using `@import "tailwindcss"`. No `tailwind.config.js`.
+- **Tailwind v4 Configuration**: Switched from `@tailwindcss/postcss` to `@tailwindcss/vite` in `astro.config.mjs` and removed `postcss.config.mjs` to resolve build errors related to PostCSS and Vite 7 compatibility. 
 - **Windows Paths**: Use forward slashes for Astro imports.
 - **Permalink Redirects (301)**: All old `/travel/from-to/` permalinks are redirected to the new `/{from}/{to}/` structure via `public/_redirects` for Netlify SEO.
 
