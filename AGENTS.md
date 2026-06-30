@@ -89,6 +89,7 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 - **Tailwind v4 Configuration**: Switched from `@tailwindcss/postcss` to `@tailwindcss/vite` in `astro.config.mjs` and removed `postcss.config.mjs` to resolve build errors related to PostCSS and Vite 7 compatibility. 
 - **Windows Paths**: Use forward slashes for Astro imports.
 - **Permalink Redirects (301)**: All old `/travel/from-to/` permalinks are redirected to the new `/{from}/{to}/` structure via `public/_redirects` for Netlify SEO.
+- **404 Page**: Created a custom `src/pages/404.astro` that features a 5-second countdown timer before redirecting to the homepage, styled consistently with the website's branding.
 
 # 📝 ATURAN MENULIS BLOG — LINCAH TRAVEL PALEMBANG
 

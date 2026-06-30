@@ -1,7 +1,7 @@
 ---
 from: jambi
 to: palembang
-price: 180000
+price: 200000
 duration: 6 - 7 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "20:00 WIB"]
 type: semua

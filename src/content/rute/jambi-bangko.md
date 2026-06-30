@@ -1,6 +1,6 @@
 ---
-from: palembang
-to: jambi
+from: jambi
+to: bangko
 price: 200000
 duration: 6 - 7 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "20:00 WIB"]
