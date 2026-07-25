@@ -1,0 +1,9 @@
+---
+city: "pagaralam"
+items:
+  - "Pagar Alam Utara"
+  - "Pagar Alam Selatan"
+  - "Dempo Utara"
+  - "Dempo Selatan"
+  - "Dempo Tengah"
+---

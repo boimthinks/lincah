@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "from": {
+      "type": "string"
+    },
+    "to": {
+      "type": "string"
+    },
+    "price": {
+      "type": "number"
+    },
+    "duration": {
+      "type": "string"
+    },
+    "departureTimes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "utama",
+        "semua"
+      ]
+    },
+    "distance": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "from",
+    "to",
+    "price",
+    "duration",
+    "departureTimes",
+    "type"
+  ]
+}

@@ -1,0 +1,41 @@
+---
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+
+const allRoutes = await getCollection('rute') as CollectionEntry<'rute'>[];
+const utamaRoutes = allRoutes.filter(route => route.data.type === 'utama');
+
+const cityImagesData = await getCollection('city_images');
+const cityImages = cityImagesData[0]?.data.cities || {};
+
+const slugify = (str: string) => str.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
+---
+
+<div class="mt-8 w-full">
+  <h2 class="text-lg font-bold text-blue-900 mb-4">Rute Utama</h2>
+  <div class="flex flex-col gap-3">
+    {utamaRoutes.map(route => {
+      const from = route.data.from;
+      const to = route.data.to;
+      const slugFrom = slugify(from);
+      const slugTo = slugify(to);
+      
+      const displayFrom = from.charAt(0).toUpperCase() + from.slice(1);
+      const displayTo = to.charAt(0).toUpperCase() + to.slice(1);
+      
+      const img = cityImages[slugTo] || "/img/travel-icon.webp";
+      
+      return (
+        <a href={`/${slugFrom}/${slugTo}`} class="flex items-center gap-3 p-3 bg-slate-50 rounded-lg hover:bg-slate-100 transition-colors">
+          <img src={img} alt={`Travel ${displayFrom} ${displayTo}`} class="w-16 h-12 object-cover rounded">
+          <div class="flex-1 min-w-0">
+            <h3 class="text-sm font-bold text-blue-900 truncate">{displayFrom} - {displayTo}</h3>
+            <div class="mt-1">
+              <span class="text-xs font-medium text-slate-600">Rp {route.data.price.toLocaleString('id-ID')}</span>
+            </div>
+          </div>
+        </a>
+      );
+    })}
+  </div>
+</div>

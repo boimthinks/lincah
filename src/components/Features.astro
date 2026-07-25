@@ -1,0 +1,111 @@
+---
+import { MapPin, Award, Headphones, Shield, Sparkles, Cigarette, BatteryCharging, Snowflake, Luggage } from 'lucide-react';
+
+const USPList = [
+  {
+    icon: MapPin,
+    title: 'Antar Jemput Door to Door',
+    description: 'Cukup tunggu di rumah. Driver kami akan menjemput langsung di depan pintu rumah atau kantor Anda, dan mengantarkannya tepat sampai di alamat tujuan.',
+  },
+  {
+    icon: Award,
+    title: 'Driver Ramah & Berpengalaman',
+    description: 'Pengemudi handal yang mengutamakan keselamatan berkendara (safety driving), paham medan jalan lintas serta rute Tol Trans Sumatera secara mendalam.',
+  },
+  {
+    icon: Shield,
+    title: 'Armada Bersih & Nyaman',
+    description: 'Pemeliharaan berkala untuk armada Toyota Hiace Premio, Innova Reborn dan Avanza. Dipastikan selalu bersih, steril, prima dan wangi sebelum menjemput Anda.',
+  },
+  {
+    icon: Headphones,
+    title: 'Customer Service 24 Jam',
+    description: 'Butuh travel mendadak tengah malam atau subuh? Tim CS kami aktif 24 jam siap merespon pertanyaan dan melakukan pencatatan order booking Anda.',
+  },
+];
+
+const facilities = [
+  { icon: Snowflake, label: 'AC Dingin Maksimal', color: 'text-blue-300' },
+  { icon: BatteryCharging, label: 'USB Charger Port', color: 'text-yellow-400' },
+  { icon: Luggage, label: 'Ruang Bagasi Aman', color: 'text-blue-200' },
+  { icon: Cigarette, label: 'Kabin Bersih & Bebas Rokok', color: 'text-red-400' },
+];
+---
+
+<section id="fitur" class="py-20 sm:py-28 bg-slate-50 overflow-hidden">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    
+    {/* Intro Header */}
+    <div class="text-center max-w-3xl mx-auto mb-16 sm:mb-20">
+      <div
+        class="inline-flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-widest text-blue-700 bg-blue-50 px-3.5 py-2 border border-blue-200 rounded-none mb-3"
+      >
+        <Sparkles class="w-3.5 h-3.5 text-blue-700" />
+        Keutamaan Layanan Kami
+      </div>
+      <h2
+        class="text-3xl sm:text-4xl font-extrabold text-blue-900 tracking-tight uppercase"
+      >
+        Solusi Perjalanan Eksekutif Terbaik di Palembang
+      </h2>
+      <p
+        class="text-base sm:text-lg text-slate-500 mt-4 leading-relaxed"
+      >
+        Kami mendedikasikan seluruh komponen armada dan manajemen untuk menghadirkan kenyamanan kelas eksekutif sejak keberangkatan hingga tujuan akhir Anda.
+      </p>
+    </div>
+
+    {/* Keunggulan Grid */}
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16 sm:mb-24">
+      {USPList.map((usp) => (
+        <div
+          class="group flex flex-col sm:flex-row items-start gap-4 sm:gap-6 bg-white p-6 sm:p-8 rounded-none border border-slate-200 hover:border-blue-500 transition-all duration-300"
+        >
+          <div class="flex-shrink-0 p-3 bg-slate-50 border border-slate-100 rounded-none group-hover:bg-blue-700 group-hover:text-white transition-colors duration-300">
+            <div class="group-hover:scale-110 transition-transform duration-300">
+              <usp.icon class="w-6 h-6" />
+            </div>
+          </div>
+          <div class="space-y-2 text-left">
+            <h3 class="text-lg sm:text-xl font-bold text-blue-900 tracking-tight group-hover:text-blue-750 transition-colors uppercase">
+              {usp.title}
+            </h3>
+            <p class="text-sm text-slate-500 leading-relaxed font-normal">
+              {usp.description}
+            </p>
+          </div>
+        </div>
+      ))}
+    </div>
+
+    {/* Fasilitas Section */}
+    <div class="bg-blue-900 p-8 sm:p-12 text-white relative overflow-hidden border border-blue-850 rounded-none shadow-xl">
+      {/* subtle abstract glow */}
+      <div class="absolute right-0 top-0 w-96 h-96 bg-blue-700/10 rounded-full blur-3xl"></div>
+      
+      <div class="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center text-left">
+        <div class="lg:col-span-5 space-y-4">
+          <span class="text-[10px] font-bold text-yellow-400 uppercase tracking-widest block">Standard Operating Procedure</span>
+          <h3 class="text-2xl sm:text-3xl font-extrabold tracking-tight uppercase">Fasilitas Executive Class Di Setiap Perjalanan</h3>
+          <p class="text-sm sm:text-base text-blue-100 font-normal leading-relaxed">
+            Setiap jenis kendaraan yang Anda pilih telah dilengkapi dengan fasilitas standar tinggi demi keamanan psikologis dan fisik selama di perjalanan.
+          </p>
+        </div>
+        
+        <div class="lg:col-span-7 grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {facilities.map((fac) => (
+            <div
+              class="flex items-center gap-3.5 bg-white/10 border border-white/20 p-5 rounded-none"
+            >
+              <div class="p-2 sm:p-2.5 bg-white/10 rounded-none">
+                <fac.icon class={`w-5 h-5 ${fac.color}`} />
+              </div>
+              <span class="text-sm sm:text-base font-semibold text-slate-100">{fac.label}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>

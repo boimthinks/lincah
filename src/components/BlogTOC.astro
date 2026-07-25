@@ -1,0 +1,32 @@
+---
+interface Props {
+  headings: Array<{
+    depth: number;
+    slug?: string;
+    text: string;
+  }>;
+}
+
+const { headings } = Astro.props;
+
+// Filter only h2 headings for TOC
+const tocHeadings = headings.filter(heading => heading.depth === 2);
+---
+
+{tocHeadings.length > 0 && (
+  <div class="bg-white border border-slate-200 overflow-hidden shadow-sm p-6 lg:p-8">
+    <h2 class="text-xl sm:text-2xl font-black text-blue-900 mb-6">Daftar Isi</h2>
+    <ul class="space-y-3">
+      {tocHeadings.map((heading, index) => (
+        <li>
+          <a
+            href={`#${heading.slug || `heading-${index}`}`}
+            class="block text-slate-600 hover:text-blue-700 font-medium text-sm leading-snug transition-colors"
+          >
+            {heading.text}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+)}

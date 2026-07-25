@@ -1,0 +1,18 @@
+# Lincah Travel - Layanan Travel Antar-Jemput Sumatera Selatan
+
+Lincah Travel adalah penyedia layanan travel door-to-door (antar-jemput alamat) terkemuka yang berbasis di Palembang, melayani berbagai rute di Sumatera Selatan, Lampung, dan Jambi.
+
+## Profil Layanan
+- **Layanan Utama**: Travel door-to-door, travel eksekutif, pengiriman paket kilat.
+- **Armada**: Toyota Hiace Premio, Toyota Innova Reborn, Toyota Avanza/Veloz.
+- **Area Layanan**: Palembang, Baturaja, Lampung, Jambi, Lubuklinggau, Muara Enim, Lahat, Pagaralam, dan sekitarnya.
+- **Website**: [lincahtravel.web.id](https://lincahtravel.web.id)
+- **WhatsApp Admin**: 6281369231893
+
+## Struktur Navigasi
+1. **/travel**: Daftar harga dan rute perjalanan.
+2. **/rental**: Layanan rental mobil.
+3. **/blog**: Artikel panduan perjalanan, tips wisata, dan info transportasi.
+
+## Kontak & Booking
+Untuk pemesanan, silakan kunjungi website kami di [lincahtravel.web.id](https://lincahtravel.web.id) dan gunakan form pesan cepat di halaman beranda. Admin kami tersedia 24/7 melalui WhatsApp.

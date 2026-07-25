@@ -1,0 +1,44 @@
+---
+import { MessageSquare } from 'lucide-react';
+
+interface Props {
+  title?: string;
+  description?: string;
+  buttonText?: string;
+}
+
+const { 
+  title = "Butuh Bantuan Pemesanan?", 
+  description = "Hubungi admin kami sekarang untuk konsultasi rute, jadwal, dan harga terbaik.", 
+  buttonText = "Chat Admin Sekarang" 
+} = Astro.props;
+
+const ADMIN_WA = '6281369231893';
+---
+
+<div class="bg-blue-900 border border-blue-800 overflow-hidden shadow-lg p-6 lg:p-8 relative">
+  <div class="absolute top-0 right-0 w-32 h-32 bg-yellow-400/10 rounded-full blur-2xl"></div>
+  
+  <div class="relative z-10 text-center space-y-4">
+    <div class="w-12 h-12 bg-yellow-400 text-blue-900 flex items-center justify-center rounded-none mx-auto">
+      <MessageSquare className="w-6 h-6" />
+    </div>
+    
+    <h3 class="text-lg font-black text-white uppercase tracking-tight">
+      {title}
+    </h3>
+    
+    <p class="text-sm text-blue-100 leading-relaxed font-medium">
+      {description}
+    </p>
+    
+    <a 
+      href={`https://wa.me/${ADMIN_WA}?text=Halo%20Admin%20Lincah%20Travel%2C%20saya%20ingin%20tanya%20info%20rute%20dan%20jadwal%20keberangkatan.`}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="block w-full bg-yellow-400 hover:bg-yellow-300 text-blue-900 font-extrabold uppercase tracking-widest text-xs py-4 transition-colors text-center"
+    >
+      {buttonText}
+    </a>
+  </div>
+</div>

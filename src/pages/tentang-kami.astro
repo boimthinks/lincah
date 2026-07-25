@@ -1,0 +1,51 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/NavbarInner.tsx';
+import Footer from '../components/Footer.astro';
+import Features from '../components/Features.astro';
+
+const title = "Tentang Kami - Lincah Travel";
+---
+
+<Layout title={title}>
+  <Navbar client:load />
+  <main class="pt-24">
+    <section class="py-20 bg-white">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <h1 class="text-4xl sm:text-5xl font-black text-blue-900 uppercase mb-8">Tentang <span class="text-blue-600">Travel Palembang</span></h1>
+        <p class="text-xl text-slate-600 leading-relaxed mb-12">
+          Kami adalah penyedia layanan transportasi eksekutif yang berdedikasi untuk memberikan kenyamanan dan keamanan maksimal bagi setiap penumpang di wilayah Sumatera Selatan dan sekitarnya.
+        </p>
+        
+        <div class="prose prose-lg mx-auto text-left text-slate-600">
+          <p>Berawal dari komitmen untuk memperbaiki standar layanan travel di Palembang, kami menghadirkan sistem antar-jemput alamat (door-to-door) yang profesional dan tepat waktu.</p>
+          <p>Dengan armada terbaru seperti Toyota Hiace Premio dan Innova Reborn, kami memastikan setiap perjalanan Anda menjadi pengalaman yang menyenangkan, bukan sekadar perpindahan tempat.</p>
+        </div>
+      </div>
+    </section>
+
+    <Features />
+
+    <section class="py-20 bg-slate-50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <h2 class="text-3xl font-black text-blue-900 uppercase mb-12">Visi & Misi Kami</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div class="bg-white p-8 border border-slate-200 text-left">
+            <h3 class="text-xl font-bold text-blue-700 uppercase mb-4">Visi</h3>
+            <p class="text-slate-600 italic">"Menjadi biro perjalanan travel nomor satu di Sumatera Selatan yang dikenal karena ketepatan waktu, kenyamanan armada, dan integritas pelayanan."</p>
+          </div>
+          <div class="bg-white p-8 border border-slate-200 text-left">
+            <h3 class="text-xl font-bold text-blue-700 uppercase mb-4">Misi</h3>
+            <ul class="text-slate-600 space-y-2 list-disc pl-5">
+              <li>Memberikan pelayanan antar jemput alamat yang akurat.</li>
+              <li>Menyediakan armada dalam kondisi prima dan bersih.</li>
+              <li>Mengutamakan keselamatan penumpang di atas segalanya.</li>
+              <li>Membangun komunikasi yang ramah dan solutif melalui CS 24 jam.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <Footer />
+</Layout>

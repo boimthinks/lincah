@@ -1,0 +1,101 @@
+---
+import { Star, Quote } from 'lucide-react';
+
+interface Testimonial {
+  id: string;
+  name: string;
+  role: string;
+  text: string;
+  rating: number;
+  avatar: string;
+}
+
+interface Props {
+  testimonials: Testimonial[];
+}
+
+const { testimonials } = Astro.props;
+---
+
+<section id="testimoni" class="py-20 sm:py-28 bg-slate-50 overflow-hidden text-left border-t border-slate-200">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    
+    {/* Header Section */}
+    <div class="text-center max-w-3xl mx-auto mb-16 sm:mb-20">
+      <span class="inline-flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-widest text-blue-700 bg-blue-50 px-3.5 py-2 border border-blue-200 rounded-none mb-3">
+        REVIEW JUJUR PELANGGAN
+      </span>
+      <h2 class="text-3xl sm:text-4xl font-extrabold text-blue-900 tracking-tight uppercase">
+        Apa Kata Mereka Yang Sering Berpergian?
+      </h2>
+      <p class="text-sm sm:text-base text-slate-500 mt-3 font-normal max-w-xl mx-auto leading-relaxed">
+        Kepercayaan pelanggan adalah kebanggaan terbesar kami. Berikut ulasan murni tanpa rekayasa dari pelanggan setia kami.
+      </p>
+    </div>
+
+    {/* Testimonials horizontal flex/grid cards */}
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      {testimonials.map((testi) => (
+        <div
+          class="bg-white rounded-none p-6 sm:p-8 border border-slate-200 hover:border-blue-500 transition-all duration-300 relative flex flex-col justify-between shadow-sm"
+        >
+          {/* Quote marks design aspect */}
+          <div class="absolute top-6 right-8 text-blue-100">
+            <Quote className="w-10 h-10 fill-current opacity-30" />
+          </div>
+
+          {/* Star rating bullets */}
+          <div class="space-y-4">
+            <div class="flex items-center space-x-1">
+              {[...Array(testi.rating)].map((_, i) => (
+                <Star key={i} className="w-4 h-4 fill-amber-400 text-amber-400" />
+              ))}
+            </div>
+
+            <p class="text-sm sm:text-base text-slate-650 leading-relaxed font-medium italic">
+              &ldquo;{testi.text}&rdquo;
+            </p>
+          </div>
+
+          {/* Author profiles details */}
+          <div class="flex items-center gap-4 mt-8 pt-6 border-t border-slate-200/60">
+            <img
+              src={testi.avatar}
+              alt={testi.name}
+              referrerpolicy="no-referrer"
+              class="w-11 h-11 rounded-none object-cover border border-slate-200 shadow-xs"
+            />
+            <div>
+              <h4 class="text-sm sm:text-base font-bold text-slate-800 tracking-tight uppercase">
+                {testi.name}
+              </h4>
+              <span class="text-xs text-slate-400 block font-semibold mt-0.5 uppercase tracking-wider text-[10px]">
+                {testi.role}
+              </span>
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+
+    {/* Trustpilot or direct rating indicator banner */}
+    <div class="mt-16 bg-white border border-slate-200 p-6 sm:p-8 rounded-none flex flex-col sm:flex-row items-center justify-between gap-6 max-w-4xl mx-auto text-xs sm:text-sm shadow-sm">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 bg-blue-700 rounded-none flex items-center justify-center text-white font-extrabold text-sm shadow-sm">
+          4.9
+        </div>
+        <div class="text-left">
+          <span class="font-extrabold text-slate-800 block uppercase tracking-wide">Kualitas Layanan Bintang 5</span>
+          <span class="text-[11px] text-slate-400 font-semibold">Berdasarkan ulasan di platform digital dan sebaran kuesioner harian</span>
+        </div>
+      </div>
+      <a
+        href="#booking-form-anchor"
+        class="w-full sm:w-auto bg-blue-700 hover:bg-blue-800 text-white font-extrabold text-xs uppercase tracking-wider py-3 px-5 rounded-none transition-all text-center cursor-pointer"
+      >
+        Coba Layanan Nyaman Kami
+      </a>
+    </div>
+
+  </div>
+</section>

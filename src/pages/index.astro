@@ -1,0 +1,95 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/NavbarHome.tsx';
+import Hero from '../components/Hero.tsx';
+import Features from '../components/Features.astro';
+import RoutesPrices from '../components/RoutesPrices.tsx';
+import Fleet from '../components/Fleet.astro';
+import HowToBook from '../components/HowToBook.astro';
+import Testimonials from '../components/Testimonials.astro';
+import FAQ from '../components/FAQ.tsx';
+import Footer from '../components/Footer.astro';
+import { getCollection, getEntry } from 'astro:content';
+
+const routes = await getCollection('rute');
+const vehicles = await getCollection('vehicles');
+const testimonials = await getCollection('testimonials');
+const faqs = await getCollection('faq');
+
+const cityImagesEntry = await getEntry('city_images', 'city-images').catch(() => null);
+const cityImages = cityImagesEntry?.data.cities || {};
+
+// Helper function to capitalize city names for display
+const capitalize = (str: string) => str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+
+// Map collection data to match the component props if needed
+const routesData = routes.map((r: any) => ({ 
+  id: r.id, 
+  ...r.data,
+  from: capitalize(r.data.from),
+  to: capitalize(r.data.to)
+}));
+const vehiclesData = vehicles.map((v: any) => ({ id: v.id, ...v.data }));
+const testimonialsData = testimonials.map((t: any) => ({ id: t.id, ...t.data }));
+const faqsData = faqs.map((f: any) => ({ id: f.id, ...f.data }));
+
+const ADMIN_WA = '6281369231893';
+const title = "Lincah Travel Palembang. Murah, Cepat, Aman dan Nyaman";
+---
+
+<Layout title={title}>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Lincah Travel",
+    "url": "https://lincahtravel.web.id/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://lincahtravel.web.id/travel?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  })} />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Lincah Travel",
+    "url": "https://lincahtravel.web.id/",
+    "logo": "https://lincahtravel.web.id/favicon.svg",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+6281369231893",
+      "contactType": "customer service",
+      "availableLanguage": ["Indonesian"]
+    },
+    "sameAs": [
+      "https://www.tiktok.com/@lincahtravelpalembang",
+      "https://www.youtube.com/@lincahtravel",
+      "https://www.linkedin.com/company/lincah-travel/",
+      "https://id.pinterest.com/lincahtravel/"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lorong Tj. Burung Utama, Bukit Lama, Kec. Ilir Bar. I",
+      "addressLocality": "Kota Palembang",
+      "addressRegion": "Sumatera Selatan",
+      "postalCode": "30139",
+      "addressCountry": "ID"
+    }
+  })} />
+
+  <Navbar client:load />
+  <main>
+    <Hero routes={routesData} client:load />
+    <Features />
+    <RoutesPrices routes={routesData} cityImages={cityImages} client:load />
+    <Fleet vehicles={vehiclesData} />
+    <HowToBook />
+    <Testimonials testimonials={testimonialsData} />
+    <FAQ faqs={faqsData} client:load />
+  </main>
+  <Footer />
+</Layout>

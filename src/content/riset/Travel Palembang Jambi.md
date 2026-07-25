@@ -1,0 +1,4 @@
+- https://www.traveljakartalampung.web.id/blog/16-travel-palembang-jambi.html
+- https://yossymandiritravel.com/product/travel-palembang-jambi/
+- https://ramatranztravel.com/blog/rute-baru-travel-palembang-ke-jambi-dibuka.html
+- https://ramatranstravel.com/detail-jasa-transportasi/travel-palembang-jambi-door-to-door.html
