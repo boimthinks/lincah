@@ -73,7 +73,7 @@ const NotasPage = {
       iconClass: 'primary',
       title: `<div style="display: flex; align-items: center; gap: 6px; flex-wrap: wrap;">
         <span style="font-weight: 600;">${Helpers.escapeHtml(n.nama)}</span>
-        <span style="font-size: 10px; color: var(--gray-500); background: var(--gray-100); padding: 2px 6px; border-radius: 4px; font-weight: 600; letter-spacing: 0.3px;">${Helpers.escapeHtml(n.no_nota)}</span>
+        <span style="font-size: 10px; color: var(--gray-500); background: var(--gray-100); padding: 2px 6px; border-radius: 4px; font-weight: 600; letter-spacing: 0.3px;">${Helpers.escapeHtml(Helpers.stripNotaPrefix(n.no_nota))}</span>
       </div>
       <span style="font-size: 11px; color: var(--gray-500); font-weight: 500;">${DateUtils.getFormattedDate(n.tanggal_berangkat)}</span>`,
       subtitle: `${Helpers.escapeHtml(n.dari)} ${Icon.render('arrow_forward')} ${Helpers.escapeHtml(n.tujuan)} • ${Helpers.formatCurrency(n.tarif)}`,
@@ -93,7 +93,7 @@ const NotasPage = {
     const y = now.getFullYear();
     const m = String(now.getMonth() + 1).padStart(2, '0');
     const d = String(now.getDate()).padStart(2, '0');
-    const prefix = `NOTA-${y}${m}${d}`;
+    const prefix = `${y}${m}${d}`;
 
     const todayNotas = this.notas.filter(n => n.no_nota.startsWith(prefix));
     const seq = String(todayNotas.length + 1).padStart(3, '0');
@@ -249,7 +249,7 @@ const NotasPage = {
     const modalHtml = `
       <div style="padding: 4px 0;">
         <div style="text-align: center; margin-bottom: 20px;">
-          <span style="font-size: 12px; font-weight: 700; color: var(--primary); letter-spacing: 1px;">${Helpers.escapeHtml(nota.no_nota)}</span>
+          <span style="font-size: 12px; font-weight: 700; color: var(--primary); letter-spacing: 1px;">${Helpers.escapeHtml(Helpers.stripNotaPrefix(nota.no_nota))}</span>
         </div>
 
         <div style="display: grid; gap: 12px;">
@@ -317,7 +317,7 @@ const NotasPage = {
     const nota = this.notas.find(n => n.id === id);
     Modal.confirm(
       'Hapus Nota',
-      `Yakin ingin menghapus nota <strong>${Helpers.escapeHtml(nota?.no_nota || '')}</strong>?`,
+      `Yakin ingin menghapus nota <strong>${Helpers.escapeHtml(Helpers.stripNotaPrefix(nota?.no_nota) || '')}</strong>?`,
       async (close) => {
         try {
           const { error } = await db.from('notas').delete().eq('id', id);
@@ -369,7 +369,7 @@ const NotasPage = {
 
           <div style="text-align: center; margin-bottom: 24px;">
             <div style="font-size: 11px; color: #64748b; letter-spacing: 1px; font-weight: 600; margin-bottom: 4px;">NOTA PERJALANAN DINAS</div>
-            <div style="font-size: 13px; color: #1e3a8a; font-weight: 700; letter-spacing: 0.5px;">${nota.no_nota}</div>
+            <div style="font-size: 13px; color: #1e3a8a; font-weight: 700; letter-spacing: 0.5px;">${Helpers.stripNotaPrefix(nota.no_nota)}</div>
           </div>
 
           <table style="width: 100%; border-collapse: collapse; font-size: 13px; margin-bottom: 20px;">
@@ -489,7 +489,7 @@ Berikut adalah Nota Perjalanan Anda dari *Lincah Travel*:
 📋 *NOTA PERJALANAN DINAS*
 ━━━━━━━━━━━━━━━━━━━━
 
-No. Nota  : ${nota.no_nota}
+No. Nota  : ${Helpers.stripNotaPrefix(nota.no_nota)}
 Rute       : ${nota.dari} → ${nota.tujuan}
 Tanggal   : ${formattedTgl}
 Jam         : ${nota.jam_berangkat}

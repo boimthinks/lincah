@@ -84,6 +84,11 @@ const Helpers = {
     return Number(String(value).replace(/\./g, '')) || 0;
   },
 
+  stripNotaPrefix(str) {
+    if (!str) return '';
+    return String(str).replace(/^NOTA-/, '');
+  },
+
   formatWhatsApp(phone) {
     if (!phone) return '';
     let cleaned = String(phone).replace(/\D/g, '');

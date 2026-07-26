@@ -6,7 +6,7 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <title>{siteTitle}</title>
   <meta name="description" content="Validasi Nota Perjalanan Lincah Travel" />
   <meta name="robots" content="noindex, nofollow" />
@@ -17,11 +17,11 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
   <script is:inline src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
-  <style>
+  <style is:inline>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
-      background: #f1f5f9;
+      background: #0f172a;
       color: #1e293b;
       min-height: 100vh;
     }
@@ -32,6 +32,7 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
       min-height: 100vh;
       flex-direction: column;
       gap: 16px;
+      background: #f1f5f9;
     }
     .loading-state .spinner {
       width: 40px; height: 40px;
@@ -53,6 +54,7 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
       gap: 16px;
       padding: 24px;
       text-align: center;
+      background: #f1f5f9;
     }
     .error-state .icon { font-size: 48px; color: #ef4444; }
     .error-state h2 { font-size: 20px; color: #1e293b; font-weight: 700; }
@@ -70,163 +72,21 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
       border-radius: 8px;
       margin-top: 8px;
     }
-    .nota-container {
-      max-width: 520px;
-      margin: 40px auto;
-      background: white;
-      box-shadow: 0 4px 24px rgba(0,0,0,0.08);
-    }
-    .nota-header {
-      background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
-      color: white;
-      padding: 32px 36px 28px;
-      text-align: center;
-    }
-    .nota-header .brand {
+
+    .nota-wrapper {
+      min-height: 100vh;
+      background: #f1f5f9;
       display: flex;
+      flex-direction: column;
       align-items: center;
-      justify-content: center;
-      gap: 12px;
-      margin-bottom: 6px;
+      padding: 16px 12px;
     }
-    .nota-header .brand svg { width: 40px; height: 40px; flex-shrink: 0; }
-    .nota-header .brand-name {
-      font-size: 22px;
-      font-weight: 900;
-      letter-spacing: -0.5px;
-      text-transform: uppercase;
-    }
-    .nota-header .brand-name span { color: #fbbf24; }
-    .nota-header .tagline {
-      font-size: 10px;
-      letter-spacing: 3px;
-      text-transform: uppercase;
-      opacity: 0.8;
-      font-weight: 600;
-    }
-    .nota-body { padding: 32px 36px; }
-    .nota-title {
-      text-align: center;
-      margin-bottom: 24px;
-    }
-    .nota-title .sub {
-      font-size: 10px;
-      color: #64748b;
-      letter-spacing: 2px;
-      font-weight: 700;
-      text-transform: uppercase;
-      margin-bottom: 4px;
-    }
-    .nota-title .no-nota {
-      font-size: 16px;
-      font-weight: 800;
-      color: #1e3a8a;
-      letter-spacing: 0.5px;
-    }
-    .nota-divider {
-      border: none;
-      height: 2px;
-      background: linear-gradient(to right, transparent, #e2e8f0, transparent);
-      margin: 0 0 24px;
-    }
-    .nota-table { width: 100%; border-collapse: collapse; font-size: 14px; }
-    .nota-table td {
-      padding: 10px 0;
-      border-bottom: 1px solid #f1f5f9;
-    }
-    .nota-table .label {
-      color: #64748b;
-      font-weight: 600;
-      width: 140px;
-      font-size: 13px;
-    }
-    .nota-table .value {
-      color: #1e293b;
-      font-weight: 600;
-    }
-    .nota-table .value-highlight {
-      color: #1e3a8a;
-      font-weight: 800;
-      font-size: 18px;
-    }
-    .nota-table tr:last-child td {
-      border-bottom: none;
-      padding-top: 14px;
-    }
-    .nota-table tr:last-child .label {
-      font-size: 14px;
-      color: #1e3a8a;
-    }
-    .nota-qr-section {
-      text-align: center;
-      padding: 24px 0 16px;
-      margin-top: 8px;
-      border-top: 2px dashed #e2e8f0;
-    }
-    .nota-qr-section #qr-container {
-      display: inline-block;
-      padding: 12px;
-      background: white;
-      border: 2px solid #e2e8f0;
-    }
-    .nota-qr-section .qr-label {
-      font-size: 10px;
-      color: #94a3b8;
-      margin-top: 8px;
-      letter-spacing: 0.5px;
-      font-weight: 500;
-    }
-    .nota-footer {
-      padding: 20px 36px;
-      background: #f8fafc;
-      border-top: 1px solid #e2e8f0;
-      text-align: center;
-      font-size: 11px;
-      color: #94a3b8;
-      line-height: 1.8;
-    }
-    .nota-footer .company { font-weight: 700; color: #475569; }
-    .nota-footer .disclaimer {
-      margin-top: 8px;
-      font-style: italic;
-      font-size: 10px;
-    }
-    .action-bar {
-      max-width: 520px;
-      margin: 0 auto 40px;
-      display: flex;
-      gap: 12px;
-      padding: 0 4px;
-    }
-    .action-bar button {
-      flex: 1;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 8px;
-      padding: 14px 20px;
-      font-size: 14px;
-      font-weight: 700;
-      font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
-      border: none;
-      cursor: pointer;
-      transition: all 0.2s;
-    }
-    .action-bar .btn-print {
-      background: #1e3a8a;
-      color: white;
-    }
-    .action-bar .btn-print:hover { background: #1e40af; }
-    .action-bar .btn-wa {
-      background: #25D366;
-      color: white;
-    }
-    .action-bar .btn-wa:hover { background: #1da851; }
     .nota-valid {
-      max-width: 520px;
-      margin: 0 auto 40px;
+      width: 100%;
+      max-width: 420px;
+      margin-bottom: 12px;
       text-align: center;
-      padding: 12px;
+      padding: 10px;
       background: #ecfdf5;
       border: 1px solid #a7f3d0;
       font-size: 12px;
@@ -238,31 +98,348 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
       vertical-align: middle;
       margin-right: 4px;
     }
-    @media (max-width: 600px) {
-      .nota-container { margin: 16px; }
-      .nota-header { padding: 24px 20px 20px; }
-      .nota-body { padding: 24px 20px; }
-      .nota-footer { padding: 16px 20px; }
-      .action-bar { margin: 0 16px 24px; flex-direction: column; }
-      .nota-valid { margin: 0 16px 24px; }
+
+    .ticket {
+      width: 100%;
+      max-width: 420px;
+      background: white;
+      position: relative;
+      overflow: hidden;
     }
+
+    .ticket-notch-top,
+    .ticket-notch-bottom {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 28px;
+      height: 14px;
+      background: #f1f5f9;
+      z-index: 2;
+    }
+    .ticket-notch-top {
+      top: 0;
+      border-radius: 0 0 14px 14px;
+    }
+    .ticket-notch-bottom {
+      bottom: 0;
+      border-radius: 14px 14px 0 0;
+    }
+
+    .ticket-header {
+      background: linear-gradient(135deg, #1e3a8a 0%, #1d4ed8 100%);
+      padding: 20px 24px 28px;
+      position: relative;
+    }
+    .ticket-header::after {
+      content: '';
+      position: absolute;
+      bottom: -12px;
+      left: 0;
+      right: 0;
+      height: 24px;
+      background: radial-gradient(circle at 12px 0, transparent 11px, #1e3a8a 12px);
+      background-size: 24px 24px;
+      background-position: 0 0;
+    }
+    .ticket-header .brand-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .ticket-header .brand-left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .ticket-header .brand-left svg { width: 36px; height: 36px; flex-shrink: 0; }
+    .ticket-header .brand-name {
+      font-size: 18px;
+      font-weight: 900;
+      letter-spacing: -0.3px;
+      text-transform: uppercase;
+      color: white;
+    }
+    .ticket-header .brand-name span { color: #fbbf24; }
+    .ticket-header .badge {
+      font-size: 9px;
+      font-weight: 800;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      color: #1e3a8a;
+      background: rgba(255,255,255,0.95);
+      padding: 4px 10px;
+    }
+
+    .ticket-route {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 24px 24px 16px;
+      position: relative;
+      background: white;
+    }
+    .ticket-route::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 24px;
+      right: 24px;
+      height: 1px;
+      background: repeating-linear-gradient(90deg, #cbd5e1 0, #cbd5e1 6px, transparent 6px, transparent 12px);
+    }
+    .route-point { text-align: center; flex: 1; }
+    .route-point .label {
+      font-size: 9px;
+      font-weight: 700;
+      color: #94a3b8;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+    .route-point .city {
+      font-size: 20px;
+      font-weight: 900;
+      color: #0f172a;
+      text-transform: uppercase;
+      letter-spacing: -0.3px;
+    }
+    .route-point .sub {
+      font-size: 11px;
+      color: #64748b;
+      margin-top: 2px;
+    }
+    .route-arrow {
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 0 8px;
+    }
+    .route-arrow .material-icons {
+      font-size: 28px;
+      color: #1e3a8a;
+    }
+    .route-arrow .duration {
+      font-size: 9px;
+      font-weight: 600;
+      color: #94a3b8;
+      margin-top: 2px;
+    }
+
+    .ticket-details {
+      padding: 20px 24px 16px;
+      background: white;
+    }
+    .ticket-details .detail-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px 20px;
+    }
+    .ticket-details .detail-item { }
+    .ticket-details .detail-item.full { grid-column: 1 / -1; }
+    .ticket-details .detail-item .d-label {
+      font-size: 9px;
+      font-weight: 700;
+      color: #94a3b8;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 2px;
+    }
+    .ticket-details .detail-item .d-value {
+      font-size: 15px;
+      font-weight: 700;
+      color: #0f172a;
+    }
+    .ticket-details .detail-item .d-value.small {
+      font-size: 13px;
+    }
+    .ticket-details .detail-item .d-value.price {
+      color: #1e3a8a;
+      font-size: 20px;
+      font-weight: 900;
+    }
+
+    .ticket-barcode {
+      padding: 20px 24px 24px;
+      background: white;
+      position: relative;
+    }
+    .ticket-barcode::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 24px;
+      right: 24px;
+      height: 1px;
+      background: repeating-linear-gradient(90deg, #cbd5e1 0, #cbd5e1 6px, transparent 6px, transparent 12px);
+    }
+    .ticket-barcode .barcode-inner {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding-top: 20px;
+    }
+    .ticket-barcode #qr-container {
+      flex-shrink: 0;
+      width: 100px;
+      height: 100px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: white;
+      border: 1px solid #e2e8f0;
+      padding: 6px;
+    }
+    .ticket-barcode #qr-container img,
+    .ticket-barcode #qr-container canvas {
+      width: 100% !important;
+      height: 100% !important;
+    }
+    .ticket-barcode .barcode-info { flex: 1; }
+    .ticket-barcode .barcode-info .bi-label {
+      font-size: 9px;
+      font-weight: 700;
+      color: #94a3b8;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+    .ticket-barcode .barcode-info .bi-text {
+      font-size: 11px;
+      color: #475569;
+      line-height: 1.5;
+    }
+    .ticket-barcode .barcode-info .bi-text strong {
+      color: #0f172a;
+    }
+
+    .ticket-footer {
+      padding: 20px 24px 18px;
+      background: #f8fafc;
+      border-top: 1px solid #e2e8f0;
+      text-align: center;
+    }
+    .ticket-footer .company {
+      font-size: 13px;
+      font-weight: 800;
+      color: #1e3a8a;
+      letter-spacing: 0.3px;
+      margin-bottom: 8px;
+    }
+    .ticket-footer .contact-row {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      font-size: 10px;
+      color: #64748b;
+      font-weight: 500;
+    }
+    .ticket-footer .contact-row span {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .ticket-footer .contact-row .material-icons {
+      font-size: 13px;
+      color: #94a3b8;
+    }
+    .ticket-footer .tagline {
+      margin-top: 8px;
+      font-size: 9px;
+      font-weight: 600;
+      color: #94a3b8;
+      letter-spacing: 1px;
+    }
+    .ticket-footer .disclaimer {
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px solid #e2e8f0;
+      font-size: 9px;
+      color: #cbd5e1;
+      font-style: italic;
+    }
+
+    .action-bar {
+      width: 100%;
+      max-width: 420px;
+      display: flex;
+      gap: 10px;
+      margin-top: 16px;
+    }
+    .action-bar button {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      padding: 14px;
+      font-size: 13px;
+      font-weight: 700;
+      font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+      border: none;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .action-bar .btn-print {
+      background: white;
+      color: #1e3a8a;
+      border: 2px solid #1e3a8a;
+    }
+    .action-bar .btn-print:hover { background: #f1f5f9; }
+    .action-bar .btn-print .material-icons { font-size: 18px; }
+    .action-bar .btn-wa {
+      background: #25D366;
+      color: white;
+    }
+    .action-bar .btn-wa:hover { background: #1da851; }
+    .action-bar .btn-wa .material-icons { font-size: 18px; }
+
+    .ticket-no {
+      font-size: 10px;
+      font-weight: 700;
+      color: #94a3b8;
+      letter-spacing: 0.3px;
+      text-align: center;
+      padding: 6px 0 0;
+      background: white;
+    }
+
+    @media (max-width: 480px) {
+      .nota-wrapper { padding: 10px 8px; }
+      .ticket-header { padding: 16px 16px 24px; }
+      .ticket-route { padding: 20px 16px 14px; }
+      .ticket-route::after { left: 16px; right: 16px; }
+      .ticket-details { padding: 16px 16px 12px; }
+      .ticket-details .detail-grid { gap: 12px 16px; }
+      .ticket-barcode { padding: 16px 16px 20px; }
+      .ticket-barcode::before { left: 16px; right: 16px; }
+      .ticket-barcode #qr-container { width: 80px; height: 80px; }
+      .ticket-footer { padding: 16px 16px 14px; }
+      .ticket-footer .contact-row { gap: 12px; flex-wrap: wrap; }
+      .route-point .city { font-size: 17px; }
+      .action-bar { flex-direction: column; gap: 8px; }
+      .action-bar button { padding: 12px; }
+      .ticket-details .detail-item .d-value.price { font-size: 18px; }
+    }
+
+    @media (min-width: 768px) {
+      .nota-wrapper { padding: 32px 16px; }
+    }
+
     @media print {
-      body {
-        background: white;
-        padding: 0 !important;
-      }
+      body { background: white !important; }
+      .nota-wrapper { min-height: auto; padding: 0; background: white; }
       .action-bar, .nota-valid, .no-print { display: none !important; }
-      .nota-container {
-        margin: 0;
-        box-shadow: none;
-        max-width: 100%;
-      }
-      .nota-header { background: #1e3a8a !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-      .nota-header .brand-name span { color: #fbbf24 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-      .nota-divider { background: #e2e8f0 !important; -webkit-print-color-adjust: exact; }
-      .nota-qr-section #qr-container { border-color: #e2e8f0 !important; }
-      .nota-footer { background: #f8fafc !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-      @page { margin: 0; }
+      .ticket { max-width: 100%; box-shadow: none; }
+      .ticket-notch-top,
+      .ticket-notch-bottom { background: white; }
+      .ticket-header { background: #1e3a8a !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      .ticket-header .brand-name span { color: #fbbf24 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      .ticket-header .badge { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      .ticket-footer { background: #f8fafc !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      @page { margin: 8mm; }
     }
   </style>
 </head>
@@ -292,19 +469,20 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
     function formatDate(dateStr) {
       if (!dateStr) return '-';
       const d = new Date(dateStr);
-      return d.toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' });
+      const opts = { day: 'numeric', month: 'long', year: 'numeric' };
+      return d.toLocaleDateString('id-ID', opts);
+    }
+
+    function formatDateShort(dateStr) {
+      if (!dateStr) return '-';
+      const d = new Date(dateStr);
+      const opts = { day: 'numeric', month: 'short', year: 'numeric' };
+      return d.toLocaleDateString('id-ID', opts);
     }
 
     function formatCurrency(amount) {
       const num = Number(amount) || 0;
       return 'Rp ' + num.toLocaleString('id-ID');
-    }
-
-    function formatWhatsApp(phone) {
-      if (!phone) return '';
-      if (phone.startsWith('62')) return phone;
-      if (phone.startsWith('0')) return '62' + phone.substring(1);
-      return '62' + phone.replace(/\D/g, '');
     }
 
     function capitalize(str) {
@@ -328,88 +506,103 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
 
     function renderNota(nota) {
       const validasiUrl = SITE_URL + '/validasi/' + nota.no_nota;
-      const waUrl = 'https://wa.me/' + formatWhatsApp(nota.whatsapp);
+      const tglLong = formatDate(nota.tanggal_berangkat);
+      const tglShort = formatDateShort(nota.tanggal_berangkat);
 
       const html = `
-        <div class="nota-valid no-print">
-          <span class="material-icons">verified</span>
-          Nota ini telah diverifikasi dan valid
-        </div>
-
-        <div class="nota-container" id="nota-print">
-          <div class="nota-header">
-            <div class="brand">
-              <svg viewBox="0 0 513 512" xmlns="http://www.w3.org/2000/svg">
-                <path fill-rule="evenodd" fill="rgb(255, 255, 255)" d="M84.911,0.000 L429.089,0.000 C475.432,0.000 512.1000,37.568 512.1000,83.911 L512.1000,428.089 C512.1000,474.432 475.432,511.1000 429.089,511.1000 L84.911,511.1000 C38.568,511.1000 1.000,474.432 1.000,428.089 L1.000,83.911 C1.000,37.568 38.568,0.000 84.911,0.000 Z"/>
-                <path fill-rule="evenodd" fill="rgb(20, 71, 230)" d="M447.263,256.242 C421.875,342.251 316.351,411.975 211.570,411.975 C129.379,411.975 72.074,369.069 63.433,309.059 L0.526,309.059 L0.526,300.365 L244.792,300.365 L268.125,211.490 L212.111,211.490 L201.839,250.614 L69.614,250.614 C74.202,237.059 80.775,223.947 88.1000,211.490 L0.526,211.490 L0.526,202.795 L214.393,202.795 L270.408,202.795 L283.469,153.045 L145.936,153.045 C190.202,120.826 246.959,100.509 303.510,100.509 C408.291,100.509 472.652,170.233 447.263,256.242 ZM186.495,309.059 L173.433,358.810 L326.929,358.810 L341.120,309.059 L186.495,309.059 Z"/>
-              </svg>
-              <div class="brand-name">Lincah<span>TRAVEL</span></div>
-            </div>
-            <div class="tagline">Cepat . Aman . Nyaman</div>
+        <div class="nota-wrapper">
+          <div class="nota-valid no-print">
+            <span class="material-icons">verified</span>
+            Nota telah diverifikasi dan valid
           </div>
 
-          <div class="nota-body">
-            <div class="nota-title">
-              <div class="sub">Nota Perjalanan Dinas</div>
-              <div class="no-nota">${nota.no_nota}</div>
+          <div class="ticket" id="nota-print">
+            <div class="ticket-notch-top"></div>
+
+            <div class="ticket-header">
+              <div class="brand-row">
+                <div class="brand-left">
+                  <svg viewBox="0 0 513 512" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" fill="rgb(255, 255, 255)" d="M84.911,0.000 L429.089,0.000 C475.432,0.000 512.1000,37.568 512.1000,83.911 L512.1000,428.089 C512.1000,474.432 475.432,511.1000 429.089,511.1000 L84.911,511.1000 C38.568,511.1000 1.000,474.432 1.000,428.089 L1.000,83.911 C1.000,37.568 38.568,0.000 84.911,0.000 Z"/>
+                    <path fill-rule="evenodd" fill="rgb(20, 71, 230)" d="M447.263,256.242 C421.875,342.251 316.351,411.975 211.570,411.975 C129.379,411.975 72.074,369.069 63.433,309.059 L0.526,309.059 L0.526,300.365 L244.792,300.365 L268.125,211.490 L212.111,211.490 L201.839,250.614 L69.614,250.614 C74.202,237.059 80.775,223.947 88.1000,211.490 L0.526,211.490 L0.526,202.795 L214.393,202.795 L270.408,202.795 L283.469,153.045 L145.936,153.045 C190.202,120.826 246.959,100.509 303.510,100.509 C408.291,100.509 472.652,170.233 447.263,256.242 ZM186.495,309.059 L173.433,358.810 L326.929,358.810 L341.120,309.059 L186.495,309.059 Z"/>
+                  </svg>
+                  <div class="brand-name">Lincah<span>TRAVEL</span></div>
+                </div>
+                <div class="badge">Valid</div>
+              </div>
             </div>
 
-            <hr class="nota-divider" />
-
-            <table class="nota-table">
-              <tr>
-                <td class="label">Nama</td>
-                <td class="value">${capitalize(nota.nama)}</td>
-              </tr>
-              <tr>
-                <td class="label">WhatsApp</td>
-                <td class="value">${nota.whatsapp}</td>
-              </tr>
-              <tr>
-                <td class="label">Rute</td>
-                <td class="value">${capitalize(nota.dari)} → ${capitalize(nota.tujuan)}</td>
-              </tr>
-              <tr>
-                <td class="label">Tanggal</td>
-                <td class="value">${formatDate(nota.tanggal_berangkat)}</td>
-              </tr>
-              <tr>
-                <td class="label">Jam</td>
-                <td class="value">${nota.jam_berangkat}</td>
-              </tr>
-              <tr>
-                <td class="label">No. Kursi</td>
-                <td class="value">${nota.no_kursi}</td>
-              </tr>
-              <tr>
-                <td class="label">Tarif</td>
-                <td class="value"><span class="value-highlight">${formatCurrency(nota.tarif)}</span></td>
-              </tr>
-            </table>
-
-            <div class="nota-qr-section">
-              <div id="qr-container"></div>
-              <div class="qr-label">Scan untuk verifikasi nota</div>
+            <div class="ticket-route">
+              <div class="route-point">
+                <div class="label">Dari</div>
+                <div class="city">${capitalize(nota.dari)}</div>
+              </div>
+              <div class="route-arrow">
+                <span class="material-icons">arrow_forward</span>
+              </div>
+              <div class="route-point">
+                <div class="label">Tujuan</div>
+                <div class="city">${capitalize(nota.tujuan)}</div>
+              </div>
             </div>
+
+            <div class="ticket-details">
+              <div class="detail-grid">
+                <div class="detail-item">
+                  <div class="d-label">Penumpang</div>
+                  <div class="d-value small">${capitalize(nota.nama)}</div>
+                </div>
+                <div class="detail-item">
+                  <div class="d-label">Kursi</div>
+                  <div class="d-value small">${nota.no_kursi}</div>
+                </div>
+                <div class="detail-item">
+                  <div class="d-label">Keberangkatan</div>
+                  <div class="d-value small">${tglLong}</div>
+                </div>
+                <div class="detail-item">
+                  <div class="d-label">Jam</div>
+                  <div class="d-value small">${nota.jam_berangkat}</div>
+                </div>
+                <div class="detail-item full" style="margin-top:6px;">
+                  <div class="d-label">Tarif</div>
+                  <div class="d-value price">${formatCurrency(nota.tarif)}</div>
+                </div>
+              </div>
+            </div>
+
+            <div class="ticket-barcode">
+              <div class="barcode-inner">
+                <div id="qr-container"></div>
+                <div class="barcode-info">
+                  <div class="bi-label">Verifikasi Nota</div>
+                  <div class="bi-text">
+                    Scan QR code untuk memverifikasi keabsahan nota perjalanan ini.<br>
+                    <strong>${nota.no_nota.replace(/^NOTA-/, '')}</strong>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="ticket-footer">
+              <div class="company">LINCAH TRAVEL</div>
+              <div class="contact-row">
+                <span><span class="material-icons">public</span> lincahtravel.web.id</span>
+              </div>
+              <div class="tagline">Cepat . Aman . Nyaman</div>
+              <div class="disclaimer">Nota ini adalah bukti perjalanan dinas yang valid</div>
+            </div>
+
+            <div class="ticket-notch-bottom"></div>
           </div>
 
-          <div class="nota-footer">
-            <div class="company">Lincah Travel</div>
-            <div>lincah.web.id • wa.me/${formatWhatsApp(nota.whatsapp)}</div>
-            <div>Lorong Tj. Burung Utama, Bukit Lama, Kec. Ilir Bar. I, Kota Palembang 30139</div>
-            <div class="disclaimer">Nota ini adalah bukti perjalanan dinas yang valid</div>
-          </div>
-        </div>
+          <div class="action-bar no-print">
+            <button class="btn-print" onclick="window.print()">
+              <span class="material-icons">print</span>
+              Cetak Nota
+            </button>
 
-        <div class="action-bar no-print">
-          <button class="btn-print" onclick="window.print()">
-            <span class="material-icons" style="font-size: 18px;">print</span>
-            Cetak Nota
-          </button>
-          <button class="btn-wa" onclick="window.open('${waUrl}', '_blank')">
-            <span class="material-icons" style="font-size: 18px;">chat</span>
-            Hubungi via WA
-          </button>
+          </div>
         </div>
       `;
 
@@ -417,8 +610,8 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
 
       new QRCode(document.getElementById('qr-container'), {
         text: validasiUrl,
-        width: 130,
-        height: 130,
+        width: 100,
+        height: 100,
         colorDark: '#1e3a8a',
         colorLight: '#ffffff',
         correctLevel: QRCode.CorrectLevel.H
@@ -427,24 +620,20 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
 
     async function main() {
       const id = getNotaId();
-
       if (!id) {
         showError('Tidak ada nomor nota yang ditemukan di URL.');
         return;
       }
-
       try {
         const { data, error } = await db
           .from('notas')
           .select('*')
           .eq('no_nota', id)
           .single();
-
         if (error || !data) {
           showError('Nota dengan nomor <strong>' + id + '</strong> tidak ditemukan atau sudah tidak tersedia.');
           return;
         }
-
         renderNota(data);
       } catch (err) {
         console.error('Error fetching nota:', err);
