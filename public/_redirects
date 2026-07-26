@@ -1,0 +1,8 @@
+# Lincah Travel - Netlify Redirects
+
+# Validasi Nota - rewrite /validasi/[id] to serve /validasi page
+/validasi/*  /validasi?id=:splat  200
+
+# Old travel routes redirect (example format - uncomment and add as needed)
+# /travel/palembang-lampung/  /palembang/lampung/  301
+# /travel/palembang-jambi/    /palembang/jambi/    301
