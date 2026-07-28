@@ -35,11 +35,12 @@ const categoryLabels: Record<CategoryKey, string> = {
         return (
           <li class="flex gap-3 items-center group">
             <div class="flex-shrink-0 w-12 h-12 bg-slate-100 overflow-hidden border border-slate-200">
-              <img 
-                src={post.data.image_url || "/img/hero_ampera_sunset_1781441848926.webp"} 
-                alt={post.data.title} 
-                class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-              />
+<img 
+  src={post.data.image_url || "/img/hero_ampera_sunset_1781441848926.webp"} 
+  alt={post.data.title} 
+  width="48" height="48"
+  class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+/>
             </div>
             <div class="flex-grow">
               <a

@@ -39,6 +39,10 @@ export default function Hero({ routes }: HeroProps) {
         <img
           src="/img/hero_ampera_sunset_1781441848926.webp"
           alt="Ampera Bridge Sunset Palembang"
+          width={1920}
+          height={1080}
+          fetchPriority="high"
+          loading="eager"
           className="w-full h-full object-cover object-center opacity-30 scale-105"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/80 to-transparent"></div>

@@ -31,6 +31,7 @@ const { posts } = Astro.props;
         <img
           src={post.data.image_url || "/img/hero_ampera_sunset_1781441848926.webp"}
           alt={post.data.title}
+          width="96" height="96"
           class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
           loading="lazy"
         />

@@ -50,6 +50,7 @@ const imageSrc = post.data.image_url || fallbackImage;
     <img
       src={imageSrc}
       alt={post.data.title}
+      width="640" height="360"
       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
       loading="lazy"
     />

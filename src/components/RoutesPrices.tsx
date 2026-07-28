@@ -74,6 +74,7 @@ export default function RoutesPrices({ routes, cityImages, showMainRoutes = true
                   <img 
                     src={getRouteImage(route.to)} 
                     alt={`travel ${route.from} ${route.to} murah`} 
+                    width="400" height="300"
                     className="w-full h-full object-cover transition-transform duration-500 hover:scale-110" 
                   />
                   <div className="absolute inset-x-0 bottom-0 h-2/3 bg-gradient-to-t from-white via-white/90 to-transparent"></div>
