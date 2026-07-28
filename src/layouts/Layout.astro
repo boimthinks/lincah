@@ -3,9 +3,10 @@ interface Props {
 	title: string;
 	description?: string;
 	canonical?: string;
+	noindex?: boolean;
 }
 
-const { title, description = "Layanan Lincah Travel Terpercaya", canonical } = Astro.props;
+const { title, description = "Layanan Lincah Travel Terpercaya", canonical, noindex } = Astro.props;
 const canonicalURL = new URL(canonical || Astro.url.pathname, Astro.site).href;
 import '../index.css';
 import FloatingWhatsApp from '../components/FloatingWhatsApp.astro';
@@ -19,6 +20,12 @@ import FloatingWhatsApp from '../components/FloatingWhatsApp.astro';
 		<meta name="description" content={description} />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="canonical" href={canonicalURL} />
+		{noindex && <meta name="robots" content="noindex, follow" />}
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:image" content="https://lincahtravel.web.id/favicon.png" />
+		<meta property="og:url" content={canonicalURL} />
+		<meta property="og:type" content="website" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>

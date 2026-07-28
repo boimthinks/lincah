@@ -35,9 +35,10 @@ const faqsData = faqs.map((f: any) => ({ id: f.id, ...f.data }));
 
 const ADMIN_WA = '6281369231893';
 const title = "Lincah Travel Palembang. Murah, Cepat, Aman dan Nyaman";
+const description = "Lincah Travel Palembang: Layanan antar jemput door to door rute Baturaja, Lampung, Jambi & seluruh Sumsel. Armada Hiace/Innova VIP, harga mulai Rp80rb. Pesan via WA 24 jam!";
 ---
 
-<Layout title={title}>
+<Layout title={title} description={description}>
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "WebSite",
@@ -51,6 +52,19 @@ const title = "Lincah Travel Palembang. Murah, Cepat, Aman dan Nyaman";
       },
       "query-input": "required name=search_term_string"
     }
+  })} />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqsData.map(f => ({
+      "@type": "Question",
+      "name": f.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": f.answer
+      }
+    }))
   })} />
 
   <script type="application/ld+json" set:html={JSON.stringify({

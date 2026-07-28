@@ -104,10 +104,10 @@ export default function Hero({ routes }: HeroProps) {
           <div className="lg:col-span-5 w-full">
             <div className="bg-blue-900 p-6 sm:p-8 rounded-none shadow-2xl shadow-slate-950/50 border border-blue-800 flex flex-col space-y-6">
               <div>
-                <h3 className="text-xl font-bold text-white tracking-tight flex items-center gap-2 uppercase">
+                <h2 className="text-xl font-bold text-white tracking-tight flex items-center gap-2 uppercase">
                   <Compass className="w-5 h-5 text-yellow-400" />
                   Pesan Cepat Sekarang
-                </h3>
+                </h2>
                 <p className="text-xs text-blue-200 mt-1">
                   Pilih rute tujuan Anda untuk menghitung tarif dan langsung pesan otomatis ke WhatsApp Admin.
                 </p>

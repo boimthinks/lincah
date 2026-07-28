@@ -35,9 +35,10 @@ const cityImagesEntry = await getEntry('city_images', 'city-images').catch(() =>
 const cityImages = cityImagesEntry?.data.cities || {};
 
 const title = `Daftar Travel dari ${originalFromName} - Rute & Harga Tiket`;
+const description = `Cari jadwal travel dari ${originalFromName}? Lincah Travel melayani antar-jemput door-to-door dari ${originalFromName} ke berbagai kota. Harga bersaing, armada nyaman.`;
 ---
 
-<Layout title={title}>
+<Layout title={title} description={description} noindex>
   <Navbar client:load />
   <main class="pt-24 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">

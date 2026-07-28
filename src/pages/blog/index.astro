@@ -14,9 +14,10 @@ const allPosts = await getCollection('blog', ({ data }) => {
 const posts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const title = "Blog Perjalanan Lincah Travel Palembang";
+const description = "Baca artikel dan panduan perjalanan Lincah Travel: tips booking travel, info rute Palembang, perbandingan armada, dan rekomendasi wisata Sumatera Selatan.";
 ---
 
-<Layout title={title}>
+<Layout title={title} description={description}>
   <Navbar client:load />
   <main>
     <BlogHero 

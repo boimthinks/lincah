@@ -91,6 +91,12 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 - **Canonical Tags**: Added dynamic self-referencing `<link rel="canonical">` in `Layout.astro` using `new URL(canonical || Astro.url.pathname, Astro.site).href`. Accepts optional `canonical` prop for per-page override.
 - **Trailing Slash**: Enabled `trailingSlash: 'always'` in `astro.config.mjs` — all generated URLs now consistently end with `/`.
 - **Route Content Differentiation**: Differentiated 3 bidirectional route pairs (Betung, Jambi, Kuala Tungkal) with perspective-specific hooks, headings, and tips to reduce content duplication.
+- **robots.txt Fix**: Fixed sitemap URL from wrong domain `lincah.web.id` → `lincahtravel.web.id`.
+- **City Pages noindex**: Added optional `noindex` prop to `Layout.astro` — applied to 31 city hub pages (`/[from]/`) to focus crawl budget on route & blog pages.
+- **Meta Descriptions**: Added unique 120-155 char descriptions to all 6 main pages (home, travel, tentang-kami, rental, blog, city pages).
+- **OG Tags**: Added global `og:title`, `og:description`, `og:image`, `og:url`, `og:type` in `Layout.astro`.
+- **FAQPage Schema**: Added JSON-LD `FAQPage` structured data to homepage from FAQ content collection.
+- **Heading Hierarchy**: Fixed H3→H2 (Hero.tsx), H4→H3 (Testimonials.astro, Footer.astro) for proper H1→H2→H3 flow.
 
 ## Operational Gotchas
 - **Safe Data Fetching**: Always use `.catch(() => null)` when calling `getEntry` for city-specific data (hotels/transport/districts) to prevent build failure if the city file is missing.
