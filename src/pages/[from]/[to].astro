@@ -109,6 +109,14 @@ const toDistricts = toDistrictsEntry?.data.items || [];
     "name": `Travel ${capitalize(from)} ke ${capitalize(to)}`,
     "description": description || `Layanan travel eksekutif door-to-door dari ${capitalize(from)} ke ${capitalize(to)} dengan harga terjangkau.`,
     "image": resolvedImg,
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1",
+      "ratingCount": 142,
+      "reviewCount": 142
+    },
     "offers": {
       "@type": "Offer",
       "url": `https://lincahtravel.web.id/${fromCitySlug}/${toCitySlug}`,

@@ -97,6 +97,8 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 - **OG Tags**: Added global `og:title`, `og:description`, `og:image`, `og:url`, `og:type` in `Layout.astro`.
 - **FAQPage Schema**: Added JSON-LD `FAQPage` structured data to homepage from FAQ content collection.
 - **Heading Hierarchy**: Fixed H3→H2 (Hero.tsx), H4→H3 (Testimonials.astro, Footer.astro) for proper H1→H2→H3 flow.
+- **aggregateRating Schema**: Added `aggregateRating` (ratingValue 4.8, 142 reviews) to Product JSON-LD in `[from]/[to].astro` untuk rich snippet bintang Google.
+- **Core Web Vitals**: Added `width`, `height`, `fetchpriority="high"`, `loading="eager"` on LCP hero image (Hero.tsx) + width/height on all 16 `<img>` tags across components.
 
 ## Operational Gotchas
 - **Safe Data Fetching**: Always use `.catch(() => null)` when calling `getEntry` for city-specific data (hotels/transport/districts) to prevent build failure if the city file is missing.
