@@ -88,6 +88,9 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 - **Route Body Content**: All 47 route markdown files now have rich body content (paragraphs, tables, lists) rendered via `await render(entry)` in `[from]/[to].astro`.
 - **`.route-content` CSS**: Added typography styles in `src/index.css` for route body content (h2, p, ul, ol, table, blockquote, etc.).
 - **RoutesPrices `showMainRoutes`**: Added prop to control visibility of "Rute Utama Unggulan" section — hidden on `/travel` page.
+- **Canonical Tags**: Added dynamic self-referencing `<link rel="canonical">` in `Layout.astro` using `new URL(canonical || Astro.url.pathname, Astro.site).href`. Accepts optional `canonical` prop for per-page override.
+- **Trailing Slash**: Enabled `trailingSlash: 'always'` in `astro.config.mjs` — all generated URLs now consistently end with `/`.
+- **Route Content Differentiation**: Differentiated 3 bidirectional route pairs (Betung, Jambi, Kuala Tungkal) with perspective-specific hooks, headings, and tips to reduce content duplication.
 
 ## Operational Gotchas
 - **Safe Data Fetching**: Always use `.catch(() => null)` when calling `getEntry` for city-specific data (hotels/transport/districts) to prevent build failure if the city file is missing.

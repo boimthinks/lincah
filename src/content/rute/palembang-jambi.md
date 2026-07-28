@@ -10,16 +10,24 @@ description: Travel Palembang ke Jambi nyaman dan aman. Lincah Travel door-to-do
 img: src\content\city-images.md
 ---
 
-Perjalanan dari Palembang menuju Jambi dapat menjadi pengalaman yang melelahkan jika tidak dipersiapkan dengan baik. Lincah Travel hadir memberikan solusi transportasi yang nyaman, efisien, dan aman dengan sistem penjemputan langsung dari alamat Anda di Palembang menuju kota tujuan di Jambi.
+Perjalanan lintas provinsi dari Palembang ke Jambi memang cukup menguras energi jika tidak direncanakan dengan matang. Jarak tempuh 269 km dengan estimasi 6 jam lebih membutuhkan armada yang benar-benar nyaman agar Anda tiba di Jambi dalam kondisi prima, bukan malah lelah separuh jalan. Lincah Travel hadir sebagai solusi dengan sistem door-to-door yang menjemput Anda langsung dari alamat di Palembang.
 
-## Solusi Perjalanan Jarak Jauh Palembang-Jambi
-Dengan estimasi waktu tempuh sekitar 6 jam, perjalanan ini membutuhkan armada yang benar-benar kondusif untuk kenyamanan penumpang. Lincah Travel menawarkan:
-*   **Armada Terawat:** Kami hanya menggunakan kendaraan yang selalu dalam kondisi prima, seperti Toyota Hiace dan Innova Reborn, yang dilengkapi pendingin udara (AC) yang sejuk dan kursi ergonomis.
-*   **Driver Handal dan Ramah:** Sopir kami sudah berpengalaman menempuh rute antar provinsi ini dan mengetahui kondisi jalan terkini, sehingga Anda tidak perlu khawatir soal keamanan dan estimasi waktu tiba.
-*   **Sistem Door-to-Door:** Anda tidak perlu repot mencari titik kumpul atau terminal. Cukup berikan alamat lengkap Anda, dan driver kami akan menjemput Anda tepat di depan rumah atau gedung.
+## Kenyamanan Sepanjang Rute Palembang-Jambi
 
-## Kelebihan Memesan Tiket Travel di Lincah Travel
-Kami menawarkan harga tiket yang sangat kompetitif untuk rute ini, yaitu **Rp 200.000** saja. Selain harga yang terjangkau, kami juga memastikan setiap penumpang mendapatkan pelayanan terbaik, mulai dari proses pemesanan yang mudah hingga pengantaran yang akurat sesuai alamat tujuan.
+Perjalanan jauh butuh persiapan ekstra. Kami memastikan setiap detail diperhatikan:
 
-## Cara Pemesanan Mudah
-Sistem pemesanan kami sangat sederhana. Anda cukup mengirimkan pesan WhatsApp ke **0813-6923-1893**. Sampaikan rute perjalanan, tanggal keberangkatan, dan jumlah penumpang. Admin kami akan merespons dengan cepat dan mengkonfirmasi kursi Anda. Jadikan perjalanan Anda lebih mudah dan efisien bersama Lincah Travel.
+*   **Armada Premium Jarak Jauh:** Toyota Hiace Premio dengan reclining seat dan AC double blower jadi pilihan utama untuk rute ini. Kursi bisa direbahkan sehingga Anda bisa tidur pulas selama perjalanan.
+*   **Driver Senior Lintas Provinsi:** Sopir kami sudah berpengalaman puluhan kali bolak-balik Palembang-Jambi, hafal titik macet, rest area nyaman, dan jalur alternatif.
+*   **Door-to-Door Full Service:** Anda cukup bersiap di rumah. Driver jemput, antar langsung ke alamat tujuan di Jambi. Tidak ada transit atau pindah kendaraan.
+
+## Harga Tiket & Fasilitas
+
+**Rp 200.000** flat — sudah termasuk layanan door-to-door, tanpa biaya tambahan. Setiap penumpang mendapat:
+
+- Kabin ber-AC dengan sirkulasi udara baik
+- USB charger di setiap baris kursi
+- Bagasi cukup luas untuk koper dan tas
+
+## Cara Pesan Travel Palembang-Jambi
+
+Cukup WhatsApp ke **0813-6923-1893**. Sampaikan rute Palembang-Jambi, tanggal, jam, alamat jemput di Palembang, dan alamat tujuan di Jambi. Admin kami akan konfirmasi ketersediaan kursi dalam hitungan menit.
