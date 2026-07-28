@@ -99,6 +99,7 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 - **Heading Hierarchy**: Fixed H3→H2 (Hero.tsx), H4→H3 (Testimonials.astro, Footer.astro) for proper H1→H2→H3 flow.
 - **aggregateRating Schema**: Added `aggregateRating` (ratingValue 4.8, 142 reviews) to Product JSON-LD in `[from]/[to].astro` untuk rich snippet bintang Google.
 - **Core Web Vitals**: Added `width`, `height`, `fetchpriority="high"`, `loading="eager"` on LCP hero image (Hero.tsx) + width/height on all 16 `<img>` tags across components.
+- **Artikel Baru**: Menambahkan artikel "Travel Palembang Baturaja Door to Door Terbaik 2026: Jadwal, Harga Tiket & Rute" (`2026-07-28-travel-palembang-baturaja-door-to-door.md`).
 
 ## Operational Gotchas
 - **Safe Data Fetching**: Always use `.catch(() => null)` when calling `getEntry` for city-specific data (hotels/transport/districts) to prevent build failure if the city file is missing.
