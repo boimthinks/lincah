@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://lincahtravel.web.id/sitemap-index.xml
+
+# LLM optimization
+LLMs.txt: https://lincahtravel.web.id/llms.txt

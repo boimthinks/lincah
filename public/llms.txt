@@ -1,18 +1,101 @@
-# Lincah Travel - Layanan Travel Antar-Jemput Sumatera Selatan
+# Lincah Travel — Layanan Travel Door-to-Door Sumatera Selatan
 
-Lincah Travel adalah penyedia layanan travel door-to-door (antar-jemput alamat) terkemuka yang berbasis di Palembang, melayani berbagai rute di Sumatera Selatan, Lampung, dan Jambi.
+> Lincah Travel adalah penyedia jasa travel antar-jemput penumpang (door-to-door), sewa mobil/charter, dan pengiriman paket cepat. Berbasis di Palembang, melayani rute di Sumatera Selatan, Lampung, dan Jambi.
 
-## Profil Layanan
-- **Layanan Utama**: Travel door-to-door, travel eksekutif, pengiriman paket kilat.
-- **Armada**: Toyota Hiace Premio, Toyota Innova Reborn, Toyota Avanza/Veloz.
-- **Area Layanan**: Palembang, Baturaja, Lampung, Jambi, Lubuklinggau, Muara Enim, Lahat, Pagaralam, dan sekitarnya.
-- **Website**: [lincahtravel.web.id](https://lincahtravel.web.id)
-- **WhatsApp Admin**: 6281369231893
+## Layanan Utama
+- **Travel Door-to-Door**: Antar-jemput langsung dari alamat asal ke alamat tujuan. Armada: Toyota Hiace Premio (11 kursi), Toyota Innova Reborn (7 kursi), Toyota Avanza/Veloz (6 kursi).
+- **Sewa / Charter Mobil**: Sewa mobil full privat dengan sopir — bebas tentukan jadwal, tanpa campur penumpang lain.
+- **Pengiriman Paket & Dokumen**: Jasa titip paket kilat antar kota via travel (sampai di hari yang sama).
 
-## Struktur Navigasi
-1. **/travel**: Daftar harga dan rute perjalanan.
-2. **/rental**: Layanan rental mobil.
-3. **/blog**: Artikel panduan perjalanan, tips wisata, dan info transportasi.
+## Rute & Harga (dari Palembang)
 
-## Kontak & Booking
-Untuk pemesanan, silakan kunjungi website kami di [lincahtravel.web.id](https://lincahtravel.web.id) dan gunakan form pesan cepat di halaman beranda. Admin kami tersedia 24/7 melalui WhatsApp.
+### Sumatera Selatan
+| Rute | Harga | Durasi | Jadwal |
+|------|-------|--------|--------|
+| Palembang – Prabumulih | Rp 80.000 | 2 Jam | Setiap Jam (07:00-21:00) |
+| Palembang – Kayu Agung | Rp 70.000 | 1,5 Jam | Setiap Jam (07:00-18:00) |
+| Palembang – Indralaya | Rp 50.000 | 45 Menit | Setiap Jam (06:00-20:00) |
+| Palembang – Sekayu | Rp 100.000 | 3 Jam | 08:00, 13:00, 16:00 |
+| Palembang – Sungai Lilin | Rp 100.000 | 3 Jam | 08:00, 14:00, 18:00 |
+| Palembang – Baturaja | Rp 120.000 | 4-5 Jam | 08:00, 14:00, 17:00, 20:00 |
+| Palembang – Muara Enim | Rp 140.000 | 4-5 Jam | 08:00, 14:00, 17:00, 20:00 |
+| Palembang – Belitang | Rp 150.000 | 5-6 Jam | 08:00, 15:00, 19:00 |
+| Palembang – Lahat | Rp 150.000 | 5-6 Jam | 08:00, 14:00, 20:00 |
+| Palembang – Martapura | Rp 160.000 | 5 Jam | 08:00, 14:00, 20:00 |
+| Palembang – Muara Dua | Rp 170.000 | 7-8 Jam | 09:00, 15:00, 21:00 |
+| Palembang – Batu Marta | Rp 170.000 | 5-6 Jam | 08:00, 15:00, 20:00 |
+| Palembang – Betung | Rp 180.000 | 3-4 Jam | 08:00, 14:00, 17:00, 20:00 |
+| Palembang – Pagaralam | Rp 180.000 | 7-8 Jam | 08:00, 15:00, 20:00 |
+| Palembang – Tugumulyo | Rp 180.000 | 7-8 Jam | 09:00, 16:00, 20:00 |
+| Palembang – Bayung Lencir | Rp 200.000 | 4-5 Jam | 08:00, 14:00, 19:00 |
+| Palembang – Lubuklinggau | Rp 200.000 | 7-8 Jam | 09:00, 16:00, 20:00 |
+| Palembang – Danau Ranau | Rp 240.000 | 8-9 Jam | 08:00, 14:00, 20:00 |
+| Palembang – Kikim | Rp 250.000 | 7-8 Jam | 08:00, 14:00, 20:00 |
+
+### Rute ke Lampung
+| Rute | Harga | Durasi | Jadwal |
+|------|-------|--------|--------|
+| Palembang – Lampung | Rp 300.000 | 4-5 Jam (Via Tol) | 09:00, 15:00, 21:00 |
+| Palembang – Talang Padang | Rp 400.000 | 10-12 Jam | 08:00, 14:00, 20:00 |
+
+### Rute ke Jambi
+| Rute | Harga | Durasi | Jadwal |
+|------|-------|--------|--------|
+| Palembang – Jambi | Rp 200.000 | 6-7 Jam | 08:00, 15:00 |
+| Palembang – Muara Bulian | Rp 180.000 | 5-6 Jam | 09:00, 16:00, 21:00 |
+| Palembang – Kuala Tungkal | Rp 400.000 | 10-11 Jam | 07:00, 19:00 |
+| Palembang – Tebing Tinggi | Rp 350.000 | 8-9 Jam | 09:00, 16:00, 21:00 |
+
+*Harga dan jadwal sewaktu-waktu dapat berubah. Konfirmasi via WhatsApp untuk info terkini.*
+
+## Cara Pemesanan & Kontak Resmi
+- **Website**: https://lincahtravel.web.id
+- **WhatsApp Admin**: 6281369231893 (CS 24/7)
+- **Alamat Kantor**: Lorong Tj. Burung Utama, Bukit Lama, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30139
+- **Media Sosial**:
+  - LinkedIn: https://www.linkedin.com/company/lincah-travel/
+  - TikTok: https://www.tiktok.com/@lincahtravelpalembang
+  - YouTube: https://www.youtube.com/@lincahtravel
+  - Facebook: https://web.facebook.com/profile.php?id=61591225023421
+  - Pinterest: https://id.pinterest.com/lincahtravel/
+
+## Struktur Navigasi Website
+- `/` — Beranda: Hero dengan route selector, rute utama unggulan, testimoni, FAQ.
+- `/travel/` — Harga & Rute lengkap: Tabel semua rute (tanpa section unggulan).
+- `/rental/` — Layanan rental mobil / charter.
+- `/tentang-kami/` — Profil perusahaan.
+- `/kontak/` — Halaman kontak & alamat.
+- `/validasi/` — Validasi nota pemesanan.
+- `/{from}/` — Halaman hub kota: daftar rute dari kota tertentu.
+- `/{from}/{to}/` — Halaman detail rute: harga, jadwal, armada, tips perjalanan, tombol booking WA.
+- `/blog/` — Index artikel blog.
+- `/blog/{slug}/` — Detail artikel blog dengan sidebar (CTA, TOC, related posts).
+- `/404/` — Halaman 404 dengan countdown redirect ke homepage.
+
+## Blog Content
+Blog kategori: `rute` (info rute perjalanan), `armada` (info kendaraan), `tips` (tips perjalanan), `lokal` (wisata & budaya lokal). Artikel ditulis dalam Bahasa Indonesia dengan gaya semi-formal, berisi data harga aktual, testimoni pelanggan, dan diakhiri CTA WhatsApp.
+
+## FAQ (Tanya Jawab Umum)
+- **Layanan Door-to-Door**: Penjemputan gratis di area jangkauan kota asal dan tujuan.
+- **Tarif Bagasi**: 1 koper sedang + 1 tas ransel gratis; kelebihan dikenakan biaya.
+- **Pembayaran**: Transfer bank sebelum berangkat atau COD ke driver.
+- **Pembatalan**: Konfirmasi minimal 6 jam sebelum keberangkatan.
+- **Charter Mobil**: Sewa full privat tanpa campur penumpang lain — hubungi WA untuk harga.
+
+## Armada
+- **Toyota Hiace Premio**: 11 penumpang, kursi reclining premium, AC double blower, USB charger — kelas eksekutif VIP.
+- **Toyota Innova Reborn**: 7 penumpang, captain seats, AC full — privat & eksklusif.
+- **Toyota Avanza/Veloz**: 6 penumpang, AC double blower — ekonomis & lincah.
+
+## Data Testimoni Pelanggan
+- **Rian Hidayat** (Pengusaha, Palembang) — Rute Baturaja-Palembang, Hiace Premio, penjemputan tepat waktu.
+- **Sarah Amelia** (Mahasiswi, Lampung) — Rute Palembang-Lampung via Tol, 4,5 jam, admin fast response.
+- **Hadi Wijaya** (Dinas Pemerintahan, Jambi) — Rute Palembang-Jambi, Innova Reborn privat, driver sopan.
+
+## Tautan Penting
+- [Beranda](https://lincahtravel.web.id/) — Cari rute & pesan travel.
+- [Harga & Rute Travel](https://lincahtravel.web.id/travel/) — Daftar harga tiket semua rute.
+- [Rental Mobil](https://lincahtravel.web.id/rental/) — Sewa mobil / charter.
+- [Blog](https://lincahtravel.web.id/blog/) — Artikel panduan perjalanan & tips.
+- [Tentang Kami](https://lincahtravel.web.id/tentang-kami/) — Profil perusahaan.
+- [Kontak](https://lincahtravel.web.id/kontak/) — Alamat & media sosial.
