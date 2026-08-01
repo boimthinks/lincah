@@ -49,11 +49,16 @@ const relatedPosts = (await getCollection('blog'))
 
 // Fetch route data if 'to' exists in blog frontmatter
 let routeData = null;
-if (post.data.to) {
+if (post.data.from && post.data.to) {
   const allRoutes = await getCollection('rute');
-  // Assuming travel from palembang
-  routeData = allRoutes.find(r => r.data.from === 'palembang' && r.data.to === post.data.to) 
-              || allRoutes.find(r => r.data.to === post.data.to);
+  const toSlug = post.data.to.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
+  const fromSlug = post.data.from.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
+  routeData = allRoutes.find(r => 
+    r.data.from.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '') === fromSlug && 
+    r.data.to.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '') === toSlug
+  ) || allRoutes.find(r => 
+    r.data.to.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '') === toSlug
+  );
 }
 
 const cityImagesEntry = await getEntry('city_images', 'city-images').catch(() => null);

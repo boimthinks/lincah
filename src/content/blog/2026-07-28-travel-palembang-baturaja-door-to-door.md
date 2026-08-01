@@ -11,6 +11,7 @@ pengantar: "Travel Palembang Baturaja door-to-door adalah salah satu rute andala
 kesimpulan: "Jangan tunda lagi perjalanan Anda ke Baturaja. Hubungi Lincah Travel via WhatsApp di 0813-6923-1893 untuk booking kursi dan konsultasi jadwal keberangkatan terbaru."
 tags: ["travel palembang baturaja", "travel door-to-door", "harga travel palembang baturaja"]
 to: baturaja
+from: palembang
 ---
 
 Pernahkah Anda merasa repot harus ke terminal atau stasiun hanya untuk naik travel ke luar kota? Atau mungkin Anda sudah bosan dengan bus yang jam keberangkatannya suka molor? Nah, kabar baiknya, perjalanan dari Palembang ke Baturaja kini bisa jauh lebih praktis.

@@ -1,0 +1,447 @@
+{
+  "communities": {
+    "0": [
+      "astro",
+      "astrojs_react",
+      "astrojs_sitemap",
+      "dotenv",
+      "express",
+      "google_genai",
+      "motion",
+      "package_dependencies",
+      "package_dependencies_astro",
+      "package_dependencies_astrojs_react",
+      "package_dependencies_astrojs_sitemap",
+      "package_dependencies_dotenv",
+      "package_dependencies_express",
+      "package_dependencies_google_genai",
+      "package_dependencies_lucide_react",
+      "package_dependencies_motion",
+      "package_dependencies_postcss",
+      "package_dependencies_react",
+      "package_dependencies_react_dom",
+      "package_dependencies_tailwindcss_postcss",
+      "package_dependencies_tailwindcss_vite",
+      "package_dependencies_vitejs_plugin_react",
+      "package_json_lucide_react",
+      "postcss",
+      "react",
+      "react_dom",
+      "tailwindcss_postcss",
+      "tailwindcss_vite",
+      "vitejs_plugin_react"
+    ],
+    "1": [
+      "src_components_features",
+      "src_components_fleet",
+      "src_components_floatingwhatsapp",
+      "src_components_floatingwhatsapp_ctas",
+      "src_components_floatingwhatsapp_encodedtext",
+      "src_components_footer",
+      "src_components_navbarinner",
+      "src_components_navbarinner_navbarinner",
+      "src_components_routesprices",
+      "src_components_routesprices_route",
+      "src_components_routesprices_routesprices",
+      "src_components_routesprices_routespricesprops",
+      "src_layouts_layout",
+      "src_pages_404",
+      "src_pages_404_quicklinks",
+      "src_pages_from_index",
+      "src_pages_from_index_capitalize",
+      "src_pages_from_index_filteredroutes",
+      "src_pages_from_index_getstaticpaths",
+      "src_pages_from_index_originalfromname",
+      "src_pages_from_index_routesdata",
+      "src_pages_kontak",
+      "src_pages_rental",
+      "src_pages_tentang_kami",
+      "src_pages_travel",
+      "src_pages_travel_capitalize",
+      "src_pages_travel_routesdata"
+    ],
+    "2": [
+      "astro_content",
+      "src_components_blogcontent",
+      "src_components_blogtoc",
+      "src_components_blogtoc_tocheadings",
+      "src_components_districtlist",
+      "src_components_hotellist",
+      "src_components_otherposts",
+      "src_components_otherposts_otherposts",
+      "src_components_otherposts_string",
+      "src_components_otherroutes",
+      "src_components_publictransportlist",
+      "src_components_publictransportlist_geticonname",
+      "src_components_relatedposts",
+      "src_components_routecard",
+      "src_components_routeticketpopup",
+      "src_components_sidebarcta",
+      "src_pages_blog_slug",
+      "src_pages_blog_slug_categorylabels",
+      "src_pages_blog_slug_formatteddate",
+      "src_pages_blog_slug_getstaticpaths",
+      "src_pages_blog_slug_relatedposts",
+      "src_pages_from_to",
+      "src_pages_from_to_getstaticpaths"
+    ],
+    "3": [
+      "ref_dom",
+      "ref_dom_iterable",
+      "ref_es2022",
+      "tsconfig",
+      "tsconfig_compileroptions",
+      "tsconfig_compileroptions_allowimportingtsextensions",
+      "tsconfig_compileroptions_allowjs",
+      "tsconfig_compileroptions_experimentaldecorators",
+      "tsconfig_compileroptions_isolatedmodules",
+      "tsconfig_compileroptions_jsx",
+      "tsconfig_compileroptions_lib",
+      "tsconfig_compileroptions_module",
+      "tsconfig_compileroptions_moduledetection",
+      "tsconfig_compileroptions_moduleresolution",
+      "tsconfig_compileroptions_noemit",
+      "tsconfig_compileroptions_paths",
+      "tsconfig_compileroptions_skiplibcheck",
+      "tsconfig_compileroptions_target",
+      "tsconfig_compileroptions_usedefineforclassfields"
+    ],
+    "4": [
+      "autoprefixer",
+      "esbuild",
+      "package_dependencies_vite",
+      "package_devdependencies",
+      "package_devdependencies_autoprefixer",
+      "package_devdependencies_esbuild",
+      "package_devdependencies_tailwindcss",
+      "package_devdependencies_tsx",
+      "package_devdependencies_types_express",
+      "package_devdependencies_types_node",
+      "package_devdependencies_typescript",
+      "package_devdependencies_vite",
+      "tailwindcss",
+      "tsx",
+      "types_express",
+      "types_node",
+      "typescript",
+      "vite"
+    ],
+    "5": [
+      "src_components_faq",
+      "src_components_faq_faq",
+      "src_components_faq_faqitem",
+      "src_components_faq_faqprops",
+      "src_components_hero",
+      "src_components_hero_hero",
+      "src_components_hero_heroprops",
+      "src_components_hero_route",
+      "src_components_howtobook",
+      "src_components_navbarhome",
+      "src_components_navbarhome_navbarhome",
+      "src_components_testimonials",
+      "src_pages_index",
+      "src_pages_index_capitalize",
+      "src_pages_index_faqsdata",
+      "src_pages_index_routesdata",
+      "src_pages_index_testimonialsdata",
+      "src_pages_index_vehiclesdata"
+    ],
+    "6": [
+      "package",
+      "package_name",
+      "package_private",
+      "package_scripts",
+      "package_scripts_astro",
+      "package_scripts_build",
+      "package_scripts_clean",
+      "package_scripts_dev",
+      "package_scripts_lint",
+      "package_scripts_preview",
+      "package_scripts_start",
+      "package_type",
+      "package_version"
+    ],
+    "7": [
+      "src_content_config",
+      "src_content_config_blogcollection",
+      "src_content_config_cityimagescollection",
+      "src_content_config_collections",
+      "src_content_config_districtscollection",
+      "src_content_config_faqcollection",
+      "src_content_config_hotelscollection",
+      "src_content_config_publictransportcollection",
+      "src_content_config_routescollection",
+      "src_content_config_testimonialscollection",
+      "src_content_config_vehiclescollection"
+    ],
+    "8": [
+      "src_components_blogcard",
+      "src_components_blogcard_categorybadgecolor",
+      "src_components_blogcard_categorylabels",
+      "src_components_blogcard_formatteddate",
+      "src_components_bloghero",
+      "src_components_navbar",
+      "src_components_navbar_navbar",
+      "src_pages_blog_index",
+      "src_pages_blog_index_posts"
+    ],
+    "9": [
+      "src_types",
+      "src_types_bookingdetails",
+      "src_types_faqitem",
+      "src_types_routeitem",
+      "src_types_testimonial",
+      "src_types_vehicle"
+    ],
+    "10": [
+      "src_components_bookingform",
+      "src_components_bookingform_bookingform",
+      "src_components_bookingform_bookingformprops",
+      "src_components_bookingform_route"
+    ],
+    "11": [
+      "adminapp_js_app",
+      "adminapp_js_app_app"
+    ],
+    "12": [
+      "adminapp_js_auth",
+      "adminapp_js_auth_auth"
+    ],
+    "13": [
+      "adminapp_js_components_bottomnav",
+      "adminapp_js_components_bottomnav_bottomnav"
+    ],
+    "14": [
+      "adminapp_js_components_cards",
+      "adminapp_js_components_cards_cards"
+    ],
+    "15": [
+      "adminapp_js_components_charts",
+      "adminapp_js_components_charts_charts"
+    ],
+    "16": [
+      "adminapp_js_components_icons",
+      "adminapp_js_components_icons_icon"
+    ],
+    "17": [
+      "adminapp_js_components_modal",
+      "adminapp_js_components_modal_modal"
+    ],
+    "18": [
+      "adminapp_js_components_navbar",
+      "adminapp_js_components_navbar_navbar"
+    ],
+    "19": [
+      "adminapp_js_components_tables",
+      "adminapp_js_components_tables_tables"
+    ],
+    "20": [
+      "adminapp_js_components_toast",
+      "adminapp_js_components_toast_toast"
+    ],
+    "21": [
+      "adminapp_js_config",
+      "adminapp_js_config_app_config"
+    ],
+    "22": [
+      "adminapp_js_pages_dashboard",
+      "adminapp_js_pages_dashboard_dashboardpage"
+    ],
+    "23": [
+      "adminapp_js_pages_expenses",
+      "adminapp_js_pages_expenses_expensespage"
+    ],
+    "24": [
+      "adminapp_js_pages_login",
+      "adminapp_js_pages_login_loginpage"
+    ],
+    "25": [
+      "adminapp_js_pages_logs",
+      "adminapp_js_pages_logs_logspage"
+    ],
+    "26": [
+      "adminapp_js_pages_notas",
+      "adminapp_js_pages_notas_notaspage"
+    ],
+    "27": [
+      "adminapp_js_pages_passengers",
+      "adminapp_js_pages_passengers_passengerspage"
+    ],
+    "28": [
+      "adminapp_js_pages_reports",
+      "adminapp_js_pages_reports_reportspage"
+    ],
+    "29": [
+      "adminapp_js_pages_settings",
+      "adminapp_js_pages_settings_settingspage"
+    ],
+    "30": [
+      "adminapp_js_pages_vendors",
+      "adminapp_js_pages_vendors_vendorspage"
+    ],
+    "31": [
+      "adminapp_js_router",
+      "adminapp_js_router_router"
+    ],
+    "32": [
+      "adminapp_js_supabase",
+      "adminapp_js_supabase_db"
+    ],
+    "33": [
+      "adminapp_js_utils_dates",
+      "adminapp_js_utils_dates_dateutils"
+    ],
+    "34": [
+      "adminapp_js_utils_helpers",
+      "adminapp_js_utils_helpers_helpers"
+    ],
+    "35": [
+      "adminapp_sw",
+      "adminapp_sw_static_assets"
+    ],
+    "36": [
+      "astro_config"
+    ],
+    "37": [
+      "lucide_react_lucide_react"
+    ],
+    "38": [
+      "src_components_mobilefooter"
+    ],
+    "39": [
+      "src_pages_validasi"
+    ]
+  },
+  "cohesion": {
+    "0": 0.06896551724137931,
+    "1": 0.10256410256410256,
+    "2": 0.09486166007905138,
+    "3": 0.10526315789473684,
+    "4": 0.1111111111111111,
+    "5": 0.1111111111111111,
+    "6": 0.15384615384615385,
+    "7": 0.18181818181818182,
+    "8": 0.2222222222222222,
+    "9": 0.3333333333333333,
+    "10": 0.5,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0,
+    "29": 1.0,
+    "30": 1.0,
+    "31": 1.0,
+    "32": 1.0,
+    "33": 1.0,
+    "34": 1.0,
+    "35": 1.0,
+    "36": 1.0,
+    "37": 1.0,
+    "38": 1.0,
+    "39": 1.0
+  },
+  "gods": [
+    {
+      "id": "tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "degree": 15
+    },
+    {
+      "id": "package_scripts",
+      "label": "scripts",
+      "degree": 8
+    },
+    {
+      "id": "tsconfig_compileroptions_lib",
+      "label": "lib",
+      "degree": 4
+    },
+    {
+      "id": "package_dependencies_astrojs_react",
+      "label": "@astrojs/react",
+      "degree": 2
+    },
+    {
+      "id": "package_dependencies_astrojs_sitemap",
+      "label": "@astrojs/sitemap",
+      "degree": 2
+    },
+    {
+      "id": "package_dependencies_google_genai",
+      "label": "@google/genai",
+      "degree": 2
+    },
+    {
+      "id": "package_dependencies_tailwindcss_postcss",
+      "label": "@tailwindcss/postcss",
+      "degree": 2
+    },
+    {
+      "id": "package_dependencies_tailwindcss_vite",
+      "label": "@tailwindcss/vite",
+      "degree": 2
+    },
+    {
+      "id": "package_dependencies_vitejs_plugin_react",
+      "label": "@vitejs/plugin-react",
+      "degree": 2
+    },
+    {
+      "id": "package_dependencies_astro",
+      "label": "astro",
+      "degree": 2
+    }
+  ],
+  "surprises": [],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `dependencies` connect `Community 0` to `Community 4`, `Community 6`?",
+      "why": "High betweenness centrality (0.048) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `devDependencies` connect `Community 4` to `Community 6`?",
+      "why": "High betweenness centrality (0.028) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `App`, `Auth`, `BottomNav` to the rest of the system?",
+      "why": "117 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.06896551724137931 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 1` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.10256410256410256 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 2` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.09486166007905138 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 3` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

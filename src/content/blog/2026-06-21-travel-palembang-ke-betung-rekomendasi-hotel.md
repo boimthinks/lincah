@@ -11,6 +11,7 @@ pengantar: "Travel dari Palembang ke Betung dengan Lincah Travel tidak hanya men
 kesimpulan: "Dengan berbagai pilihan penginapan yang tersedia, Anda dapat memilih tempat tinggal yang nyaman dan aman selama perjalanan Anda dari Palembang ke Betung. Hubungi Lincah Travel sekarang untuk booking kursi dan konsultasi rute."
 tags: ["travel", "palembang", "betung", "hotel", "penginapan"]
 to: betung
+from: palembang
 ---
 
 Lincah Travel merupakan salah satu penyedia jasa transportasi yang cukup populer untuk rute ini karena menyediakan layanan door-to-door (jemput di alamat asal, antar sampai tujuan).

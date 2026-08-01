@@ -1,0 +1,5013 @@
+{
+  "nodes": [
+    {
+      "id": "adminapp_js_app",
+      "label": "app.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/app.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_app_app",
+      "label": "App",
+      "file_type": "code",
+      "source_file": "adminapp/js/app.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_auth",
+      "label": "auth.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/auth.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_auth_auth",
+      "label": "Auth",
+      "file_type": "code",
+      "source_file": "adminapp/js/auth.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_bottomnav",
+      "label": "bottomnav.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/bottomnav.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_bottomnav_bottomnav",
+      "label": "BottomNav",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/bottomnav.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_cards",
+      "label": "cards.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/cards.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_cards_cards",
+      "label": "Cards",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/cards.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_charts",
+      "label": "charts.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/charts.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_charts_charts",
+      "label": "Charts",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/charts.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_icons",
+      "label": "icons.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/icons.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_icons_icon",
+      "label": "Icon",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/icons.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_modal",
+      "label": "modal.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/modal.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_modal_modal",
+      "label": "Modal",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/modal.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_navbar",
+      "label": "navbar.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/navbar.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_navbar_navbar",
+      "label": "Navbar",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/navbar.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_tables",
+      "label": "tables.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/tables.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_tables_tables",
+      "label": "Tables",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/tables.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_toast",
+      "label": "toast.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/toast.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_components_toast_toast",
+      "label": "Toast",
+      "file_type": "code",
+      "source_file": "adminapp/js/components/toast.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_config",
+      "label": "config.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/config.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_config_app_config",
+      "label": "APP_CONFIG",
+      "file_type": "code",
+      "source_file": "adminapp/js/config.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_dashboard",
+      "label": "dashboard.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/dashboard.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_dashboard_dashboardpage",
+      "label": "DashboardPage",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/dashboard.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_expenses",
+      "label": "expenses.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/expenses.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_expenses_expensespage",
+      "label": "ExpensesPage",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/expenses.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_login",
+      "label": "login.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/login.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_login_loginpage",
+      "label": "LoginPage",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/login.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_logs",
+      "label": "logs.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/logs.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_logs_logspage",
+      "label": "LogsPage",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/logs.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_notas",
+      "label": "notas.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/notas.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_notas_notaspage",
+      "label": "NotasPage",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/notas.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_passengers",
+      "label": "passengers.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/passengers.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_passengers_passengerspage",
+      "label": "PassengersPage",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/passengers.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_reports",
+      "label": "reports.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/reports.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_reports_reportspage",
+      "label": "ReportsPage",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/reports.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_settings",
+      "label": "settings.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/settings.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_settings_settingspage",
+      "label": "SettingsPage",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/settings.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_vendors",
+      "label": "vendors.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/vendors.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_pages_vendors_vendorspage",
+      "label": "VendorsPage",
+      "file_type": "code",
+      "source_file": "adminapp/js/pages/vendors.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_router",
+      "label": "router.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/router.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_router_router",
+      "label": "Router",
+      "file_type": "code",
+      "source_file": "adminapp/js/router.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_supabase",
+      "label": "supabase.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/supabase.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_supabase_db",
+      "label": "db",
+      "file_type": "code",
+      "source_file": "adminapp/js/supabase.js",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_utils_dates",
+      "label": "dates.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/utils/dates.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_utils_dates_dateutils",
+      "label": "DateUtils",
+      "file_type": "code",
+      "source_file": "adminapp/js/utils/dates.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_utils_helpers",
+      "label": "helpers.js",
+      "file_type": "code",
+      "source_file": "adminapp/js/utils/helpers.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_js_utils_helpers_helpers",
+      "label": "Helpers",
+      "file_type": "code",
+      "source_file": "adminapp/js/utils/helpers.js",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_sw",
+      "label": "sw.js",
+      "file_type": "code",
+      "source_file": "adminapp/sw.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "adminapp_sw_static_assets",
+      "label": "STATIC_ASSETS",
+      "file_type": "code",
+      "source_file": "adminapp/sw.js",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "astro_config",
+      "label": "astro.config.mjs",
+      "file_type": "code",
+      "source_file": "astro.config.mjs",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "package",
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_name",
+      "label": "name",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_private",
+      "label": "private",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_version",
+      "label": "version",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_type",
+      "label": "type",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_scripts",
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_scripts_dev",
+      "label": "dev",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_scripts_start",
+      "label": "start",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L8",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_scripts_build",
+      "label": "build",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_scripts_preview",
+      "label": "preview",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_scripts_astro",
+      "label": "astro",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L11",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_scripts_clean",
+      "label": "clean",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_scripts_lint",
+      "label": "lint",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies",
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L15",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_astrojs_react",
+      "label": "@astrojs/react",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "_origin": "ast"
+    },
+    {
+      "id": "astrojs_react",
+      "label": "@astrojs/react",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_astrojs_sitemap",
+      "label": "@astrojs/sitemap",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "astrojs_sitemap",
+      "label": "@astrojs/sitemap",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_google_genai",
+      "label": "@google/genai",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L18",
+      "_origin": "ast"
+    },
+    {
+      "id": "google_genai",
+      "label": "@google/genai",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L18",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_tailwindcss_postcss",
+      "label": "@tailwindcss/postcss",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "tailwindcss_postcss",
+      "label": "@tailwindcss/postcss",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_tailwindcss_vite",
+      "label": "@tailwindcss/vite",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L20",
+      "_origin": "ast"
+    },
+    {
+      "id": "tailwindcss_vite",
+      "label": "@tailwindcss/vite",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L20",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_vitejs_plugin_react",
+      "label": "@vitejs/plugin-react",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L21",
+      "_origin": "ast"
+    },
+    {
+      "id": "vitejs_plugin_react",
+      "label": "@vitejs/plugin-react",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L21",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_astro",
+      "label": "astro",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L22",
+      "_origin": "ast"
+    },
+    {
+      "id": "astro",
+      "label": "astro",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L22",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_dotenv",
+      "label": "dotenv",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L23",
+      "_origin": "ast"
+    },
+    {
+      "id": "dotenv",
+      "label": "dotenv",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L23",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_express",
+      "label": "express",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L24",
+      "_origin": "ast"
+    },
+    {
+      "id": "express",
+      "label": "express",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L24",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_lucide_react",
+      "label": "lucide-react",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L25",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_json_lucide_react",
+      "label": "lucide-react",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L25",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_motion",
+      "label": "motion",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L26",
+      "_origin": "ast"
+    },
+    {
+      "id": "motion",
+      "label": "motion",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L26",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_postcss",
+      "label": "postcss",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L27",
+      "_origin": "ast"
+    },
+    {
+      "id": "postcss",
+      "label": "postcss",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L27",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_react",
+      "label": "react",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L28",
+      "_origin": "ast"
+    },
+    {
+      "id": "react",
+      "label": "react",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L28",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_react_dom",
+      "label": "react-dom",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L29",
+      "_origin": "ast"
+    },
+    {
+      "id": "react_dom",
+      "label": "react-dom",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L29",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_dependencies_vite",
+      "label": "vite",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L30",
+      "_origin": "ast"
+    },
+    {
+      "id": "vite",
+      "label": "vite",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L30",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies",
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L32",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies_types_express",
+      "label": "@types/express",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L33",
+      "_origin": "ast"
+    },
+    {
+      "id": "types_express",
+      "label": "@types/express",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L33",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies_types_node",
+      "label": "@types/node",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L34",
+      "_origin": "ast"
+    },
+    {
+      "id": "types_node",
+      "label": "@types/node",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L34",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies_autoprefixer",
+      "label": "autoprefixer",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L35",
+      "_origin": "ast"
+    },
+    {
+      "id": "autoprefixer",
+      "label": "autoprefixer",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L35",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies_esbuild",
+      "label": "esbuild",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L36",
+      "_origin": "ast"
+    },
+    {
+      "id": "esbuild",
+      "label": "esbuild",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L36",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies_tailwindcss",
+      "label": "tailwindcss",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L37",
+      "_origin": "ast"
+    },
+    {
+      "id": "tailwindcss",
+      "label": "tailwindcss",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L37",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies_tsx",
+      "label": "tsx",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L38",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsx",
+      "label": "tsx",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L38",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies_typescript",
+      "label": "typescript",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L39",
+      "_origin": "ast"
+    },
+    {
+      "id": "typescript",
+      "label": "typescript",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L39",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies_vite",
+      "label": "vite",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L40",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_blogcard",
+      "label": "BlogCard.astro",
+      "file_type": "code",
+      "source_file": "src/components/BlogCard.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_blogcard_formatteddate",
+      "label": "formattedDate",
+      "file_type": "code",
+      "source_file": "src/components/BlogCard.astro",
+      "source_location": "L22",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_blogcard_categorylabels",
+      "label": "categoryLabels",
+      "file_type": "code",
+      "source_file": "src/components/BlogCard.astro",
+      "source_location": "L29",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_blogcard_categorybadgecolor",
+      "label": "categoryBadgeColor",
+      "file_type": "code",
+      "source_file": "src/components/BlogCard.astro",
+      "source_location": "L36",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_blogcontent",
+      "label": "BlogContent.astro",
+      "file_type": "code",
+      "source_file": "src/components/BlogContent.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_bloghero",
+      "label": "BlogHero.astro",
+      "file_type": "code",
+      "source_file": "src/components/BlogHero.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_blogtoc",
+      "label": "BlogTOC.astro",
+      "file_type": "code",
+      "source_file": "src/components/BlogTOC.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_blogtoc_tocheadings",
+      "label": "tocHeadings",
+      "file_type": "code",
+      "source_file": "src/components/BlogTOC.astro",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_bookingform",
+      "label": "BookingForm.tsx",
+      "file_type": "code",
+      "source_file": "src/components/BookingForm.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_bookingform_route",
+      "label": "Route",
+      "file_type": "code",
+      "source_file": "src/components/BookingForm.tsx",
+      "source_location": "L6",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_bookingform_bookingformprops",
+      "label": "BookingFormProps",
+      "file_type": "code",
+      "source_file": "src/components/BookingForm.tsx",
+      "source_location": "L16",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_bookingform_bookingform",
+      "label": "BookingForm()",
+      "file_type": "code",
+      "source_file": "src/components/BookingForm.tsx",
+      "source_location": "L20",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_districtlist",
+      "label": "DistrictList.astro",
+      "file_type": "code",
+      "source_file": "src/components/DistrictList.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_faq",
+      "label": "FAQ.tsx",
+      "file_type": "code",
+      "source_file": "src/components/FAQ.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_faq_faqitem",
+      "label": "FaqItem",
+      "file_type": "code",
+      "source_file": "src/components/FAQ.tsx",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_faq_faqprops",
+      "label": "FAQProps",
+      "file_type": "code",
+      "source_file": "src/components/FAQ.tsx",
+      "source_location": "L10",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_faq_faq",
+      "label": "FAQ()",
+      "file_type": "code",
+      "source_file": "src/components/FAQ.tsx",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_features",
+      "label": "Features.astro",
+      "file_type": "code",
+      "source_file": "src/components/Features.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "lucide_react_lucide_react",
+      "label": "lucide-react",
+      "file_type": "code",
+      "source_file": "lucide-react",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_fleet",
+      "label": "Fleet.astro",
+      "file_type": "code",
+      "source_file": "src/components/Fleet.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "lucide_react_lucide_react",
+      "label": "lucide-react",
+      "file_type": "code",
+      "source_file": "lucide-react",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_floatingwhatsapp",
+      "label": "FloatingWhatsApp.astro",
+      "file_type": "code",
+      "source_file": "src/components/FloatingWhatsApp.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_floatingwhatsapp_encodedtext",
+      "label": "encodedText",
+      "file_type": "code",
+      "source_file": "src/components/FloatingWhatsApp.astro",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_floatingwhatsapp_ctas",
+      "label": "CTAS",
+      "file_type": "code",
+      "source_file": "src/components/FloatingWhatsApp.astro",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_footer",
+      "label": "Footer.astro",
+      "file_type": "code",
+      "source_file": "src/components/Footer.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "lucide_react_lucide_react",
+      "label": "lucide-react",
+      "file_type": "code",
+      "source_file": "lucide-react",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_hero",
+      "label": "Hero.tsx",
+      "file_type": "code",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_hero_route",
+      "label": "Route",
+      "file_type": "code",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_hero_heroprops",
+      "label": "HeroProps",
+      "file_type": "code",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_hero_hero",
+      "label": "Hero()",
+      "file_type": "code",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L16",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_hotellist",
+      "label": "HotelList.astro",
+      "file_type": "code",
+      "source_file": "src/components/HotelList.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_howtobook",
+      "label": "HowToBook.astro",
+      "file_type": "code",
+      "source_file": "src/components/HowToBook.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "lucide_react_lucide_react",
+      "label": "lucide-react",
+      "file_type": "code",
+      "source_file": "lucide-react",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_mobilefooter",
+      "label": "MobileFooter.astro",
+      "file_type": "code",
+      "source_file": "src/components/MobileFooter.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_navbar",
+      "label": "Navbar.tsx",
+      "file_type": "code",
+      "source_file": "src/components/Navbar.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_navbar_navbar",
+      "label": "Navbar()",
+      "file_type": "code",
+      "source_file": "src/components/Navbar.tsx",
+      "source_location": "L6",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_navbarhome",
+      "label": "NavbarHome.tsx",
+      "file_type": "code",
+      "source_file": "src/components/NavbarHome.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_navbarhome_navbarhome",
+      "label": "NavbarHome()",
+      "file_type": "code",
+      "source_file": "src/components/NavbarHome.tsx",
+      "source_location": "L6",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_navbarinner",
+      "label": "NavbarInner.tsx",
+      "file_type": "code",
+      "source_file": "src/components/NavbarInner.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_navbarinner_navbarinner",
+      "label": "NavbarInner()",
+      "file_type": "code",
+      "source_file": "src/components/NavbarInner.tsx",
+      "source_location": "L6",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_otherposts",
+      "label": "OtherPosts.astro",
+      "file_type": "code",
+      "source_file": "src/components/OtherPosts.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_otherposts_otherposts",
+      "label": "otherPosts",
+      "file_type": "code",
+      "source_file": "src/components/OtherPosts.astro",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_otherposts_string",
+      "label": "string",
+      "file_type": "code",
+      "source_file": "src/components/OtherPosts.astro",
+      "source_location": "L20",
+      "_origin": "ast"
+    },
+    {
+      "id": "astro_content",
+      "label": "astro:content",
+      "file_type": "code",
+      "source_file": "astro:content",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_otherroutes",
+      "label": "OtherRoutes.astro",
+      "file_type": "code",
+      "source_file": "src/components/OtherRoutes.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "astro_content",
+      "label": "astro:content",
+      "file_type": "code",
+      "source_file": "astro:content",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_publictransportlist",
+      "label": "PublicTransportList.astro",
+      "file_type": "code",
+      "source_file": "src/components/PublicTransportList.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_publictransportlist_geticonname",
+      "label": "getIconName()",
+      "file_type": "code",
+      "source_file": "src/components/PublicTransportList.astro",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_relatedposts",
+      "label": "RelatedPosts.astro",
+      "file_type": "code",
+      "source_file": "src/components/RelatedPosts.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_routecard",
+      "label": "RouteCard.astro",
+      "file_type": "code",
+      "source_file": "src/components/RouteCard.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_routeticketpopup",
+      "label": "RouteTicketPopup.astro",
+      "file_type": "code",
+      "source_file": "src/components/RouteTicketPopup.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_routesprices",
+      "label": "RoutesPrices.tsx",
+      "file_type": "code",
+      "source_file": "src/components/RoutesPrices.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_routesprices_route",
+      "label": "Route",
+      "file_type": "code",
+      "source_file": "src/components/RoutesPrices.tsx",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_routesprices_routespricesprops",
+      "label": "RoutesPricesProps",
+      "file_type": "code",
+      "source_file": "src/components/RoutesPrices.tsx",
+      "source_location": "L15",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_routesprices_routesprices",
+      "label": "RoutesPrices()",
+      "file_type": "code",
+      "source_file": "src/components/RoutesPrices.tsx",
+      "source_location": "L21",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_sidebarcta",
+      "label": "SidebarCTA.astro",
+      "file_type": "code",
+      "source_file": "src/components/SidebarCTA.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "lucide_react_lucide_react",
+      "label": "lucide-react",
+      "file_type": "code",
+      "source_file": "lucide-react",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_components_testimonials",
+      "label": "Testimonials.astro",
+      "file_type": "code",
+      "source_file": "src/components/Testimonials.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "lucide_react_lucide_react",
+      "label": "lucide-react",
+      "file_type": "code",
+      "source_file": "lucide-react",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_content_config",
+      "label": "content.config.ts",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_content_config_routescollection",
+      "label": "routesCollection",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_content_config_blogcollection",
+      "label": "blogCollection",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_content_config_vehiclescollection",
+      "label": "vehiclesCollection",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L38",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_content_config_testimonialscollection",
+      "label": "testimonialsCollection",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L49",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_content_config_faqcollection",
+      "label": "faqCollection",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L60",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_content_config_hotelscollection",
+      "label": "hotelsCollection",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L69",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_content_config_publictransportcollection",
+      "label": "publicTransportCollection",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L82",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_content_config_districtscollection",
+      "label": "districtsCollection",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L94",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_content_config_cityimagescollection",
+      "label": "cityImagesCollection",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L102",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_content_config_collections",
+      "label": "collections",
+      "file_type": "code",
+      "source_file": "src/content.config.ts",
+      "source_location": "L109",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_layouts_layout",
+      "label": "Layout.astro",
+      "file_type": "code",
+      "source_file": "src/layouts/Layout.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_404",
+      "label": "404.astro",
+      "file_type": "code",
+      "source_file": "src/pages/404.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_404_quicklinks",
+      "label": "quickLinks",
+      "file_type": "code",
+      "source_file": "src/pages/404.astro",
+      "source_location": "L8",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_from_to",
+      "label": "[to].astro",
+      "file_type": "code",
+      "source_file": "src/pages/[from]/[to].astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_from_to_getstaticpaths",
+      "label": "getStaticPaths()",
+      "file_type": "code",
+      "source_file": "src/pages/[from]/[to].astro",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "astro_content",
+      "label": "astro:content",
+      "file_type": "code",
+      "source_file": "astro:content",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_from_index",
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_from_index_getstaticpaths",
+      "label": "getStaticPaths()",
+      "file_type": "code",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L8",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_from_index_capitalize",
+      "label": "capitalize()",
+      "file_type": "code",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L20",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_from_index_originalfromname",
+      "label": "originalFromName",
+      "file_type": "code",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L21",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_from_index_filteredroutes",
+      "label": "filteredRoutes",
+      "file_type": "code",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L23",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_from_index_routesdata",
+      "label": "routesData",
+      "file_type": "code",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L27",
+      "_origin": "ast"
+    },
+    {
+      "id": "astro_content",
+      "label": "astro:content",
+      "file_type": "code",
+      "source_file": "astro:content",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_blog_slug",
+      "label": "[slug].astro",
+      "file_type": "code",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_blog_slug_getstaticpaths",
+      "label": "getStaticPaths()",
+      "file_type": "code",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_blog_slug_formatteddate",
+      "label": "formattedDate",
+      "file_type": "code",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L23",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_blog_slug_categorylabels",
+      "label": "categoryLabels",
+      "file_type": "code",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L32",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_blog_slug_relatedposts",
+      "label": "relatedPosts",
+      "file_type": "code",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L45",
+      "_origin": "ast"
+    },
+    {
+      "id": "astro_content",
+      "label": "astro:content",
+      "file_type": "code",
+      "source_file": "astro:content",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_blog_index",
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_blog_index_posts",
+      "label": "posts",
+      "file_type": "code",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "astro_content",
+      "label": "astro:content",
+      "file_type": "code",
+      "source_file": "astro:content",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_index",
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_index_capitalize",
+      "label": "capitalize()",
+      "file_type": "code",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L23",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_index_routesdata",
+      "label": "routesData",
+      "file_type": "code",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L26",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_index_vehiclesdata",
+      "label": "vehiclesData",
+      "file_type": "code",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L32",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_index_testimonialsdata",
+      "label": "testimonialsData",
+      "file_type": "code",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L33",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_index_faqsdata",
+      "label": "faqsData",
+      "file_type": "code",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L34",
+      "_origin": "ast"
+    },
+    {
+      "id": "astro_content",
+      "label": "astro:content",
+      "file_type": "code",
+      "source_file": "astro:content",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_kontak",
+      "label": "kontak.astro",
+      "file_type": "code",
+      "source_file": "src/pages/kontak.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "lucide_react_lucide_react",
+      "label": "lucide-react",
+      "file_type": "code",
+      "source_file": "lucide-react",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_rental",
+      "label": "rental.astro",
+      "file_type": "code",
+      "source_file": "src/pages/rental.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "astro_content",
+      "label": "astro:content",
+      "file_type": "code",
+      "source_file": "astro:content",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_tentang_kami",
+      "label": "tentang-kami.astro",
+      "file_type": "code",
+      "source_file": "src/pages/tentang-kami.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_travel",
+      "label": "travel.astro",
+      "file_type": "code",
+      "source_file": "src/pages/travel.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_travel_capitalize",
+      "label": "capitalize()",
+      "file_type": "code",
+      "source_file": "src/pages/travel.astro",
+      "source_location": "L9",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_travel_routesdata",
+      "label": "routesData",
+      "file_type": "code",
+      "source_file": "src/pages/travel.astro",
+      "source_location": "L11",
+      "_origin": "ast"
+    },
+    {
+      "id": "astro_content",
+      "label": "astro:content",
+      "file_type": "code",
+      "source_file": "astro:content",
+      "confidence": "EXTRACTED",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_pages_validasi",
+      "label": "validasi.astro",
+      "file_type": "code",
+      "source_file": "src/pages/validasi.astro",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_types",
+      "label": "types.ts",
+      "file_type": "code",
+      "source_file": "src/types.ts",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_types_routeitem",
+      "label": "RouteItem",
+      "file_type": "code",
+      "source_file": "src/types.ts",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_types_vehicle",
+      "label": "Vehicle",
+      "file_type": "code",
+      "source_file": "src/types.ts",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_types_testimonial",
+      "label": "Testimonial",
+      "file_type": "code",
+      "source_file": "src/types.ts",
+      "source_location": "L22",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_types_faqitem",
+      "label": "FaqItem",
+      "file_type": "code",
+      "source_file": "src/types.ts",
+      "source_location": "L31",
+      "_origin": "ast"
+    },
+    {
+      "id": "src_types_bookingdetails",
+      "label": "BookingDetails",
+      "file_type": "code",
+      "source_file": "src/types.ts",
+      "source_location": "L38",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig",
+      "label": "tsconfig.json",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L2",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_target",
+      "label": "target",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L3",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_experimentaldecorators",
+      "label": "experimentalDecorators",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_usedefineforclassfields",
+      "label": "useDefineForClassFields",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_module",
+      "label": "module",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L6",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_lib",
+      "label": "lib",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "ref_es2022",
+      "label": "ES2022",
+      "file_type": "concept",
+      "source_file": "tsconfig.json",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "ref_dom",
+      "label": "DOM",
+      "file_type": "concept",
+      "source_file": "tsconfig.json",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "ref_dom_iterable",
+      "label": "DOM.Iterable",
+      "file_type": "concept",
+      "source_file": "tsconfig.json",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_skiplibcheck",
+      "label": "skipLibCheck",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_moduleresolution",
+      "label": "moduleResolution",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_isolatedmodules",
+      "label": "isolatedModules",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_moduledetection",
+      "label": "moduleDetection",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L15",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_allowjs",
+      "label": "allowJs",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L16",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_jsx",
+      "label": "jsx",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_paths",
+      "label": "paths",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L18",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_allowimportingtsextensions",
+      "label": "allowImportingTsExtensions",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L23",
+      "_origin": "ast"
+    },
+    {
+      "id": "tsconfig_compileroptions_noemit",
+      "label": "noEmit",
+      "file_type": "code",
+      "source_file": "tsconfig.json",
+      "source_location": "L24",
+      "_origin": "ast"
+    }
+  ],
+  "edges": [
+    {
+      "source": "adminapp_js_app",
+      "target": "adminapp_js_app_app",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/app.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_auth",
+      "target": "adminapp_js_auth_auth",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/auth.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_components_bottomnav",
+      "target": "adminapp_js_components_bottomnav_bottomnav",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/components/bottomnav.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_components_cards",
+      "target": "adminapp_js_components_cards_cards",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/components/cards.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_components_charts",
+      "target": "adminapp_js_components_charts_charts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/components/charts.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_components_icons",
+      "target": "adminapp_js_components_icons_icon",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/components/icons.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_components_modal",
+      "target": "adminapp_js_components_modal_modal",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/components/modal.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_components_navbar",
+      "target": "adminapp_js_components_navbar_navbar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/components/navbar.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_components_tables",
+      "target": "adminapp_js_components_tables_tables",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/components/tables.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_components_toast",
+      "target": "adminapp_js_components_toast_toast",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/components/toast.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_config",
+      "target": "adminapp_js_config_app_config",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/config.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_pages_dashboard",
+      "target": "adminapp_js_pages_dashboard_dashboardpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/pages/dashboard.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_pages_expenses",
+      "target": "adminapp_js_pages_expenses_expensespage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/pages/expenses.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_pages_login",
+      "target": "adminapp_js_pages_login_loginpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/pages/login.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_pages_logs",
+      "target": "adminapp_js_pages_logs_logspage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/pages/logs.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_pages_notas",
+      "target": "adminapp_js_pages_notas_notaspage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/pages/notas.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_pages_passengers",
+      "target": "adminapp_js_pages_passengers_passengerspage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/pages/passengers.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_pages_reports",
+      "target": "adminapp_js_pages_reports_reportspage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/pages/reports.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_pages_settings",
+      "target": "adminapp_js_pages_settings_settingspage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/pages/settings.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_pages_vendors",
+      "target": "adminapp_js_pages_vendors_vendorspage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/pages/vendors.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_router",
+      "target": "adminapp_js_router_router",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/router.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_supabase",
+      "target": "adminapp_js_supabase_db",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/supabase.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_utils_dates",
+      "target": "adminapp_js_utils_dates_dateutils",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/utils/dates.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_js_utils_helpers",
+      "target": "adminapp_js_utils_helpers_helpers",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/js/utils/helpers.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "adminapp_sw",
+      "target": "adminapp_sw_static_assets",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "adminapp/sw.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "astro_config",
+      "target": "ref_astro_config",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "astro.config.mjs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "astro_config",
+      "target": "ref_astrojs_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "astro.config.mjs",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "astro_config",
+      "target": "ref_astrojs_sitemap",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "astro.config.mjs",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "astro_config",
+      "target": "ref_tailwindcss_vite",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "astro.config.mjs",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "package_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "package_private",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "package_version",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "package_type",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "package_scripts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_scripts",
+      "target": "package_scripts_dev",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_scripts",
+      "target": "package_scripts_start",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_scripts",
+      "target": "package_scripts_build",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_scripts",
+      "target": "package_scripts_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_scripts",
+      "target": "package_scripts_astro",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_scripts",
+      "target": "package_scripts_clean",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_scripts",
+      "target": "package_scripts_lint",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "package_dependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_astrojs_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_astrojs_react",
+      "target": "astrojs_react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_astrojs_sitemap",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_astrojs_sitemap",
+      "target": "astrojs_sitemap",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_google_genai",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_google_genai",
+      "target": "google_genai",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_tailwindcss_postcss",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_tailwindcss_postcss",
+      "target": "tailwindcss_postcss",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_tailwindcss_vite",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_tailwindcss_vite",
+      "target": "tailwindcss_vite",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_vitejs_plugin_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_vitejs_plugin_react",
+      "target": "vitejs_plugin_react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_astro",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_astro",
+      "target": "astro",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_dotenv",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_dotenv",
+      "target": "dotenv",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_express",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_express",
+      "target": "express",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_lucide_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_lucide_react",
+      "target": "package_json_lucide_react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_motion",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L26",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_motion",
+      "target": "motion",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L26",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_postcss",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_postcss",
+      "target": "postcss",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L27",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_react",
+      "target": "react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_react_dom",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_react_dom",
+      "target": "react_dom",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L29",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies",
+      "target": "package_dependencies_vite",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_dependencies_vite",
+      "target": "vite",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "package_devdependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_types_express",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L33",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies_types_express",
+      "target": "types_express",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L33",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_types_node",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L34",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies_types_node",
+      "target": "types_node",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L34",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_autoprefixer",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies_autoprefixer",
+      "target": "autoprefixer",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_esbuild",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L36",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies_esbuild",
+      "target": "esbuild",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L36",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_tailwindcss",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies_tailwindcss",
+      "target": "tailwindcss",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L37",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_tsx",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies_tsx",
+      "target": "tsx",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L38",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_typescript",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L39",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies_typescript",
+      "target": "typescript",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L39",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_vite",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L40",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies_vite",
+      "target": "vite",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L40",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_blogcard",
+      "target": "src_components_blogcard_formatteddate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/BlogCard.astro",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_blogcard",
+      "target": "src_components_blogcard_categorylabels",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/BlogCard.astro",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_blogcard",
+      "target": "src_components_blogcard_categorybadgecolor",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/BlogCard.astro",
+      "source_location": "L36",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_blogtoc",
+      "target": "src_components_blogtoc_tocheadings",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/BlogTOC.astro",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_bookingform",
+      "target": "ref_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/BookingForm.tsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_bookingform",
+      "target": "ref_lucide_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/BookingForm.tsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_bookingform",
+      "target": "src_components_bookingform_route",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/BookingForm.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_bookingform",
+      "target": "src_components_bookingform_bookingformprops",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/BookingForm.tsx",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_bookingform",
+      "target": "src_components_bookingform_bookingform",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/BookingForm.tsx",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_faq",
+      "target": "ref_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/FAQ.tsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_faq",
+      "target": "ref_lucide_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/FAQ.tsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_faq",
+      "target": "src_components_faq_faqitem",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/FAQ.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_faq",
+      "target": "src_components_faq_faqprops",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/FAQ.tsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_faq",
+      "target": "src_components_faq_faq",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/FAQ.tsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_features",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Features.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_fleet",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Fleet.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_floatingwhatsapp",
+      "target": "src_components_floatingwhatsapp_encodedtext",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/FloatingWhatsApp.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_floatingwhatsapp",
+      "target": "src_components_floatingwhatsapp_ctas",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/FloatingWhatsApp.astro",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_footer",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Footer.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_hero",
+      "target": "ref_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_hero",
+      "target": "ref_lucide_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_hero",
+      "target": "src_components_hero_route",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_hero",
+      "target": "src_components_hero_heroprops",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_hero",
+      "target": "src_components_hero_hero",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_howtobook",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/HowToBook.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_navbar",
+      "target": "ref_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Navbar.tsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_navbar",
+      "target": "ref_lucide_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Navbar.tsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_navbar",
+      "target": "src_components_navbar_navbar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Navbar.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_navbarhome",
+      "target": "ref_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/NavbarHome.tsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_navbarhome",
+      "target": "ref_lucide_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/NavbarHome.tsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_navbarhome",
+      "target": "src_components_navbarhome_navbarhome",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/NavbarHome.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_navbarinner",
+      "target": "ref_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/NavbarInner.tsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_navbarinner",
+      "target": "ref_lucide_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/NavbarInner.tsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_navbarinner",
+      "target": "src_components_navbarinner_navbarinner",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/NavbarInner.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_otherposts",
+      "target": "src_components_otherposts_otherposts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/OtherPosts.astro",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_otherposts",
+      "target": "src_components_otherposts_string",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/OtherPosts.astro",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_otherposts",
+      "target": "astro_content",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/OtherPosts.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_otherroutes",
+      "target": "ref_astro_content",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/OtherRoutes.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_otherroutes",
+      "target": "astro_content",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/OtherRoutes.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_otherroutes",
+      "target": "astro_content",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/OtherRoutes.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_publictransportlist",
+      "target": "src_components_publictransportlist_geticonname",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/PublicTransportList.astro",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_routesprices",
+      "target": "ref_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/RoutesPrices.tsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_routesprices",
+      "target": "ref_lucide_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/RoutesPrices.tsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_routesprices",
+      "target": "src_components_routesprices_route",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/RoutesPrices.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_routesprices",
+      "target": "src_components_routesprices_routespricesprops",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/RoutesPrices.tsx",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_routesprices",
+      "target": "src_components_routesprices_routesprices",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/RoutesPrices.tsx",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_sidebarcta",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/SidebarCTA.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_components_testimonials",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Testimonials.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_content_config",
+      "target": "ref_astro_content",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_content_config",
+      "target": "ref_astro_loaders",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_content_config",
+      "target": "src_content_config_routescollection",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_content_config",
+      "target": "src_content_config_blogcollection",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_content_config",
+      "target": "src_content_config_vehiclescollection",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_content_config",
+      "target": "src_content_config_testimonialscollection",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L49",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_content_config",
+      "target": "src_content_config_faqcollection",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L60",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_content_config",
+      "target": "src_content_config_hotelscollection",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L69",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_content_config",
+      "target": "src_content_config_publictransportcollection",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L82",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_content_config",
+      "target": "src_content_config_districtscollection",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L94",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_content_config",
+      "target": "src_content_config_cityimagescollection",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L102",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_content_config",
+      "target": "src_content_config_collections",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/content.config.ts",
+      "source_location": "L109",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_layouts_layout",
+      "target": "src_index",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/Layout.astro",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_layouts_layout",
+      "target": "src_components_floatingwhatsapp",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/Layout.astro",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_layouts_layout",
+      "target": "src_index",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/Layout.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_layouts_layout",
+      "target": "src_components_floatingwhatsapp",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/layouts/Layout.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_404",
+      "target": "src_components_navbarhome",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/404.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_404",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/404.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_404",
+      "target": "src_pages_404_quicklinks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/404.astro",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_404",
+      "target": "src_layouts_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/404.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_404",
+      "target": "src_components_navbarhome",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/404.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_404",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/404.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_routeticketpopup",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_otherroutes",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_sidebarcta",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_hotellist",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_publictransportlist",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_districtlist",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "ref_astro_content",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_pages_from_to_getstaticpaths",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_layouts_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_routeticketpopup",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_otherroutes",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_sidebarcta",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_hotellist",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_publictransportlist",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "src_components_districtlist",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_to",
+      "target": "astro_content",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/[to].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "src_components_routesprices",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "ref_astro_content",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "src_pages_from_index_getstaticpaths",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "src_pages_from_index_capitalize",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "src_pages_from_index_originalfromname",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "src_pages_from_index_filteredroutes",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "src_pages_from_index_routesdata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "src_layouts_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "src_components_routesprices",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_from_index",
+      "target": "astro_content",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/[from]/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_blogcontent",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_sidebarcta",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_blogtoc",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_relatedposts",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_routecard",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "ref_astro_content",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_pages_blog_slug_getstaticpaths",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_pages_blog_slug_formatteddate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_pages_blog_slug_categorylabels",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_pages_blog_slug_relatedposts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_layouts_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_blogcontent",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_sidebarcta",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_blogtoc",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_relatedposts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "src_components_routecard",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_slug",
+      "target": "astro_content",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/[slug].astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_index",
+      "target": "src_components_navbar",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_index",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_index",
+      "target": "src_components_bloghero",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_index",
+      "target": "src_components_blogcard",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_index",
+      "target": "ref_astro_content",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_index",
+      "target": "src_pages_blog_index_posts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_index",
+      "target": "src_layouts_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_index",
+      "target": "src_components_navbar",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_index",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_index",
+      "target": "src_components_bloghero",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_index",
+      "target": "src_components_blogcard",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_blog_index",
+      "target": "astro_content",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/blog/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_navbarhome",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_hero",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_features",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_routesprices",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_fleet",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_howtobook",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_testimonials",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_faq",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "ref_astro_content",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_pages_index_capitalize",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_pages_index_routesdata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L26",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_pages_index_vehiclesdata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_pages_index_testimonialsdata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L33",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_pages_index_faqsdata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "source_location": "L34",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_layouts_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_navbarhome",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_hero",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_features",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_routesprices",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_fleet",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_howtobook",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_testimonials",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_faq",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_index",
+      "target": "astro_content",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/index.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_kontak",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/kontak.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_kontak",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/kontak.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_kontak",
+      "target": "ref_lucide_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/kontak.astro",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_kontak",
+      "target": "src_layouts_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/kontak.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_kontak",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/kontak.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_kontak",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/kontak.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_kontak",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/kontak.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_rental",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/rental.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_rental",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/rental.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_rental",
+      "target": "src_components_fleet",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/rental.astro",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_rental",
+      "target": "ref_astro_content",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/rental.astro",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_rental",
+      "target": "src_layouts_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/rental.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_rental",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/rental.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_rental",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/rental.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_rental",
+      "target": "src_components_fleet",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/rental.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_rental",
+      "target": "astro_content",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/rental.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_tentang_kami",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tentang-kami.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_tentang_kami",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tentang-kami.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_tentang_kami",
+      "target": "src_components_features",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tentang-kami.astro",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_tentang_kami",
+      "target": "src_layouts_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tentang-kami.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_tentang_kami",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tentang-kami.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_tentang_kami",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tentang-kami.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_tentang_kami",
+      "target": "src_components_features",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/tentang-kami.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_travel",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/travel.astro",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_travel",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/travel.astro",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_travel",
+      "target": "src_components_routesprices",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/travel.astro",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_travel",
+      "target": "ref_astro_content",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/travel.astro",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_travel",
+      "target": "src_pages_travel_capitalize",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/travel.astro",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_travel",
+      "target": "src_pages_travel_routesdata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/travel.astro",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_travel",
+      "target": "src_layouts_layout",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/travel.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_travel",
+      "target": "src_components_navbarinner",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/travel.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_travel",
+      "target": "src_components_footer",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/travel.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_travel",
+      "target": "src_components_routesprices",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/travel.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_pages_travel",
+      "target": "astro_content",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/travel.astro",
+      "_origin": "ast"
+    },
+    {
+      "source": "src_types",
+      "target": "src_types_routeitem",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/types.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_types",
+      "target": "src_types_vehicle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/types.ts",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_types",
+      "target": "src_types_testimonial",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/types.ts",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_types",
+      "target": "src_types_faqitem",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/types.ts",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "src_types",
+      "target": "src_types_bookingdetails",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/types.ts",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig",
+      "target": "tsconfig_compileroptions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_target",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_experimentaldecorators",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_usedefineforclassfields",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_module",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_lib",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions_lib",
+      "target": "ref_es2022",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions_lib",
+      "target": "ref_dom",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions_lib",
+      "target": "ref_dom_iterable",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_skiplibcheck",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_moduleresolution",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_isolatedmodules",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_moduledetection",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_allowjs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_jsx",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_paths",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_allowimportingtsextensions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tsconfig_compileroptions",
+      "target": "tsconfig_compileroptions_noemit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tsconfig.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_origin": "ast"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

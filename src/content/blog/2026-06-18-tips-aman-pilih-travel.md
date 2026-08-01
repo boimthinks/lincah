@@ -11,6 +11,7 @@ pengantar: "Memilih travel untuk perjalanan jarak jauh bukan perkara sepele. Di 
 kesimpulan: "Butuh rekomendasi travel yang aman dan terpercaya? Hubungi Lincah Travel via WhatsApp di 0813-6923-1893 untuk konsultasi gratis dan booking kursi."
 tags: ["tips travel", "travel aman", "travel terpercaya"]
 to: baturaja
+from: palembang
 ---
 
 Memilih travel untuk perjalanan jarak jauh itu penuh tantangan. Di satu sisi, Anda butuh tepat waktu. Di sisi lain, kenyamanan selama perjalanan juga tidak bisa diabaikan. Pernahkah Anda merasa was-was karena tidak tahu bagaimana kondisi armada yang akan Anda naiki?

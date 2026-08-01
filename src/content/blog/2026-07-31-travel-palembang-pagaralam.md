@@ -10,6 +10,7 @@ kategori: "rute"
 pengantar: "Kalau Palembang panas dan pengap mulai membuat Anda jenuh, Pagaralam adalah jawabannya. Kota di dataran tinggi ini menawarkan udara dingin, perkebunan teh yang menghijau, dan Gunung Dempo yang menjulang 3.159 mdpl — semuanya bisa Anda jangkau dalam satu perjalanan darat yang nyaman bersama Lincah Travel."
 kesimpulan: "Siap menyusuri jalan berkelok menuju udara sejuk Pagaralam? Hubungi Lincah Travel via WhatsApp di 0813-6923-1893 untuk booking kursi dan konsultasi jadwal keberangkatan yang paling pas."
 tags: ["travel palembang pagaralam", "travel door-to-door", "gunung dempo"]
+from: palembang
 to: pagaralam
 ---
 

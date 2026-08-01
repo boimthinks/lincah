@@ -12,6 +12,7 @@ pengantar: "Perjalanan Palembang-Lampung yang dulu terasa melelahkan kini bisa d
 kesimpulan: "Siap melakukan perjalanan nyaman dari Palembang ke Lampung? Hubungi Lincah Travel sekarang via WhatsApp di 0813-6923-1893 untuk booking kursi dan konsultasi rute."
 tags: ["travel palembang lampung", "travel door-to-door", "Tol Trans-Sumatera", "Palembang"]
 to: lampung
+from: palembang
 ---
 
 Bayangkan Anda harus berangkat ke Lampung pukul 5 pagi untuk menghadiri acara keluarga atau rapat penting. Kendaraan pribadi sedang tidak tersedia, sementara naik bus berarti harus berangkat dari terminal, menunggu keberangkatan, dan belum tentu sampai tepat waktu. Nah, di sinilah travel door-to-door menjadi solusi yang paling masuk akal.

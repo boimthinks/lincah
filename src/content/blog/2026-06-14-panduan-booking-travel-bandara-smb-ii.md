@@ -11,6 +11,7 @@ pengantar: "Mendarat di Bandara Sultan Mahmud Badaruddin II Palembang dengan ban
 kesimpulan: "Siap booking travel dari Bandara SMB II? Hubungi admin Lincah Travel via WhatsApp di 0813-6923-1893 untuk reservasi kursi dan koordinasi penjemputan yang mudah."
 tags: ["bandara smb ii palembang", "booking travel", "travel door-to-door"]
 to: baturaja
+from: palembang
 ---
 
 Pernahkah Anda merasa kewalahan setelah mendarat di bandara, menenteng koper berat, dan bingung mencari transportasi yang aman? Nah, situasi ini sudah jadi langganan bagi banyak penumpang pesawat yang tiba di Bandara Sultan Mahmud Badaruddin II Palembang. Belum lagi kalau harus melanjutkan perjalanan ke kota lain seperti Lampung, Jambi, atau Baturaja.

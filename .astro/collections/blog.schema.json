@@ -51,6 +51,9 @@
         "type": "string"
       }
     },
+    "from": {
+      "type": "string"
+    },
     "to": {
       "type": "string"
     },

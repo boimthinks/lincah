@@ -11,6 +11,7 @@ pengantar: "Mencari travel Palembang Jambi yang terpercaya? Tahukah Anda kalau b
 kesimpulan: "Jangan asal pilih travel Palembang Jambi. Pastikan Anda memilih yang benar-benar berbasis di Palembang agar perjalanan lebih akurat dan tepat waktu. Siap mencoba? Hubungi Lincah Travel via WhatsApp di 0813-6923-1893. Gratis konsultasi rute dan jadwal, booking cepat, berangkat nyaman."
 tags: ["travel palembang jambi", "travel door to door", "travel sumatera selatan", "antar jemput alamat"]
 to: jambi
+from: palembang
 ---
 
 Pernahkah Anda memesan travel Palembang-Jambi, lalu sopirnya malah telat karena baru berangkat dari Lampung? Atau driver-nya tidak paham jalan di Palembang sehingga penjemputan molor sampai satu jam? Kalau pernah, Anda tidak sendiri.

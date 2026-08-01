@@ -11,6 +11,7 @@ pengantar: "Perjalanan dari Palembang ke Lubuklinggau bukan sekadar perpindahan 
 kesimpulan: "Siap bepergian ke Lubuklinggau? Jangan biarkan perjalanan jauh membuat Anda stres. Hubungi Lincah Travel via WhatsApp di 0813-6923-1893 untuk booking kursi dan konsultasi jadwal keberangkatan yang paling pas."
 tags: ["travel palembang lubuklinggau", "travel door-to-door", "harga travel lubuklinggau"]
 to: lubuklinggau
+from: palembang
 ---
 
 Pernahkah Anda membayangkan perjalanan darat 7-8 jam yang justru terasa menyenangkan? Bukan karena pemandangannya saja — meskipun jalur Lintas Sumatera menuju Lubuklinggau memang menawarkan panorama perbukitan yang sulit dilupakan. Tapi lebih dari itu, perjalanan ini terasa nyaman karena Anda tidak perlu menyetir sendiri, tidak perlu khawatir macet di tikungan tajam, dan bisa rebahan santai di kursi sementara driver profesional membawa Anda ke tujuan.

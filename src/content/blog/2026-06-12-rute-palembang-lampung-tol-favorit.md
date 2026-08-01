@@ -11,6 +11,7 @@ pengantar: "Rute Palembang-Lampung via Tol Trans-Sumatera bukan sekadar jalur tr
 kesimpulan: "Siap mencoba perjalanan nyaman dari Palembang ke Lampung? Hubungi Lincah Travel sekarang via WhatsApp di 0813-6923-1893 untuk booking kursi dan informasi jadwal terbaru."
 tags: ["travel palembang lampung", "tol trans sumatera", "travel door-to-door"]
 to: lampung
+from: palembang
 ---
 
 Pernahkah Anda menghitung berapa banyak waktu yang terbuang hanya karena menunggu bus yang tidak pasti keberangkatannya? Atau mungkin sudah terlalu lelah berdesakan di kereta ekonomi dengan barang bawaan yang menumpuk? Nah, cerita seperti ini sudah jadi langganan bagi banyak mahasiswa yang bolak-balik Palembang-Lampung.
