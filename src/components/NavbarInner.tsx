@@ -57,10 +57,6 @@ export default function NavbarInner() {
           </div>
 
           <div className="hidden lg:flex items-center space-x-3">
-            <span className="text-[10px] font-bold tracking-wider uppercase text-blue-700 bg-blue-50 px-2.5 py-1 border border-blue-200 rounded-none flex items-center gap-1.5">
-              <span className="w-1.5 h-1.5 rounded-none bg-blue-700 animate-pulse"></span>
-              24/7 ONLINE
-            </span>
             <a
               href={`https://wa.me/${ADMIN_WA}?text=Halo%20Admin%20Lincah%20Travel%2C%20saya%20ingin%20tanya%20informasi%20rute%20dan%20jadwal%20keberangkatan.`}
               target="_blank"
@@ -89,10 +85,6 @@ export default function NavbarInner() {
         <div className="md:hidden bg-white/98 backdrop-blur-xl border-b border-slate-200 shadow-xl absolute top-full left-0 right-0 px-4 py-6 space-y-3">
           <div className="flex justify-between items-center px-2 pb-2 border-b border-slate-200">
             <span className="text-xs font-bold text-slate-500 uppercase tracking-widest">Navigasi Menu</span>
-            <span className="text-[10px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-none border border-blue-105 flex items-center gap-1.5">
-              <span className="w-1.5 h-1.5 rounded-none bg-blue-700 animate-pulse"></span>
-              Admin Siap Melayani
-            </span>
           </div>
           <div className="space-y-1">
             {navItems.map((item) => (
