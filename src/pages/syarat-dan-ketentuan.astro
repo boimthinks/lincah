@@ -1,0 +1,24 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/NavbarInner.tsx';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout title="Syarat & Ketentuan - Lincah Travel" description="Syarat dan ketentuan penggunaan layanan travel Lincah Travel Palembang.">
+  <Navbar client:load />
+  <main class="pt-24 pb-20">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h1 class="text-3xl font-extrabold text-blue-900 mb-8">Syarat & Ketentuan</h1>
+      <div class="prose prose-blue max-w-none text-slate-700">
+        <p>Halaman ini berisi syarat dan ketentuan penggunaan layanan travel door-to-door Lincah Travel Palembang.</p>
+        <h2 class="text-xl font-bold mt-6 mb-3 text-blue-900">Pemesanan</h2>
+        <p>Semua pemesanan harus dituliskan secara jelas melalui WhatsApp dengan Admin dan dikonfirmasi sebelum keberangkatan.</p>
+        <h2 class="text-xl font-bold mt-6 mb-3 text-blue-900">Pembatalan</h2>
+        <p>Pembatalan dapat dilakukan dengan menghubungi Admin WhatsApp. Dengan ketentuan bahwa pembatalan tidak atau belum dikompensasi secara penuh jika terlambat.</p>
+        <h2 class="text-xl font-bold mt-6 mb-3 text-blue-900">Penjemputan & Pengantaran</h2>
+        <p>Lokasi penjemputan dan pengantaran adalah sesuai yang disetujui pada saat pemesanan.</p>
+      </div>
+    </div>
+  </main>
+  <Footer />
+</Layout>

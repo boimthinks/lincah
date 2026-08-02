@@ -1,0 +1,24 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/NavbarInner.tsx';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout title="Kebijakan Privasi - Lincah Travel" description="Kebijakan privasi Lincah Travel mengenai data pelanggan dan penggunaan website.">
+  <Navbar client:load />
+  <main class="pt-24 pb-20">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h1 class="text-3xl font-extrabold text-blue-900 mb-8">Kebijakan Privasi</h1>
+      <div class="prose prose-blue max-w-none text-slate-700">
+        <p>Lincah Travel sangat menghargai privasi Anda. Halaman ini menjelaskan bagaimana kami mengelola data yang dikumpulkan melalui website lincahtravel.web.id.</p>
+        <h2 class="text-xl font-bold mt-6 mb-3 text-blue-900">Data yang Dikumpulkan</h2>
+        <p>Kami hanya mengumpulkan data yang Anda berikan secara sukarela, seperti nama, nomor WhatsApp, dan detail pemesanan untuk keperluan layanan travel.</p>
+        <h2 class="text-xl font-bold mt-6 mb-3 text-blue-900">Penggunaan Data</h2>
+        <p>Data digunakan semata-mata untuk memproses pemesanan, konfirmasi perjalanan, dan komunikasi layanan pelanggan.</p>
+        <h2 class="text-xl font-bold mt-6 mb-3 text-blue-900">Keamanan Data</h2>
+        <p>Kami berkomitmen menjaga keamanan data Anda dan tidak membagikannya kepada pihak ketiga tanpa izin, kecuali diwajibkan oleh hukum.</p>
+      </div>
+    </div>
+  </main>
+  <Footer />
+</Layout>
