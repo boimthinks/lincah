@@ -351,22 +351,30 @@ Gunakan secara bergantian untuk menjaga keunikan tiap artikel:
 ### Tujuan
 Setiap artikel baru **WAJIB** memprioritaskan rute atau topik yang **belum pernah mendapat artikel khusus** di `/blog/`. Jangan menulis ulang rute yang sudah ada artikelnya kecuali ada pembaruan signifikan (harga berubah, layanan baru, dll).
 
+### Mekanisme Default Saat Diminta Saran Artikel (WAJIB)
+Ketika user meminta **saran judul artikel**, lakukan langkah berikut secara otomatis:
+1. **Cek dulu daftar file aktual** di `src/content/blog/` (Glob `src/content/blog/*.md`) sebelum menyusun saran.
+2. **Tandai rute yang sudah punya artikel** — jangan pernah menyertakan rute tersebut dalam saran, kecuali user meminta angle berbeda secara eksplisit.
+3. Usahakan menyarankan rute dari daftar "BELUM ADA ARTIKEL" (prioritas 🔴 dulu, lalu 🟡), dilengkapi alternatif topik non-rute (armada, tips, wisata) yang juga belum dibahas.
+4. Sertakan catatan singkat bahwa saran sudah bebas dari rute yang sudah terbit.
+
 ### Daftar Rute yang SUDAH ADA Artikelya (Skip/DITOLAK):
 | Rute | Status Artikel |
 |---|---|
 | Palembang-Baturaja | ✅ Ada (`2026-07-28-travel-palembang-baturaja-door-to-door.md`) |
 | Palembang-Lampung | ✅ Ada (`2026-06-20-travel-palembang-lampung-via-tol.md`) |
-| Palembang-Jambi | ✅ Ada (`2026-06-15-travel-palembang-jambi-dinas.md`) |
+| Palembang-Jambi | ✅ Ada (`2026-06-15-travel-palembang-jambi-dinas.md` & lainnya) |
 | Palembang-Prabumulih | ✅ Ada (`2026-06-17-avanza-veloz-travel-prabumulih.md`) |
 | Palembang-Lubuklinggau | ✅ Ada (`2026-07-30-travel-palembang-lubuklinggau.md`) |
 | Palembang-Pagaralam | ✅ Ada (`2026-07-31-travel-palembang-pagaralam.md`) |
 | Palembang-Danau Ranau | ✅ Ada (`2026-06-19-perjalanan-danau-ranau.md`) |
 | Palembang-Betung | ⚠️ Artikel ada tapi fokus hotel (perlu artikel rute travel) |
+| **Palembang-Kayu Agung** | ✅ Ada (`2026-08-03-travel-palembang-kayu-agung.md`) |
+| **Palembang-Kuala Tungkal** | ✅ Ada (`2026-08-02-travel-palembang-kuala-tungkal.md`) |
 
 ### Daftar Rute yang BELUM ADA Artikelya (PRIORITAS TINGGI):
 | Rute | File Rute | Prioritas | Alasan |
 |---|---|---|---|
-| **Palembang-Kayu Agung** | `kayu-agung-palembang.md` | 🔴 Tinggi | Transit penting ke Lampung, belum ada artikel |
 | **Palembang-Muara Enim** | `muara-enim-palembang.md` | 🔴 Tinggi | Kabupaten besar, belum ada artikel |
 | **Palembang-Lahat** | `lahat-palembang.md` | 🔴 Tinggi | Rute populer ke arah Lubuklinggau, belum ada artikel |
 | **Palembang-Sekayu** | `sekayu-palembang.md` | 🟡 Sedang | Kabupaten Musi Banyuasin |
@@ -375,7 +383,6 @@ Setiap artikel baru **WAJIB** memprioritaskan rute atau topik yang **belum perna
 | **Palembang-Muara Dua** | `muara-dua-palembang.md` | 🟡 Sedang | Ogan Komering Ilir, akses ke Kayu Agung |
 | **Palembang-Tebing Tinggi** | `tebing-tinggi-palembang.md` | 🟡 Sedang | Ogan Komering Ulu |
 | **Palembang-Tugumulyo** | `tugumulyo-palembang.md` | 🟡 Sedang | Musi Rawas |
-| **Palembang-Kuala Tungkal** | `kuala-tungkal-palembang.md` | 🔴 Tinggi | Jambi, belum ada artikel khusus |
 | **Palembang-Batu Marta** | `batu-marta-palembang.md` | 🟡 Sedang | Ogan Komering Ulu |
 | **Palembang-Kikim** | `kikim-palembang.md` | 🟡 Sedang | Lahat, dekat Lubuklinggau |
 | **Palembang-Talang Padang** | `talang-padang-palembang.md` | 🟡 Sedang | Empat Lawang |
