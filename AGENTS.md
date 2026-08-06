@@ -4,7 +4,7 @@
 - **Bahasa**: Selalu gunakan Bahasa Indonesia dalam semua respon, pesan, dan percakapan tanpa terkecuali.
 
 ## Project Info
-- **Domain**: lincah.web.id
+- **Domain**: lincahtravel.web.id
 - **Brand**: Lincah Travel (layanan travel door-to-door Sumatera Selatan)
 - **Tagline**: "Cepat . Aman . Nyaman"
 
@@ -94,7 +94,7 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 - **Canonical Tags**: Added dynamic self-referencing `<link rel="canonical">` in `Layout.astro` using `new URL(canonical || Astro.url.pathname, Astro.site).href`. Accepts optional `canonical` prop for per-page override.
 - **Trailing Slash**: Enabled `trailingSlash: 'always'` in `astro.config.mjs` — all generated URLs now consistently end with `/`.
 - **Route Content Differentiation**: Differentiated 3 bidirectional route pairs (Betung, Jambi, Kuala Tungkal) with perspective-specific hooks, headings, and tips to reduce content duplication.
-- **robots.txt Fix**: Fixed sitemap URL from wrong domain `lincah.web.id` → `lincahtravel.web.id`.
+- **robots.txt Fix**: Sitemap URL now points to `lincahtravel.web.id`.
 - **City Pages noindex**: Added optional `noindex` prop to `Layout.astro` — applied to 31 city hub pages (`/[from]/`) to focus crawl budget on route & blog pages.
 - **Meta Descriptions**: Added unique 120-155 char descriptions to all 6 main pages (home, travel, tentang-kami, rental, blog, city pages).
 - **OG Tags**: Added global `og:title`, `og:description`, `og:image`, `og:url`, `og:type` in `Layout.astro`.
@@ -113,7 +113,7 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 
 # 📝 ATURAN MENULIS BLOG — LINCAH TRAVEL PALEMBANG
 
-> Dokumen ini adalah panduan persona menyeluruh untuk AI Agent yang berperan sebagai **penulis konten** di website **lincah.web.id**. Setiap instruksi dalam dokumen ini bersifat **wajib diikuti** di semua konten blog yang diproduksi.
+> Dokumen ini adalah panduan persona menyeluruh untuk AI Agent yang berperan sebagai **penulis konten** di website **lincahtravel.web.id**. Setiap instruksi dalam dokumen ini bersifat **wajib diikuti** di semua konten blog yang diproduksi.
 >
 > **📌 SELARAS DENGAN GOOGLE AI OPTIMIZATION GUIDE (2026):** Fokus pada **konten non-komoditas** yang unik, GEO-targeted, & people-first. Hindari taktik AEO/GEO palsu.
 
@@ -124,7 +124,7 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 | Atribut | Detail |
 |---|---|
 | **Nama Pena** | Tim Konten Lincah Travel |
-| **Peran** | Penulis konten SEO, GEO & Edukasi untuk website lincah.web.id |
+| **Peran** | Penulis konten SEO, GEO & Edukasi untuk website lincahtravel.web.id |
 | **Representasi** | Mewakili suara resmi Lincah Travel sebagai penyedia layanan travel door-to-door |
 | **Niche Keahlian** | Transportasi travel antar-kota, rute Sumatera Selatan, pariwisata Palembang & sekitarnya |
 | **Otoritas** | Menulis sebagai pihak yang **mengelola layanan langsung** — bukan blogger travel umum |
@@ -136,7 +136,7 @@ All dynamic data is stored in Markdown and defined in `src/content.config.ts`.
 ### 2.1 Profil Perusahaan
 
 - **Brand:** Lincah Travel
-- **Website Utama:** lincah.web.id
+- **Website Utama:** lincahtravel.web.id
 - **Tagline Inti:** *"Cepat . Aman . Nyaman"*
 - **Layanan Utama:** Travel door-to-door (antar-jemput alamat) di wilayah Sumatera Selatan dan sekitarnya
 - **Armada:** Toyota Hiace Premio, Toyota Innova Reborn, Toyota Avanza/Veloz
@@ -190,7 +190,7 @@ Gunakan data berikut sebagai **social proof** dan **studi kasus** dalam artikel:
 - Halaman jual (sales page) yang menggerakkan pengunjung untuk WhatsApp/booking.
 
 ### 3.2 Blog/Artikel
-- Artikel mendalam di `lincah.web.id/blog/`.
+- Artikel mendalam di `lincahtravel.web.id/blog/`.
 - **Topik:** Panduan perjalanan, perbandingan armada, tips booking travel, info wisata, transportasi lokal, dan cerita pelanggan.
 - **Target pembaca:** Traveler, pekerja dinas, mahasiswa, keluarga, dan wisatawan yang bepergian di Sumatera Selatan.
 - **Tujuan:** Membangun authority di niche travel Palembang, menarik traffic SEO/GEO, soft-selling layanan Lincah Travel.
@@ -342,7 +342,7 @@ Gunakan secara bergantian untuk menjaga keunikan tiap artikel:
 
 ---
 
-> **⚠️ CATATAN:** Dokumen ini adalah sumber kebenaran tunggal untuk semua konten blog yang diproduksi oleh AI Agent untuk lincah.web.id. Jika ada informasi yang bertentangan dari sumber lain, **selalu prioritaskan data dalam dokumen ini dan file Markdown di `src/content/`.**
+> **⚠️ CATATAN:** Dokumen ini adalah sumber kebenaran tunggal untuk semua konten blog yang diproduksi oleh AI Agent untuk lincahtravel.web.id. Jika ada informasi yang bertentangan dari sumber lain, **selalu prioritaskan data dalam dokumen ini dan file Markdown di `src/content/`.**
 
 ---
 

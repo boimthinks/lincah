@@ -410,7 +410,7 @@ const NotasPage = {
 
           <div style="border-top: 2px solid #e2e8f0; padding-top: 16px; font-size: 10px; color: #94a3b8; text-align: center; line-height: 1.6;">
             <div style="font-weight: 600; color: #64748b;">Lincah Travel</div>
-            <div>lincah.web.id • ${waLink}</div>
+            <div>lincahtravel.web.id • ${waLink}</div>
             <div>Lorong Tj. Burung Utama, Bukit Lama, Kec. Ilir Bar. I, Kota Palembang 30139</div>
             <div style="margin-top: 8px; font-style: italic;">Nota ini adalah bukti perjalanan dinas yang valid</div>
           </div>
@@ -505,7 +505,7 @@ Terima kasih telah menggunakan layanan kami 🙏
 
 *Lincah Travel*
 Cepat . Aman . Nyaman
-lincah.web.id`;
+lincahtravel.web.id`;
 
     const waUrl = `https://wa.me/${nomor}?text=${encodeURIComponent(message)}`;
     window.open(waUrl, '_blank');

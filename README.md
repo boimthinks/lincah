@@ -1,6 +1,6 @@
 # Panduan Pengelolaan Website Lincah Travel
 
-Selamat datang di website resmi **Lincah Travel** (lincah.web.id). Dokumen ini dibuat khusus untuk Anda yang akan mengelola dan memperbarui konten website ini secara rutin.
+Selamat datang di website resmi **Lincah Travel** (lincahtravel.web.id). Dokumen ini dibuat khusus untuk Anda yang akan mengelola dan memperbarui konten website ini secara rutin.
 
 Website ini dibangun menggunakan **Astro v6** dengan sistem **Static Site Generation (SSG)**, yang artinya semua data rute, hotel, dan transportasi disimpan dalam bentuk file **Markdown** sederhana. Anda **tidak perlu menjadi programmer** untuk menambah atau mengubah konten di website ini.
 
