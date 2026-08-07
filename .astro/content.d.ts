@@ -131,6 +131,7 @@ declare module 'astro:content' {
   data: InferEntrySchema<"blog">;
   rendered?: RenderedContent;
   filePath?: string;
+  digest?: string | number;
 }>;
 "city_images": Record<string, {
   id: string;
@@ -139,6 +140,7 @@ declare module 'astro:content' {
   data: InferEntrySchema<"city_images">;
   rendered?: RenderedContent;
   filePath?: string;
+  digest?: string | number;
 }>;
 "districts": Record<string, {
   id: string;
@@ -147,6 +149,7 @@ declare module 'astro:content' {
   data: InferEntrySchema<"districts">;
   rendered?: RenderedContent;
   filePath?: string;
+  digest?: string | number;
 }>;
 "faq": Record<string, {
   id: string;
@@ -155,6 +158,7 @@ declare module 'astro:content' {
   data: InferEntrySchema<"faq">;
   rendered?: RenderedContent;
   filePath?: string;
+  digest?: string | number;
 }>;
 "hotels": Record<string, {
   id: string;
@@ -163,6 +167,7 @@ declare module 'astro:content' {
   data: InferEntrySchema<"hotels">;
   rendered?: RenderedContent;
   filePath?: string;
+  digest?: string | number;
 }>;
 "public_transport": Record<string, {
   id: string;
@@ -171,6 +176,7 @@ declare module 'astro:content' {
   data: InferEntrySchema<"public_transport">;
   rendered?: RenderedContent;
   filePath?: string;
+  digest?: string | number;
 }>;
 "rute": Record<string, {
   id: string;
@@ -179,6 +185,7 @@ declare module 'astro:content' {
   data: InferEntrySchema<"rute">;
   rendered?: RenderedContent;
   filePath?: string;
+  digest?: string | number;
 }>;
 "testimonials": Record<string, {
   id: string;
@@ -187,6 +194,7 @@ declare module 'astro:content' {
   data: InferEntrySchema<"testimonials">;
   rendered?: RenderedContent;
   filePath?: string;
+  digest?: string | number;
 }>;
 "vehicles": Record<string, {
   id: string;
@@ -195,6 +203,7 @@ declare module 'astro:content' {
   data: InferEntrySchema<"vehicles">;
   rendered?: RenderedContent;
   filePath?: string;
+  digest?: string | number;
 }>;
 
 	};
