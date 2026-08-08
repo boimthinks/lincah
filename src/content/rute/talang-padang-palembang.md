@@ -16,9 +16,9 @@ Perjalanan sejauh ini membutuhkan kenyamanan ekstra. Armada Hiace Premio dengan 
 
 ## Kenapa Pilih Lincah Travel untuk Rute Talang Padang-Palembang?
 
-**Layanan Door-to-Door.** Penjemputan dari titik lokasi di Talang Padang dan pengantaran ke alamat tujuan di Palembang — tanpa transit di terminal.
+**Layanan Door-to-Door.** Penjemputan dari titik lokasi di Talang Padang dan pengantaran ke alamat tujuan di Palembang, tanpa transit di terminal.
 
-**Armada Premium.** Toyota Hiace Premio dengan reclining seat premium, AC double blower, dan USB charger di setiap kursi — nyaman untuk perjalanan 10+ jam.
+**Armada Premium.** Toyota Hiace Premio dengan reclining seat premium, AC double blower, dan USB charger di setiap kursi, nyaman untuk perjalanan 10+ jam.
 
 **Driver Berpengalaman.** Sopir kami menguasai rute tol dan lintas barat Lampung, termasuk jalur alternatif saat macet.
 
@@ -28,16 +28,15 @@ Perjalanan sejauh ini membutuhkan kenyamanan ekstra. Armada Hiace Premio dengan 
 
 | Waktu | Keterangan |
 |-------|-----------|
-| 08.00 WIB | Pagi hari, tiba malam — maksimalkan waktu di Palembang |
-| 14.00 WIB | Siang hari, tiba dini hari — perjalanan santai |
+| 08.00 WIB | Pagi hari, tiba malam, maksimalkan waktu di Palembang |
+| 14.00 WIB | Siang hari, tiba dini hari, perjalanan santai |
 | 20.00 WIB | Malam hari, tidur di perjalanan, sampai pagi |
 
 ## Armada untuk Rute Talang Padang-Palembang
 
-- **Toyota Hiace Premio** — 11 penumpang, reclining seat premium, AC double blower, USB charger.
-- **Toyota Innova Reborn** — 7 penumpang, captain seat.
+- **Toyota Hiace Premio**: 11 penumpang, reclining seat premium, AC double blower, USB charger.
+- **Toyota Innova Reborn**: 7 penumpang, captain seat.
 
 ## Cara Pemesanan
 
-Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Talang Padang-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam — fast response, langsung diproses.
-
+Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Talang Padang-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam, fast response, langsung diproses.

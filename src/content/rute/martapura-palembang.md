@@ -10,7 +10,7 @@ description: Travel Martapura (OKU Timur) ke Palembang — 5 jam, Rp 160.000 via
 img: src\content\city-images.md
 ---
 
-Martapura adalah ibukota Kabupaten OKU Timur yang terletak di perbatasan Lampung-Sumatera Selatan. Sebagai kota persinggahan di Lintas Sumatera, Martapura memiliki posisi strategis yang menghubungkan Palembang dengan Lampung. Jarak 220 km dari Martapura ke Palembang bisa ditempuh dalam 5 jam.
+Martapura adalah ibukota Kabupaten OKU Timur yang terletak di perbatasan Lampung-Sumatera Selatan. Sebagai kota persinggahan di Lintas Sumatera, posisinya cukup strategis, menghubungkan Palembang dengan Lampung. Jarak 220 km dari Martapura ke Palembang bisa ditempuh dalam 5 jam.
 
 ## Kenapa Pilih Lincah Travel untuk Rute Martapura-Palembang?
 
@@ -32,19 +32,17 @@ Martapura adalah ibukota Kabupaten OKU Timur yang terletak di perbatasan Lampung
 
 ## Tips Perjalanan Martapura-Palembang
 
-1. **Pilih pagi hari** untuk perjalanan yang lebih nyaman.
-2. **Pesan H-1** untuk memastikan kursi.
-3. **Bawa air minum** untuk perjalanan 5 jam.
-4. **Manfaatkan USB charger** untuk mengisi daya ponsel.
+1.  Pilih pagi hari untuk perjalanan yang lebih nyaman.
+2.  Pesan H-1 untuk memastikan kursi.
+3.  Bawa air minum untuk perjalanan 5 jam.
+4.  Manfaatkan USB charger untuk mengisi daya ponsel.
 
 ## Armada untuk Rute Martapura-Palembang
 
-- **Toyota Hiace Premio** — 11 penumpang, reclining seat, AC double blower.
-- **Toyota Innova Reborn** — 7 penumpang, captain seat.
-- **Toyota Avanza/Veloz** — 6 penumpang, ekonomis.
+- **Toyota Hiace Premio**: 11 penumpang, reclining seat, AC double blower.
+- **Toyota Innova Reborn**: 7 penumpang, captain seat.
+- **Toyota Avanza/Veloz**: 6 penumpang, ekonomis.
 
 ## Cara Pemesanan
 
-Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Martapura-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam.
-
-Atau klik tombol WhatsApp di halaman ini untuk booking instan.
+Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Martapura-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam. Atau klik tombol WhatsApp di halaman ini untuk booking instan.

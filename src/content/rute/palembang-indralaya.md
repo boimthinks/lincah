@@ -10,35 +10,35 @@ description: Travel Palembang ke Indralaya — 45 menit, Rp 50.000 via tol. Seti
 img: src\content\city-images.md
 ---
 
-Indralaya adalah ibukota Kabupaten Ogan Ilir dan lokasi kampus utama Universitas Sriwijaya (UNSRI). Ribuan mahasiswa dan dosen melakukan perjalanan dari Palembang ke Indralaya setiap hari. Jarak hanya 35 km via tol bisa ditempuh dalam 45 menit.
+Indralaya adalah ibukota Kabupaten Ogan Ilir dan lokasi kampus utama Universitas Sriwijaya. Ribuan mahasiswa dan dosen melintas dari Palembang ke Indralaya hampir tiap hari. Jarak via tol hanya 35 km, sehingga cukup 45 menit untuk sampai.
 
 ## Kenapa Pilih Lincah Travel untuk Rute Palembang-Indralaya?
 
-**Layanan Door-to-Door.** Penjemputan dari alamat di Palembang dan pengantaran ke kampus atau kos di Indralaya.
+**Layanan Door-to-Door.** Kami jemput dari alamat rumah atau kos di Palembang, lalu antar ke kampus atau kos di Indralaya.
 
-**Jadwal Setiap Jam.** Keberangkatan setiap jam dari pukul 06.00 hingga 20.00 WIB.
+**Keberangkatan Per Jam.** Setiap jam dari pukul 06.00 sampai 20.00 WIB, Anda tidak perlu menunggu lama.
 
-**Harga Ekonomis.** Rp 50.000 saja — ramah di kantong mahasiswa.
+**Harga Mahasiswa.** Rp 50.000 untuk perjalanan sekali jalan.
 
-**Armada Nyaman.** Avanza/Veloz dan Innova Reborn dengan AC full.
+**Armada Nyaman.** Avanza/Veloz dan Innova Reborn ber-AC.
 
 ## Jadwal Keberangkatan Palembang ke Indralaya
 
 | Waktu | Keterangan |
 |-------|-----------|
-| Setiap Jam (06.00 - 20.00 WIB) | Keberangkatan rutin setiap jam via tol |
+| Setiap Jam (06.00 - 20.00 WIB) | Rutin setiap jam via tol |
 
 ## Tips Perjalanan Palembang-Indralaya
 
-1. **Pesan 30 menit sebelum keberangkatan** via WhatsApp.
-2. **Cocok untuk mahasiswa** yang ingin ke kampus UNSRI Indralaya.
-3. **Hemat waktu** dengan perjalanan via tol hanya 45 menit.
+1. **Pesan 30 menit sebelum berangkat** via WhatsApp agar posisinya terjadwal.
+2. **Cocok untuk mahasiswa** yang masuk pagi ke kampus UNSRI Indralaya.
+3. **Hemat waktu** dengan via tol yang jauh dari kemacetan dalam kota.
 
 ## Armada untuk Rute Palembang-Indralaya
 
-- **Toyota Innova Reborn** — 7 penumpang, captain seat, AC full.
-- **Toyota Avanza/Veloz** — 6 penumpang, ekonomis, AC full.
+- **Toyota Innova Reborn**: 7 penumpang, captain seat.
+- **Toyota Avanza / Veloz**: 6 penumpang, ekonomis.
 
 ## Cara Pemesanan
 
-Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Indralaya, jam, dan alamat penjemputan. Admin siap 24 jam. Atau klik tombol WhatsApp di halaman ini untuk booking langsung.
+Hubungi **0813-6923-1893** via WhatsApp dan tulis rute Palembang-Indralaya, jam, serta alamat penjemputan. Admin siap 24 jam membantu memilih jadwal yang pas.

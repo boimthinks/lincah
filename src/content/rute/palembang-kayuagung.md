@@ -10,40 +10,34 @@ description: Travel Palembang ke Kayu Agung — 1,5 jam, Rp 70.000 via tol. Seti
 img: src\content\city-images.md
 ---
 
-Kayu Agung, ibukota Kabupaten Ogan Komering Ilir (OKI), kini dapat dijangkau dari Palembang dalam sekejap mata. Berkat akses tol Palembang-Kayu Agung, perjalanan yang dulunya butuh waktu berjam-jam kini hanya memakan waktu sekitar 1,5 jam saja. Hal ini menjadikan kota ini sangat terjangkau bagi masyarakat Palembang untuk urusan pekerjaan, bisnis, atau sekadar mengunjungi keluarga.
-
-Lincah Travel menawarkan layanan yang paling efisien untuk rute ini dengan jadwal keberangkatan yang sangat sering setiap harinya.
+Kayu Agung, ibukota Kabupaten Ogan Komering Ilir, kini dekat dari Palembang. Berkat tol, perjalanan yang dulu makan berjam-jam cukup ditempuh sekitar 1,5 jam. Banyak orang memakai rute ini untuk urusan pekerjaan, bisnis, atau sekadar menjenguk keluarga.
 
 ## Keunggulan Lincah Travel untuk Rute Palembang-Kayu Agung
 
-**Efisiensi Waktu.** Kami memanfaatkan tol secara optimal sehingga Anda sampai tujuan lebih cepat dan bebas dari kemacetan jalur lama.
-
-**Layanan Door-to-Door.** Kami jemput langsung di rumah/kantor dan antar ke alamat tujuan di Kayu Agung.
-
-**Jadwal Sangat Fleksibel.** Keberangkatan setiap jam (07.00 - 18.00 WIB), jadi Anda tidak perlu menunggu lama untuk berangkat.
-
-**Armada Nyaman.** Toyota Innova Reborn dan Avanza/Veloz yang selalu dalam kondisi bersih dan terawat.
-
-**Harga Ekonomis.** Rp 70.000 flat.
+*   **Efisiensi Waktu.** Kami memanfaatkan tol secara optimal supaya Anda sampai lebih cepat dan bebas dari kemacetan jalur lama.
+*   **Layanan Door-to-Door.** Kami jemput di rumah atau kantor, lalu antar ke alamat tujuan di Kayu Agung.
+*   **Jadwal Luas.** Setiap jam mulai 07.00 sampai 18.00 WIB, sehingga Anda tidak menunggu lama.
+*   **Armada Terawat.** Innova Reborn dan Avanza/Veloz dalam kondisi bersih.
+*   **Harga Ekonomis.** Rp 70.000 flat.
 
 ## Jadwal Keberangkatan Palembang ke Kayu Agung
 
 | Waktu | Keterangan |
 |-------|-----------|
-| Setiap Jam (07.00 - 18.00 WIB) | Keberangkatan sangat rutin, setiap jam sepanjang hari |
+| Setiap Jam (07.00 - 18.00 WIB) | Berangkat rutin tiap jam |
 
 ## Armada yang Tersedia
 
-- **Toyota Innova Reborn** — 7 kursi, kenyamanan maksimal dengan captain seat.
-- **Toyota Avanza/Veloz** — 6 kursi, pilihan cerdas untuk perjalanan cepat dan efisien.
+- **Toyota Innova Reborn**: 7 kursi dengan captain seat.
+- **Toyota Avanza/Veloz**: 6 kursi, pilihan praktis.
 
-## Tips untuk Perjalanan ke Kayu Agung
+## Tips perjalanan ke Kayu Agung
 
-1. **Jadwalkan perjalanan Anda** — karena kami berangkat setiap jam, Anda bisa mengatur waktu sesuka hati.
-2. **Pesan H-1 atau beberapa jam sebelumnya** via WhatsApp untuk mengamankan kursi Anda.
-3. **Pastikan alamat penjemputan dan tujuan lengkap** agar driver kami bisa langsung meluncur ke lokasi Anda.
-4. **Perjalanan ini sangat cocok untuk PP (Pergi-Pulang)** dalam satu hari karena durasinya yang singkat.
+1. **Atur jam sendiri** karena keberangkatan kami tiap jam.
+2. **Pesan H-1 atau beberapa jam sebelumnya** via WhatsApp.
+3. **Lengkapi alamat penjemputan dan tujuan** supaya driver cepat menemukan lokasi.
+4. **Cocok untuk pergi-pulang (PP)** dalam sehari.
 
 ## Cara Pemesanan
 
-Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Kayu Agung, jam yang diinginkan, serta alamat penjemputan dan tujuan di Kayu Agung. Admin kami siap membantu proses booking Anda. Klik tombol WhatsApp sekarang untuk memesan kursi Anda.
+Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Kayu Agung, jam yang dimau, dan alamat tujuan. Admin siap membantu proses booking.

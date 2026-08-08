@@ -10,7 +10,7 @@ description: Travel Kuala Tungkal ke Palembang cepat & aman dengan Lincah Travel
 img: src\content\city-images.md
 ---
 
-Palembang bukan hanya kota besar — bagi banyak orang, Palembang adalah pusat pemerintahan, pendidikan, dan bisnis yang harus dikunjungi secara rutin. Dari Kuala Tungkal yang tenang menuju Palembang yang sibuk, Anda butuh transportasi yang bisa diandalkan agar sampai tepat waktu dan tetap fit. Lincah Travel siap menjemput Anda langsung dari alamat di Kuala Tungkal dan mengantar ke mana pun tujuan Anda di Palembang.
+Palembang adalah pusat pemerintahan, pendidikan, dan bisnis yang rutin dikunjungi warga Kuala Tungkal. Dari Kuala Tungkal yang tenang menuju Palembang yang sibuk, Anda butuh transportasi yang bisa diandalkan agar sampai tepat waktu dan tetap fit. Lincah Travel siap menjemput Anda langsung dari alamat di Kuala Tungkal dan mengantar ke mana pun tujuan Anda di Palembang.
 
 ## Kenapa Perjalanan Kuala Tungkal-Palembang Bareng Lincah Travel?
 
@@ -36,7 +36,7 @@ Harga **Rp 400.000** flat untuk satu kursi, door-to-door, tanpa biaya tambahan.
 ## Persiapan agar Perjalanan Lebih Nyaman
 
 1.  **Pilih jadwal pagi** jika ingin menikmati pemandangan dan tiba di Palembang sore hari.
-2.  **Pilih jadwal malam** jika ingin tidur di mobil dan tiba pagi — cocok untuk agenda pagi.
+2.  **Pilih jadwal malam** jika ingin tidur di mobil dan tiba pagi, cocok untuk agenda pagi.
 3.  **Bawa camilan ringan**, meski kami akan berhenti di rest area untuk istirahat dan makan.
 4.  **Beri tahu driver** jika ingin berhenti lebih awal atau butuh istirahat ekstra.
 5.  **Siapkan nomor kontak** keluarga/teman di Palembang untuk koordinasi waktu tiba.

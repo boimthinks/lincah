@@ -34,18 +34,17 @@ Muara Dua adalah ibukota Kabupaten OKU Selatan yang terletak di kaki Bukit Baris
 
 1. **Pilih pagi hari** untuk menikmati pemandangan perbukitan yang indah.
 2. **Gunakan Hiace Premio** dengan reclining seat untuk perjalanan 7-8 jam yang nyaman.
-3. **Bawa jaket** — suhu sejuk karena kawasan perbukitan.
+3. **Bawa jaket**: suhu sejuk karena kawasan perbukitan.
 4. **Pesan H-1** untuk memastikan kursi, terutama musim liburan.
 
 ## Armada untuk Rute Muara Dua-Palembang
 
-- **Toyota Hiace Premio** — 11 penumpang, reclining seat premium, AC double blower, USB charger.
-- **Toyota Innova Reborn** — 7 penumpang, captain seat.
-- **Toyota Avanza/Veloz** — 6 penumpang, ekonomis.
+- **Toyota Hiace Premio**: 11 penumpang, reclining seat premium, AC double blower, USB charger.
+- **Toyota Innova Reborn**: 7 penumpang, captain seat.
+- **Toyota Avanza/Veloz**: 6 penumpang, ekonomis.
 
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Muara Dua-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam.
 
 Atau klik tombol WhatsApp di halaman ini untuk booking langsung.
-

@@ -16,25 +16,25 @@ Dengan tarif Rp 100.000, Sungai Lilin-Palembang menjadi salah satu rute termurah
 
 ## Kenapa Pilih Lincah Travel untuk Rute Sungai Lilin-Palembang?
 
-**Layanan Door-to-Door.** Anda dijemput dari alamat di Sungai Lilin dan diantar langsung ke tujuan di Palembang — rumah sakit, mal, kampus, atau terminal.
+**Layanan Door-to-Door.** Anda dijemput dari alamat di Sungai Lilin dan diantar langsung ke tujuan di Palembang, rumah sakit, mal, kampus, atau terminal.
 
 **Armada Nyaman.** Innova Reborn dengan captain seat lega atau Avanza/Veloz yang irit dan ekonomis.
 
-**Harga Ekonomis.** Rp 100.000 per orang — lebih murah dari ongkos kendaraan pribadi.
+**Harga Ekonomis.** Rp 100.000 per orang, lebih murah dari ongkos kendaraan pribadi.
 
 ## Jadwal Keberangkatan Sungai Lilin ke Palembang
 
 | Waktu | Keterangan |
 |-------|-----------|
-| 08.00 WIB | Pagi hari, tiba siang — pas belanja |
-| 14.00 WIB | Siang hari, tiba sore — urusan cepat |
-| 18.00 WIB | Sore hari, tiba malam — setelah kerja |
+| 08.00 WIB | Pagi hari, tiba siang, pas belanja |
+| 14.00 WIB | Siang hari, tiba sore, urusan cepat |
+| 18.00 WIB | Sore hari, tiba malam, setelah kerja |
 
 ## Armada untuk Rute Sungai Lilin-Palembang
 
-- **Toyota Innova Reborn** — 7 penumpang, captain seat, AC full.
-- **Toyota Avanza/Veloz** — 6 penumpang, ekonomis.
+- **Toyota Innova Reborn**: 7 penumpang, captain seat, AC full.
+- **Toyota Avanza/Veloz**: 6 penumpang, ekonomis.
 
 ## Cara Pemesanan
 
-Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Sungai Lilin-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam — booking mudah, berangkat tepat waktu.
+Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Sungai Lilin-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam, booking mudah, berangkat tepat waktu.

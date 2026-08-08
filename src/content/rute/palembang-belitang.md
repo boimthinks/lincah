@@ -10,38 +10,30 @@ description: Travel Palembang ke Belitang (OKU Timur) — 5-6 jam, Rp 150.000. D
 img: src\content\city-images.md
 ---
 
-Belitang dikenal sebagai lumbung padi Sumatera Selatan — kawasan sentra pertanian di Kabupaten OKU Timur. Banyak petani, pedagang, dan pebisnis dari Palembang yang bepergian ke Belitang untuk urusan perdagangan hasil pertanian dan kunjungan keluarga. Jarak 240 km via Lintas Timur bisa ditempuh dalam 5-6 jam.
+Baik untuk urusan perdagangan hasil tani, kunjungan keluarga, atau pulang kampung, rute Palembang-Belitang kerap dipakai warga Sumatera Selatan. Belitang sendiri dikenal sebagai lumbung padi di Kabupaten OKU Timur. Jarak tempuh 240 km via Lintas Timur rata-ratakan 5-6 jam.
 
 ## Kenapa Pilih Lincah Travel untuk Rute Palembang-Belitang?
 
-**Layanan Door-to-Door.** Penjemputan dari alamat Anda di Palembang dan pengantaran ke tujuan di Belitang.
+Alih-alih menempuh rute sendiri dengan kendaraan pribadi atau ganti-ganti angkutan, kami menyederhanakan semuanya:
 
-**Armada Nyaman.** Toyota Hiace Premio, Innova Reborn, dan Avanza/Veloz dengan AC full.
-
-**Driver Profesional.** Sopir berpengalaman di rute Palembang-Belitang.
-
-**Harga Terjangkau.** Rp 150.000 flat.
+*   **Antar Langsung:** Kami jemput dari alamat Anda di Palembang dan mengantar ke tujuan di Belitang, tanpa mampir di terminal.
+*   **Armada Nyaman:** Toyota Hiace Premio untuk rombongan, Innova Reborn untuk privat, dan Avanza/Veloz untuk hemat.
+*   **Driver yang Hafal Rute:** Sopir kami menguasai Lintas Timur dan alternatifnya bila ada kepadatan lalu lintas.
 
 ## Jadwal Keberangkatan Palembang ke Belitang
 
 | Waktu | Keterangan |
 |-------|-----------|
-| 08.00 WIB | Pagi hari, tiba siang |
-| 15.00 WIB | Siang hari, tiba malam |
-| 19.00 WIB | Malam hari, perjalanan tenang |
+| 08.00 WIB | Pagi, tiba siang, bisa langsung ke sawah |
+| 15.00 WIB | Siang, tiba malam |
+| 19.00 WIB | Malam, perjalanan tenang |
 
 ## Tips Perjalanan Palembang-Belitang
 
-1. **Pilih pagi hari** untuk menikmati pemandangan sawah yang hijau.
-2. **Pesan H-1** untuk memastikan kursi.
+1. **Berangkat pagi** lebih disarankan agar waktu di Belitang lebih panjang.
+2. **Pesan H-1**, terutama saat musim panen.
 3. **Bawa camilan** untuk perjalanan 5-6 jam.
-
-## Armada untuk Rute Palembang-Belitang
-
-- **Toyota Hiace Premio** — 11 penumpang, reclining seat, AC double blower, USB charger.
-- **Toyota Innova Reborn** — 7 penumpang, captain seat.
-- **Toyota Avanza/Veloz** — 6 penumpang, ekonomis.
 
 ## Cara Pemesanan
 
-Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Belitang, tanggal, dan alamat penjemputan. Admin siap 24 jam. Atau klik tombol WhatsApp di halaman ini untuk booking langsung.
+Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Belitang, tanggal, dan alamat penjemputan. Admin siap 24 jam, dan driver akan dikirim sesuai jadwal. Booking sekarang untuk mengamankan kursi.

@@ -20,7 +20,7 @@ Muara Enim adalah kota penghasil batu bara dan pusat industri tambang di Sumater
 
 **Driver Profesional.** Sopir kami berpengalaman di rute Muara Enim-Palembang, termasuk jalur tambang dan Lintas Sumatera.
 
-**Harga Terjangkau.** Rp 140.000 flat — hemat untuk kantong karyawan dan pelajar.
+**Harga Terjangkau.** Rp 140.000 flat, hemat untuk kantong karyawan dan pelajar.
 
 ## Jadwal Keberangkatan Muara Enim ke Palembang
 
@@ -35,14 +35,14 @@ Muara Enim adalah kota penghasil batu bara dan pusat industri tambang di Sumater
 
 1. **Pilih pagi hari** untuk perjalanan yang nyaman.
 2. **Pesan H-1** untuk memastikan kursi, terutama di hari kerja.
-3. **Cocok untuk perjalanan dinas** — harga terjangkau dengan fasilitas nyaman.
+3. **Cocok untuk perjalanan dinas**: harga terjangkau dengan fasilitas nyaman.
 4. **Manfaatkan USB charger** untuk mengisi daya ponsel selama perjalanan.
 
 ## Armada untuk Rute Muara Enim-Palembang
 
-- **Toyota Hiace Premio** — 11 penumpang, reclining seat, AC double blower.
-- **Toyota Innova Reborn** — 7 penumpang, captain seat.
-- **Toyota Avanza/Veloz** — 6 penumpang, ekonomis.
+- **Toyota Hiace Premio**: 11 penumpang, reclining seat, AC double blower.
+- **Toyota Innova Reborn**: 7 penumpang, captain seat.
+- **Toyota Avanza/Veloz**: 6 penumpang, ekonomis.
 
 ## Cara Pemesanan
 

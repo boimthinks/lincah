@@ -10,38 +10,32 @@ description: Travel Palembang ke Batu Marta (OKU Timur) — 5-6 jam, Rp 170.000.
 img: src\content\city-images.md
 ---
 
-Batu Marta adalah ibukota Kabupaten OKU Timur yang terus berkembang sebagai pusat ekonomi dan pendidikan. Banyak warga Palembang yang bepergian ke Batu Marta untuk urusan dinas, kunjungan keluarga, atau ekspansi bisnis. Perjalanan sejauh 230 km via Lintas Timur bisa ditempuh dalam 5-6 jam.
+Batu Marta di Kabupaten OKU Timur terus berkembang sebagai pusat ekonomi dan pendidikan. Banyak warga Palembang yang bepergian ke sana untuk urusan dinas, kunjungan keluarga, atau ekspansi bisnis. Perjalanan sejauh 230 km via Lintas Timur bisa ditempuh dalam 5-6 jam, dan kami siap mengantar Anda dari depan rumah.
 
 ## Kenapa Pilih Lincah Travel untuk Rute Palembang-Batu Marta?
 
-**Layanan Door-to-Door.** Kami jemput dari alamat Anda di Palembang dan antar langsung ke tujuan di Batu Marta.
+Perjalanan jauh biasanya menguras tenaga. Sebagian besar kelelahan itu lahir dari harus pindah-pindah kendaraan. Kami menghilangkan bagian itu dengan layanan door-to-door: jemput di alamat Anda di Palembang, antar langsung ke tujuan di Batu Marta.
 
-**Armada Prima.** Toyota Hiace Premio, Innova Reborn, dan Avanza/Veloz dengan AC full.
+**Pilihan Armada.** Toyota Hiace Premio untuk rombongan, Innova Reborn untuk perjalanan privat, Avanza/Veloz untuk opsi ekonomis. Semua dengan AC full.
 
-**Driver Profesional.** Sopir berpengalaman di rute Palembang-Batu Marta.
+**Driver Paham Jalan.** Sopir kami hafal rute Lintas Timur Palembang-Batu Marta dan tahu di mana harus berhenti untuk istirahat.
 
-**Harga Transparan.** Rp 170.000 flat.
+**Harga Jelas.** Rp 170.000 flat, tidak ada tambahan di perjalanan.
 
 ## Jadwal Keberangkatan Palembang ke Batu Marta
 
 | Waktu | Keterangan |
 |-------|-----------|
-| 08.00 WIB | Pagi hari, tiba siang |
-| 15.00 WIB | Siang hari, tiba malam |
-| 20.00 WIB | Malam hari, perjalanan tenang |
+| 08.00 WIB | Pagi, tiba siang |
+| 15.00 WIB | Siang, tiba malam |
+| 20.00 WIB | Malam, perjalanan tenang |
 
 ## Tips Perjalanan Palembang-Batu Marta
 
-1. **Pilih pagi hari** untuk perjalanan yang nyaman.
-2. **Pesan H-1** untuk memastikan kursi.
-3. **Bawa camilan** untuk perjalanan 5-6 jam.
-
-## Armada untuk Rute Palembang-Batu Marta
-
-- **Toyota Hiace Premio** — 11 penumpang, reclining seat, AC double blower, USB charger.
-- **Toyota Innova Reborn** — 7 penumpang, captain seat.
-- **Toyota Avanza/Veloz** — 6 penumpang, ekonomis.
+1. Pilih jadwal pagi bila ingin tiba sebelum sore dan masih bisa beraktivitas.
+2. Pesan H-1 untuk memastikan kursi, apalagi di akhir pekan.
+3. Bawa camilan ringan untuk perjalanan 5-6 jam.
 
 ## Cara Pemesanan
 
-Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Batu Marta, tanggal, dan alamat penjemputan. Admin siap 24 jam. Atau klik tombol WhatsApp di halaman ini untuk booking langsung.
+Hubungi **0813-6923-1893** via WhatsApp dan sebutkan rute Palembang-Batu Marta, tanggal, serta alamat penjemputan. Admin siap merespons 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.

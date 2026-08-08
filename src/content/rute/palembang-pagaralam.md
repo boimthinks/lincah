@@ -22,36 +22,36 @@ Dengan jarak 290 km, perjalanan Palembang-Pagaralam memakan waktu 7-8 jam melewa
 
 **Layanan Door-to-Door.** Kami jemput Anda dari alamat di Palembang dan antarkan langsung ke hotel, penginapan, atau tujuan wisata di Pagaralam.
 
-**Harga Terjangkau.** Rp 180.000 flat — sudah termasuk layanan door-to-door dan kenyamanan selama perjalanan.
+**Harga Terjangkau.** Rp 180.000 flat, sudah termasuk layanan door-to-door dan kenyamanan selama perjalanan.
 
 ## Jadwal Keberangkatan Palembang ke Pagaralam
 
 | Waktu | Keterangan |
 |-------|-----------|
-| 08.00 WIB | Keberangkatan pagi, tiba sore — ideal untuk menikmati pemandangan Gunung Dempo di siang hari |
-| 15.00 WIB | Keberangkatan sore, tiba malam — cocok untuk mereka yang ingin berangkat setelah bekerja |
-| 20.00 WIB | Keberangkatan malam, perjalanan tenang — udara sejuk di malam hari |
+| 08.00 WIB | Keberangkatan pagi, tiba sore, ideal untuk menikmati pemandangan Gunung Dempo di siang hari |
+| 15.00 WIB | Keberangkatan sore, tiba malam, cocok untuk mereka yang ingin berangkat setelah bekerja |
+| 20.00 WIB | Keberangkatan malam, perjalanan tenang, udara sejuk di malam hari |
 
 ## Tips Perjalanan ke Pagaralam
 
 1. **Pilih jadwal pagi** (08.00 WIB) untuk menikmati pemandangan Gunung Dempo dan perkebunan teh sepanjang jalan.
-2. **Bawa jaket tebal** — suhu di Pagaralam bisa sangat dingin, terutama di malam hari dan pagi buta.
-3. **Pesan H-1** terutama di akhir pekan dan hari libur — rute ini sangat populer bagi wisatawan.
-4. **Bawa obat mabuk perjalanan** — jalan berkelok-kelok bisa memicu mabuk bagi sebagian orang.
-5. **Sediakan uang tunai** — meskipun banyak tempat sudah menerima transfer, beberapa warung dan tempat wisata di Pagaralam masih menggunakan transaksi tunai.
+2. **Bawa jaket tebal**: suhu di Pagaralam bisa sangat dingin, terutama di malam hari dan pagi buta.
+3. **Pesan H-1** terutama di akhir pekan dan hari libur, rute ini sangat populer bagi wisatawan.
+4. **Bawa obat mabuk perjalanan**: jalan berkelok-kelok bisa memicu mabuk bagi sebagian orang.
+5. **Sediakan uang tunai**: meskipun banyak tempat sudah menerima transfer, beberapa warung dan tempat wisata di Pagaralam masih menggunakan transaksi tunai.
 
 ## Armada yang Tersedia
 
-- **Toyota Hiace Premio** — 11 penumpang, reclining seat, AC double blower, USB charger — ideal untuk kelompok besar.
-- **Toyota Innova Reborn** — 7 penumpang, captain seat, AC full — cocok untuk keluarga atau tim kecil.
-- **Toyota Avanza/Veloz** — 6 penumpang, ekonomis, AC double blower — pilihan terjangkau untuk perjalanan pribadi.
+- **Toyota Hiace Premio**: 11 penumpang, reclining seat, AC double blower, USB charger, ideal untuk kelompok besar.
+- **Toyota Innova Reborn**: 7 penumpang, captain seat, AC full, cocok untuk keluarga atau tim kecil.
+- **Toyota Avanza/Veloz**: 6 penumpang, ekonomis, AC double blower, pilihan terjangkau untuk perjalanan pribadi.
 
 ## Destinasi Wisata di Pagaralam
 
-- **Gunung Dempo** — Puncak tertinggi di Sumatera Selatan, cocok untuk pendakian dan menikmati pemandangan matahari terbit.
-- **Perkebunan Teh Kayu Aji** — Pemandangan hijau perkebunan teh yang luas, cocok untuk foto dan berjalan-jalan.
-- **Air Terjun Lematang Indah** — Air terjun setinggi 50 meter dengan kolam alami yang menyegarkan.
-- **Taman Wisata Alam Pagaralam** — Area wisata alam dengan berbagai fasilitas untuk keluarga.
+- **Gunung Dempo**: Puncak tertinggi di Sumatera Selatan, cocok untuk pendakian dan menikmati pemandangan matahari terbit.
+- **Perkebunan Teh Kayu Aji**: Pemandangan hijau perkebunan teh yang luas, cocok untuk foto dan berjalan-jalan.
+- **Air Terjun Lematang Indah**: Air terjun setinggi 50 meter dengan kolam alami yang menyegarkan.
+- **Taman Wisata Alam Pagaralam**: Area wisata alam dengan berbagai fasilitas untuk keluarga.
 
 ## Cara Pemesanan
 
