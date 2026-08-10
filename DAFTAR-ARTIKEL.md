@@ -60,6 +60,7 @@ Tabel terbit (baris baru ditambahkan):
 | 23 | `2026-08-08-travel-jambi-bangko-door-to-door.md` | Travel Jambi Bangko Door to Door Terbaik 2026: Harga & Jadwal | Travel Jambi Bangko Rp200.000 door-to-door. Jadwal 08.00-20.00 WIB, armada Hiace/Innova/Avanza, jemput alamat. Booking via WA 0813-6923-1893. |
 | 24 | `2026-08-08-travel-palembang-bayung-lencir.md` | Travel Palembang Bayung Lencir Door to Door: Jadwal, Harga Tiket & Panduan 2026 | Travel Palembang Bayung Lencir Rp200.000 door-to-door, 4-5 jam via Lintas Timur. Jadwal 08:00/14:00/19:00 WIB. Booking WhatsApp 0813-6923-1893. |
 | 25 | `2026-08-10-travel-palembang-sekayu.md` | Travel Palembang Sekayu Door to Door: Jadwal, Harga Tiket & Panduan Rute 2026 | Travel Palembang ke Sekayu door-to-door mulai Rp100.000. Cek jadwal keberangkatan 08.00/13.00/16.00 WIB, pilihan armada nyaman, dan booking via WhatsApp 0813-6923-1893. |
+| 26 | `2026-08-11-travel-palembang-indralaya-unsri.md` | Travel Palembang Indralaya untuk Mahasiswa UNSRI: Harga Tiket & Jadwal 2026 | Travel Palembang Indralaya Rp 50.000 via tol 45 menit ke kampus UNSRI. Jadwal setiap jam 06.00-20.00 WIB, door-to-door. Pesan via WhatsApp 0813-6923-1893. |
 
 ---
 
@@ -75,7 +76,7 @@ Tabel terbit (baris baru ditambahkan):
   - Mengulas layanan travel door-to-door rute Palembang menuju Martapura, termasuk informasi tarif, titik penjemputan, dan jadwal fleksibel untuk penumpang umum maupun dinas.
 - [ ] **Travel Palembang Pendopo Pali: Solusi Transportasi Cepat dan Aman Sampai Tujuan**
   - Panduan rute travel Palembang ke Pendopo (Kabupaten PALI) via perlintasan darat, harga tiket terjangkau, serta kemudahan antar-jemput hingga alamat rumah/lokasi kerja.
-- [ ] **Travel Palembang Indralaya (Ogan Ilir): Pilihan Efisien untuk Mahasiswa Unsri dan Pekerja**
+- [x] ~~Travel Palembang Indralaya (Ogan Ilir): Pilihan Efisien untuk Mahasiswa Unsri dan Pekerja~~ → `2026-08-11-travel-palembang-indralaya-unsri.md`
   - Menyoroti rute singkat Palembang–Indralaya, jadwal keberangkatan intensif harian, layanan khusus antar-jemput area kampus Unsri Indralaya, serta opsi armada Avanza/Innova.
 - [ ] **Travel Palembang Muara Rupit (Muratara): Jadwal Keberangkatan & Tarif Tiket Terbaru 2026**
   - Informasi perjalanan jarak jauh lintas kabupaten dari Palembang ke Muara Rupit, tips kenyamanan selama 8–9 jam perjalanan, dan kesiapan armada Hiace/Innova.
