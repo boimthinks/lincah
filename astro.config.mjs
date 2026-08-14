@@ -78,6 +78,10 @@ const BUILD_DATE = new Date().toISOString().split('T')[0];
 export default defineConfig({
   site: 'https://lincahtravel.web.id',
   trailingSlash: 'always',
+  prefetch: {
+    prefetchAll: true,
+    defaultStrategy: 'hover',
+  },
   integrations: [react(), sitemap({
     filter: (page) => {
       const excluded = [

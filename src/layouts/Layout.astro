@@ -10,6 +10,7 @@ const { title, description = "Layanan Lincah Travel Terpercaya", canonical, noin
 const canonicalURL = new URL(canonical || Astro.url.pathname, Astro.site).href;
 import '../index.css';
 import FloatingWhatsApp from '../components/FloatingWhatsApp.astro';
+import { ClientRouter } from 'astro:transitions';
 
 ---
 
@@ -19,6 +20,7 @@ import FloatingWhatsApp from '../components/FloatingWhatsApp.astro';
 		<meta charset="UTF-8" />
 		<meta name="description" content={description} />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<ClientRouter />
 		<link rel="canonical" href={canonicalURL} />
 		{noindex && <meta name="robots" content="noindex, follow" />}
 		<meta property="og:title" content={title} />
