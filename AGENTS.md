@@ -9,7 +9,8 @@
 - **Tagline**: "Cepat . Aman . Nyaman"
 
 ## Pengingat Penting
-- Saat diminta menulis, mengedit, atau memberi saran judul artikel blog, **baca dulu `SUMBER-PENGETAHUAN.md`** (di root project) untuk data brand, rute, harga, armada, testimoni, frontmatter schema, dan **`DAFTAR-ARTIKEL.md`** untuk antrian & status artikel.
+- **Aturan Wajib Anti-Duplikasi Artikel**: Sebelum memberi saran judul, ide topik, atau menulis artikel blog baru, Agent **WAJIB membaca/memindai daftar file nyata di `src/content/blog/`** secara langsung (bukan hanya mengandalkan catatan di markdown).
+- Saat diminta menulis, mengedit, atau memberi saran judul artikel blog, baca `src/content/blog/` dan `SUMBER-PENGETAHUAN.md` (di root project) untuk data brand, rute, harga, armada, testimoni, frontmatter schema.
 - Gunakan skill **`penulis-ahli`** untuk menulis/mengedit artikel (menggabungkan humanizer + SEO/GEO + konten non-komoditas dalam satu pass).
 
 ## Tech Stack

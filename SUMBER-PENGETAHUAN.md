@@ -121,21 +121,25 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Lubuklinggau | ✅ Ada | `2026-07-30-travel-palembang-lubuklinggau.md` |
 | Palembang-Pagaralam | ✅ Ada | `2026-07-31-travel-palembang-pagaralam.md` |
 | Palembang-Danau Ranau | ✅ Ada | `2026-06-19-perjalanan-danau-ranau.md` |
-| Palembang-Betung | ⚠️ Ada (fokus hotel) | perlu artikel rute travel tambahan |
+| Palembang-Betung | ✅ Ada | `2026-06-21-travel-palembang-ke-betung-rekomendasi-hotel.md` |
 | Palembang-Kayu Agung | ✅ Ada | `2026-08-03-travel-palembang-kayu-agung.md` |
 | Palembang-Kuala Tungkal | ✅ Ada | `2026-08-02-travel-palembang-kuala-tungkal.md` |
+| Palembang-Muara Enim | ✅ Ada | `2026-08-04-travel-palembang-muara-enim.md` |
+| Palembang-Lahat | ✅ Ada | `2026-08-06-travel-palembang-lahat.md` |
+| Palembang-Muara Dua | ✅ Ada | `2026-08-07-travel-palembang-muara-dua.md` |
+| Palembang-Bayung Lencir | ✅ Ada | `2026-08-08-travel-palembang-bayung-lencir.md` |
+| Palembang-Sekayu | ✅ Ada | `2026-08-10-travel-palembang-sekayu.md` |
+| Palembang-Indralaya | ✅ Ada | `2026-08-11-travel-palembang-indralaya-unsri.md` |
+| Palembang-Martapura | ✅ Ada | `2026-08-13-travel-palembang-martapura-oku-timur.md` |
+| Palembang-Tebing Tinggi (Empat Lawang) | ✅ Ada | `2026-08-14-travel-palembang-tebing-tinggi-empat-lawang.md` |
 
 ### Rute Belum Ada Artikelya (PRIORITAS TINGGI)
 | Rute | Prioritas | Alasan |
 |---|---|---|
-| Palembang-Muara Enim | 🔴 Tinggi | Kabupaten besar, belum ada artikel |
-| Palembang-Lahat | 🔴 Tinggi | Rute populer ke arah Lubuklinggau, belum ada artikel |
-| Palembang-Sekayu | 🟡 Sedang | Kabupaten Musi Banyuasin |
-| Palembang-Belitang | 🟡 Sedang | Sudah ada sub-rute lain ke Ogan Komering Ulu |
-| Palembang-Indralaya | 🟡 Sedang | Dekat kota, sering dilalui |
-| Palembang-Muara Dua | 🟡 Sedang | Ogan Komering Ilir |
-| Palembang-Tebing Tinggi | 🟡 Sedang | Ogan Komering Ulu |
-| **Lain-lain** | 🟡 Sedang | Lihat `Saran Judul Artikel SEO.md` atau riset via graphify |
+| Palembang-Belitang | 🔴 Tinggi | Wilayah OKU Timur, pusat pertanian & bisnis |
+| Palembang-Tanjung Enim | 🟡 Sedang | Kawasan tambang & industri dekat Muara Enim |
+| Palembang-Sungai Lilin | 🟡 Sedang | Jalur Lintas Timur Palembang - Jambi |
+| Palembang-Sungai Lilin | 🟡 Sedang | Jalur Lintas Timur Palembang - Jambi |
 
 ---
 
