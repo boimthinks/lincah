@@ -1,8 +1,8 @@
 ---
 title: "Travel Palembang Lubuk Linggau"
-judul_seo: "Travel Palembang Lubuk Linggau Door to Door: Harga Tiket, Jadwal & Tips Perjalanan 2026"
+judul_seo: "Travel Palembang Lubuk Linggau: Harga, Jadwal & Nomor WA 2026"
 slug: "travel-palembang-lubuk-linggau-door-to-door"
-description: "Travel Palembang Lubuklinggau door-to-door Rp200.000. Cek jadwal 09:00/16:00/20:00 WIB, armada Hiace/Innova/Avanza, dan tips perjalanan 7-8 jam via Lintas Sumatera."
+description: "Harga tiket Rp200.000 door-to-door. Jadwal 09-16-20 WIB. Perjalanan 7-8 jam via Lintas Sumatera. Nomor WA 0813-6923-1893."
 pubDate: "2026-07-30"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsQ69CL2ESwvs59YRwyFd7NEc8R5Q9VSCEpYja1Dv-sGQSgs1jtdOrqj3fqUiOnd_wRZ07Knqlp5NHpZbCR0laMnKyAKAFwrArp-LKQoM-zwipvfCOhvvtznowrmwAmdneFjQEu1ZDAx3AXqi1rX3IrXbHXyWcNZxc7WxbzSwQiF1V0uh8nelgP47RSWkW/s600/travel-palembang-lubuk-linggau.webp"

@@ -1,8 +1,8 @@
 ---
 title: "Travel Palembang Muara Dua"
-judul_seo: "Travel Palembang Muara Dua Door to Door: Harga Tiket, Jadwal & Tips Perjalanan 2026"
+judul_seo: "Travel Palembang Muara Dua: Harga, Jadwal & Nomor WA"
 slug: "travel-palembang-muara-dua-door-to-door"
-description: "Travel Palembang Muara Dua door-to-door Rp170.000. Cek jadwal 09:00/15:00/21:00 WIB, armada Hiace/Innova/Avanza, dan tips perjalanan 7-8 jam menembus Bukit Barisan OKU Selatan."
+description: "Travel Palembang Muara Dua Rp170.000 door-to-door. Jadwal 09-15-21 WIB. Perjalanan 7-8 jam via Bukit Barisan OKU Selatan. Nomor WA 0813-6923-1893."
 pubDate: "2026-08-07"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj216alasaEhv8eB4pBkGWt0dcWdkNd3jE8PTmj164adeMuh0247hEzYNJ9FDUJvVxvHYmfklk9VRvPIpR2tZAPyJAH6-5cbXWEz6I5zYfd2-islc16LIcIDhE0p0LyKCMZhGo17feyrFCX94y7uyqu2I83zI26mg9jCToh8SAWUK_fDPyOU2i3ACDuV__5/s600/travel_palembang_muaraduo.webp"

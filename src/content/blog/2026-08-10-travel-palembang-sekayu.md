@@ -1,8 +1,8 @@
 ---
 title: "Travel Palembang Sekayu"
-judul_seo: "Travel Palembang Sekayu Door to Door: Jadwal, Harga Tiket & Panduan Rute 2026"
+judul_seo: "Travel Palembang Sekayu: Harga Tiket, Jadwal & Nomor WA"
 slug: "travel-palembang-sekayu"
-description: "Travel Palembang ke Sekayu door-to-door mulai Rp100.000. Cek jadwal keberangkatan 08.00/13.00/16.00 WIB, pilihan armada nyaman, dan booking via WhatsApp 0813-6923-1893."
+description: "Harga travel Palembang Sekayu mulai Rp100.000, 3 jam perjalanan door-to-door. Jadwal 08.00/13.00/16.00 WIB. Booking via WhatsApp 0813-6923-1893."
 pubDate: "2026-08-10"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FxX6Fz8heXkViJx5EML5fxVuGrarN8o2fLLEhgiJ5mTsQiVL6rXxktr_GwQUDfWQVPSQrqV666eYq2Hve9b1vtbWJW8D9KmQG2CZY-S9u20o-nzTupp49zWloZjrMNvytaB2Oj2Let666BZchKj4aK26EXIMdCjDk-pZ7XZ3Olg-uPp-C_9mswSZHUkk/s600/travel_palembang_sekayu.webp"

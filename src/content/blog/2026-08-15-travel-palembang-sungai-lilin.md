@@ -1,8 +1,8 @@
 ---
 title: "Travel Palembang Sungai Lilin"
-judul_seo: "Travel Palembang Sungai Lilin Door to Door: Jadwal, Harga Tiket & Cara Pesan 2026"
+judul_seo: "Travel Palembang Sungai Lilin: Harga, Jadwal & Nomor WA"
 slug: "travel-palembang-sungai-lilin-door-to-door"
-description: "Travel Palembang Sungai Lilin Rp 100.000 door-to-door, 3 jam via Lintas Muba. Jadwal 08:00, 14:00, 18:00 WIB. Booking WhatsApp 0813-6923-1893."
+description: "Travel Palembang Sungai Lilin Rp100.000 door-to-door. Jadwal 08-14-18 WIB. Perjalanan 3 jam via Lintas Muba. Nomor WA 0813-6923-1893."
 pubDate: "2026-08-15"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMVhKgvgIHAbgivhmEsdthkI0B1poqJqBhxEuHsYCyMVdQtcWTWbd80nPD-vYjP5hFWnszp9r7JDiPIcVOw61Ma6lx0hAZaUJ1SL_qbd5hfzIIiFZGpXTfZQmPasq5_forIytsd1Mh7asblOcRRjb4ev6_uaEfg-XxV9wdBuagYjW2oBrUJ5HdAU2F_nKD/s600/Travel_Palembang_Sungai_Lilin.webp"

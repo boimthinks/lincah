@@ -1,8 +1,8 @@
 ---
 title: "Travel Palembang Pagaralam"
-judul_seo: "Travel Palembang Pagaralam Door to Door: Harga Tiket, Jadwal & Tips 2026"
+judul_seo: "Travel Palembang Pagaralam: Harga, Jadwal & Nomor WA"
 slug: "travel-palembang-pagaralam-door-to-door"
-description: "Travel Palembang Pagaralam door-to-door Rp180.000. Cek jadwal 08:00/15:00/20:00 WIB, armada Hiace/Innova/Avanza, tips sejuk Gunung Dempo & wisata wajib 2026."
+description: "Travel Palembang Pagaralam Rp180.000 door-to-door. Jadwal 08-15-20 WIB. Perjalanan 7-8 jam via Gunung Dempo. Nomor WA 0813-6923-1893."
 pubDate: "2026-07-31"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj11t_Z7e45Sx44iumy8m5N1a0wD41Gmh-z18yazof8kblQaDoqKhz3KeN-8j9Zv8xe9o2bh_-CAScHlvckqNKLIRh0qbI7SZGZ3bXZZixAOLxV4rJAjBnL8Wt7NCe7n79aq2clZ21zYSAsEfKRPceB6FTRffPz6BFBimsd2DQ2y2ED69S-drZV65Yal3sh/s600/travel-palembang-pagaralam-door-to-door.webp"

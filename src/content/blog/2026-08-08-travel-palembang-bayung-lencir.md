@@ -1,6 +1,6 @@
 ---
 title: "Travel Palembang Bayung Lencir"
-judul_seo: "Travel Palembang Bayung Lencir Door to Door: Jadwal, Harga Tiket & Panduan 2026"
+judul_seo: "Travel Palembang Bayung Lencir: Harga Tiket, Jadwal & Nomor WA"
 slug: "travel-palembang-bayung-lencir-door-to-door"
 description: "Travel Palembang Bayung Lencir Rp200.000 door-to-door, 4-5 jam via Lintas Timur. Jadwal 08:00/14:00/19:00 WIB. Booking WhatsApp 0813-6923-1893."
 pubDate: "2026-08-08"

@@ -40,7 +40,7 @@ const categoryLabels = {
 const fallbackImage = "/img/hero_ampera_sunset_1781441848926.webp";
 const imageSrc = post.data.image_url || fallbackImage;
 
-const pageTitle = `${post.data.judul_seo} | Blog Lincah Travel`;
+const pageTitle = `${post.data.judul_seo} | Lincah Travel`;
 
 const relatedPosts = (await getCollection('blog'))
   .filter((item) => item.data.kategori === post.data.kategori && item.data.slug !== post.data.slug)

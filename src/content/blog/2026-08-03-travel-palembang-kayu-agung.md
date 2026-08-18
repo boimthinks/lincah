@@ -1,8 +1,8 @@
 ---
 title: "Travel Palembang Kayu Agung"
-judul_seo: "Travel Palembang Kayu Agung Door-to-Door: Jadwal, Harga Tiket & Destinasi Wisata 2026"
+judul_seo: "Travel Palembang Kayu Agung: Harga, Jadwal & Nomor WA"
 slug: "travel-palembang-kayu-agung-door-to-door"
-description: "Travel Palembang Kayu Agung door-to-door Rp70.000. Cek jadwal 07:00-18:00 WIB, armada Hiace/Innova/Avanza, & destinasi wisata tak terlupakan: Dinesti Land, Danau Teloko, Masjid Agung Solihin."
+description: "Travel Palembang Kayu Agung Rp70.000 door-to-door. Jadwal harian 07-18 WIB. Perjalanan 1,5 jam via Tol Trans-Sumatera. Nomor WA 0813-6923-1893."
 pubDate: "2026-08-03"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-W5-qKPK5zn_ntoxj3ZvYM3Uo82y-CDB_XGWSq95gO5GvDaV0X9cyLAdcx4yOMvGSVU7bAtmFtJ_nETw4vsxW3mM0FaVe793MdQkhNSHtHp2DgIbOO8Q7XwYsHpbWVQyh1FQoP5iXEZG9Iz0TH9i4ImivD2zYU07ouML-zNU6UrcGK65PglKknPiJBbq/s600/travel_palembang_kayu_agung.webp"

@@ -1,8 +1,8 @@
 ---
 title: "Travel Palembang Kuala Tungkal"
-judul_seo: "Travel Palembang Kuala Tungkal Lintas Provinsi: Rute, Harga Tiket & Tips Perjalanan"
+judul_seo: "Travel Palembang Kuala Tungkal: Harga Tiket, Jadwal & Lama Perjalanan"
 slug: "travel-palembang-kuala-tungkal-lintas-provinsi"
-description: "Pesan travel door-to-door Palembang Kuala Tungkal dengan Lincah Travel. Cepat, aman, nyaman. Cek rute, harga tiket Rp 400.000, & tips perjalanan via WhatsApp 0813-6923-1893!"
+description: "Harga travel Palembang Kuala Tungkal Rp400.000 door-to-door, perjalanan 10-11 jam. Jadwal pagi 07.00 & malam 19.00 WIB. Pesan via WhatsApp 0813-6923-1893."
 pubDate: "2026-08-02"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyAztZXFLZ53qiYxrtmcEfYN5F_YGBm5IV2HFm7pmeG6uRk7qW6vKDSjwWSmUr0NOiScPVcdJ4C1rteiB8Pbp2K_59JTIjbcVoS24RyknnjcZayg90iHfzLvZKkuqs3B94EfXF52YnX0ObsG-6qU7k_ZPU_Xpvzc55QRywMZZosy-9c29usYy6KswEIfv/s800/Travel_Palembang_Kuala_Tungkal_1.webp"

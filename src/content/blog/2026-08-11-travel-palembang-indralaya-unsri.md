@@ -1,8 +1,8 @@
 ---
 title: "Travel Palembang Indralaya UNSRI"
-judul_seo: "Travel Palembang Indralaya untuk Mahasiswa UNSRI: Harga Tiket & Jadwal 2026"
+judul_seo: "Travel Palembang Indralaya UNSRI: Harga Tiket, Jadwal & Nomor WA"
 slug: "travel-palembang-indralaya-unsri"
-description: "Travel Palembang Indralaya Rp 50.000 via tol 45 menit ke kampus UNSRI. Jadwal setiap jam 06.00-20.00 WIB, door-to-door. Pesan via WhatsApp 0813-6923-1893."
+description: "Ongkos travel Palembang Indralaya Rp50.000 via tol, 45 menit sampai kampus UNSRI. Jadwal setiap jam 06.00-20.00 WIB, door-to-door. Pesan WhatsApp 0813-6923-1893."
 pubDate: "2026-08-11"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsokNaWCY2cuxOFI4cGcdxYIG2OsV45mPY7kHnbLODoZliZvX_-kT09gtmP0UnvaglGQmW8EkoV0crwq7gvv2P501uJgb1D3ThL0uvR5XvveCoSs-6ZbBazjYBLLaLZT2a1WnH8kc6-aQ2hhL76RJhZ1byj_3dGW4P1dh4nsOs75UY48iBjwrm1nRnM_wI/s600/travel-palembang-indralaya-2.webp"
