@@ -125,6 +125,13 @@ export default defineConfig({
   })],
   vite: {
     plugins: [tailwindcss()],
+    jsxRuntime: "classic",
+    react:
+      import.meta.env.DEV
+        ? {
+            jsxRuntime: "classic",
+          }
+        : {},
   },
   output: 'static',
 });
