@@ -26,8 +26,8 @@ Berikut 10 rute yang paling sering kami layani, diurutkan dari yang termurah.
 | Prabumulih | Rp 80.000 | 2 jam |
 | Sekayu | Rp 100.000 | 3 jam |
 | Baturaja | Rp 120.000 | 4-5 jam |
-| Muara Enim | Rp 140.000 | 4-5 jam |
-| Lahat | Rp 150.000 | 5-6 jam |
+| Muara Enim | Rp 150.000 | 4-5 jam |
+| Lahat | Rp 200.000 | 5-6 jam |
 | Pagaralam | Rp 180.000 | 7-8 jam |
 | Jambi | Rp 200.000 | 6-7 jam |
 | Lubuklinggau | Rp 200.000 | 7-8 jam |
@@ -45,7 +45,7 @@ Kayu Agung bisa ditempuh 1,5 jam via tol dengan tarif Rp 70.000. Keberangkatan s
 
 Prabumulih sedikit lebih jauh, Rp 80.000 untuk 2 jam, dengan jadwal setiap jam dari 07.00 sampai 21.00 WIB. Buat yang pulang kampung akhir pekan atau dinas ke lapangan, rute ini yang paling ramai.
 
-Ada satu lagi yang sering ditanyakan mahasiswa baru: Indralaya, Rp 50.000, 45 menit. Keberangkatan setiap jam dari pagi sampai malam. Karena jalurnya pendek, armada yang kami turunkan biasanya Avanza atau Innova.
+Ada satu lagi yang sering ditanyakan mahasiswa baru: Indralaya, Rp 100.000, 45 menit. Keberangkatan setiap jam dari pagi sampai malam. Karena jalurnya pendek, armada yang kami turunkan biasanya Avanza atau Innova.
 
 ## Rute menengah ke arah barat
 
@@ -53,9 +53,9 @@ Begitu masuk jalur Lintas Sumatera ke arah barat, tarif naik seiring bertambahny
 
 Baturaja Rp 120.000 untuk 4-5 jam via Prabumulih. Jadwalnya paling fleksibel, ada empat kali keberangkatan. Rute ini sudah kami ulas panjang lebar di artikel [travel Palembang Baturaja](https://lincahtravel.web.id/blog/travel-palembang-baturaja-door-to-door/).
 
-Muara Enim Rp 140.000, 4-5 jam, dengan empat jadwal juga. Kota ini jadi persinggahan penting karena posisinya di jalur menuju Lahat dan Lubuklinggau. Detail tarif dan tipsnya ada di artikel [travel Palembang Muara Enim](https://lincahtravel.web.id/blog/travel-palembang-muara-enim-door-to-door/).
+Muara Enim Rp 150.000, 4-5 jam, dengan empat jadwal juga. Kota ini jadi persinggahan penting karena posisinya di jalur menuju Lahat dan Lubuklinggau. Detail tarif dan tipsnya ada di artikel [travel Palembang Muara Enim](https://lincahtravel.web.id/blog/travel-palembang-muara-enim-door-to-door/).
 
-Lahat Rp 150.000 untuk 5-6 jam. Pemandangan perbukitan mulai terlihat setelah melewati Muara Enim, dan udara perlahan terasa sejuk. Jadwal serta tips naiknya bisa dibaca di artikel [travel Palembang Lahat](https://lincahtravel.web.id/blog/travel-palembang-lahat-door-to-door/).
+Lahat Rp 200.000 untuk 5-6 jam. Pemandangan perbukitan mulai terlihat setelah melewati Muara Enim, dan udara perlahan terasa sejuk. Jadwal serta tips naiknya bisa dibaca di artikel [travel Palembang Lahat](https://lincahtravel.web.id/blog/travel-palembang-lahat-door-to-door/).
 
 Sekayu, ibu kota Musi Banyuasin, tarifnya Rp 100.000 untuk 3 jam via lintas tengah. Kalau urusan Anda ke arah Muba, rute ini yang paling pas, bukan lewat Kayu Agung.
 
@@ -129,7 +129,7 @@ Rp 300.000 dengan waktu tempuh 4-5 jam via Tol Trans Sumatera. Keberangkatan puk
 
 ### Rute mana yang paling murah?
 
-Indralaya, Rp 50.000 dengan waktu tempuh 45 menit. Untuk perjalanan ke luar kota yang masih terjangkau, Kayu Agung Rp 70.000 dan Prabumulih Rp 80.000.
+Kayu Agung Rp 70.000 dengan waktu tempuh 1,5 jam dan Prabumulih Rp 80.000 (2 jam). Rute dekat lainnya seperti Indralaya Rp 100.000 via tol.
 
 ### Bisakah berangkat malam untuk rute jauh?
 
@@ -141,6 +141,6 @@ Harga bisa menyesuaikan kondisi, misalnya kenaikan BBM atau musim libur. Pantau 
 
 ## Rekap ini untuk pegangan
 
-Intinya, tarif travel dari Palembang ke kota-kota Sumatera Selatan tahun 2026 berkisar Rp 50.000 sampai Rp 400.000, tergantung jarak dan layanan. Yang termurah Indralaya, yang paling sering dicari Baturaja dan Jambi, dan yang paling mahal rute lintas ke arah Lampung bagian barat dan Jambi Barat.
+Intinya, tarif travel dari Palembang ke kota-kota Sumatera Selatan tahun 2026 berkisar Rp 70.000 sampai Rp 400.000, tergantung jarak dan layanan. Yang paling sering dicari Baturaja dan Jambi, dan yang paling mahal rute lintas ke arah Lampung bagian barat dan Jambi Barat.
 
 Kalau tabel di atas belum menjawab pertanyaan Anda, hubungi admin Lincah Travel di WhatsApp 0813-6923-1893. Sampaikan tujuan dan tanggal keberangkatan, nanti dijawab dengan tarif pasti untuk rute tersebut.

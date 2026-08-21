@@ -2,13 +2,13 @@
 title: "Travel Palembang Muara Enim"
 judul_seo: "Travel Palembang Muara Enim: Harga, Jadwal & Nomor WA 2026"
 slug: "travel-palembang-muara-enim-door-to-door"
-description: "Harga travel Palembang Muara Enim Rp140.000 door-to-door. Jadwal 08-20 WIB. Perjalanan 4-5 jam via Lintas Sumatera. Nomor WA 0813-6923-1893."
+description: "Harga travel Palembang Muara Enim Rp150.000 door-to-door. Jadwal 08-20 WIB. Perjalanan 4-5 jam via Lintas Sumatera. Nomor WA 0813-6923-1893."
 pubDate: "2026-08-04"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNxMv-c8vCZDQblJwTo0RADB46AkhZErbIEr3MqAICAb5k-iwTKpEaD7-xkL269RFZUx95ri_8ndgmac8jaID0WjNqqS2GOg0Oz2BavpoqBvuve-Nmlk6SMqiyMbK3w1soeuc-QE2j4i_fzcsMgLIHtaQVXTTozHqecOQPkK03_E7lIHjEFHXVEH2D0Qjz/s600/Travel_Palembang_Muara_Enim.webp"
 kategori: "rute"
 pengantar: "Jadwal shif berubah, rapat mendadak, atau kunjungan ke lokasi tambang yang tidak bisa ditunda. Semua itu butuh transportasi yang tidak hanya nyaman, tapi juga tepat waktu. Bagi Anda yang sering ke Muara Enim dari Palembang, Lincah Travel menyediakan layanan door-to-door dengan armada yang terawat."
-kesimpulan: "Perjalanan Palembang ke Muara Enim tidak harus ribet. Dengan tarif flat Rp 140.000 dan layanan antar jemput sampai alamat, Anda tinggal duduk santai di kursi. Hubungi kami di 0813-6923-1893 untuk booking atau tanya jadwal yang paling pas dengan aktivitas Anda."
+kesimpulan: "Perjalanan Palembang ke Muara Enim tidak harus ribet. Dengan tarif flat Rp 150.000 dan layanan antar jemput sampai alamat, Anda tinggal duduk santai di kursi. Hubungi kami di 0813-6923-1893 untuk booking atau tanya jadwal yang paling pas dengan aktivitas Anda."
 tags: ["travel palembang muara enim", "travel door-to-door", "travel area tambang", "muara enim", "lintas sumatera"]
 from: palembang
 to: muara-enim
@@ -28,12 +28,12 @@ Karena itu, rute ini nyaris tidak pernah sepi penumpang. Armada yang berangkat p
 
 | Keberangkatan | Harga Tiket | Durasi |
 |---|---|---|
-| 08.00 WIB | Rp 140.000 | 4-5 jam |
-| 14.00 WIB | Rp 140.000 | 4-5 jam |
-| 17.00 WIB | Rp 140.000 | 4-5 jam |
-| 20.00 WIB | Rp 140.000 | 4-5 jam |
+| 08.00 WIB | Rp 150.000 | 4-5 jam |
+| 14.00 WIB | Rp 150.000 | 4-5 jam |
+| 17.00 WIB | Rp 150.000 | 4-5 jam |
+| 20.00 WIB | Rp 150.000 | 4-5 jam |
 
-Tarif Rp 140.000 adalah harga flat. Sudah termasuk semua, tidak ada tambahan biaya di tengah jalan. Untuk jadwal pagi, sebaiknya pesan sehari sebelumnya karena kursi cepat terisi karyawan tambang yang harus masuk giliran pagi.
+Tarif Rp 150.000 adalah harga flat. Sudah termasuk semua, tidak ada tambahan biaya di tengah jalan. Untuk jadwal pagi, sebaiknya pesan sehari sebelumnya karena kursi cepat terisi karyawan tambang yang harus masuk giliran pagi.
 
 Bagi yang perjalanannya tidak terlalu mendesak, jadwal 14.00 atau 17.00 WIB lebih longgar. Keberangkatan 20.00 WIB cocok kalau Anda ingin tiba malam dan langsung beristirahat di penginapan.
 

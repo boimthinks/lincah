@@ -1,12 +1,12 @@
 ---
 from: palembang
 to: indralaya
-price: 50000
+price: 100000
 duration: 45 Menit
 departureTimes: ["Setiap Jam (06:00 - 20:00)"]
 type: sumatera selatan
 distance: 35 km
-description: Travel Palembang ke Indralaya — 45 menit, Rp 50.000 via tol. Setiap jam, cocok untuk mahasiswa UNSRI. Booking sekarang!
+description: Travel Palembang ke Indralaya — 45 menit, Rp 100.000 via tol. Setiap jam, cocok untuk mahasiswa UNSRI. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -18,7 +18,7 @@ Indralaya adalah ibukota Kabupaten Ogan Ilir dan lokasi kampus utama Universitas
 
 **Keberangkatan Per Jam.** Setiap jam dari pukul 06.00 sampai 20.00 WIB, Anda tidak perlu menunggu lama.
 
-**Harga Mahasiswa.** Rp 50.000 untuk perjalanan sekali jalan.
+**Harga Mahasiswa.** Rp 100.000 untuk perjalanan sekali jalan.
 
 **Armada Nyaman.** Avanza/Veloz dan Innova Reborn ber-AC.
 

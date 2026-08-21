@@ -1,12 +1,12 @@
 ---
 from: palembang
 to: muara enim
-price: 140000
+price: 150000
 duration: 4 - 5 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "17:00 WIB", "20:00 WIB"]
 type: utama
 distance: 180 km
-description: Travel Palembang ke Muara Enim — 4-5 jam, Rp 140.000 via Lintas Sumatera. Door-to-door, armada AC, jadwal fleksibel. Booking sekarang!
+description: Travel Palembang ke Muara Enim — 4-5 jam, Rp 150.000 via Lintas Sumatera. Door-to-door, armada AC, jadwal fleksibel. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -24,7 +24,7 @@ Dengan jarak 180 km via Lintas Sumatera, perjalanan Palembang-Muara Enim memakan
 
 **Jadwal Fleksibel.** 4 jadwal keberangkatan setiap hari untuk memenuhi kebutuhan Anda.
 
-**Harga Kompetitif.** Rp 140.000 flat, tarif terjangkau untuk layanan berkualitas.
+**Harga Kompetitif.** Rp 150.000 flat, tarif terjangkau untuk layanan berkualitas.
 
 ## Jadwal Keberangkatan Palembang ke Muara Enim
 

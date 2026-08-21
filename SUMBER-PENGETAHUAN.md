@@ -36,12 +36,14 @@ Gunakan data ini sebagai social proof dalam artikel:
 
 | Rute | Durasi | Via | Harga | Catatan |
 |---|---|---|---|---|
-| **Palembang-Lampung** | 4.5 jam | Tol Trans-Sumatera | Rp 150.000 | Favorit perjalanan umum |
-| **Palembang-Jambi** | 5 jam | - | Rp 180.000 | Favorit perjalanan dinas |
+| **Palembang-Lampung** | 4.5 jam | Tol Trans-Sumatera | Rp 300.000 | Favorit perjalanan umum |
+| **Palembang-Jambi** | 5 jam | - | Rp 200.000 | Favorit perjalanan dinas |
 | **Palembang-Baturaja** | 3 jam | - | Rp 120.000 | Door-to-door service |
-| **Palembang-Lubuklinggau** | 4 jam | - | Rp 150.000 | Akses ke Bengkulu |
+| **Palembang-Lubuklinggau** | 4 jam | - | Rp 200.000 | Akses ke Bengkulu |
 | **Palembang-Prabumulih** | 2 jam | - | Rp 80.000 | Ekonomis |
-| **Palembang-Betung** | - | - | Rp 180.000 | - |
+| **Palembang-Muara Enim** | 4-5 jam | - | Rp 150.000 | Akses area industri & tambang |
+| **Palembang-Lahat** | 5-6 jam | - | Rp 200.000 | Akses dataran tinggi |
+| **Palembang-Indralaya** | 45 menit | Tol | Rp 100.000 | Akses Kampus UNSRI |
 
 **Sumber data:** `src/content/rute/*.md`
 

@@ -2,7 +2,7 @@
 title: "Travel Palembang Lahat"
 judul_seo: "Travel Palembang Lahat Door to Door: Harga, Jadwal & Tips Kota Teh 2026"
 slug: "travel-palembang-lahat-door-to-door"
-description: "Travel Palembang Lahat door-to-door Rp150.000, 5-6 jam via Lintas Sumatera. Cek jadwal 08:00/14:00/20:00 WIB dan tips naik ke Kota Teh. Pesan di WhatsApp 0813-6923-1893."
+description: "Travel Palembang Lahat door-to-door Rp200.000, 5-6 jam via Lintas Sumatera. Cek jadwal 08:00/14:00/20:00 WIB dan tips naik ke Kota Teh. Pesan di WhatsApp 0813-6923-1893."
 pubDate: "2026-08-06"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8NRhhG22he1Dy22s1y4djz4v7DTtM6rdpga1Q3UCazkunXeYw_ad36pyeLcTjhSjfsaDWKYSsigQx2FFsVgn3IA9gs4pjcRQnYBkbN0MjiWWKiQ5E-jyOMqEl9-kAHphcVh3EH261VWwPqsDOP6SD3O1mJLOyBsnE-l2frSaZ-YuE10qUXirAtFb8JAEm/s600/travel-palembang-lahat.webp"
@@ -32,11 +32,11 @@ Berikut rincian jadwal dan tarif rute Palembang-Lahat.
 
 | Keberangkatan | Harga Tiket | Tiba di Lahat |
 |---|---|---|
-| 08.00 WIB | Rp 150.000 | Sekitar pukul 13.00 - 14.00 WIB |
-| 14.00 WIB | Rp 150.000 | Sekitar pukul 19.00 - 20.00 WIB |
-| 20.00 WIB | Rp 150.000 | Dini hari |
+| 08.00 WIB | Rp 200.000 | Sekitar pukul 13.00 - 14.00 WIB |
+| 14.00 WIB | Rp 200.000 | Sekitar pukul 19.00 - 20.00 WIB |
+| 20.00 WIB | Rp 200.000 | Dini hari |
 
-Harga Rp 150.000 sudah mencakup penjemputan dari alamat Anda di Palembang dan antar langsung ke tujuan di Lahat. Tidak ada biaya tambahan untuk bagasi maupun makanan di tengah perjalanan.
+Harga Rp 200.000 sudah mencakup penjemputan dari alamat Anda di Palembang dan antar langsung ke tujuan di Lahat. Tidak ada biaya tambahan untuk bagasi maupun makanan di tengah perjalanan.
 
 ### Tips menentukan jam keberangkatan
 

@@ -1,12 +1,12 @@
 ---
 from: indralaya
 to: palembang
-price: 50000
+price: 100000
 duration: 45 Menit
 departureTimes: ["Setiap Jam (06:00 - 20:00)"]
 type: sumatera selatan
 distance: 35 km
-description: Travel Indralaya ke Palembang — 45 menit, Rp 50.000 via tol. Setiap jam, cocok untuk mahasiswa UNSRI & komuter. Booking sekarang!
+description: Travel Indralaya ke Palembang — 45 menit, Rp 100.000 via tol. Setiap jam, cocok untuk mahasiswa UNSRI & komuter. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -16,7 +16,7 @@ Bagi mahasiswa UNSRI atau pekerja yang rutin menempuh perjalanan Indralaya-Palem
 
 *   **Jadwal Sangat Sering:** Keberangkatan setiap jam (06.00-20.00 WIB), tidak perlu menunggu lama.
 *   **Layanan Door-to-Door:** Kami jemput langsung di kos, kampus, atau rumah di Indralaya dan antar ke tujuan di Palembang.
-*   **Tarif Ekonomis:** Rp 50.000 saja, sangat ramah untuk mahasiswa dan komuter.
+*   **Tarif Ekonomis:** Rp 100.000 saja, sangat ramah untuk mahasiswa dan komuter.
 *   **Armada Nyaman:** Toyota Avanza/Veloz dan Innova Reborn dengan AC full.
 
 ## Jadwal Keberangkatan

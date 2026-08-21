@@ -1,12 +1,12 @@
 ---
 from: lahat
 to: palembang
-price: 150000
+price: 200000
 duration: 5 - 6 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "20:00 WIB"]
 type: sumatera selatan
 distance: 220 km
-description: Travel Lahat ke Palembang — 5-6 jam, Rp 150.000 via Lintas Sumatera. Door-to-door, armada AC, udara sejuk. Booking sekarang!
+description: Travel Lahat ke Palembang — 5-6 jam, Rp 200.000 via Lintas Sumatera. Door-to-door, armada AC, udara sejuk. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -17,7 +17,7 @@ Lahat, kota yang akrab disebut "Kota Teh", berada di dataran tinggi Sumatera Sel
 *   **Layanan Door-to-Door:** Penjemputan langsung dari alamat Anda di Lahat dan pengantaran ke Palembang.
 *   **Armada Nyaman:** Hiace Premio, Innova Reborn, dan Avanza/Veloz dengan AC full dan kursi nyaman.
 *   **Driver Profesional:** Sopir kami berpengalaman di jalur Lintas Sumatera dengan medan yang bervariasi.
-*   **Harga Terjangkau:** Rp 150.000 flat tanpa biaya tambahan.
+*   **Harga Terjangkau:** Rp 200.000 flat tanpa biaya tambahan.
 
 ## Jadwal Keberangkatan
 

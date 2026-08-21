@@ -2,13 +2,13 @@
 title: "Travel Palembang Indralaya UNSRI"
 judul_seo: "Travel Palembang Indralaya UNSRI: Harga Tiket, Jadwal & Nomor WA"
 slug: "travel-palembang-indralaya-unsri"
-description: "Ongkos travel Palembang Indralaya Rp50.000 via tol, 45 menit sampai kampus UNSRI. Jadwal setiap jam 06.00-20.00 WIB, door-to-door. Pesan WhatsApp 0813-6923-1893."
+description: "Ongkos travel Palembang Indralaya Rp100.000 via tol, 45 menit sampai kampus UNSRI. Jadwal setiap jam 06.00-20.00 WIB, door-to-door. Pesan WhatsApp 0813-6923-1893."
 pubDate: "2026-08-11"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsokNaWCY2cuxOFI4cGcdxYIG2OsV45mPY7kHnbLODoZliZvX_-kT09gtmP0UnvaglGQmW8EkoV0crwq7gvv2P501uJgb1D3ThL0uvR5XvveCoSs-6ZbBazjYBLLaLZT2a1WnH8kc6-aQ2hhL76RJhZ1byj_3dGW4P1dh4nsOs75UY48iBjwrm1nRnM_wI/s600/travel-palembang-indralaya-2.webp"
 kategori: "rute"
 pengantar: "Kuliah di Universitas Sriwijaya Indralaya artinya berhadapan dengan rutinitas pulang-pergi dari Palembang tiap hari. Lincah Travel hadir dengan rute khusus yang memangkas waktu tempuh jadi 45 menit via tol, sehingga Anda bisa fokus ke perkuliahan, bukan ke kemacetan."
-kesimpulan: "Rute Palembang-Indralaya kini hanya 45 menit via tol dengan tarif flat Rp 50.000. Pesan tiket door-to-door Anda melalui WhatsApp 0813-6923-1893 dan sampai di kampus UNSRI tepat waktu tanpa repot ganti moda."
+kesimpulan: "Rute Palembang-Indralaya kini hanya 45 menit via tol dengan tarif flat Rp 100.000. Pesan tiket door-to-door Anda melalui WhatsApp 0813-6923-1893 dan sampai di kampus UNSRI tepat waktu tanpa repot ganti moda."
 tags: ["travel", "palembang", "indralaya"]
 from: palembang
 to: indralaya
@@ -20,7 +20,7 @@ Lincah Travel menawarkan jawaban: rute door-to-door yang melintasi jalur tol. Pe
 
 ## Harga Tiket dan Keunggulan Rute Palembang-Indralaya
 
-Tarif untuk rute ini cukup ringan di kantong mahasiswa. Anda cukup membayar Rp 50.000 per orang untuk sekali jalan.
+Tarif untuk rute ini cukup ringan di kantong mahasiswa. Anda cukup membayar Rp 100.000 per orang untuk sekali jalan.
 
 Keunggulan utama rute ini ada pada jalurnya. Melalui Tol Palembang-Kayuangung-Agung Betung, perjalanan yang biasanya memakan waktu lebih dari satu jam bisa dipangkas jadi 45 menit. Anda tidak buang waktu di persimpangan yang macet.
 
