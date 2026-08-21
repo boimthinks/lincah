@@ -145,6 +145,15 @@ const Modal = {
             <textarea class="form-input" name="${field.name}" rows="3" ${field.required ? 'required' : ''}>${field.value || ''}</textarea>
           </div>
         `;
+      } else if (field.type === 'checkbox') {
+        formHtml += `
+          <div class="form-group" style="display: flex; align-items: center; gap: 8px; margin-top: 8px;">
+            <input type="checkbox" id="field-${field.name}" name="${field.name}" value="${field.value || 'true'}" ${field.checked ? 'checked' : ''} style="width: 18px; height: 18px; cursor: pointer;">
+            <label for="field-${field.name}" class="form-label" style="margin: 0; cursor: pointer; display: flex; align-items: center; gap: 4px;">
+              ${field.icon ? Icon.render(field.icon) : ''} ${field.label}
+            </label>
+          </div>
+        `;
       } else if (field.type === 'number') {
         const formattedValue = Helpers.formatThousands(field.value);
         formHtml += `
@@ -197,6 +206,10 @@ const Modal = {
               } else {
                 data[key] = value;
               }
+            });
+            fields.filter(f => f.type === 'checkbox').forEach(f => {
+              const input = form.querySelector(`input[name="${f.name}"]`);
+              data[f.name] = input ? input.checked : false;
             });
             onSave(data, close);
           }

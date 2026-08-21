@@ -13,6 +13,15 @@
 - Saat diminta menulis, mengedit, atau memberi saran judul artikel blog, baca `src/content/blog/` dan `SUMBER-PENGETAHUAN.md` (di root project) untuk data brand, rute, harga, armada, testimoni, frontmatter schema.
 - Gunakan skill **`penulis-ahli`** untuk menulis/mengedit artikel (menggabungkan humanizer + SEO/GEO + konten non-komoditas dalam satu pass).
 
+## Konten Video (Pabrik Konten - `konten-video/`)
+- Saat diminta membuat **ideo/naskah video pendek (short, 15-30 detik)** Lincah Travel, baca dan ikuti panduan di:
+  1. **`konten-video/PROMPT_PABRIK_KONTEN.md`** — master system prompt & workflow 2 tahap.
+  2. **`konten-video/STRATEGI_KONTEN.md`** — 8 sudut pandang (angle) agar ide tidak monoton.
+  3. **`konten-video/DAFTAR_RUTE.md`** — daftar rute resmi (hanya buat konten untuk rute terdaftar).
+  4. **`konten-video/published_videos.json`** — riwayat video agar tidak duplikasi.
+- **Wajib** memakai skill **`penulis-ahli`** untuk naskah/hook agar hasil tidak terkesan buatan AI.
+- **Wajib** mencatat setiap video yang diproduksi ke `konten-video/published_videos.json`.
+
 ## Tech Stack
 - **Framework**: Astro v6 (Static Site Generation)
 - **Styling**: Tailwind CSS v4 via `@tailwindcss/vite`

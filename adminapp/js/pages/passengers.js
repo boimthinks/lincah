@@ -96,21 +96,39 @@ const PassengersPage = {
       return;
     }
 
-    const cardItems = filtered.map(p => {
+    listContainer.innerHTML = filtered.map(p => {
       const vendor = this.vendors.find(v => v.id === p.vendor_id);
-      const vendorName = vendor ? vendor.nama_travel : ' - ';
+      const vendorName = vendor ? vendor.nama_travel : '-';
+      const statusBadge = p.status_pembayaran === 'belum_bayar' 
+        ? `<span class="badge badge-warning" style="font-size: 10px;">Belum Bayar</span>` 
+        : `<span class="badge badge-success" style="font-size: 10px;">Lunas</span>`;
       
-      return {
-        icon: '',
-        iconClass: '',
-        title: `<span style="display: inline-flex; align-items: center; gap: 4px;"><span class="material-icons-round" style="font-size: 16px; color: var(--primary);">person</span> ${p.nama_penumpang}</span>
-                <span style="font-size: 11px; color: var(--gray-500); font-weight: 500;">${DateUtils.getFormattedDate(p.tanggal_pesan)}</span>`,
-        subtitle: `${vendorName} - ${p.tujuan} - ${Helpers.formatCurrency(p.fee_vendor)}`,
-        onclick: `PassengersPage.showForm('${p.id}')`
-      };
-    });
+      return `
+        <div style="background: white; border-radius: 10px; padding: 12px 16px; margin-bottom: 8px; box-shadow: var(--shadow-sm); text-align: left; cursor: pointer;" onclick="PassengersPage.showForm('${p.id}')">
+          <!-- Baris 1: nama, no wa | lunas/belum lunas -->
+          <div style="display: flex; align-items: center; justify-content: space-between; gap: 8px; text-align: left;">
+            <div style="display: flex; align-items: center; gap: 6px; font-weight: 600; font-size: 14px; color: var(--gray-800);">
+              <span class="material-icons-round" style="font-size: 18px; color: var(--primary);">person</span>
+              <span>${p.nama_penumpang}</span>
+              ${p.wa_whatsapp ? `<span style="font-size: 12px; color: var(--gray-500); font-weight: 400; margin-left: 4px;">(${p.wa_whatsapp})</span>` : ''}
+            </div>
+            <div>${statusBadge}</div>
+          </div>
 
-    listContainer.innerHTML = Cards.listCard(cardItems);
+          <!-- Baris 2: tujuan | fee -->
+          <div style="display: flex; align-items: center; justify-content: space-between; font-size: 13px; margin-top: 6px;">
+            <span style="color: var(--gray-700); font-weight: 500;">${p.tujuan}</span>
+            <span style="font-weight: 700; font-size: 14px; color: var(--primary);">${Helpers.formatCurrency(p.fee_vendor)}</span>
+          </div>
+
+          <!-- Baris 3: vendor & tanggal -->
+          <div style="display: flex; align-items: center; justify-content: space-between; font-size: 11px; color: var(--gray-500); margin-top: 6px;">
+            <span style="font-weight: 500;">${vendorName}</span>
+            <span>${DateUtils.getFormattedDate(p.tanggal_pesan)}</span>
+          </div>
+        </div>
+      `;
+    }).join('');
   },
 
   async showForm(id = null) {
@@ -144,6 +162,13 @@ const PassengersPage = {
           required: true
         },
         {
+          name: 'wa_whatsapp',
+          label: 'No. WhatsApp',
+          type: 'text',
+          value: passenger.wa_whatsapp || '',
+          required: true
+        },
+        {
           name: 'tujuan',
           label: 'Tujuan',
           type: 'text',
@@ -164,10 +189,18 @@ const PassengersPage = {
           type: 'number',
           value: passenger.fee_vendor || '',
           required: true
+        },
+        {
+          name: 'status_pembayaran',
+          label: 'Belum Bayar',
+          type: 'checkbox',
+          icon: 'check_circle',
+          value: 'true',
+          checked: passenger.status_pembayaran === 'belum_bayar'
         }
       ],
       async (data, close) => {
-        if (!data.nama_penumpang || !data.tujuan || !data.vendor_id || !data.fee_vendor) {
+        if (!data.nama_penumpang || !data.wa_whatsapp || !data.tujuan || !data.vendor_id || !data.fee_vendor) {
           Toast.error('Semua field wajib diisi');
           return;
         }
@@ -176,9 +209,11 @@ const PassengersPage = {
           const payload = {
             tanggal_pesan: data.tanggal_pesan,
             nama_penumpang: data.nama_penumpang,
+            wa_whatsapp: data.wa_whatsapp,
             tujuan: data.tujuan,
             vendor_id: data.vendor_id,
-            fee_vendor: Number(data.fee_vendor)
+            fee_vendor: Number(data.fee_vendor),
+            status_pembayaran: data.status_pembayaran === true ? 'belum_bayar' : 'lunas'
           };
 
           if (isEdit) {

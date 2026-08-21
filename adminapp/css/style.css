@@ -244,6 +244,16 @@ body {
   background: #059669;
 }
 
+.btn-sm {
+  padding: 4px 8px;
+  font-size: 12px;
+  min-height: auto;
+}
+
+.btn-sm .material-icons-round {
+  font-size: 16px;
+}
+
 .btn-full {
   width: 100%;
 }

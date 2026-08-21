@@ -2,7 +2,7 @@
    Lincah Travel Admin - Service Worker
    ============================================================ */
 
-const CACHE_NAME = 'lincah-travel-v6';
+const CACHE_NAME = 'lincah-travel-v25';
 const BASE_PATH = '/lincah';
 const STATIC_ASSETS = [
   `${BASE_PATH}/`,

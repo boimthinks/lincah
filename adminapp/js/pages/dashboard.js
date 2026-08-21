@@ -18,13 +18,13 @@ const DashboardPage = {
         <div class="stats-grid">
           <div class="card">
             <div class="card-header">
-              <div class="card-title">${Icon.render('payments')} Pendapatan Bulan Ini</div>
+              <div class="card-title">${Icon.render('payments')} Total Pendapatan</div>
             </div>
             <div class="card-value positive" id="dashboard-income">Rp 0</div>
           </div>
           <div class="card">
             <div class="card-header">
-              <div class="card-title">${Icon.render('money_off')} Pengeluaran Bulan Ini</div>
+              <div class="card-title">${Icon.render('money_off')} Total Pengeluaran</div>
             </div>
             <div class="card-value negative" id="dashboard-expenses">Rp 0</div>
           </div>
@@ -33,7 +33,7 @@ const DashboardPage = {
         <div class="stats-grid">
           <div class="card">
             <div class="card-header">
-              <div class="card-title">${Icon.render('group')} Penumpang Bulan Ini</div>
+              <div class="card-title">${Icon.render('group')} Total Penumpang</div>
             </div>
             <div class="card-value" id="dashboard-passengers">0</div>
           </div>
@@ -92,28 +92,17 @@ const DashboardPage = {
 
   async loadData() {
     try {
-      const now = new Date();
-      const year = now.getFullYear();
-      const month = now.getMonth() + 1;
-
-      const startOfMonth = DateUtils.getFirstDayOfMonth(year, month);
-      const endOfMonth = DateUtils.getLastDayOfMonth(year, month);
-
-      // Load passengers this month
+      // Load all passengers
       const { data: passengers, error: pErr } = await db
         .from('passengers')
-        .select('*')
-        .gte('tanggal_pesan', startOfMonth)
-        .lte('tanggal_pesan', endOfMonth);
+        .select('*');
 
       if (pErr) console.error('Error loading passengers:', pErr);
 
-      // Load expenses this month
+      // Load all expenses
       const { data: expenses, error: eErr } = await db
         .from('expenses')
-        .select('*')
-        .gte('tanggal', startOfMonth)
-        .lte('tanggal', endOfMonth);
+        .select('*');
 
       if (eErr) console.error('Error loading expenses:', eErr);
 
@@ -143,10 +132,10 @@ const DashboardPage = {
         balanceEl.className = 'card-value negative';
       }
 
-      // Load 7 days chart
+      // Load 7 days chart (using this month's data)
       await this.loadWeekChart(passengers || []);
 
-      // Load vendor distribution chart
+      // Load vendor distribution chart (using all data)
       await this.loadVendorChart(passengers || [], vendors || []);
 
       // Load recent logs
