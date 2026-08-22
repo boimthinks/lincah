@@ -1,12 +1,12 @@
 ---
 from: martapura
 to: palembang
-price: 160000
+price: 250000
 duration: 5 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "20:00 WIB"]
 type: sumatera selatan
 distance: 220 km
-description: Travel Martapura (OKU Timur) ke Palembang — 5 jam, Rp 160.000 via Lintas Sumatera. Door-to-door, armada AC. Booking sekarang!
+description: Travel Martapura (OKU Timur) ke Palembang — 5 jam, Rp 250.000 via Lintas Sumatera. Door-to-door, armada AC. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -20,7 +20,7 @@ Martapura adalah ibukota Kabupaten OKU Timur yang terletak di perbatasan Lampung
 
 **Driver Profesional.** Sopir kami berpengalaman di rute Lintas Sumatera Martapura-Palembang.
 
-**Harga Bersahabat.** Rp 160.000 flat, tanpa biaya tambahan.
+**Harga Bersahabat.** Rp 250.000 flat, tanpa biaya tambahan.
 
 ## Jadwal Keberangkatan Martapura ke Palembang
 
