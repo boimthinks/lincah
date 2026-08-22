@@ -1,12 +1,12 @@
 ---
 from: palembang
 to: kayu agung
-price: 70000
+price: 100000
 duration: 1.5 Jam
 departureTimes: ["Setiap Jam (07:00 - 18:00)"]
 type: sumatera selatan
 distance: 65 km
-description: Travel Palembang ke Kayu Agung — 1,5 jam, Rp 70.000 via tol. Setiap jam, armada AC, door-to-door. Booking sekarang!
+description: Travel Palembang ke Kayu Agung — 1,5 jam, Rp 100.000 via tol. Setiap jam, armada AC, door-to-door. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -18,7 +18,7 @@ Kayu Agung, ibukota Kabupaten Ogan Komering Ilir, kini dekat dari Palembang. Ber
 *   **Layanan Door-to-Door.** Kami jemput di rumah atau kantor, lalu antar ke alamat tujuan di Kayu Agung.
 *   **Jadwal Luas.** Setiap jam mulai 07.00 sampai 18.00 WIB, sehingga Anda tidak menunggu lama.
 *   **Armada Terawat.** Innova Reborn dan Avanza/Veloz dalam kondisi bersih.
-*   **Harga Ekonomis.** Rp 70.000 flat.
+*   **Harga Ekonomis.** Rp 100.000 flat.
 
 ## Jadwal Keberangkatan Palembang ke Kayu Agung
 

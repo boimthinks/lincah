@@ -68,7 +68,7 @@ Ya, sebagian besar travel memungkinkan Anda memilih armada tertentu. Hubungi adm
 
 ### Berapa harga yang wajar untuk travel jarak jauh?
 
-Harga bervariasi tergantung jarak dan armada. Untuk rute Palembang-Lampung, harga Rp 300.000 sudah termasuk layanan door-to-door. Untuk rute lebih pendek seperti Palembang-Prabumulih, harga bisa mulai dari Rp 80.000.
+Harga bervariasi tergantung jarak dan armada. Untuk rute Palembang-Lampung, harga Rp 300.000 sudah termasuk layanan door-to-door. Untuk rute lebih pendek seperti Palembang-Prabumulih, harga bisa mulai dari Rp 120.000.
 
 ### Apakah ada jaminan uang kembali jika tidak puas?
 

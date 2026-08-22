@@ -12,11 +12,10 @@
 ### Sumatera Selatan
 | Rute | Harga | Durasi | Jadwal |
 |------|-------|--------|--------|
-| Palembang – Prabumulih | Rp 80.000 | 2 Jam | Setiap Jam (07:00-21:00) |
-| Palembang – Kayu Agung | Rp 70.000 | 1,5 Jam | Setiap Jam (07:00-18:00) |
-| Palembang – Indralaya | Rp 50.000 | 45 Menit | Setiap Jam (06:00-20:00) |
+| Palembang – Prabumulih | Rp 120.000 | 2 Jam | Setiap Jam (07:00-21:00) |
+| Palembang – Kayu Agung | Rp 100.000 | 1,5 Jam | Setiap Jam (07:00-18:00) |
 | Palembang – Sekayu | Rp 180.000 | 3 Jam | 08:00, 13:00, 16:00 |
-| Palembang – Sungai Lilin | Rp 100.000 | 3 Jam | 08:00, 14:00, 18:00 |
+| Palembang – Sungai Lilin | Rp 180.000 | 3 Jam | 08:00, 14:00, 18:00 |
 | Palembang – Baturaja | Rp 120.000 | 4-5 Jam | 08:00, 14:00, 17:00, 20:00 |
 | Palembang – Muara Enim | Rp 140.000 | 4-5 Jam | 08:00, 14:00, 17:00, 20:00 |
 | Palembang – Belitang | Rp 150.000 | 5-6 Jam | 08:00, 15:00, 19:00 |

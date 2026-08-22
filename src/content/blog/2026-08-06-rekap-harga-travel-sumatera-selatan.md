@@ -22,8 +22,8 @@ Berikut 10 rute yang paling sering kami layani, diurutkan dari yang termurah.
 
 | Tujuan | Harga | Durasi |
 |---|---|---|
-| Kayu Agung | Rp 70.000 | 1,5 jam |
-| Prabumulih | Rp 80.000 | 2 jam |
+| Kayu Agung | Rp 100.000 | 1,5 jam |
+| Prabumulih | Rp 120.000 | 2 jam |
 | Sekayu | Rp 180.000 | 3 jam |
 | Baturaja | Rp 120.000 | 4-5 jam |
 | Muara Enim | Rp 150.000 | 4-5 jam |
@@ -41,9 +41,9 @@ Catatan kecil untuk tabel di atas: ini semua tarif door-to-door. Kalau Anda hany
 
 Perjalanan yang masih satu kawasan Palembang adalah yang paling ringan.
 
-Kayu Agung bisa ditempuh 1,5 jam via tol dengan tarif Rp 70.000. Keberangkatan setiap jam mulai pukul 07.00 sampai 18.00 WIB. Rute ini dipakai banyak orang yang bekerja di Palembang tapi tinggal di OKI. Informasi lengkapnya ada di artikel [travel Palembang Kayu Agung](https://lincahtravel.web.id/blog/travel-palembang-kayu-agung-door-to-door/).
+Kayu Agung bisa ditempuh 1,5 jam via tol dengan tarif Rp 100.000. Keberangkatan setiap jam mulai pukul 07.00 sampai 18.00 WIB. Rute ini dipakai banyak orang yang bekerja di Palembang tapi tinggal di OKI. Informasi lengkapnya ada di artikel [travel Palembang Kayu Agung](https://lincahtravel.web.id/blog/travel-palembang-kayu-agung-door-to-door/).
 
-Prabumulih sedikit lebih jauh, Rp 80.000 untuk 2 jam, dengan jadwal setiap jam dari 07.00 sampai 21.00 WIB. Buat yang pulang kampung akhir pekan atau dinas ke lapangan, rute ini yang paling ramai.
+Prabumulih sedikit lebih jauh, Rp 120.000 untuk 2 jam, dengan jadwal setiap jam dari 07.00 sampai 21.00 WIB. Buat yang pulang kampung akhir pekan atau dinas ke lapangan, rute ini yang paling ramai.
 
 Ada satu lagi yang sering ditanyakan mahasiswa baru: Indralaya, Rp 100.000, 45 menit. Keberangkatan setiap jam dari pagi sampai malam. Karena jalurnya pendek, armada yang kami turunkan biasanya Avanza atau Innova.
 
@@ -75,7 +75,7 @@ Selain 10 rute di atas, masih ada tujuan lain yang tarifnya perlu Anda tahu. Rin
 
 | Tujuan | Harga | Durasi |
 |---|---|---|
-| Sungai Lilin | Rp 100.000 | 3 jam |
+| Sungai Lilin | Rp 180.000 | 3 jam |
 | Betung | Rp 180.000 | 3-4 jam |
 | Belitang | Rp 150.000 | 5-6 jam |
 | Martapura | Rp 160.000 | 5 jam |
@@ -129,7 +129,7 @@ Rp 300.000 dengan waktu tempuh 4-5 jam via Tol Trans Sumatera. Keberangkatan puk
 
 ### Rute mana yang paling murah?
 
-Kayu Agung Rp 70.000 dengan waktu tempuh 1,5 jam dan Prabumulih Rp 80.000 (2 jam). Rute dekat lainnya seperti Indralaya Rp 100.000 via tol.
+Kayu Agung Rp 100.000 dengan waktu tempuh 1,5 jam dan Prabumulih Rp 120.000 (2 jam). Rute dekat lainnya seperti Indralaya Rp 100.000 via tol.
 
 ### Bisakah berangkat malam untuk rute jauh?
 
@@ -141,6 +141,6 @@ Harga bisa menyesuaikan kondisi, misalnya kenaikan BBM atau musim libur. Pantau 
 
 ## Rekap ini untuk pegangan
 
-Intinya, tarif travel dari Palembang ke kota-kota Sumatera Selatan tahun 2026 berkisar Rp 70.000 sampai Rp 400.000, tergantung jarak dan layanan. Yang paling sering dicari Baturaja dan Jambi, dan yang paling mahal rute lintas ke arah Lampung bagian barat dan Jambi Barat.
+Intinya, tarif travel dari Palembang ke kota-kota Sumatera Selatan tahun 2026 berkisar Rp 100.000 sampai Rp 400.000, tergantung jarak dan layanan. Yang paling sering dicari Baturaja dan Jambi, dan yang paling mahal rute lintas ke arah Lampung bagian barat dan Jambi Barat.
 
 Kalau tabel di atas belum menjawab pertanyaan Anda, hubungi admin Lincah Travel di WhatsApp 0813-6923-1893. Sampaikan tujuan dan tanggal keberangkatan, nanti dijawab dengan tarif pasti untuk rute tersebut.

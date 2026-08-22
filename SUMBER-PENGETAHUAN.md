@@ -40,7 +40,7 @@ Gunakan data ini sebagai social proof dalam artikel:
 | **Palembang-Jambi** | 5 jam | - | Rp 200.000 | Favorit perjalanan dinas |
 | **Palembang-Baturaja** | 3 jam | - | Rp 120.000 | Door-to-door service |
 | **Palembang-Lubuklinggau** | 4 jam | - | Rp 200.000 | Akses ke Bengkulu |
-| **Palembang-Prabumulih** | 2 jam | - | Rp 80.000 | Ekonomis |
+| **Palembang-Prabumulih** | 2 jam | - | Rp 120.000 | Ekonomis |
 | **Palembang-Muara Enim** | 4-5 jam | - | Rp 150.000 | Akses area industri & tambang |
 | **Palembang-Lahat** | 5-6 jam | - | Rp 200.000 | Akses dataran tinggi |
 | **Palembang-Indralaya** | 45 menit | Tol | Rp 100.000 | Akses Kampus UNSRI |

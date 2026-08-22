@@ -30,7 +30,7 @@ Ketiga, meskipun lebih kecil dari Hiace, Avanza/Veloz tetap dilengkapi dengan AC
 
 ## Harga dan Jadwal yang Sangat Fleksibel
 
-Salah satu keunggulan utama rute Palembang-Prabumulih adalah fleksibilitas jadwal yang luar biasa. Tarif flat kami adalah Rp 80.000 per penumpang, dan keberangkatan tersedia setiap jam dari pukul 07:00 hingga 21:00 WIB.
+Salah satu keunggulan utama rute Palembang-Prabumulih adalah fleksibilitas jadwal yang luar biasa. Tarif flat kami adalah Rp 120.000 per penumpang, dan keberangkatan tersedia setiap jam dari pukul 07:00 hingga 21:00 WIB.
 
 | Jadwal Keberangkatan | Frekuensi |
 |---|---|
@@ -38,7 +38,7 @@ Salah satu keunggulan utama rute Palembang-Prabumulih adalah fleksibilitas jadwa
 
 Jadwal yang sangat fleksibel ini memungkinkan Anda berangkat kapan saja sesuai kebutuhan. Tidak perlu menunggu jadwal tertentu atau khawatir ketinggalan keberangkatan. Cukup hubungi admin dan armada akan disiapkan untuk Anda.
 
-Harga Rp 80.000 ini sudah termasuk layanan door-to-door, artinya Anda dijemput langsung dari alamat dan diantarkan ke tujuan. Tidak ada biaya tambahan untuk barang bawaan atau transit di tengah jalan.
+Harga Rp 120.000 ini sudah termasuk layanan door-to-door, artinya Anda dijemput langsung dari alamat dan diantarkan ke tujuan. Tidak ada biaya tambahan untuk barang bawaan atau transit di tengah jalan.
 
 ## Siapa yang Paling Sering Menggunakan Rute Ini?
 
@@ -88,7 +88,7 @@ Ya, kami melayani keberangkatan setiap jam dari pukul 07:00 hingga 21:00 WIB. Ja
 
 ### Berapa harga tiket travel Palembang-Prabumulih?
 
-Tarif flat kami adalah Rp 80.000 per penumpang. Harga sudah termasuk layanan door-to-door.
+Tarif flat kami adalah Rp 120.000 per penumpang. Harga sudah termasuk layanan door-to-door.
 
 ### Apakah Avanza/Veloz nyaman untuk perjalanan?
 

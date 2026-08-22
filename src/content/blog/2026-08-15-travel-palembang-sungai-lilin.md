@@ -2,12 +2,12 @@
 title: "Travel Palembang Sungai Lilin"
 judul_seo: "Travel Palembang Sungai Lilin: Harga, Jadwal & Nomor WA"
 slug: "travel-palembang-sungai-lilin-door-to-door"
-description: "Travel Palembang Sungai Lilin Rp100.000 door-to-door. Jadwal 08-14-18 WIB. Perjalanan 3 jam via Lintas Muba. Nomor WA 0813-6923-1893."
+description: "Travel Palembang Sungai Lilin Rp180.000 door-to-door. Jadwal 08-14-18 WIB. Perjalanan 3 jam via Lintas Muba. Nomor WA 0813-6923-1893."
 pubDate: "2026-08-15"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMVhKgvgIHAbgivhmEsdthkI0B1poqJqBhxEuHsYCyMVdQtcWTWbd80nPD-vYjP5hFWnszp9r7JDiPIcVOw61Ma6lx0hAZaUJ1SL_qbd5hfzIIiFZGpXTfZQmPasq5_forIytsd1Mh7asblOcRRjb4ev6_uaEfg-XxV9wdBuagYjW2oBrUJ5HdAU2F_nKD/s600/Travel_Palembang_Sungai_Lilin.webp"
 kategori: "rute"
-pengantar: "Kebutuhan transportasi dari Palembang menuju kawasan industri dan perkebunan di Musi Banyuasin semakin meningkat setiap minggunya. Untuk perjalanan sejauh 110 km ke Sungai Lilin yang memakan waktu 3 jam, Lincah Travel menghadirkan layanan door-to-door dengan harga flat Rp 100.000 per orang."
+pengantar: "Kebutuhan transportasi dari Palembang menuju kawasan industri dan perkebunan di Musi Banyuasin semakin meningkat setiap minggunya. Untuk perjalanan sejauh 110 km ke Sungai Lilin yang memakan waktu 3 jam, Lincah Travel menghadirkan layanan door-to-door dengan harga flat Rp 180.000 per orang."
 kesimpulan: "Perjalanan dari Palembang ke Sungai Lilin tidak perlu rumit atau melelahkan. Amankan kursi Anda lebih awal dengan menghubungi Lincah Travel via WhatsApp di 0813-6923-1893 untuk memesan jadwal keberangkatan yang sesuai."
 tags: ["travel palembang sungai lilin", "travel door to door", "musi banyuasin", "sungai lilin", "travel sumatera selatan"]
 from: palembang
@@ -42,7 +42,7 @@ Lincah Travel menyediakan tiga pilihan waktu keberangkatan setiap hari untuk men
 | 14.00 WIB | 3 jam | 17.00 WIB | Tiba sore hari sebelum jam kantor tutup |
 | 18.00 WIB | 3 jam | 21.00 WIB | Pilihan fleksibel setelah selesai jam kerja |
 
-Tarif tiket travel Palembang ke Sungai Lilin dipatok flat Rp 100.000 per orang. Tarif ini sudah mencakup biaya jemput dan antar alamat di area operasional standar. Tidak ada biaya tambahan tersembunyi yang ditagihkan di tengah jalan.
+Tarif tiket travel Palembang ke Sungai Lilin dipatok flat Rp 180.000 per orang. Tarif ini sudah mencakup biaya jemput dan antar alamat di area operasional standar. Tidak ada biaya tambahan tersembunyi yang ditagihkan di tengah jalan.
 
 ### Keberangkatan pagi jam 08.00 WIB
 

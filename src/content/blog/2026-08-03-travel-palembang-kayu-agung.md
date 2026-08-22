@@ -2,7 +2,7 @@
 title: "Travel Palembang Kayu Agung"
 judul_seo: "Travel Palembang Kayu Agung: Harga, Jadwal & Nomor WA"
 slug: "travel-palembang-kayu-agung-door-to-door"
-description: "Travel Palembang Kayu Agung Rp70.000 door-to-door. Jadwal harian 07-18 WIB. Perjalanan 1,5 jam via Tol Trans-Sumatera. Nomor WA 0813-6923-1893."
+description: "Travel Palembang Kayu Agung Rp100.000 door-to-door. Jadwal harian 07-18 WIB. Perjalanan 1,5 jam via Tol Trans-Sumatera. Nomor WA 0813-6923-1893."
 pubDate: "2026-08-03"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPzvPyzabaNHVDvA7nQ3o6OknNBiFaYR4jtNoOjk9Vgu1x98Hu2j_nx178a61N6f9IJhgTn2SQElizLpSnUhagWrxKPNVVRNiULHvluH1Unh6tRa54DmnB3Ud9Jx46-PcrJPUfOFpVu7BU4HKpO38bS666fP6g9Vzugi40ejv1yUvA_lQvoByUdkAQaxk/s600/travel-palembang-kayu-agung.webp"
@@ -30,13 +30,13 @@ Berikut adalah jadwal keberangkatan langsung dari Palembang ke Kayu Agung:
 
 | Keberangkatan | Harga Tiket | Durasi |
 |--------------|-------------|--------|
-| Setiap Jam (07:00 - 18:00 WIB) | Rp 70.000 | 1,5 Jam |
+| Setiap Jam (07:00 - 18:00 WIB) | Rp 100.000 | 1,5 Jam |
 
-Tarif Rp 70.000 sudah mencakup semua biaya operasional, termasuk tol dan penggunaan armada yang nyaman. Anda akan langsung diantar ke lokasi tujuan tanpa perlu repot ke terminal atau stasiun.
+Tarif Rp 100.000 sudah mencakup semua biaya operasional, termasuk tol dan penggunaan armada yang nyaman. Anda akan langsung diantar ke lokasi tujuan tanpa perlu repot ke terminal atau stasiun.
 
 ### Kenapa Harganya Terjangkau?
 
-Harga Rp 70.000 bukan karena kami mengorbankan kualitas. Ini adalah hasil dari optimasi rute langsung via tol dan penggunaan armada modern yang efisien. Kami juga tidak menambahkan pajak atau biaya tersembunyi, harga yang Anda lihat di situs kami adalah harga yang akan Anda bayar.
+Harga Rp 100.000 bukan karena kami mengorbankan kualitas. Ini adalah hasil dari optimasi rute langsung via tol dan penggunaan armada modern yang efisien. Kami juga tidak menambahkan pajak atau biaya tersembunyi, harga yang Anda lihat di situs kami adalah harga yang akan Anda bayar.
 
 ## Armada yang Tersedia untuk Rute Ini
 

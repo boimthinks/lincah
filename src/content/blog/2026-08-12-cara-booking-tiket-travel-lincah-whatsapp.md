@@ -63,7 +63,7 @@ Lincah Travel mengoperasikan tiga varian armada utama dengan kondisi terawat dan
 | Palembang ke Jambi | 5 Jam | Lintas Timur | Rp 180.000 | Toyota Innova Reborn |
 | Palembang ke Baturaja | 3 Jam | Jalur Tengah | Rp 120.000 | Toyota Avanza / Veloz |
 | Palembang ke Lubuklinggau | 4 Jam | Jalinteng | Rp 150.000 | Toyota Innova Reborn |
-| Palembang ke Prabumulih | 2 Jam | Tol & Jalur Utama | Rp 80.000 | Toyota Avanza / Veloz |
+| Palembang ke Prabumulih | 2 Jam | Tol & Jalur Utama | Rp 120.000 | Toyota Avanza / Veloz |
 
 Harga di atas sudah termasuk biaya penjemputan langsung di alamat rumah dalam area jangkauan kota dan pengantaran sampai tujuan akhir tanpa biaya terselubung.
 

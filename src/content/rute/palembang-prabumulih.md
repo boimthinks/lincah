@@ -1,12 +1,12 @@
 ---
 from: palembang
 to: prabumulih
-price: 80000
+price: 120000
 duration: 2 Jam
 departureTimes: ["Setiap Jam (07:00 - 21:00)"]
 type: sumatera selatan
 distance: 95 km
-description: Travel Palembang ke Prabumulih — 2 jam, Rp 80.000 via tol. Setiap jam, armada AC, door-to-door. Booking sekarang!
+description: Travel Palembang ke Prabumulih — 2 jam, Rp 120.000 via tol. Setiap jam, armada AC, door-to-door. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -20,7 +20,7 @@ Bagi Anda yang bekerja di sektor migas atau memiliki urusan bisnis di Prabumulih
 
 **Layanan Door-to-Door.** Penjemputan dari alamat Anda di Palembang dan pengantaran langsung ke kantor, site, atau hotel di Prabumulih.
 
-**Harga Terjangkau.** Hanya Rp 80.000, salah satu tarif paling kompetitif untuk rute tol ini.
+**Harga Terjangkau.** Hanya Rp 120.000, salah satu tarif paling kompetitif untuk rute tol ini.
 
 **Armada Siap Pakai.** Avanza/Veloz dan Innova Reborn dengan AC full, cocok untuk perjalanan harian.
 

@@ -1,12 +1,12 @@
 ---
 from: kayu agung
 to: palembang
-price: 70000
+price: 100000
 duration: 1.5 Jam
 departureTimes: ["Setiap Jam (07:00 - 18:00)"]
 type: sumatera selatan
 distance: 65 km
-description: Travel Kayu Agung ke Palembang — 1,5 jam, Rp 70.000 via tol. Setiap jam, armada AC, door-to-door. Booking sekarang!
+description: Travel Kayu Agung ke Palembang — 1,5 jam, Rp 100.000 via tol. Setiap jam, armada AC, door-to-door. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -17,7 +17,7 @@ Kayu Agung kini lebih dekat dengan Palembang berkat akses tol yang efisien. Hany
 *   **Efisiensi Waktu:** Memanfaatkan tol secara optimal, Anda sampai lebih cepat bebas dari macet.
 *   **Door-to-Door:** Penjemputan di alamat Anda di Kayu Agung dan pengantaran tepat di tujuan di Palembang.
 *   **Jadwal Rutin:** Keberangkatan setiap jam (07.00 - 18.00 WIB), praktis untuk mobilitas tinggi.
-*   **Harga Ekonomis:** Cukup Rp 70.000 untuk perjalanan cepat dan nyaman.
+*   **Harga Ekonomis:** Cukup Rp 100.000 untuk perjalanan cepat dan nyaman.
 
 ## Jadwal Keberangkatan
 
