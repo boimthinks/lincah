@@ -13,13 +13,14 @@
 - Saat diminta menulis, mengedit, atau memberi saran judul artikel blog, baca `src/content/blog/` dan `SUMBER-PENGETAHUAN.md` (di root project) untuk data brand, rute, harga, armada, testimoni, frontmatter schema.
 - Gunakan skill **`penulis-ahli`** untuk menulis/mengedit artikel (menggabungkan humanizer + SEO/GEO + konten non-komoditas dalam satu pass).
 
-## Konten Video (Pabrik Konten - `konten-video/`)
-- Saat diminta membuat **ideo/naskah video pendek (short, 15-30 detik)** Lincah Travel, baca dan ikuti panduan di:
-  1. **`konten-video/PROMPT_PABRIK_KONTEN.md`** — master system prompt & workflow 2 tahap.
-  2. **`konten-video/STRATEGI_KONTEN.md`** — 8 sudut pandang (angle) agar ide tidak monoton.
+## Konten Video (Pabrik Konten Drama - `konten-video/`)
+- Saat diminta membuat **ide/naskah video drama pendek (short/reels/tiktok, 60–75 detik)** Lincah Travel, baca dan ikuti panduan di:
+  1. **`konten-video/PROMPT_PABRIK_KONTEN.md`** — master system prompt & workflow 2 tahap (Drama Multi-Character).
+  2. **`konten-video/STRATEGI_KONTEN.md`** — 8 katalog drama & formula 4 babak (Hook Keributan -> Tension -> Transformation Twist -> Punchline).
   3. **`konten-video/DAFTAR_RUTE.md`** — daftar rute resmi (hanya buat konten untuk rute terdaftar).
   4. **`konten-video/published_videos.json`** — riwayat video agar tidak duplikasi.
-- **Wajib** memakai skill **`penulis-ahli`** untuk naskah/hook agar hasil tidak terkesan buatan AI.
+  5. **`konten-video/TEMPLATE_PRODUKSI.md`** — template skrip drama & image prompt Google Flow per segmen.
+- **Wajib** memakai skill **`penulis-ahli`** untuk naskah drama & dialog agar hasil alami, beremosi, dan bebas dari kesan buatan AI.
 - **Wajib** mencatat setiap video yang diproduksi ke `konten-video/published_videos.json`.
 
 ## Tech Stack

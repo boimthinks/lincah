@@ -44,13 +44,13 @@ Berikut adalah daftar rute resmi yang dilayani oleh Lincah Travel (door-to-door)
 | 38 | **Palembang - Muara Enim** | Rp 140.000 | 4 - 5 Jam | 180 km |
 | 39 | **Palembang - Pagaralam** | Rp 180.000 | 7 - 8 Jam | 290 km |
 | 40 | **Palembang - Prabumulih** | Rp 80.000 | 2 Jam | 95 km |
-| 41 | **Palembang - Sekayu** | Rp 100.000 | 3 Jam | 120 km |
+| 41 | **Palembang - Sekayu** | Rp 180.000 | 3 Jam | 120 km |
 | 42 | **Palembang - Sungai Lilin** | Rp 100.000 | 3 Jam | 110 km |
 | 43 | **Palembang - Talang Padang** | Rp 400.000 | 10 - 12 Jam | 450 km |
 | 44 | **Palembang - Tebing Tinggi** | Rp 350.000 | 8 - 9 Jam | 400 km |
 | 45 | **Palembang - Tugumulyo** | Rp 180.000 | 7 - 8 Jam | 300 km |
 | 46 | **Prabumulih - Palembang** | Rp 80.000 | 2 Jam | 95 km |
-| 47 | **Sekayu - Palembang** | Rp 100.000 | 3 Jam | 120 km |
+| 47 | **Sekayu - Palembang** | Rp 180.000 | 3 Jam | 120 km |
 | 48 | **Sungai Lilin - Palembang** | Rp 100.000 | 3 Jam | 110 km |
 | 49 | **Talang Padang - Palembang** | Rp 400.000 | 10 - 12 Jam | 450 km |
 | 50 | **Tebing Tinggi - Palembang** | Rp 350.000 | 8 - 9 Jam | 310 km |

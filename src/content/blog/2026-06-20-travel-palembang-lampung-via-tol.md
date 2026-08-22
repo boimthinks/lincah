@@ -6,7 +6,7 @@ description: "Panduan lengkap travel Palembang Lampung via Tol Trans-Sumatera. T
 pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 author: "Tim Konten Lincah Travel"
-image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJGSTQGlSfmQurS5c4ZBbsoxoh3lYCWCZ1UYcf5Nc2-Kw7Zw2t_hsQGQKa0JXxNKzK9f1t8yxQqofWP3-b1_1myB_dojseqt8k571AioU5cmt04N0Jq9eN8F44pfRRHUCYZYYMo7zwbw6qWkjgOMoPb9sZvbzRfSUvEhgBExllMFOB2JBe0KtezG-dlpc/s600/tugumulyo%20lempuing.webp"
+image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnKMNhsaEa8msF260o6vIG-JFcohSV9g-acDlyO5ld-6Bd_85l3RuHkHggoKqHqka-arYnB6nW4oyKyEIbtl_JGeYreUfGpI8mL2ybYYYPiC0nxP6d_tQtmFPBeZlwtUVbXpxJQhJ0KejMnn4BOqn2IrikxVZcpFzNSgui06pKbUKWPGadZL5TC-LQU9Qc/s600/travel-palembang-lampung.webp"
 kategori: "rute"
 pengantar: "Perjalanan Palembang-Lampung yang dulu terasa melelahkan kini bisa ditempuh lebih cepat dan nyaman via Tol Trans-Sumatera. Simak panduan lengkap dari pengalaman kami melayani rute ini setiap hari."
 kesimpulan: "Siap melakukan perjalanan nyaman dari Palembang ke Lampung? Hubungi Lincah Travel sekarang via WhatsApp di 0813-6923-1893 untuk booking kursi dan konsultasi rute."

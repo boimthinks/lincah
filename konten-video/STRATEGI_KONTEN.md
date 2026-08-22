@@ -1,60 +1,76 @@
-# STRATEGI KONTEN — Lincah Travel (Katalog Sudut Pandang & Hook)
+# STRATEGI KONTEN — Lincah Travel (Katalog Drama & Transformasi)
 
-File ini adalah **panduan variasi ide video** untuk AI Content Producer. Tujuannya memaksa AI agar **tidak monoton** dan selalu mengangkat nilai jual yang berbeda-beda, dikombinasikan dengan rute yang bervariasi dari `DAFTAR_RUTE.md`.
-
----
-
-## 8 Sudut Pandang (Angle) Utama
-
-Gunakan **salah satu** angle di bawah ini untuk membungkus video yang dibuat. Ganti-gantilah agar konten tidak menjemukan.
-
-### 1. Solusi Titip Paket Kilat / Dokumen Penting (Satu Hari Sampai)
-- **Hook:** *"Kirim berkas atau paket penting antar-kota butuh sampai hari ini juga? Jangan kirim ekspedisi biasa!"*
-- **Nilai Jual:** Layanan titip paket kilat same-day yang ikut bagasi travel — lebih cepat & aman daripada ekspedisi reguler.
-
-### 2. Komparasi Biaya: Nyetir Sendiri vs Naik Lincah Travel
-- **Hook:** *"Hitung-hitungan realistis: lebih hemat mana, nyetir sendiri atau naik travel?"*
-- **Nilai Jual:** Kupas akumulasi biaya tol, bensin, kelelahan fisik, dan risiko di jalan dibandingkan harga tiket yang tinggal duduk santai.
-
-### 3. Privilese Layanan Door-to-Door (Anti-Drama Transit & Hujan)
-- **Hook:** *"Gak perlu pesan ojek online dua kali cuma buat nyampe titik kumpul travel!"*
-- **Nilai Jual:** Dijemput di depan pagar rumah & diantar persis ke titik alamat tujuan, tanpa biaya transit tambahan.
-
-### 4. Standar Kenyamanan Armada (Anti Mabuk & Anti Pegal)
-- **Hook:** *"Spill fasilitas travel yang bikin perjalanan jauh serasa rebahan di rumah."*
-- **Nilai Jual:** Kabin ber-AC dingin, kursi lega (reclining seat), interior wangi/bersih, gaya mengemudi sopir santun & aman.
-
-### 5. Opsi Sewa / Carter Satu Mobil (Rombongan Keluarga & Dinas)
-- **Hook:** *"Mau jalan bareng keluarga atau rekan kantor tanpa kecampur penumpang lain? Ini triknya!"*
-- **Nilai Jual:** Layanan carter/drop-off privat dengan jadwal & rute sepenuhnya fleksibel sesuai kebutuhan penyewa.
-
-### 6. Keamanan untuk Solo Traveler Wanita
-- **Hook:** *"Tips aman dan tenang bepergian antar-kota sendirian buat cewek."*
-- **Nilai Jual:** SOP pengemudi profesional, data manifest penumpang jelas, reputasi perjalanan terpercaya & ramah perempuan.
-
-### 7. Kepastian Jadwal & Anti Pembatalan Sepihak
-- **Hook:** *"Pernah apes travel cancel sepihak padahal ada jadwal penting? Sini merapat."*
-- **Nilai Jual:** Jaminan kepastian jam operasional harian yang terjadwal rapi & transparan.
-
-### 8. Praktisnya Booking Online (Anti Chat Panjang Tanpa Balasan)
-- **Hook:** *"Cara booking travel hitungan detik tanpa nunggu admin balas chat lama."*
-- **Nilai Jual:** Cek jadwal & pemesanan mandiri instan via website resmi `lincahtravel.web.id`.
+File ini adalah **panduan variasi ide video drama pendek (60–75 detik)** untuk AI Content Producer Lincah Travel. Tujuannya menciptakan konten emosional yang berpotensi viral dengan promosi halus (*soft-selling*) berbasis perubahan nasib/perspektif (*transformation twist*).
 
 ---
 
-## Aturan Penggunaan
+## Formula Drama 4 Babak
 
-- **Anti-Duplikasi:** Sebelum memilih angle, cek `published_videos.json`. Hindari kombinasi *angle + rute* yang sama persis dengan riwayat.
-- **Variasi Kombinasi:** Jangan menggunakan angle yang sama untuk dua video berturut-turut. Rotasikan di antara 8 angle ini.
-- **Rotasi Rute:** Pasangkan angle dengan rute berbeda setiap kali (Palembang-Jambi, Palembang-Lampung, Palembang-Prabumulih, dll.) sesuai `DAFTAR_RUTE.md`.
-- **Gaya Bahasa:** Tulis hook/naskah dengan gaya manusiawi (skill `penulis-ahli`), bukan template klise.
-- **Informasi Faktual:** Harga, durasi, rute, dan fasilitas harus sesuai data di `DAFTAR_RUTE.md` dan `SUMBER-PENGETAHUAN.md`.
+Setiap naskah drama harus mengikuti alur struktur berikut:
+
+1. **Babak 1: High-Stakes Hook (0:00 - 0:07)**
+   - Perdebatan, keributan, atau perselisihan emosi tinggi antara 2 orang di detik pertama.
+   - Penonton langsung penasaran: *"Ada masalah apa ini?"*
+2. **Babak 2: Tension & Dilema (0:07 - 0:25)**
+   - Karakter menghadapi tekanan waktu/jarak, mencari solusi di kondisi terdesak.
+   - Penemuan solusi halus (melihat/booking Lincah Travel via smartphone/rekomendasi).
+3. **Babak 3: Transformation Twist (0:25 - 0:55)**
+   - **Perubahan 180°**: Dari tidak bisa menjadi bisa, dari hampir gagal menjadi sukses, dari konflik menjadi lega.
+   - Pindah scene ke hasil positif yang membahagiakan/mengharukan.
+4. **Babak 4: Punchline & Soft Promo (0:55 - 0:75)**
+   - Kalimat penutup yang berbobot (*punchline statement*) yang menghubungkan pesan moral/kehidupan dengan keunggulan Lincah Travel.
 
 ---
 
-## Catatan Implementasi (untuk diverifikasi proses produksi)
+## 8 Katalog Sudut Pandang Drama (Angle & Konflik)
 
-*Anda dapat mengisi bagian ini ketika fitur layanan (titip paket, carter, booking online mandiri) sudah tersedia. Pastikan setiap klaim didukung fakta nyata agar menjaga kepercayaan (E-E-A-T).*
-- [ ] Layanan titip paket same-day tersedia dan tarif jelas.
-- [ ] Sistem booking online mandiri aktif di `lincahtravel.web.id`.
-- [ ] Layanan carter/privat resmi tercantum dengan SOP.
+Gunakan salah satu dari 8 sudut pandang drama di bawah ini secara bergantian agar konten tidak monoton.
+
+### 1. Drama Kirim Berkas / Lamaran Pekerjaan (Titip Paket Kilat Same-Day)
+- **Konflik Hook:** Orang tua/pasangan marah besar karena dokumen lamaran/persyaratan penting lupa dikirim dan deadline besok pagi.
+- **Transformasi:** Dari terancam menganggur/gagal menjadi diterima kerja/lolos seleksi karena berkas sampai hari itu juga via Lincah Travel.
+- **Punchline:** *"Masa depan gak boleh tertunda cuma gara-gara berkas lambat. Kirim paket kilat door-to-door, sampai di hari yang sama bersama Lincah Travel."*
+
+### 2. Drama Ujian Ketepatan Waktu / Calon Mertua (Kepastian Jadwal & Anti Cancel)
+- **Konflik Hook:** Calon mertua atau bos marah karena karakter dianggkap tidak tepat janji atau membatalkan secara sepihak.
+- **Transformasi:** Dari divonis "tidak bertanggung jawab" menjadi dipuji karena tiba tepat waktu tanpa telat selangkah pun.
+- **Punchline:** *"Kepercayaan dibangun dari ketepatan waktu. Pilih travel yang garansi berangkat tanpa cancel sepihak."*
+
+### 3. Drama Perselisihan Ongkos & Hemat Nyetir Sendiri (Komparasi Biaya & Kelelahan)
+- **Konflik Hook:** Suami istri/dua sahabat ribut hebat di pinggir jalan karena mobil mogok, bensin/tol bengkak, dan capek luar biasa.
+- **Transformasi:** Dari stres & rugi jutaan rupiah menjadi perjalanan santai, tinggal duduk manis dan langsung sampai depan rumah.
+- **Punchline:** *"Bukan cuma menghemat uang tol dan bensin, tapi juga menghemat emosi dan tenaga keluarga."*
+
+### 4. Drama Penjemputan / Drama Hujan & Transit (Privilese Door-to-Door)
+- **Konflik Hook:** Seseorang basah kuyup terkena hujan sambil membawa barang bawaan berat karena ditinggal atau kesulitan naik ojek sambungan.
+- **Transformasi:** Dari kesusahan transit & kehujanan menjadi dijemput persis di depan rumah dan diantar sampai tujuan akhir.
+- **Punchline:** *"Perjalanan yang nyaman itu yang gak bikin kamu repot di jalan. Dijemput di depan pintu, diantar sampai ke tujuan."*
+
+### 5. Drama Orang Tua Sakit / Kebutuhan Darurat Perantau (Kecepatan & Kenyamanan Single Passenger)
+- **Konflik Hook:** Tangisan dan kepanikan anak di perantauan saat mendengar kabar darurat dari kampung halaman, tetapi panik tidak dapat tiket.
+- **Transformasi:** Dari kepanikan mendalam menjadi ketenangan karena langsung mendapatkan armada yang siap jalan dan tiba dengan cepat.
+- **Punchline:** *"Di saat setiap detik sangat berharga untuk keluarga, pastikan perjalananmu ada di tangan yang tepat."*
+
+### 6. Drama Keamanan Solo Traveler Wanita (Anti Travel Gelap)
+- **Konflik Hook:** Orang tua/suami melarang keras anak wanita bepergian sendirian antar-kota karena takut keselamatan di jalan.
+- **Transformasi:** Dari keraguan dan rasa takut menjadi pembuktian bahwa perjalanan sangat aman, sopir ramah, dan selamat sampai tujuan.
+- **Punchline:** *"Rasa aman bukan bonus, tapi kepastian. Perjalanan nyaman & terpercaya untuk siapa saja."*
+
+### 7. Drama Mudik / Acara Keluarga Carter Privat ( Carter Satu Mobil )
+- **Konflik Hook:** Keributan rombongan keluarga karena desak-desakan dengan penumpang lain dan jadwal yang diatur-atur orang.
+- **Transformasi:** Dari suasana liburan yang kacau menjadi perjalanan eksklusif sekeluarga dengan satu mobil carter privat yang fleksibel.
+- **Punchline:** *"Momen kebersamaan keluarga terlalu berharga untuk dikompromikan. Carter privat, jalan kapan saja."*
+
+### 8. Drama Kenyamanan Perjalanan / Anti Mabuk & Pegal (Standar Armada Innova/Hiace)
+- **Konflik Hook:** Keluhan parah penumpang yang mabuk darat dan badan pegal-pegal akibat travel tua yang sempit dan panas.
+- **Transformasi:** Dari penderitaan perjalanan menjadi pengalaman segar seperti rebahan di rumah dengan kabin dingin AC Innova Reborn/Hiace.
+- **Punchline:** *"Jangan biarkan badan rusak di jalan sebelum sampai di tujuan. Pilih kenyamanan armada terbaik."*
+
+---
+
+## Aturan Pabrik Konten Drama
+
+- **Rotasi Angle & Rute:** Jangan gunakan angle atau rute yang sama untuk dua produksi berturut-turut. Cek `published_videos.json`.
+- **Bahasa Manusiawi:** Dialog wajib menggunakan percakapan sehari-hari khas Indonesia/Sumatera Selatan (bantuan skill `penulis-ahli`), jauhi bahasa kaku atau seperti membacakan brosur.
+- **Konsistensi Visual Google Flow:** Karakter visual harus didaftarkan di awal cerita agar Google Flow dapat memunculkan karakter yang sama sepanjang scene.
+- **Faktual Data:** Rute, durasi, dan harga harus tetap akurat merujuk ke `DAFTAR_RUTE.md`.

@@ -5,7 +5,7 @@ slug: "rekap-harga-travel-sumatera-selatan-2026"
 description: "Rekap tarif travel Palembang ke 10 kota 2026, mulai Rp50.000. Cek harga & durasi Baturaja, Jambi, Lampung. Pesan via WhatsApp 0813-6923-1893."
 pubDate: "2026-08-06"
 author: "Tim Konten Lincah Travel"
-image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b0iWqBOSjhQDx5YTiFdo_Ahi2PWd0sn6PsMsXvCHXut6tKN-SCyq5fXl3uzzZsyiOikk6f7KJOMH9m8QMo0GafrUvErFg-bbLSKHOR0tmA3pGFMlQBsgTlSgGr2WzXn2YH-0zdMSTS9hS_mmBjrb7IxJSBB7in8upDIQ1DR1vuifb6ek0PXJRzdG1Ono/s600/travel_palembang_malam_hari.webp"
+image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitKodktyiYJD5W9W930oqgQv7aMI3aSFgkBCNP5RNb8-R2DPUZiwH4L4-JUmOXyAT29fTE2NyfAkxvNufgJccJ40-iermwHVSwjSeoTZtSToKwqbLNNUj6Tokf_5D4sSHQLcFEFgaleTo2_7-hS-CE0l-g5Qi8QbbxGOO9FVqjR-OO4j5DdbHwDToHzaQ8/s600/travel-palembang-seumsel.webp"
 kategori: "rute"
 pengantar: "Sebelum memesan travel, hampir semua orang bertanya hal yang sama: berapa tarifnya? Artikel ini merangkum harga travel door-to-door dari Palembang ke 10 kota favorit di Sumatera Selatan tahun 2026, lengkap dengan durasi dan jadwalnya, supaya Anda tidak perlu membuka-buka satu per satu."
 kesimpulan: "Kalau rute yang Anda tuju tidak ada di tabel rekap ini, jangan ragu bertanya. Hubungi admin Lincah Travel di WhatsApp 0813-6923-1893, sebutkan kota tujuan dan tanggal keberangkatan, nanti dijawab dengan tarif pasti untuk rute tersebut."
@@ -24,7 +24,7 @@ Berikut 10 rute yang paling sering kami layani, diurutkan dari yang termurah.
 |---|---|---|
 | Kayu Agung | Rp 70.000 | 1,5 jam |
 | Prabumulih | Rp 80.000 | 2 jam |
-| Sekayu | Rp 100.000 | 3 jam |
+| Sekayu | Rp 180.000 | 3 jam |
 | Baturaja | Rp 120.000 | 4-5 jam |
 | Muara Enim | Rp 150.000 | 4-5 jam |
 | Lahat | Rp 200.000 | 5-6 jam |
@@ -57,7 +57,7 @@ Muara Enim Rp 150.000, 4-5 jam, dengan empat jadwal juga. Kota ini jadi persingg
 
 Lahat Rp 200.000 untuk 5-6 jam. Pemandangan perbukitan mulai terlihat setelah melewati Muara Enim, dan udara perlahan terasa sejuk. Jadwal serta tips naiknya bisa dibaca di artikel [travel Palembang Lahat](https://lincahtravel.web.id/blog/travel-palembang-lahat-door-to-door/).
 
-Sekayu, ibu kota Musi Banyuasin, tarifnya Rp 100.000 untuk 3 jam via lintas tengah. Kalau urusan Anda ke arah Muba, rute ini yang paling pas, bukan lewat Kayu Agung.
+Sekayu, ibu kota Musi Banyuasin, tarifnya Rp 180.000 untuk 3 jam via lintas tengah. Kalau urusan Anda ke arah Muba, rute ini yang paling pas, bukan lewat Kayu Agung.
 
 ## Rute jauh: Pagaralam, Jambi, Lubuklinggau, Lampung
 

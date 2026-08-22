@@ -2,10 +2,10 @@
 title: "Travel Palembang Sekayu"
 judul_seo: "Travel Palembang Sekayu: Harga Tiket, Jadwal & Nomor WA"
 slug: "travel-palembang-sekayu"
-description: "Harga travel Palembang Sekayu mulai Rp100.000, 3 jam perjalanan door-to-door. Jadwal 08.00/13.00/16.00 WIB. Booking via WhatsApp 0813-6923-1893."
+description: "Harga travel Palembang Sekayu mulai Rp180.000, 3 jam perjalanan door-to-door. Jadwal 08.00/13.00/16.00 WIB. Booking via WhatsApp 0813-6923-1893."
 pubDate: "2026-08-10"
 author: "Tim Konten Lincah Travel"
-image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FxX6Fz8heXkViJx5EML5fxVuGrarN8o2fLLEhgiJ5mTsQiVL6rXxktr_GwQUDfWQVPSQrqV666eYq2Hve9b1vtbWJW8D9KmQG2CZY-S9u20o-nzTupp49zWloZjrMNvytaB2Oj2Let666BZchKj4aK26EXIMdCjDk-pZ7XZ3Olg-uPp-C_9mswSZHUkk/s600/travel_palembang_sekayu.webp"
+image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7u2HEMwdSlzpEzn4hrLfIB0F2-hwrCdAa8LddoWCiLx-vuVXR5fzcrh_wV9nRgAHL4KLyC2h-R9KX1bVI4I82pKpDPJmnmIFTfhCh6faxDww6W8zFKH0AAI78ujGv3Nz0KP7LUyXQraVDgzCsPrMK94PBdmGzrdzoiuP0tRdg0F1fLogMBkUjnnA0qbiN/s600/travel-palembang-sekayu.webp"
 kategori: "rute"
 pengantar: "Sekayu menjadi tujuan yang ramai dikunjungi warga Palembang, baik untuk urusan dinas pemerintahan maupun kunjungan keluarga. Lincah Travel menghadirkan layanan door-to-door yang memudahkan perjalanan Anda agar sampai tepat waktu tanpa perlu ke terminal."
 kesimpulan: "Perjalanan Palembang-Sekayu kini lebih efisien dengan layanan door-to-door Lincah Travel. Segera pesan tiket Anda melalui WhatsApp 0813-6923-1893 dan nikmati kenyamanan perjalanan tanpa harus repot ke terminal."
@@ -30,7 +30,7 @@ Kami menyediakan jadwal keberangkatan harian untuk mengakomodasi berbagai kebutu
 
 ## Harga Tiket dan Pilihan Armada
 
-Lincah Travel menawarkan tarif flat yang kompetitif untuk semua jenis armada. Anda cukup membayar Rp100.000 per orang untuk sekali jalan.
+Lincah Travel menawarkan tarif flat yang kompetitif untuk semua jenis armada. Anda cukup membayar Rp180.000 per orang untuk sekali jalan.
 
 Pilihan armada kami meliputi:
 

@@ -1,12 +1,12 @@
 ---
 from: palembang
 to: sekayu
-price: 100000
+price: 180000
 duration: 3 Jam
 departureTimes: ["08:00 WIB", "13:00 WIB", "16:00 WIB"]
 type: sumatera selatan
 distance: 120 km
-description: Travel Palembang ke Sekayu — 3 jam, Rp 100.000 via lintas tengah Muba. Door-to-door, armada AC. Booking sekarang!
+description: Travel Palembang ke Sekayu — 3 jam, Rp 180.000 via lintas tengah Muba. Door-to-door, armada AC. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -22,7 +22,7 @@ Dengan jarak 120 km, perjalanan Palembang-Sekayu biasanya memakan waktu 3 jam. L
 
 **Sopir Ahli Rute Muba.** Driver kami menguasai jalan lintas tengah Muba, termasuk jalan alternatif jika ada gangguan lalu lintas.
 
-**Harga Kompetitif.** Rp 100.000 flat untuk semua jenis armada, tidak ada biaya tersembunyi.
+**Harga Kompetitif.** Rp 180.000 flat untuk semua jenis armada, tidak ada biaya tersembunyi.
 
 ## Jadwal Keberangkatan Palembang ke Sekayu
 

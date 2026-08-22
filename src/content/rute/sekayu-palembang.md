@@ -1,12 +1,12 @@
 ---
 from: sekayu
 to: palembang
-price: 100000
+price: 180000
 duration: 3 Jam
 departureTimes: ["08:00 WIB", "13:00 WIB", "16:00 WIB"]
 type: sumatera selatan
 distance: 120 km
-description: Travel Sekayu Muba ke Palembang 3 jam Rp 100.000 via lintas tengah. Door-to-door armada Hiace Premio, Innova, Avanza. Jadwal 08.00, 13.00, 16.00 WIB. Booking 0813-6923-1893.
+description: Travel Sekayu Muba ke Palembang 3 jam Rp 180.000 via lintas tengah. Door-to-door armada Hiace Premio, Innova, Avanza. Jadwal 08.00, 13.00, 16.00 WIB. Booking 0813-6923-1893.
 img: src\content\city-images.md
 ---
 
@@ -20,7 +20,7 @@ Palembang sebagai ibukota provinsi menjadi pusat berbagai layanan publik dan kom
 
 **Armada Nyaman.** Hiace Premio untuk rombongan dinas, Innova Reborn untuk perjalanan privat, Avanza/Veloz untuk opsi irit.
 
-**Harga Terjangkau.** Rp 100.000 per orang, lebih hemat dibanding kendaraan pribadi jika dihitung bensin dan tol.
+**Harga Terjangkau.** Rp 180.000 per orang, lebih hemat dibanding kendaraan pribadi jika dihitung bensin dan tol.
 
 ## Jadwal Keberangkatan Sekayu ke Palembang
 
