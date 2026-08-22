@@ -12,7 +12,7 @@
 ### Sumatera Selatan
 | Rute | Harga | Durasi | Jadwal |
 |------|-------|--------|--------|
-| Palembang – Prabumulih | Rp 120.000 | 2 Jam | Setiap Jam (07:00-21:00) |
+| Palembang – Prabumulih | Rp 130.000 | 2 Jam | Setiap Jam (07:00-21:00) |
 | Palembang – Kayu Agung | Rp 100.000 | 1,5 Jam | Setiap Jam (07:00-18:00) |
 | Palembang – Sekayu | Rp 180.000 | 3 Jam | 08:00, 13:00, 16:00 |
 | Palembang – Sungai Lilin | Rp 180.000 | 3 Jam | 08:00, 14:00, 18:00 |
@@ -29,7 +29,7 @@
 | Palembang – Bayung Lencir | Rp 200.000 | 4-5 Jam | 08:00, 14:00, 19:00 |
 | Palembang – Lubuklinggau | Rp 200.000 | 7-8 Jam | 09:00, 16:00, 20:00 |
 | Palembang – Danau Ranau | Rp 240.000 | 8-9 Jam | 08:00, 14:00, 20:00 |
-| Palembang – Kikim | Rp 250.000 | 7-8 Jam | 08:00, 14:00, 20:00 |
+| Palembang – Kikim | Rp 200.000 | 7-8 Jam | 08:00, 14:00, 20:00 |
 
 ### Rute ke Lampung
 | Rute | Harga | Durasi | Jadwal |
@@ -43,7 +43,7 @@
 | Palembang – Jambi | Rp 200.000 | 6-7 Jam | 08:00, 15:00 |
 | Palembang – Muara Bulian | Rp 180.000 | 5-6 Jam | 09:00, 16:00, 21:00 |
 | Palembang – Kuala Tungkal | Rp 400.000 | 10-11 Jam | 07:00, 19:00 |
-| Palembang – Tebing Tinggi | Rp 350.000 | 8-9 Jam | 09:00, 16:00, 21:00 |
+| Palembang – Tebing Tinggi | Rp 210.000 | 8-9 Jam | 09:00, 16:00, 21:00 |
 
 *Harga dan jadwal sewaktu-waktu dapat berubah. Konfirmasi via WhatsApp untuk info terkini.*
 

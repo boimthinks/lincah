@@ -1,12 +1,12 @@
 ---
 from: prabumulih
 to: palembang
-price: 120000
+price: 130000
 duration: 2 Jam
 departureTimes: ["Setiap Jam (07:00 - 21:00)"]
 type: sumatera selatan
 distance: 95 km
-description: Travel Prabumulih ke Palembang 2 jam Rp 120.000 via tol. Keberangkatan setiap jam 07.00-21.00 WIB. Door-to-door armada Avanza & Innova. Booking 0813-6923-1893.
+description: Travel Prabumulih ke Palembang 2 jam Rp 130.000 via tol. Keberangkatan setiap jam 07.00-21.00 WIB. Door-to-door armada Avanza & Innova. Booking 0813-6923-1893.
 img: src\content\city-images.md
 ---
 
@@ -20,7 +20,7 @@ Dengan frekuensi keberangkatan setiap jam dari pukul 07.00 hingga 21.00 WIB, rut
 
 **Jadwal Setiap Jam.** Keberangkatan setiap jam dari pukul 07.00 hingga 21.00 WIB. Tidak perlu nunggu lama.
 
-**Harga Ekonomis.** Rp 120.000 via tol, lebih murah dari bensin dan tol kendaraan pribadi.
+**Harga Ekonomis.** Rp 130.000 via tol, lebih murah dari bensin dan tol kendaraan pribadi.
 
 **Armada Nyaman.** Avanza/Veloz dan Innova Reborn dengan AC full, cocok untuk perjalanan singkat.
 

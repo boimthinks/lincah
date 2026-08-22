@@ -1,12 +1,12 @@
 ---
 from: palembang
 to: tebing tinggi
-price: 350000
+price: 210000
 duration: 8 - 9 Jam
 departureTimes: ["09:00 WIB", "16:00 WIB", "21:00 WIB"]
 type: jambi
 distance: 400 km
-description: Travel Palembang ke Tebing Tinggi Jambi 5-6 jam Rp 350.000 via Lintas Sumatera. Door-to-door, armada Hiace Premio. Booking 0813-6923-1893.
+description: Travel Palembang ke Tebing Tinggi 8-9 jam Rp 210.000 via Lintas Sumatera. Door-to-door, armada Hiace Premio. Booking 0813-6923-1893.
 img: src\content\city-images.md
 ---
 
@@ -22,7 +22,7 @@ Rute ini memiliki kondisi jalan yang relatif lebih datar dibandingkan daerah peg
 
 **Driver Berpengalaman.** Sopir kami hafal setiap titik Lintas Sumatera dan jalur tercepat menuju Tebing Tinggi, Jambi.
 
-**Harga Transparan.** Rp 180.000 per orang, all-in, tanpa biaya tambahan.
+**Harga Transparan.** Rp 210.000 per orang, all-in, tanpa biaya tambahan.
 
 ## Jadwal Keberangkatan Palembang ke Tebing Tinggi Jambi
 

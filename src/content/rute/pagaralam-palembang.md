@@ -1,12 +1,12 @@
 ---
 from: pagaralam
 to: palembang
-price: 180000
+price: 210000
 duration: 7 - 8 Jam
 departureTimes: ["08:00 WIB", "15:00 WIB", "20:00 WIB"]
 type: sumatera selatan
 distance: 290 km
-description: Travel Pagaralam ke Palembang — 7-8 jam, Rp 180.000 via Lintas Sumatera. Door-to-door, armada AC, udara sejuk. Booking sekarang!
+description: Travel Pagaralam ke Palembang — 7-8 jam, Rp 210.000 via Lintas Sumatera. Door-to-door, armada AC, udara sejuk. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -20,7 +20,7 @@ Pagaralam adalah kota di dataran tinggi Sumatera Selatan yang terkenal dengan ud
 
 **Driver Berpengalaman.** Sopir kami hafal medan pegunungan Pagaralam dan jalur Lintas Sumatera.
 
-**Harga Bersahabat.** Rp 180.000 flat tanpa biaya tambahan.
+**Harga Bersahabat.** Rp 210.000 flat tanpa biaya tambahan.
 
 ## Jadwal Keberangkatan Pagaralam ke Palembang
 

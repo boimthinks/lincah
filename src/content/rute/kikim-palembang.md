@@ -1,12 +1,12 @@
 ---
 from: kikim
 to: palembang
-price: 250000
+price: 200000
 duration: 7 - 8 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "20:00 WIB"]
 type: sumatera selatan
 distance: 280 km
-description: Travel Kikim ke Palembang — 7-8 jam, Rp 250.000. Door-to-door, armada AC, driver berpengalaman. Booking sekarang!
+description: Travel Kikim ke Palembang — 7-8 jam, Rp 200.000. Door-to-door, armada AC, driver berpengalaman. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -17,7 +17,7 @@ Kikim adalah wilayah di Kabupaten Lahat yang kaya akan kebun kopi dan pemandanga
 *   **Door-to-Door Service:** Jemput dari lokasi Anda di Kikim, antar ke tujuan di Palembang. Tanpa repot ke terminal.
 *   **Armada Tangguh:** Toyota Hiace Premio dengan AC full dan kursi nyaman untuk medan pegunungan.
 *   **Driver Berpengalaman:** Sopir kami hafal jalur Kikim-Palembang yang menantang.
-*   **Harga Transparan:** Rp 250.000 flat kelas eksekutif.
+*   **Harga Transparan:** Rp 200.000 flat kelas eksekutif.
 
 ## Jadwal Keberangkatan
 

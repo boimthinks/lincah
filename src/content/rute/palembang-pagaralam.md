@@ -1,12 +1,12 @@
 ---
 from: palembang
 to: pagaralam
-price: 180000
+price: 210000
 duration: 7 - 8 Jam
 departureTimes: ["08:00 WIB", "15:00 WIB", "20:00 WIB"]
 type: sumatera selatan
 distance: 290 km
-description: Travel Palembang ke Pagaralam — 7-8 jam, Rp 180.000. Door-to-door, armada AC, udara sejuk Gunung Dempo. Booking sekarang!
+description: Travel Palembang ke Pagaralam — 7-8 jam, Rp 210.000. Door-to-door, armada AC, udara sejuk Gunung Dempo. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -22,7 +22,7 @@ Dengan jarak 290 km, perjalanan Palembang-Pagaralam memakan waktu 7-8 jam melewa
 
 **Layanan Door-to-Door.** Kami jemput Anda dari alamat di Palembang dan antarkan langsung ke hotel, penginapan, atau tujuan wisata di Pagaralam.
 
-**Harga Terjangkau.** Rp 180.000 flat, sudah termasuk layanan door-to-door dan kenyamanan selama perjalanan.
+**Harga Terjangkau.** Rp 210.000 flat, sudah termasuk layanan door-to-door dan kenyamanan selama perjalanan.
 
 ## Jadwal Keberangkatan Palembang ke Pagaralam
 

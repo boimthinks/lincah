@@ -4,9 +4,10 @@ interface Props {
 	description?: string;
 	canonical?: string;
 	noindex?: boolean;
+	hideFloatingWhatsApp?: boolean;
 }
 
-const { title, description = "Layanan Lincah Travel Terpercaya", canonical, noindex } = Astro.props;
+const { title, description = "Layanan Lincah Travel Terpercaya", canonical, noindex, hideFloatingWhatsApp = false } = Astro.props;
 const canonicalURL = new URL(canonical || Astro.url.pathname, Astro.site).href;
 import '../index.css';
 import FloatingWhatsApp from '../components/FloatingWhatsApp.astro';
@@ -82,7 +83,7 @@ import { ClientRouter } from 'astro:transitions';
 	</head>
   <body>
     <slot />
-    <FloatingWhatsApp />
+    {!hideFloatingWhatsApp && <FloatingWhatsApp />}
   </body>
 
 </html>

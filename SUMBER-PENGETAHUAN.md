@@ -30,7 +30,19 @@ File ini adalah **sumber kebenaran tunggal** untuk semua informasi faktual tenta
 
 ---
 
-## 3. Rute Populer & Harga (Wajib Dicantumkan Jujur)
+## 3. Rute Prioritas Utama (Fokus & Optimasi Ke Depan)
+
+Rute-rute berikut adalah **fokus utama bisnis dan target optimasi SEO/pemasaran ke depannya**:
+
+1. **Palembang - Indralaya**
+2. **Palembang - Prabumulih**
+3. **Palembang - Baturaja**
+4. **Palembang - Martapura**
+5. **Palembang - Muara Dua**
+
+---
+
+## 4. Rute Populer & Harga (Wajib Dicantumkan Jujur)
 
 Gunakan data ini sebagai social proof dalam artikel:
 
@@ -40,16 +52,20 @@ Gunakan data ini sebagai social proof dalam artikel:
 | **Palembang-Jambi** | 5 jam | - | Rp 200.000 | Favorit perjalanan dinas |
 | **Palembang-Baturaja** | 3 jam | - | Rp 120.000 | Door-to-door service |
 | **Palembang-Lubuklinggau** | 4 jam | - | Rp 200.000 | Akses ke Bengkulu |
-| **Palembang-Prabumulih** | 2 jam | - | Rp 120.000 | Ekonomis |
+| **Palembang-Prabumulih** | 2 jam | - | Rp 130.000 | Ekonomis |
 | **Palembang-Muara Enim** | 4-5 jam | - | Rp 150.000 | Akses area industri & tambang |
-| **Palembang-Lahat** | 5-6 jam | - | Rp 200.000 | Akses dataran tinggi |
+| **Palembang-Simpang Belimbing** | 3 jam | - | Rp 150.000 | Tambahan Rute |
+| **Palembang-Pagaralam** | 7-8 jam | - | Rp 210.000 | Dataran tinggi Gunung Dempo |
+| **Palembang-Tebing Tinggi** | 8-9 jam | - | Rp 210.000 | Empat Lawang |
+| **Palembang-Pendopo Lintang** | 8-9 jam | - | Rp 230.000 | Empat Lawang |
+| **Palembang-Kikim** | 7-8 jam | - | Rp 200.000 | Lahat |
 | **Palembang-Indralaya** | 45 menit | Tol | Rp 100.000 | Akses Kampus UNSRI |
 
 **Sumber data:** `src/content/rute/*.md`
 
 ---
 
-## 4. Armada (Opsional jika tertarik pengunjung)
+## 5. Armada (Opsional jika tertarik pengunjung)
 
 | Armada | Kapasitas | Fitur Kunci |
 |---|---|---|
@@ -59,7 +75,7 @@ Gunakan data ini sebagai social proof dalam artikel:
 
 ---
 
-## 5. Testimoni Pelanggan (Social Proof)
+## 6. Testimoni Pelanggan (Social Proof)
 
 Gunakan testimoni ini sebagai social proof dalam artikel (kutip langsung jika relevan):
 
@@ -69,7 +85,7 @@ Gunakan testimoni ini sebagai social proof dalam artikel (kutip langsung jika re
 
 ---
 
-## 6. Frontmatter Schema Blog
+## 7. Frontmatter Schema Blog
 
 Gunakan format ini setiap artikel blog (nama file = tanggal):
 
@@ -96,7 +112,7 @@ tags: ["travel", "palembang", "nama-kota-tujuan"]
 
 ---
 
-## 7. Aturan Proyek (Obligatory)
+## 8. Aturan Proyek (Obligatory)
 
 Langggar larangan ini akan menghancurkan konten SEO:
 
@@ -109,7 +125,7 @@ Langggar larangan ini akan menghancurkan konten SEO:
 
 ---
 
-## 8. Daftar Artikel yang Sudah Terbit (Untuk Anti-Duplikasi)
+## 9. Daftar Artikel yang Sudah Terbit (Untuk Anti-Duplikasi)
 
 Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 
@@ -145,7 +161,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 
 ---
 
-## 9. Topik Rekomendasi (Open)
+## 10. Topik Rekomendasi (Open)
 
 Topik-topik ini bisa dikembangkan, belum memiliki artikel:
 
@@ -157,7 +173,7 @@ Jika menulis topik yang sudah ada artikelnya, **dilarang** kecuali ada pembaruan
 
 ---
 
-## 10. Lokasi Data Referensi
+## 11. Lokasi Data Referensi
 
 - **Testimoni:** `src/content/testimonials/`
 - **Rute:** `src/content/rute/*.md`
@@ -166,7 +182,7 @@ Jika menulis topik yang sudah ada artikelnya, **dilarang** kecuali ada pembaruan
 
 ---
 
-## 11. Cara Menulis Artikel (intinya—praktik ril via skill)
+## 12. Cara Menulis Artikel (intinya—praktik ril via skill)
 
 Gunakan skill `penulis-ahli` untuk seluruh penulisan artikel blog. Skill ini menggabungkan:
 
