@@ -1,0 +1,22 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PriceAdmin from '../components/PriceAdmin';
+import { getCollection } from 'astro:content';
+
+const routes = await getCollection('rute');
+const capitalize = (str: string) => str.toLowerCase().replace(/\b\w/g, l => l.toUpperCase());
+
+const routesData = routes.map(r => ({
+  id: r.id,
+  ...r.data,
+  from: capitalize(r.data.from),
+  to: capitalize(r.data.to)
+}));
+
+const title = "Harga Rute — Admin Lincah Travel";
+const description = "Halaman internal untuk admin melihat semua rute dan harga.";
+---
+
+<Layout title={title} description={description}>
+  <PriceAdmin routes={routesData} client:load />
+</Layout>
