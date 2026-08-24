@@ -16,7 +16,7 @@ to: "muara sabak"
 
 Mendengar nama Muara Sabak, bayangan pertama yang muncul di kepala banyak warga Palembang adalah garis pantai membentang di sisi timur Provinsi Jambi. Pantai Lamo, destinasi primadona di kawasan ini, ramai dikunjungi di akhir pekan oleh rombongan keluarga dan komunitas pecinta alam dari kota-kota besar di Sumatera.
 
-Namun, bagi Anda yang tidak memiliki kendaraan pribadi atau malas menghadapi kemacetan berangkat dari Palembang, akses jalan darat ke Muara Sabak menjadi tantangan tersendiri. Jalur pesisir timur memiliki karakteristik padat kendaraan logistik minyak dan kelapa sawit, terutama di dekat pintu keluar tol dan persimpangan simpang.
+Namun, bagi Anda yang tidak memiliki kendaraan pribadi atau malas menghadapi kemacetan berangkat dari Palembang, akses jalan darat ke Muara Sabak menjadi tantangan tersendiri. Rute ini biasanya melewati jalur utama yang dilintasi armada travel palembang jambi sebelum memotong ke arah timur menuju pesisir. Jalur pesisir timur memiliki karakteristik padat kendaraan logistik minyak dan kelapa sawit, terutama di dekat pintu keluar tol dan persimpangan simpang.
 
 ## Solusi Cepat Menuju Pesisir Timur Jambi
 

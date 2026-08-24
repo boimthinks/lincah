@@ -82,7 +82,7 @@ export default defineConfig({
     prefetchAll: true,
     defaultStrategy: 'hover',
   },
-  integrations: [react(), sitemap({
+    integrations: [react(), sitemap({
     filter: (page) => {
       const excluded = [
         '/batu-marta/', '/baturaja/', '/bayung-lencir/', '/belitang/',

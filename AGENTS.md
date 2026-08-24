@@ -10,8 +10,9 @@
 
 ## Pengingat Penting
 - **Aturan Wajib Anti-Duplikasi Artikel**: Sebelum memberi saran judul, ide topik, atau menulis artikel blog baru, Agent **WAJIB membaca/memindai daftar file nyata di `src/content/blog/`** secara langsung (bukan hanya mengandalkan catatan di markdown).
-- Saat diminta menulis, mengedit, atau memberi saran judul artikel blog, baca `src/content/blog/` dan `SUMBER-PENGETAHUAN.md` (di root project) untuk data brand, rute, harga, armada, testimoni, frontmatter schema.
+- Saat diminta menulis, mengedit, atau memberi saran judul artikel blog, baca `src/content/blog/` and `SUMBER-PENGETAHUAN.md` (di root project) untuk data brand, rute, harga, armada, testimoni, frontmatter schema.
 - Gunakan skill **`penulis-ahli`** untuk menulis/mengedit artikel (menggabungkan humanizer + SEO/GEO + konten non-komoditas dalam satu pass).
+- **Aturan Penyisipan Keyword**: Saat menulis artikel blog baru, wajib menyelipkan kata kunci rute (seperti "travel [asal] [tujuan]" atau "travel [asal] ke [tujuan]") secara natural di dalam body tulisan (bukan di dalam heading atau properti frontmatter seperti pengantar/kesimpulan), agar dapat diproses oleh mekanisme internal link otomatis.
 
 ## Konten Video (Pabrik Konten Drama - `konten-video/`)
 - Saat diminta membuat **ide/naskah video drama pendek (short/reels/tiktok, 60–75 detik)** Lincah Travel, baca dan ikuti panduan di:

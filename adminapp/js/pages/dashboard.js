@@ -113,7 +113,12 @@ const DashboardPage = {
       const totalIncome = (passengers || []).reduce((sum, p) => sum + Number(p.fee_vendor || 0), 0);
       const totalExpenses = (expenses || []).reduce((sum, e) => sum + Number(e.nominal || 0), 0);
       const totalPassengers = (passengers || []).length;
-      const balance = totalIncome - totalExpenses;
+      const totalUnpaid = (passengers || [])
+        .filter(p => p.status_pembayaran === 'belum_bayar')
+        .reduce((sum, p) => sum + Number(p.fee_vendor || 0), 0);
+
+      // Saldo Bersih = Total Pendapatan - Total Pengeluaran - Belum Bayar
+      const netBalance = totalIncome - totalExpenses - totalUnpaid;
 
       this.data.totalIncome = totalIncome;
       this.data.totalExpenses = totalExpenses;
@@ -123,10 +128,10 @@ const DashboardPage = {
       document.getElementById('dashboard-income').textContent = Helpers.formatCurrency(totalIncome);
       document.getElementById('dashboard-expenses').textContent = Helpers.formatCurrency(totalExpenses);
       document.getElementById('dashboard-passengers').textContent = totalPassengers;
-      document.getElementById('dashboard-balance').textContent = Helpers.formatCurrency(balance);
+      document.getElementById('dashboard-balance').textContent = Helpers.formatCurrency(netBalance);
 
       const balanceEl = document.getElementById('dashboard-balance');
-      if (balance >= 0) {
+      if (netBalance >= 0) {
         balanceEl.className = 'card-value positive';
       } else {
         balanceEl.className = 'card-value negative';

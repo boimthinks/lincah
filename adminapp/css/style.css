@@ -188,6 +188,50 @@ body {
   color: var(--danger);
 }
 
+.balance-breakdown {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.balance-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+  color: var(--gray-600);
+}
+
+.balance-row span:last-child {
+  font-weight: 600;
+  color: var(--gray-800);
+}
+
+.balance-row.unpaid {
+  padding-bottom: 8px;
+  border-bottom: 1px dashed var(--gray-200);
+}
+
+.balance-row.unpaid span:last-child {
+  color: var(--danger);
+}
+
+.balance-row.total {
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--gray-900);
+}
+
+.balance-row.total span:last-child {
+  color: var(--success);
+  font-weight: 700;
+}
+
+.balance-row.total span:last-child.negative {
+  color: var(--danger);
+}
+
 /* ============================================================
    Buttons
    ============================================================ */

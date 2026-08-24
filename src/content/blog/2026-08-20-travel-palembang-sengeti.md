@@ -14,7 +14,7 @@ from: "palembang"
 to: "sengeti"
 ---
 
-Kota Sengeti di Kabupaten Muaro Jambi berada dalam jangkauan angkutan umum yang menghubungkan pusat kota Palembang dengan wilayah utara menuju Jambi. Aktivitas di kawasan ini sangat dinamis, mulai dari kantor Bappeda dan dispenduk, kompleks perumahan dinas, hingga destinasi wisata sejarah Candi Muaro Jambi yang semakin populer.
+Kota Sengeti di Kabupaten Muaro Jambi berada dalam jangkauan angkutan umum yang menghubungkan pusat kota Palembang dengan wilayah utara menuju Jambi. Sebagai rute penyangga, jalur ini juga dilewati oleh armada utama travel palembang jambi reguler. Aktivitas di kawasan ini sangat dinamis, mulai dari kantor Bappeda dan dispenduk, kompleks perumahan dinas, hingga destinasi wisata sejarah Candi Muaro Jambi yang semakin populer.
 
 Banyak orang mengira perjalanan singkat ke Sengeti cukup memakai kendaraan pribadi sendirian. Padahal, jika dihitung penuh, biaya bahan bakar, tol, dan parkir selama satu hari pulang pergi bisa mencapai angka yang sulit ditutup bila hanya berangkat sendiri. Tak jarang, dengan perhitungan biaya yang lebih masuk akal, justru layanan travel door-to-door menjadi opsi paling efisien.
 

@@ -1,11 +1,12 @@
 ---
-interface Props {
-  content: string;
-}
+import { getCollection } from 'astro:content';
+import { generateRouteKeywords, injectInternalLinks } from '../utils/internalLinks';
 
-const { content } = Astro.props;
+const routes = await getCollection('rute');
+const keywords = generateRouteKeywords(routes.map(r => ({ from: r.data.from, to: r.data.to })));
+
+const rawHtml = await Astro.slots.render('default');
+const processedHtml = injectInternalLinks(rawHtml, keywords, 5);
 ---
 
-<div class="blog-content">
-  <slot />
-</div>
+<div class="blog-content" set:html={processedHtml} />

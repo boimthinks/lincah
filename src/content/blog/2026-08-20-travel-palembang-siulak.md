@@ -16,7 +16,7 @@ to: "siulak"
 
 Bagi warga perantauan Kerinci di Palembang atau para pelancong yang ingin menikmati pesona Gunung Kerinci, Siulak adalah salah satu destinasi utama. Berada di lembah subur yang dikelilingi Taman Nasional Kerinci Seblat, daerah ini menawarkan suasana asri yang bertolak belakang dengan hiruk pikuk kota.
 
-Sayangnya, niat mudik atau berwisata kerap terhalang oleh bayangan jalur perjalanan darat yang melelahkan. Jalur lintas barat yang menanjak di kawasan Bangko menuju Sungai Penuh hingga Siulak menuntut pengemudi yang memiliki jam terbang tinggi di medan pegunungan.
+Sayangnya, niat mudik atau berwisata kerap terhalang oleh bayangan jalur perjalanan darat yang melelahkan. Selain rute utama seperti travel palembang jambi harian, jalur lintas barat yang menanjak di kawasan Bangko menuju Sungai Penuh hingga Siulak menuntut pengemudi yang memiliki jam terbang tinggi di medan pegunungan.
 
 ## Menembus Jalur Perbukitan Kerinci dengan Aman
 

@@ -2,12 +2,12 @@
 import Layout from '../../layouts/Layout.astro';
 import Navbar from '../../components/NavbarInner.tsx';
 import Footer from '../../components/Footer.astro';
-import BlogContent from '../../components/BlogContent.astro';
 import SidebarCTA from '../../components/SidebarCTA.astro';
 import BlogTOC from '../../components/BlogTOC.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
 import RouteCard from '../../components/RouteCard.astro';
 import { getCollection, getEntries, render, getEntry } from 'astro:content';
+import BlogContent from '../../components/BlogContent.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -45,7 +45,7 @@ const pageTitle = `${post.data.judul_seo} | Lincah Travel`;
 const relatedPosts = (await getCollection('blog'))
   .filter((item) => item.data.kategori === post.data.kategori && item.data.slug !== post.data.slug)
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
-  .slice(0, 3);
+  .slice(0, 6);
 
 // Fetch route data if 'to' exists in blog frontmatter
 let routeData = null;

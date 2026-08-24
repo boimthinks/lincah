@@ -20,7 +20,7 @@ Namun, menempuh jalur lintas sejauh lebih dari 400 kilometer bukanlah perkara se
 
 ## Dinamika Jalur Lintas Tengah Palembang menuju Muara Bungo
 
-Perjalanan dari Palembang menuju Muara Bungo umumnya melintasi koridor utama Sumatera Selatan menuju Jambi. Rute ini melewati titik-titik padat seperti Betung, Sekayu, Bayung Lencir, hingga memasuki wilayah Muara Tebo sebelum tiba di Bungo.
+Perjalanan dari Palembang menuju Muara Bungo umumnya melintasi koridor utama Sumatera Selatan menuju Jambi yang juga menjadi jalur utama travel palembang jambi reguler. Rute ini melewati titik-titik padat seperti Betung, Sekayu, Bayung Lencir, hingga memasuki wilayah Muara Tebo sebelum tiba di Bungo.
 
 Pengendara pribadi kerap menghadapi kelelahan ekstra saat melintasi jalur ini di malam hari. Antrean kendaraan besar di pasar tumpah dan perbaikan jalan berkala bisa membuat waktu tempuh membengkak jika pengemudi tidak paham jam-jam senggang di lapangan.
 
