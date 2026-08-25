@@ -96,14 +96,14 @@ export default function Hero({ routes }: HeroProps) {
                 href="/travel"
                 className="bg-yellow-400 hover:bg-yellow-300 text-blue-950 font-extrabold uppercase tracking-widest text-xs px-6 py-4 rounded-none shadow-md transition-all cursor-pointer flex items-center justify-center gap-2"
               >
-                <span>Lihat Semua Rute & Harga</span>
+                <span>Cek Harga</span>
                 <ArrowRight className="w-4 h-4" />
               </a>
               <button
                 onClick={() => setIsBookingOpen(true)}
                 className="bg-blue-700 hover:bg-blue-800 text-white font-extrabold uppercase tracking-widest text-xs px-6 py-4 rounded-none border border-blue-600 transition-colors flex items-center justify-center cursor-pointer"
               >
-                Booking
+                Booking Sekarang
               </button>
             </div>
           </div>
