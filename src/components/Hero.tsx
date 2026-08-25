@@ -66,7 +66,7 @@ export default function Hero({ routes }: HeroProps) {
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-light text-white tracking-tight leading-tight uppercase">
                 Travel <span className="font-extrabold">Palembang</span> <br />
                 <span className="text-yellow-400 font-extrabold block mt-2">
-                  Profesional & Tepat Waktu
+                  Ke Semua Wilayah Sumsel
                 </span>
               </h1>
               <p className="text-base sm:text-lg text-slate-300 max-w-xl font-normal leading-relaxed">
