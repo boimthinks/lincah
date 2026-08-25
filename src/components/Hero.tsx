@@ -24,9 +24,7 @@ export default function Hero({ routes }: HeroProps) {
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (activeRoute) {
-      const message = `Pesan travel dari ${activeRoute.from} ke ${activeRoute.to}`;
-      const whatsappUrl = `https://wa.me/6281369231893?text=${encodeURIComponent(message)}`;
-      window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
+      setIsBookingOpen(true);
     } else {
       document.getElementById('rute')?.scrollIntoView({ behavior: 'smooth' });
     }
@@ -181,7 +179,7 @@ export default function Hero({ routes }: HeroProps) {
                   {activeRoute ? (
                     <>
                       <MessageSquare className="w-4 h-4" />
-                      <span>PESAN TRAVEL</span>
+                      <span>BOOKING SEKARANG</span>
                     </>
                   ) : (
                     <>
@@ -210,6 +208,7 @@ export default function Hero({ routes }: HeroProps) {
         isOpen={isBookingOpen} 
         onClose={() => setIsBookingOpen(false)} 
         routes={routes} 
+        initialRouteId={selectedRouteId}
       />
     </section>
   );
