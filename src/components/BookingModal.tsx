@@ -36,7 +36,8 @@ export default function BookingModal({
   onClose,
   routes,
   initialRouteId = '',
-}: BookingModalProps) {
+  isPage = false,
+}: BookingModalProps & { isPage?: boolean }) {
   const [step, setStep] = useState(1);
   const [nama, setNama] = useState('');
   const [whatsapp, setWhatsapp] = useState('');
@@ -67,14 +68,24 @@ export default function BookingModal({
   const totalTarif = tarifPerOrang * jumlahPenumpang;
 
   useEffect(() => {
+    // Di halaman booking, ambil data rute awal dari URL query params jika ada
+    if (isPage && typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search);
+      const queryRoute = params.get('route');
+      if (queryRoute) {
+        setTujuan(queryRoute);
+        return;
+      }
+    }
     if (initialRouteId) {
       setTujuan(initialRouteId);
     }
-  }, [initialRouteId]);
+  }, [initialRouteId, isPage]);
 
   // Sync Leaflet map & marker
   useEffect(() => {
-    if (!isOpen || step !== 2) return;
+    if (!isPage && (!isOpen || step !== 2)) return;
+    if (isPage && step !== 2) return;
 
     const initMap = () => {
       const L = (window as any).L;
@@ -154,7 +165,7 @@ export default function BookingModal({
       link.remove();
       script.remove();
     };
-  }, [isOpen, step, lat, lng]);
+  }, [isOpen, step, lat, lng, isPage]);
 
   const handleSearchMap = async (e?: React.FormEvent) => {
     if (e) e.preventDefault();
@@ -314,19 +325,19 @@ Terima kasih!`;
     window.open(waUrl, '_blank', 'noopener,noreferrer');
   };
 
-  if (!isOpen) return null;
+  if (!isPage && !isOpen) return null;
 
-  return (
-    <div className="fixed inset-0 z-[99999] flex items-center justify-center bg-slate-950/80 backdrop-blur-sm p-4 overflow-y-auto">
-      <div className="relative w-full max-w-2xl bg-white shadow-2xl border border-slate-200 rounded-none overflow-hidden my-8 animate-in fade-in zoom-in-95 duration-200">
-        
-        {/* Header Modal */}
-        <div className="bg-blue-900 px-6 py-4 flex items-center justify-between text-white border-b border-blue-800">
-          <div>
-            <h3 className="text-lg font-black uppercase tracking-tight mt-1 text-white">
-              Pesan Travel Palembang
-            </h3>
-          </div>
+  const contentElement = (
+    <div className="relative w-full max-w-2xl bg-white shadow-2xl border border-slate-200 rounded-none overflow-hidden my-8 animate-in fade-in zoom-in-95 duration-200">
+      
+      {/* Header Modal */}
+      <div className="bg-blue-900 px-6 py-4 flex items-center justify-between text-white border-b border-blue-800">
+        <div>
+          <h3 className="text-lg font-black uppercase tracking-tight mt-1 text-white">
+            Pesan Travel Palembang
+          </h3>
+        </div>
+        {!isPage && (
           <button
             onClick={onClose}
             className="text-white/70 hover:text-white p-1 transition-colors cursor-pointer"
@@ -334,335 +345,320 @@ Terima kasih!`;
           >
             <X className="w-6 h-6" />
           </button>
-        </div>
+        )}
+      </div>
 
-        {/* Step Tabs */}
-        <div className="bg-slate-100 px-6 py-2 flex items-center justify-between border-b border-slate-200">
-          <div className="flex items-center gap-2">
-            <div className={`w-7 h-7 rounded-full flex items-center justify-center text-xs font-black border-2 ${
-              step === 1 
-                ? 'bg-blue-600 text-white border-blue-600' 
-                : 'bg-slate-300 text-slate-500 border-slate-300'
-            }`}>
-              {step === 1 ? (
-                <>
-                  <CheckCircle className="w-4 h-4" />
-                  <span>1</span>
-                </>
-              ) : (
+      {/* Step Tabs */}
+      <div className="bg-slate-100 px-6 py-2 flex items-center justify-between border-b border-slate-200">
+        <div className="flex items-center gap-2">
+          <div className={`w-7 h-7 rounded-full flex items-center justify-center text-xs font-black border-2 ${
+            step === 1 
+              ? 'bg-blue-600 text-white border-blue-600' 
+              : 'bg-slate-300 text-slate-500 border-slate-300'
+          }`}>
+            {step === 1 ? (
+              <>
+                <CheckCircle className="w-4 h-4" />
                 <span>1</span>
-              )}
-            </div>
-            <span className={`text-sm font-bold uppercase tracking-wide ${
-              step === 1 ? 'text-slate-900' : 'text-slate-400'
-            }`}>
-              Data Penumpang
-            </span>
+              </>
+            ) : (
+              <span>1</span>
+            )}
           </div>
-          
-          <ArrowRight className="w-4 h-4 text-slate-300" />
-          
-          <div className="flex items-center gap-2">
-            <span className={`text-sm font-bold uppercase tracking-wide ${
-              step === 2 ? 'text-slate-900' : 'text-slate-400'
-            }`}>
-              Lokasi
-            </span>
-            <div className={`w-7 h-7 rounded-full flex items-center justify-center text-xs font-black border-2 ${
-              step === 2 
-                ? 'bg-blue-600 text-white border-blue-600' 
-                : 'bg-slate-300 text-slate-500 border-slate-300'
-            }`}>
-              {step === 2 ? (
-                <>
-                  <CheckCircle className="w-4 h-4" />
-                  <span>2</span>
-                </>
-              ) : (
+          <span className={`text-sm font-bold uppercase tracking-wide ${
+            step === 1 ? 'text-slate-900' : 'text-slate-400'
+          }`}>
+            Data Penumpang
+          </span>
+        </div>
+        
+        <ArrowRight className="w-4 h-4 text-slate-300" />
+        
+        <div className="flex items-center gap-2">
+          <span className={`text-sm font-bold uppercase tracking-wide ${
+            step === 2 ? 'text-slate-900' : 'text-slate-400'
+          }`}>
+            Lokasi
+          </span>
+          <div className={`w-7 h-7 rounded-full flex items-center justify-center text-xs font-black border-2 ${
+            step === 2 
+              ? 'bg-blue-600 text-white border-blue-600' 
+              : 'bg-slate-300 text-slate-500 border-slate-300'
+          }`}>
+            {step === 2 ? (
+              <>
+                <CheckCircle className="w-4 h-4" />
                 <span>2</span>
-              )}
-            </div>
+              </>
+            ) : (
+              <span>2</span>
+            )}
           </div>
         </div>
+      </div>
 
-        {/* Isi Form */}
-        <form onSubmit={step === 1 ? handleStep1Submit : handleFormSubmit} className="p-6 space-y-4 text-left max-h-[80vh] overflow-y-auto">
-          {errorMessage && (
-            <div className="p-3 bg-red-50 border-l-4 border-red-500 text-red-700 text-xs font-bold">
-              {errorMessage}
+      {/* Isi Form */}
+      <form onSubmit={step === 1 ? handleStep1Submit : handleFormSubmit} className="p-6 space-y-4 text-left max-h-[80vh] overflow-y-auto">
+        {errorMessage && (
+          <div className="p-3 bg-red-50 border-l-4 border-red-500 text-red-700 text-xs font-bold">
+            {errorMessage}
+          </div>
+        )}
+
+        {/* Step 1: Data Penumpang */}
+        {step === 1 && (
+          <>
+            {/* Nama Penumpang */}
+            <div>
+              <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
+                Nama Lengkap / Panggilan <span className="text-red-500">*</span>
+              </label>
+              <div className="relative">
+                <span className="absolute inset-y-0 left-0 pl-3 flex items-center text-slate-400">
+                  <User className="w-4 h-4" />
+                </span>
+                <input
+                  type="text"
+                  required
+                  placeholder="Contoh: Rian Hidayat"
+                  value={nama}
+                  onChange={(e) => setNama(e.target.value)}
+                  className="w-full bg-slate-50 border border-slate-300 pl-10 pr-3 py-2.5 text-sm font-semibold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
+                />
+              </div>
             </div>
-          )}
 
-          {/* Step 1: Data Penumpang */}
-          {step === 1 && (
-            <>
-              {/* Nama Penumpang */}
+            {/* Nomor WhatsApp */}
+            <div>
+              <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
+                Nomor WhatsApp <span className="text-red-500">*</span>
+              </label>
+              <div className="flex">
+                <span className="inline-flex items-center px-3 bg-slate-200 border border-r-0 border-slate-300 text-slate-700 font-bold text-sm">
+                  +62
+                </span>
+                <input
+                  type="tel"
+                  required
+                  placeholder="81234567890"
+                  value={whatsapp}
+                  onChange={(e) => setWhatsapp(e.target.value.replace(/^0+/, '').replace(/\D/g, ''))}
+                  className="w-full bg-slate-50 border border-slate-300 px-3 py-2.5 text-sm font-semibold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
+                />
+              </div>
+            </div>
+
+            {/* Dari & Tujuan */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
                 <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
-                  Nama Lengkap / Panggilan <span className="text-red-500">*</span>
+                  Kota Asal
                 </label>
-                <div className="relative">
-                  <span className="absolute inset-y-0 left-0 pl-3 flex items-center text-slate-400">
-                    <User className="w-4 h-4" />
-                  </span>
-                  <input
-                    type="text"
-                    required
-                    placeholder="Contoh: Rian Hidayat"
-                    value={nama}
-                    onChange={(e) => setNama(e.target.value)}
-                    className="w-full bg-slate-50 border border-slate-300 pl-10 pr-3 py-2.5 text-sm font-semibold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
-                  />
-                </div>
+                <input
+                  type="text"
+                  readOnly
+                  value="Palembang"
+                  className="w-full bg-slate-100 border border-slate-300 px-3 py-2.5 text-sm font-bold text-slate-600 cursor-not-allowed"
+                />
               </div>
 
-              {/* Nomor WhatsApp */}
               <div>
                 <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
-                  Nomor WhatsApp <span className="text-red-500">*</span>
-                </label>
-                <div className="flex">
-                  <span className="inline-flex items-center px-3 bg-slate-200 border border-r-0 border-slate-300 text-slate-700 font-bold text-sm">
-                    +62
-                  </span>
-                  <input
-                    type="tel"
-                    required
-                    placeholder="81234567890"
-                    value={whatsapp}
-                    onChange={(e) => setWhatsapp(e.target.value.replace(/^0+/, '').replace(/\D/g, ''))}
-                    className="w-full bg-slate-50 border border-slate-300 px-3 py-2.5 text-sm font-semibold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
-                  />
-                </div>
-              </div>
-
-              {/* Dari & Tujuan */}
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                <div>
-                  <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
-                    Kota Asal
-                  </label>
-                  <input
-                    type="text"
-                    readOnly
-                    value="Palembang"
-                    className="w-full bg-slate-100 border border-slate-300 px-3 py-2.5 text-sm font-bold text-slate-600 cursor-not-allowed"
-                  />
-                </div>
-
-                <div>
-                  <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
-                    Kota Tujuan <span className="text-red-500">*</span>
-                  </label>
-                  <select
-                    value={tujuan}
-                    onChange={(e) => setTujuan(e.target.value)}
-                    required
-                    className="w-full bg-slate-50 border border-slate-300 px-3 py-2.5 text-sm font-bold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
-                  >
-                    <option value="">-- Pilih Kota Tujuan --</option>
-                    {availableRoutes.map((r) => (
-                      <option key={r.id} value={r.id}>
-                        {capitalize(r.to)}
-                      </option>
-                    ))}
-                  </select>
-                </div>
-              </div>
-
-              {/* Tanggal & Jam */}
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                <div>
-                  <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
-                    Tanggal Berangkat <span className="text-red-500">*</span>
-                  </label>
-                  <input
-                    type="date"
-                    value={tanggal}
-                    min={new Date().toISOString().split('T')[0]}
-                    onChange={(e) => setTanggal(e.target.value)}
-                    required
-                    className="w-full bg-slate-50 border border-slate-300 px-3 py-2.5 text-sm font-semibold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
-                  />
-                </div>
-
-                <div>
-                  <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
-                    Jadwal Jam <span className="text-red-500">*</span>
-                  </label>
-                  <select
-                    value={jam}
-                    onChange={(e) => setJam(e.target.value)}
-                    className="w-full bg-slate-50 border border-slate-300 px-3 py-2.5 text-sm font-bold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
-                  >
-                    <option value="Pagi">Pagi</option>
-                    <option value="Siang">Siang</option>
-                    <option value="Sore">Sore</option>
-                    <option value="Malam">Malam</option>
-                  </select>
-                </div>
-              </div>
-
-              {/* Jumlah Penumpang */}
-              <div>
-                <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
-                  Jumlah Penumpang
+                  Kota Tujuan <span className="text-red-500">*</span>
                 </label>
                 <select
-                  value={jumlahPenumpang}
-                  onChange={(e) => setJumlahPenumpang(parseInt(e.target.value) || 1)}
+                  value={tujuan}
+                  onChange={(e) => setTujuan(e.target.value)}
+                  required
                   className="w-full bg-slate-50 border border-slate-300 px-3 py-2.5 text-sm font-bold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
                 >
-                  {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((num) => (
-                    <option key={num} value={num}>
-                      {num} Orang
+                  <option value="">-- Pilih Kota Tujuan --</option>
+                  {availableRoutes.map((r) => (
+                    <option key={r.id} value={r.id}>
+                      {capitalize(r.to)}
                     </option>
                   ))}
                 </select>
               </div>
+            </div>
 
-              {/* Tombol Lanjut */}
-              <div className="pt-2">
-                <button
-                  type="submit"
-                  className="w-full bg-blue-600 hover:bg-blue-700 text-white font-black uppercase tracking-wider py-3 px-4 text-sm flex items-center justify-center gap-2 shadow-lg"
-                >
-                  <span>NEXT</span>
-                  <ArrowRight className="w-4 h-4" />
-                </button>
-              </div>
-            </>
-          )}
-
-          {/* Step 2: Lokasi Penjemputan */}
-          {step === 2 && (
-            <>
+            {/* Tanggal & Jam */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
-                <div className="flex items-center justify-between mb-2">
-                  <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700">
-                    Peta Titik Jemput <span className="text-red-500">*</span>
-                  </label>
-                  <button
-                    type="button"
-                    onClick={handleGetLocation}
-                    disabled={isGettingLocation}
-                    className="inline-flex items-center justify-center gap-1 text-[11px] font-bold text-blue-700 hover:text-blue-900 bg-blue-50 px-2 py-1 border border-blue-200 cursor-pointer disabled:opacity-50"
-                  >
-                    <Navigation className="w-3 h-3 text-blue-600" />
-                    <span>Gunakan Lokasi GPS Saya</span>
-                  </button>
-                </div>
-
-                <div className="flex gap-1.5 mb-2">
-                  <input
-                    type="text"
-                    placeholder="Cari lokasi/jalan di Palembang..."
-                    value={searchMapText}
-                    onChange={(e) => setSearchMapText(e.target.value)}
-                    onKeyDown={(e) => {
-                      if (e.key === 'Enter') {
-                        e.preventDefault();
-                        handleSearchMap();
-                      }
-                    }}
-                    className="flex-1 bg-slate-50 border border-slate-300 px-3 py-1.5 text-xs font-semibold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
-                  />
-                  <button
-                    type="button"
-                    onClick={handleSearchMap}
-                    disabled={isSearchingMap}
-                    className="bg-blue-800 hover:bg-blue-900 text-white px-3 py-1.5 text-xs font-bold flex items-center gap-1 cursor-pointer disabled:opacity-50"
-                  >
-                    {isSearchingMap ? (
-                      <Loader2 className="w-3.5 h-3.5 animate-spin" />
-                    ) : (
-                      <>
-                        <Search className="w-3.5 h-3.5" />
-                        <span>Cari</span>
-                      </>
-                    )}
-                  </button>
-                </div>
-                
-                <div 
-                  id="map-picker" 
-                  className="w-full h-80 border border-slate-300 bg-slate-100 z-10 relative mb-2"
-                ></div>
-
-                <textarea
+                <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
+                  Tanggal Berangkat <span className="text-red-500">*</span>
+                </label>
+                <input
+                  type="date"
+                  value={tanggal}
+                  min={new Date().toISOString().split('T')[0]}
+                  onChange={(e) => setTanggal(e.target.value)}
                   required
-                  rows={3}
-                  placeholder="Detail alamat penjemputan (cth: Nomor rumah, patokan)..."
-                  value={alamatJemput}
-                  onChange={(e) => setAlamatJemput(e.target.value)}
-                  className="w-full bg-slate-50 border border-slate-300 p-2.5 text-sm font-semibold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
+                  className="w-full bg-slate-50 border border-slate-300 px-3 py-2.5 text-sm font-semibold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
                 />
               </div>
 
-              {/* Tombol Kembali & Kirim */}
-              <div className="flex gap-3 pt-2">
+              <div>
+                <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
+                  Jadwal Jam <span className="text-red-500">*</span>
+                </label>
+                <select
+                  value={jam}
+                  onChange={(e) => setJam(e.target.value)}
+                  className="w-full bg-slate-50 border border-slate-300 px-3 py-2.5 text-sm font-bold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
+                >
+                  <option value="Pagi">Pagi</option>
+                  <option value="Siang">Siang</option>
+                  <option value="Sore">Sore</option>
+                  <option value="Malam">Malam</option>
+                </select>
+              </div>
+            </div>
+
+            {/* Jumlah Penumpang */}
+            <div>
+              <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
+                Jumlah Penumpang
+              </label>
+              <select
+                value={jumlahPenumpang}
+                onChange={(e) => setJumlahPenumpang(parseInt(e.target.value) || 1)}
+                className="w-full bg-slate-50 border border-slate-300 px-3 py-2.5 text-sm font-bold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
+              >
+                {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((num) => (
+                  <option key={num} value={num}>
+                    {num} Orang
+                  </option>
+                ))}
+              </select>
+            </div>
+
+            {/* Tombol Lanjut */}
+            <div className="pt-2">
+              <button
+                type="submit"
+                className="w-full bg-blue-600 hover:bg-blue-700 text-white font-black uppercase tracking-wider py-3 px-4 text-sm flex items-center justify-center gap-2 shadow-lg"
+              >
+                <span>NEXT</span>
+                <ArrowRight className="w-4 h-4" />
+              </button>
+            </div>
+          </>
+        )}
+
+        {/* Step 2: Lokasi Penjemputan */}
+        {step === 2 && (
+          <>
+            <div>
+              <div className="flex items-center justify-between mb-2">
+                <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700">
+                  Peta Titik Jemput <span className="text-red-500">*</span>
+                </label>
                 <button
                   type="button"
-                  onClick={() => setStep(1)}
-                  className="flex-1 bg-slate-200 hover:bg-slate-300 text-slate-800 font-bold uppercase tracking-wider py-3 px-4 text-sm flex items-center justify-center gap-2 cursor-pointer transition-all"
+                  onClick={handleGetLocation}
+                  disabled={isGettingLocation}
+                  className="inline-flex items-center justify-center gap-1 text-[11px] font-bold text-blue-700 hover:text-blue-900 bg-blue-50 px-2 py-1 border border-blue-200 cursor-pointer disabled:opacity-50"
                 >
-                  <span>Kembali</span>
-                  <ArrowLeft className="w-4 h-4" />
+                  <Navigation className="w-3 h-3 text-blue-600" />
+                  <span>Gunakan Lokasi GPS Saya</span>
                 </button>
+              </div>
 
+              <div className="flex gap-1.5 mb-2">
+                <input
+                  type="text"
+                  placeholder="Cari lokasi/jalan di Palembang..."
+                  value={searchMapText}
+                  onChange={(e) => setSearchMapText(e.target.value)}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter') {
+                      e.preventDefault();
+                      handleSearchMap();
+                    }
+                  }}
+                  className="flex-1 bg-slate-50 border border-slate-300 px-3 py-1.5 text-xs font-semibold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
+                />
                 <button
-                  type="submit"
-                  disabled={isSubmitting}
-                  className="flex-1 bg-blue-600 hover:bg-blue-700 text-white font-black uppercase tracking-wider py-3 px-4 text-sm flex items-center justify-center gap-2 shadow-lg"
+                  type="button"
+                  onClick={handleSearchMap}
+                  disabled={isSearchingMap}
+                  className="bg-blue-800 hover:bg-blue-900 text-white px-3 py-1.5 text-xs font-bold flex items-center gap-1 cursor-pointer disabled:opacity-50"
                 >
-                  {isSubmitting ? (
-                    <>
-                      <Loader2 className="w-4 h-4 animate-spin" />
-                      <span>Kirim Booking...</span>
-                    </>
+                  {isSearchingMap ? (
+                    <Loader2 className="w-3.5 h-3.5 animate-spin" />
                   ) : (
                     <>
-                      <Send className="w-4 h-4" />
-                      <span>BOOKING</span>
+                      <Search className="w-3.5 h-3.5" />
+                      <span>Cari</span>
                     </>
                   )}
                 </button>
               </div>
-            </>
-          )}
-        </form>
+              
+              <div 
+                id="map-picker" 
+                className="w-full h-80 border border-slate-300 bg-slate-100 z-10 relative mb-2"
+              ></div>
+
+              <textarea
+                required
+                rows={3}
+                placeholder="Detail alamat penjemputan (cth: Nomor rumah, patokan)..."
+                value={alamatJemput}
+                onChange={(e) => setAlamatJemput(e.target.value)}
+                className="w-full bg-slate-50 border border-slate-300 p-2.5 text-sm font-semibold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
+              />
+            </div>
+
+            {/* Tombol Kembali & Kirim */}
+            <div className="flex gap-3 pt-2">
+              <button
+                type="button"
+                onClick={() => setStep(1)}
+                className="flex-1 bg-slate-200 hover:bg-slate-300 text-slate-800 font-bold uppercase tracking-wider py-3 px-4 text-sm flex items-center justify-center gap-2 cursor-pointer transition-all"
+              >
+                <span>Kembali</span>
+                <ArrowLeft className="w-4 h-4" />
+              </button>
+
+              <button
+                type="submit"
+                disabled={isSubmitting}
+                className="flex-1 bg-blue-600 hover:bg-blue-700 text-white font-black uppercase tracking-wider py-3 px-4 text-sm flex items-center justify-center gap-2 shadow-lg"
+              >
+                {isSubmitting ? (
+                  <>
+                    <Loader2 className="w-4 h-4 animate-spin" />
+                    <span>Kirim Booking...</span>
+                  </>
+                ) : (
+                  <>
+                    <Send className="w-4 h-4" />
+                    <span>BOOKING</span>
+                  </>
+                )}
+              </button>
+            </div>
+          </>
+        )}
+      </form>
+    </div>
+  );
+
+  if (isPage) {
+    return (
+      <div className="w-full flex justify-center p-2 sm:p-4">
+        {contentElement}
       </div>
+    );
+  }
+
+  return (
+    <div className="fixed inset-0 z-[99999] flex items-center justify-center bg-slate-950/80 backdrop-blur-sm p-4 overflow-y-auto">
+      {contentElement}
     </div>
   );
 }
 
-export function GlobalBookingModal({ routes }: { routes: Route[] }) {
-  const [isOpen, setIsOpen] = useState(false);
-  const [initialRouteId, setInitialRouteId] = useState('');
 
-  useEffect(() => {
-    const handleOpen = (e: Event) => {
-      const customEvent = e as CustomEvent;
-      if (customEvent.detail && customEvent.detail.routeId) {
-        setInitialRouteId(customEvent.detail.routeId);
-      } else {
-        setInitialRouteId('');
-      }
-      setIsOpen(true);
-    };
-
-    window.addEventListener('open-booking', handleOpen);
-    return () => {
-      window.removeEventListener('open-booking', handleOpen);
-    };
-  }, []);
-
-  return (
-    <BookingModal
-      isOpen={isOpen}
-      onClose={() => setIsOpen(false)}
-      routes={routes}
-      initialRouteId={initialRouteId}
-    />
-  );
-}

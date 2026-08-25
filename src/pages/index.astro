@@ -103,10 +103,9 @@ const description = "Lincah Travel Palembang: Layanan antar jemput door to door 
     <Fleet vehicles={vehiclesData} />
     <HowToBook />
     <script>
-      // Hubungkan tombol di HowToBook dengan trigger booking global
+      // Hubungkan tombol di HowToBook dengan halaman booking
       document.getElementById('how-to-book-btn')?.addEventListener('click', () => {
-        const event = new CustomEvent('open-booking');
-        window.dispatchEvent(event);
+        window.location.href = '/booking';
       });
     </script>
     <Testimonials testimonials={testimonialsData} />

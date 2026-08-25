@@ -4,7 +4,6 @@ import Navbar from '../components/NavbarInner.tsx';
 import Footer from '../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import BookingModal from '../components/BookingModal.tsx';
-import { useState } from 'react';
 
 const routes = await getCollection('rute');
 const routesData = routes.map((r: any) => ({
@@ -16,75 +15,29 @@ const routesData = routes.map((r: any) => ({
   type: r.data.type
 }));
 
-const title = "Uji Coba Form Booking | Lincah Travel Palembang";
-const description = "Halaman pengujian form booking tiket Lincah Travel dengan integrasi Supabase dan WhatsApp Admin.";
+const title = "Form Pemesanan Tiket | Lincah Travel Palembang";
+const description = "Halaman formulir pemesanan tiket travel door-to-door (Palembang ke berbagai daerah di Sumsel/Sumatera) secara online.";
 ---
 
 <Layout title={title} description={description}>
   <Navbar client:load />
 
   <main class="min-h-screen bg-slate-950 text-white pt-28 pb-20 px-4">
-    <div class="max-w-3xl mx-auto text-center space-y-6">
-      <div class="inline-block bg-yellow-400/10 border border-yellow-400/20 px-3 py-1">
-        <span class="text-xs font-bold text-yellow-400 uppercase tracking-widest">Testing Mode / Halaman Khusus Booking</span>
-      </div>
-
+    <div class="max-w-3xl mx-auto text-center space-y-6 mb-10">
       <h1 class="text-3xl sm:text-5xl font-black uppercase tracking-tight">
         Formulir Pemesanan Travel Palembang
       </h1>
 
       <p class="text-slate-300 text-sm sm:text-base leading-relaxed max-w-xl mx-auto">
-        Silakan klik tombol di bawah ini untuk membuka popup formulir pemesanan tiket travel door-to-door (Palembang ke berbagai daerah di Sumsel/Sumatera).
+        Silakan lengkapi formulir di bawah ini untuk memesan tiket travel door-to-door dengan mudah. data Anda akan otomatis terkirim ke WhatsApp Admin kami.
       </p>
-
-      {/* Demo Booking Trigger Component */}
-      <div class="pt-6">
-        <button
-          id="open-booking-btn"
-          class="bg-yellow-400 hover:bg-yellow-300 text-blue-950 font-black uppercase tracking-widest text-sm px-8 py-4 shadow-xl transition-all cursor-pointer inline-flex items-center gap-2"
-        >
-          <span>🚀 Buka Form Booking (Popup)</span>
-        </button>
-      </div>
     </div>
 
-    {/* Container React Island */}
-    <div id="booking-modal-root" data-routes={JSON.stringify(routesData)}></div>
+    {/* Form inline */}
+    <div class="max-w-2xl mx-auto bg-white text-slate-900 shadow-2xl">
+      <BookingModal routes={routesData} isPage={true} isOpen={true} onClose={() => {}} client:load />
+    </div>
   </main>
-
-  <script>
-    import React from 'react';
-    import ReactDOM from 'react-dom/client';
-    import BookingModal from '../components/BookingModal.tsx';
-
-    const rootEl = document.getElementById('booking-modal-root');
-    if (rootEl) {
-      const routes = JSON.parse(rootEl.dataset.routes || '[]');
-      
-      let isOpen = false;
-      const root = ReactDOM.createRoot(rootEl);
-
-      function renderModal() {
-        root.render(
-          React.createElement(BookingModal, {
-            isOpen: isOpen,
-            onClose: () => {
-              isOpen = false;
-              renderModal();
-            },
-            routes: routes
-          })
-        );
-      }
-
-      renderModal();
-
-      document.getElementById('open-booking-btn')?.addEventListener('click', () => {
-        isOpen = true;
-        renderModal();
-      });
-    }
-  </script>
 
   <Footer />
 </Layout>

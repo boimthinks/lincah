@@ -27,8 +27,7 @@ export default function Hero({ routes }: HeroProps) {
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (activeRoute) {
-      const event = new CustomEvent('open-booking', { detail: { routeId: selectedRouteId } });
-      window.dispatchEvent(event);
+      window.location.href = `/booking?route=${selectedRouteId}`;
     } else {
       document.getElementById('rute')?.scrollIntoView({ behavior: 'smooth' });
     }
@@ -100,15 +99,12 @@ export default function Hero({ routes }: HeroProps) {
                 <span>Cek Harga</span>
                 <ArrowRight className="w-4 h-4" />
               </a>
-              <button
-                onClick={() => {
-                  const event = new CustomEvent('open-booking');
-                  window.dispatchEvent(event);
-                }}
-                className="bg-blue-700 hover:bg-blue-800 text-white font-extrabold uppercase tracking-widest text-xs px-6 py-4 rounded-none border border-blue-600 transition-colors flex items-center justify-center cursor-pointer"
+              <a
+                href="/booking"
+                className="bg-blue-700 hover:bg-blue-800 text-white font-extrabold uppercase tracking-widest text-xs px-6 py-4 rounded-none border border-blue-600 transition-colors flex items-center justify-center cursor-pointer text-center"
               >
                 Booking Sekarang
-              </button>
+              </a>
             </div>
           </div>
 

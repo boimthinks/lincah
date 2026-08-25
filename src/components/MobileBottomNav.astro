@@ -32,8 +32,6 @@ const ADMIN_WA = '6281369231893';
 <script>
   // Event listener untuk tombol booking di mobile footer
   document.getElementById('mobile-bottom-booking-btn')?.addEventListener('click', () => {
-    // Kirim custom event untuk membuka BookingModal global
-    const event = new CustomEvent('open-booking');
-    window.dispatchEvent(event);
+    window.location.href = '/booking';
   });
 </script>
