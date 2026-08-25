@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Search, Compass, Shield, Users, ArrowRight, Star, MessageSquare } from 'lucide-react';
+import BookingModal from './BookingModal';
 
 interface Route {
   id: string;
@@ -15,6 +16,7 @@ interface HeroProps {
 
 export default function Hero({ routes }: HeroProps) {
   const [selectedRouteId, setSelectedRouteId] = useState('');
+  const [isBookingOpen, setIsBookingOpen] = useState(false);
   const mainRoutes = routes.filter((r) => r.type === 'utama' && r.to.toLowerCase() !== 'palembang');
   const allRoutes = routes.filter((r) => r.to.toLowerCase() !== 'palembang');
   const activeRoute = allRoutes.find(r => r.id === selectedRouteId);
@@ -96,12 +98,12 @@ export default function Hero({ routes }: HeroProps) {
                 <span>Lihat Semua Rute & Harga</span>
                 <ArrowRight className="w-4 h-4" />
               </a>
-              <a
-                href="#cara-pesan"
-                className="bg-blue-700 hover:bg-blue-800 text-white font-extrabold uppercase tracking-widest text-xs px-6 py-4 rounded-none border border-blue-600 transition-colors flex items-center justify-center"
+              <button
+                onClick={() => setIsBookingOpen(true)}
+                className="bg-blue-700 hover:bg-blue-800 text-white font-extrabold uppercase tracking-widest text-xs px-6 py-4 rounded-none border border-blue-600 transition-colors flex items-center justify-center cursor-pointer"
               >
-                Cara Order Mudah
-              </a>
+                Booking
+              </button>
             </div>
           </div>
 
@@ -204,6 +206,11 @@ export default function Hero({ routes }: HeroProps) {
           </div>
         </div>
       </div>
+      <BookingModal 
+        isOpen={isBookingOpen} 
+        onClose={() => setIsBookingOpen(false)} 
+        routes={routes} 
+      />
     </section>
   );
 }
