@@ -25,6 +25,10 @@ export default function RoutesPrices({ routes, cityImages, showMainRoutes = true
   const mainRoutes = routes.filter((r) => r.type === 'utama');
   
   const filteredRoutes = routes.filter((route) => {
+    // Sembunyikan rute dari daerah lain ke Palembang di beranda dan /travel
+    const isFromOtherToPalembang = route.from.toLowerCase() !== 'palembang' && route.to.toLowerCase() === 'palembang';
+    if (isFromOtherToPalembang) return false;
+
     const matchesSearch =
       route.to.toLowerCase().includes(searchQuery.toLowerCase()) ||
       route.from.toLowerCase().includes(searchQuery.toLowerCase());
