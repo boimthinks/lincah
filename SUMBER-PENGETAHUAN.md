@@ -182,6 +182,21 @@ Jika menulis topik yang sudah ada artikelnya, **dilarang** kecuali ada pembaruan
 
 ---
 
+## 11a. Sistem Booking & Database (Notas)
+
+- **Supabase Table**: `notas`
+- **Kolom Kunci & Default**:
+  - `status_booking` (`text`): `'pending'` | `'confirmed'` | `'perjalanan'` | `'selesai'` | `'dibatalkan'`
+  - `status_pembayaran` (`text`): `'belum_bayar'` | `'lunas'`
+  - `jumlah_penumpang` (`integer`): Default `1`
+  - `koordinat_jemput` (`text`): Menyimpan format `"latitude, longitude"` dari picker peta interaktif.
+  - `vendor_id` (`uuid`): Relasi `public.vendors(id)` untuk travel partner.
+  - `fee` (`integer`): Komisi bersih Lincah Travel (pendapatan).
+  - `no_kursi` (`text`): Bersifat nullable (tidak wajib diisi pada booking form user).
+- **Alur Form**: User input data (Step 1) -> Tentukan pin lokasi GPS peta (Step 2) -> Simpan Supabase -> Redirect chat WA Admin format bullet-point minus (`-`).
+
+---
+
 ## 12. Cara Menulis Artikel (intinya—praktik ril via skill)
 
 Gunakan skill `penulis-ahli` untuk seluruh penulisan artikel blog. Skill ini menggabungkan:
