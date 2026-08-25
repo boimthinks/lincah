@@ -150,6 +150,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Indralaya | ✅ Ada | `2026-08-11-travel-palembang-indralaya-unsri.md` |
 | Palembang-Martapura | ✅ Ada | `2026-08-13-travel-palembang-martapura-oku-timur.md` |
 | Palembang-Tebing Tinggi (Empat Lawang) | ✅ Ada | `2026-08-14-travel-palembang-tebing-tinggi-empat-lawang.md` |
+| Palembang-Baturaja (vs Kereta) | ✅ Ada | `2026-08-25-perbandingan-travel-vs-kereta-palembang-baturaja.md` |
 
 ### Rute Belum Ada Artikelya (PRIORITAS TINGGI)
 | Rute | Prioritas | Alasan |
@@ -170,6 +171,54 @@ Topik-topik ini bisa dikembangkan, belum memiliki artikel:
 3. Mengapa Hiace Premio lebih nyaman untuk rute <?= "nama rute" ?>
 
 Jika menulis topik yang sudah ada artikelnya, **dilarang** kecuali ada pembaruan signifikan (harga berubah, armada baru, pengalaman pelanggan terbaru) atau angle berbeda (misal dari sisi hotel, wisata, atau perjalanan dinas).
+
+---
+
+## 10a. 30 Template Judul Artikel Blog (Variabel [Dari] & [Tujuan])
+
+Gunakan daftar template judul ini secara fleksibel untuk merencanakan artikel rute baru:
+
+### 1. Informasi Harga & Tarif
+- Berapa Harga Tiket Travel [Dari] [Tujuan] Terbaru Tahun Ini?
+- Daftar Tarif Travel [Dari] [Tujuan] Lengkap Semua Operator
+- Promo & Cara Dapat Tiket Travel [Dari] [Tujuan] Murah
+- Rincian Ongkos Travel [Dari] [Tujuan] untuk Rombongan Keluarga
+- Perbandingan Harga Tiket Travel vs Bus Rute [Dari] [Tujuan]
+
+### 2. Rute, Jalur & Waktu Tempuh
+- Berapa Jam Naik Travel [Dari] [Tujuan] Lewat Tol Terbaru?
+- Panduan Rute Travel [Dari] [Tujuan] Via Tol Trans Sumatera
+- Rute Jalur Utama [Dari] [Tujuan]: Kondisi Jalan & Tips Aman
+- Travel [Dari] [Tujuan] Door to Door: Pengalaman & Durasi Perjalanan
+- Peta Lokasi Rest Area & Spot Istirahat Travel [Dari] [Tujuan]
+
+### 3. Jadwal Keberangkatan & Operasional
+- Jadwal Keberangkatan Travel [Dari] [Tujuan] Pagi, Siang & Malam
+- Rekomendasi Travel [Dari] [Tujuan] Keberangkatan Malam Hari
+- Pilih Mana: Naik Travel [Dari] [Tujuan] Pagi atau Malam?
+- Jadwal Travel [Dari] [Tujuan] Layanan *Door to Door* 24 Jam
+- Jadwal Keberangkatan Travel [Dari] [Tujuan] Saat Mudik Lebaran
+
+### 4. Armada & Fasilitas
+- Rekomendasi Travel [Dari] [Tujuan] Mobil HiAce yang Nyaman
+- Pilih Mobil Innova atau HiAce untuk Travel [Dari] [Tujuan]?
+- Fasilitas Utama yang Harus Ada di Travel [Dari] [Tujuan] Modern
+- Travel [Dari] [Tujuan] dengan Fasilitas Captain Seat & AC Dingin
+- Rekomendasi Travel [Dari] [Tujuan] Nyaman untuk Lansia dan Anak
+
+### 5. Layanan Khusus (Kirim Paket / Carter)
+- Jasa Pengiriman Paket Kilat 1 Hari Sampai Rute [Dari] [Tujuan]
+- Biaya & Syarat Kirim Barang Lewat Travel [Dari] [Tujuan]
+- Sewa Mobil & Carter Drop Off Travel [Dari] [Tujuan] untuk Acara Kantor
+- Jasa Kirim Dokumen Penting [Dari] [Tujuan] Lewat Travel
+- Layanan Carter Travel [Dari] [Tujuan] untuk Wisata Keluarga
+
+### 6. Panduan, Tips & Edukasi Penumpang
+- 7 Tips Memilih Travel [Dari] [Tujuan] Terpercaya dan Aman
+- Cara Pesan Tiket Travel [Dari] [Tujuan] Secara Online Tanpa Ribet
+- Lokasi Titik Penjemputan Travel [Dari] [Tujuan] di Pusat Kota
+- Barang Apa Saja yang Boleh Dibawa Saat Naik Travel [Dari] [Tujuan]?
+- Hal yang Wajib Disiapkan Sebelum Perjalanan Travel [Dari] [Tujuan]
 
 ---
 
