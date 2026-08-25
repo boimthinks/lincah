@@ -527,7 +527,7 @@ Terima kasih!`;
                   type="submit"
                   className="w-full bg-blue-600 hover:bg-blue-700 text-white font-black uppercase tracking-wider py-3 px-4 text-sm flex items-center justify-center gap-2 shadow-lg"
                 >
-                  <span>Lanjut ke Lokasi</span>
+                  <span>NEXT</span>
                   <ArrowRight className="w-4 h-4" />
                 </button>
               </div>
