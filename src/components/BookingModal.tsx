@@ -328,7 +328,7 @@ Terima kasih!`;
   if (!isPage && !isOpen) return null;
 
   const contentElement = (
-    <div className="relative w-full max-w-2xl bg-white shadow-2xl border border-slate-200 rounded-none overflow-hidden my-8 animate-in fade-in zoom-in-95 duration-200">
+    <div className="relative w-full max-w-2xl bg-white shadow-2xl rounded-none overflow-hidden animate-in fade-in zoom-in-95 duration-200">
       
       {/* Header Modal */}
       <div className="bg-blue-900 px-6 py-4 flex items-center justify-between text-white border-b border-blue-800">
@@ -648,7 +648,7 @@ Terima kasih!`;
 
   if (isPage) {
     return (
-      <div className="w-full flex justify-center p-2 sm:p-4">
+      <div className="w-full flex justify-center">
         {contentElement}
       </div>
     );
