@@ -635,3 +635,34 @@ Terima kasih!`;
     </div>
   );
 }
+
+export function GlobalBookingModal({ routes }: { routes: Route[] }) {
+  const [isOpen, setIsOpen] = useState(false);
+  const [initialRouteId, setInitialRouteId] = useState('');
+
+  useEffect(() => {
+    const handleOpen = (e: Event) => {
+      const customEvent = e as CustomEvent;
+      if (customEvent.detail && customEvent.detail.routeId) {
+        setInitialRouteId(customEvent.detail.routeId);
+      } else {
+        setInitialRouteId('');
+      }
+      setIsOpen(true);
+    };
+
+    window.addEventListener('open-booking', handleOpen);
+    return () => {
+      window.removeEventListener('open-booking', handleOpen);
+    };
+  }, []);
+
+  return (
+    <BookingModal
+      isOpen={isOpen}
+      onClose={() => setIsOpen(false)}
+      routes={routes}
+      initialRouteId={initialRouteId}
+    />
+  );
+}

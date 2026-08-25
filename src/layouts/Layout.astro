@@ -13,7 +13,17 @@ import '../index.css';
 import FloatingWhatsApp from '../components/FloatingWhatsApp.astro';
 import MobileBottomNav from '../components/MobileBottomNav.astro';
 import { ClientRouter } from 'astro:transitions';
+import { getCollection } from 'astro:content';
+import { GlobalBookingModal } from '../components/BookingModal.tsx';
 
+const routes = await getCollection('rute');
+const routesData = routes.map((r: any) => ({
+  id: r.id,
+  from: r.data.from,
+  to: r.data.to,
+  price: r.data.price,
+  type: r.data.type
+}));
 ---
 
 <!doctype html>
@@ -86,6 +96,7 @@ import { ClientRouter } from 'astro:transitions';
     <slot />
     {!hideFloatingWhatsApp && <FloatingWhatsApp />}
     {!hideFloatingWhatsApp && <MobileBottomNav />}
+    <GlobalBookingModal routes={routesData} client:load />
   </body>
 
 </html>

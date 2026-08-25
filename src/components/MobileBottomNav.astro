@@ -32,12 +32,8 @@ const ADMIN_WA = '6281369231893';
 <script>
   // Event listener untuk tombol booking di mobile footer
   document.getElementById('mobile-bottom-booking-btn')?.addEventListener('click', () => {
-    // Trigger klik tombol booking yang ada di Hero
-    const heroBookingBtn = document.querySelector('#beranda button') as HTMLButtonElement;
-    if (heroBookingBtn) {
-      heroBookingBtn.click();
-    } else {
-      window.location.href = '/booking';
-    }
+    // Kirim custom event untuk membuka BookingModal global
+    const event = new CustomEvent('open-booking');
+    window.dispatchEvent(event);
   });
 </script>

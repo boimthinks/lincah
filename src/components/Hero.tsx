@@ -27,7 +27,8 @@ export default function Hero({ routes }: HeroProps) {
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (activeRoute) {
-      setIsBookingOpen(true);
+      const event = new CustomEvent('open-booking', { detail: { routeId: selectedRouteId } });
+      window.dispatchEvent(event);
     } else {
       document.getElementById('rute')?.scrollIntoView({ behavior: 'smooth' });
     }
@@ -70,7 +71,7 @@ export default function Hero({ routes }: HeroProps) {
                 </span>
               </h1>
               <p className="text-base sm:text-lg text-slate-300 max-w-xl font-normal leading-relaxed">
-                Nikmati perjalanan nyaman, aman, and eksekutif dari Palembang menuju Baturaja, Lampung, Jambi, serta seluruh wilayah kota dan kabupaten di Sumatera Selatan.
+                Nikmati perjalanan nyaman, aman, and eksekutif dari Palembang menuju Baturaja, Lampung, Jambi, serta seluruh wilayah kota and kabupaten di Sumatera Selatan.
               </p>
             </div>
 
@@ -100,7 +101,10 @@ export default function Hero({ routes }: HeroProps) {
                 <ArrowRight className="w-4 h-4" />
               </a>
               <button
-                onClick={() => setIsBookingOpen(true)}
+                onClick={() => {
+                  const event = new CustomEvent('open-booking');
+                  window.dispatchEvent(event);
+                }}
                 className="bg-blue-700 hover:bg-blue-800 text-white font-extrabold uppercase tracking-widest text-xs px-6 py-4 rounded-none border border-blue-600 transition-colors flex items-center justify-center cursor-pointer"
               >
                 Booking Sekarang
@@ -196,12 +200,6 @@ export default function Hero({ routes }: HeroProps) {
           </div>
         </div>
       </div>
-      <BookingModal 
-        isOpen={isBookingOpen} 
-        onClose={() => setIsBookingOpen(false)} 
-        routes={routes} 
-        initialRouteId={selectedRouteId}
-      />
     </section>
   );
 }
