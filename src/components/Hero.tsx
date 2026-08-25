@@ -21,6 +21,9 @@ export default function Hero({ routes }: HeroProps) {
   const allRoutes = routes.filter((r) => r.to.toLowerCase() !== 'palembang');
   const activeRoute = allRoutes.find(r => r.id === selectedRouteId);
 
+  const capitalize = (str: string) => 
+    str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' ');
+
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (activeRoute) {
@@ -147,23 +150,12 @@ export default function Hero({ routes }: HeroProps) {
                       onChange={(e) => setSelectedRouteId(e.target.value)}
                       className="w-full bg-white/10 text-white border border-white/20 p-3.5 pr-10 rounded-none text-sm font-semibold focus:outline-none focus:bg-white focus:text-slate-950"
                     >
-                      <option className="text-slate-950" value="">-- Cari atau Pilih Kota Tujuan --</option>
-                      <optgroup className="text-slate-950" label="✨ RUTE UTAMA">
-                        {mainRoutes.map((route) => (
-                          <option key={route.id} value={route.id} className="text-slate-950">
-                            👉 {route.to} (Rp {route.price.toLocaleString('id-ID')})
-                          </option>
-                        ))}
-                      </optgroup>
-                      <optgroup className="text-slate-950" label="🌆 WILAYAH SUMATERA SELATAN">
-                        {allRoutes.filter((r) => r.type === 'semua')
-                          .sort((a, b) => a.to.localeCompare(b.to))
-                          .map((route) => (
-                            <option key={route.id} value={route.id} className="text-slate-950">
-                              📍 {route.to} (Rp {route.price.toLocaleString('id-ID')})
-                            </option>
-                          ))}
-                      </optgroup>
+                      <option className="text-slate-950" value="">-- Pilih Kota Tujuan --</option>
+                      {allRoutes.map((route) => (
+                        <option key={route.id} value={route.id} className="text-slate-950">
+                          {capitalize(route.to)}
+                        </option>
+                      ))}
                     </select>
                   </div>
                 </div>
