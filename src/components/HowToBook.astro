@@ -5,26 +5,26 @@ const steps = [
   {
     num: '01',
     icon: Search,
-    title: 'Cari Rute Kota',
-    description: 'Lihat daftar rute utama kami atau cari kota tujuan Anda di Sumatera Selatan pada kolom pencarian tarif resmi.',
+    title: 'Pilih Kota Tujuan',
+    description: 'Pilih rute kota tujuan Anda di kolom pemesanan cepat beranda, lalu klik "Booking Sekarang".',
   },
   {
     num: '02',
     icon: MessageSquare,
-    title: 'Pilih Rute & Chat',
-    description: 'Pilih rute tujuan Anda pada kolom pencarian, lalu klik tombol "Pesan Travel" untuk langsung terhubung ke WhatsApp Admin.',
+    title: 'Isi Data Diri',
+    description: 'Isi nama, nomor WhatsApp aktif, tanggal berangkat, jadwal jam, serta jumlah penumpang di Tahap 1.',
   },
   {
     num: '03',
     icon: Send,
-    title: 'Konfirmasi via WhatsApp',
-    description: 'Kirim pesan yang sudah terisi otomatis ke Admin. Cukup tambahkan data pendukung jika diperlukan, lalu klik kirim.',
+    title: 'Pilih Titik Jemput',
+    description: 'Gunakan peta interaktif di Tahap 2 untuk menetapkan titik jemput secara presisi agar mudah ditemukan oleh driver.',
   },
   {
     num: '04',
     icon: UserCheck,
-    title: 'Driver Menjemput',
-    description: 'Driver kami akan mengonfirmasi jam jemput pada hari H, menjemput ke rumah, dan mengantarkannya Anda sampai ke tujuan.',
+    title: 'Kirim WA & Selesai',
+    description: 'Klik tombol "Booking". Sistem akan mencatat data pemesanan dan menghubungkan Anda langsung ke WhatsApp Admin.',
   },
 ];
 ---
@@ -87,12 +87,12 @@ const steps = [
         <Smartphone class="w-5 h-5 text-yellow-400" />
         Admin siap merespon konfirmasi kursi Anda dalam waktu kurang dari 5 menit!
       </span>
-      <a
-        href="#booking-form-anchor"
-        class="bg-yellow-400 hover:bg-yellow-300 text-blue-950 font-extrabold uppercase tracking-widest text-[11px] px-5 py-3 rounded-none transition-all leading-none"
+      <button
+        id="how-to-book-btn"
+        class="bg-yellow-400 hover:bg-yellow-300 text-blue-950 font-extrabold uppercase tracking-widest text-[11px] px-5 py-3 rounded-none transition-all leading-none cursor-pointer"
       >
         Mulai Booking Sekarang
-      </a>
+      </button>
     </div>
 
   </div>
