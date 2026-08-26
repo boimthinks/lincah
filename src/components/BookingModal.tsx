@@ -10,8 +10,28 @@ import {
   Send,
   ArrowRight,
   ArrowLeft,
-  CheckCircle
+  CheckCircle,
+  Calendar
 } from 'lucide-react';
+
+// Konversi tanggal ISO (yyyy-mm-dd) ke tampilan Indonesia (dd/mm/yyyy)
+function isoToDdMmYyyy(iso: string): string {
+  const [y, m, d] = iso.split('-');
+  return y && m && d ? `${d}/${m}/${y}` : '';
+}
+
+// Parsing input dd/mm/yyyy menjadi ISO (yyyy-mm-dd), null jika tidak valid
+function parseDdMmYyyy(value: string): string | null {
+  const digits = value.replace(/\D/g, '');
+  if (digits.length !== 8) return null;
+  const dd = Number(digits.slice(0, 2));
+  const mm = Number(digits.slice(2, 4));
+  const yyyy = Number(digits.slice(4));
+  if (mm < 1 || mm > 12) return null;
+  const daysInMonth = new Date(yyyy, mm, 0).getDate();
+  if (dd < 1 || dd > daysInMonth) return null;
+  return `${digits.slice(4)}-${digits.slice(2, 4)}-${digits.slice(0, 2)}`;
+}
 
 interface Route {
   id: string;
@@ -43,6 +63,7 @@ export default function BookingModal({
   const [whatsapp, setWhatsapp] = useState('');
   const [tujuan, setTujuan] = useState(initialRouteId);
   const [tanggal, setTanggal] = useState(new Date().toISOString().split('T')[0]);
+  const [tanggalDisplay, setTanggalDisplay] = useState(() => isoToDdMmYyyy(new Date().toISOString().split('T')[0]));
   const [jam, setJam] = useState('Pagi');
   const [jumlahPenumpang, setJumlahPenumpang] = useState(1);
   const [alamatJemput, setAlamatJemput] = useState('');
@@ -252,7 +273,29 @@ export default function BookingModal({
       return;
     }
 
+    const todayIso = new Date().toISOString().split('T')[0];
+    const parsedTanggal = parseDdMmYyyy(tanggalDisplay);
+    if (!parsedTanggal) {
+      setErrorMessage('Tanggal berangkat tidak valid. Gunakan format tanggal/bulan/tahun, contoh: 26/08/2026.');
+      return;
+    }
+    if (parsedTanggal < todayIso) {
+      setErrorMessage('Tanggal berangkat tidak boleh di masa lalu.');
+      return;
+    }
+    setTanggal(parsedTanggal);
+
     setStep(2);
+  };
+
+  // Input tanggal manual dengan format Indonesia dd/mm/yyyy (otomatis beri slash)
+  const handleTanggalChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const digits = e.target.value.replace(/\D/g, '').slice(0, 8);
+    let formatted = digits;
+    if (digits.length > 4) formatted = `${digits.slice(0, 2)}/${digits.slice(2, 4)}/${digits.slice(4)}`;
+    else if (digits.length > 2) formatted = `${digits.slice(0, 2)}/${digits.slice(2)}`;
+    setTanggalDisplay(formatted);
+    if (digits.length === 0) setTanggal('');
   };
 
   const handleFormSubmit = async (e: React.FormEvent) => {
@@ -269,6 +312,35 @@ export default function BookingModal({
     const rawSeq = Date.now().toString().slice(-6);
     const noNota = `${rawSeq}`;
     const coordString = `${lat.toFixed(6)}, ${lng.toFixed(6)}`;
+
+    const mapsLink = `https://maps.google.com/?q=${coordString.replace(/\s/g, '')}`;
+    const waText = `*PEMESANAN LINCAH TRAVEL*
+No. Ref: *#${noNota}*
+
+*Data Penumpang:*
+- Nama: ${nama.trim()}
+- WhatsApp: +${fullWhatsapp}
+- Penumpang: ${jumlahPenumpang} Orang
+
+*Detail Perjalanan:*
+- Rute: Palembang ke *${selectedRoute?.to || tujuan}*
+- Tanggal: ${tanggal}
+- Jadwal: Perjalanan ${jam}
+- Alamat Jemput: ${alamatJemput.trim()}
+- Koordinat Jemput: ${mapsLink}
+
+Terima kasih!`;
+
+    const waUrl = `https://wa.me/${ADMIN_WA}?text=${encodeURIComponent(waText)}`;
+
+    // WA harus dibuka SINKRON dalam gesture klik user (sebelum await apa pun),
+    // jika dipanggil setelah await fetch maka popup blocker akan memblokir tab WhatsApp.
+    const waWindow = window.open(waUrl, '_blank', 'noopener,noreferrer');
+    if (!waWindow) {
+      setErrorMessage('Popup WhatsApp diblokir browser. Izinkan popup untuk situs ini lalu coba lagi.');
+    } else {
+      onClose();
+    }
 
     try {
       const payload = {
@@ -301,28 +373,7 @@ export default function BookingModal({
       console.warn(err);
     }
 
-    const mapsLink = `https://maps.google.com/?q=${coordString.replace(/\s/g, '')}`;
-    const waText = `*PEMESANAN LINCAH TRAVEL*
-No. Ref: *#${noNota}*
-
-*Data Penumpang:*
-- Nama: ${nama.trim()}
-- WhatsApp: +${fullWhatsapp}
-- Penumpang: ${jumlahPenumpang} Orang
-
-*Detail Perjalanan:*
-- Rute: Palembang ke *${selectedRoute?.to || tujuan}*
-- Tanggal: ${tanggal}
-- Jadwal: Perjalanan ${jam}
-- Alamat Jemput: ${alamatJemput.trim()}
-- Koordinat Jemput: ${mapsLink}
-
-Terima kasih!`;
-
-    const waUrl = `https://wa.me/${ADMIN_WA}?text=${encodeURIComponent(waText)}`;
     setIsSubmitting(false);
-    onClose();
-    window.open(waUrl, '_blank', 'noopener,noreferrer');
   };
 
   if (!isPage && !isOpen) return null;
@@ -452,7 +503,7 @@ Terima kasih!`;
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
                 <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
-                  Kota Asal
+                  Asal
                 </label>
                 <input
                   type="text"
@@ -464,7 +515,7 @@ Terima kasih!`;
 
               <div>
                 <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
-                  Kota Tujuan <span className="text-red-500">*</span>
+                  Tujuan <span className="text-red-500">*</span>
                 </label>
                 <select
                   value={tujuan}
@@ -472,7 +523,7 @@ Terima kasih!`;
                   required
                   className="w-full bg-slate-50 border border-slate-300 px-3 py-2.5 text-sm font-bold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
                 >
-                  <option value="">-- Pilih Kota Tujuan --</option>
+                  <option value="">-- Pilih Tujuan --</option>
                   {availableRoutes.map((r) => (
                     <option key={r.id} value={r.id}>
                       {capitalize(r.to)}
@@ -488,14 +539,34 @@ Terima kasih!`;
                 <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
                   Tanggal Berangkat <span className="text-red-500">*</span>
                 </label>
-                <input
-                  type="date"
-                  value={tanggal}
-                  min={new Date().toISOString().split('T')[0]}
-                  onChange={(e) => setTanggal(e.target.value)}
-                  required
-                  className="w-full bg-slate-50 border border-slate-300 px-3 py-2.5 text-sm font-semibold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
-                />
+                <div className="relative">
+                  <input
+                    type="text"
+                    inputMode="numeric"
+                    required
+                    placeholder="DD/MM/YYYY"
+                    value={tanggalDisplay}
+                    onChange={handleTanggalChange}
+                    className="w-full bg-slate-50 border border-slate-300 pl-3 pr-11 py-2.5 text-sm font-semibold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
+                  />
+                  <Calendar className="absolute right-3 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400 pointer-events-none" />
+                  {/* Overlay kalender native: klik area kanan untuk memilih dari popup kalender */}
+                  <input
+                    type="date"
+                    value={tanggal}
+                    min={new Date().toISOString().split('T')[0]}
+                    tabIndex={-1}
+                    aria-label="Pilih tanggal dari kalender"
+                    onChange={(e) => {
+                      const iso = e.target.value;
+                      if (iso) {
+                        setTanggal(iso);
+                        setTanggalDisplay(isoToDdMmYyyy(iso));
+                      }
+                    }}
+                    className="absolute right-0 top-0 h-full w-10 opacity-0 cursor-pointer"
+                  />
+                </div>
               </div>
 
               <div>
