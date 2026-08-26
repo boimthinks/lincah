@@ -64,4 +64,4 @@ Barang bawaan juga penting. Innova Reborn tetap nyaman untuk 7 penumpang, tapi r
 
 Carter Innova Reborn adalah solusi praktis untuk perjalanan VIP dan rombongan kecil di Sumatera Selatan. Anda mendapat armada privat dengan sopir yang paham jalur, plus kebebasan mengatur jadwal tanpa menumpang di armada umum.
 
-Admin kami siap dihubungi melalui WhatsApp di **0813-6923-1893** setiap hari. Sampaikan detail rencana perjalanan Anda, dan kami akan menyiapkan penawaran carter yang benar-benar sesuai kebutuhan. Perbandingan lengkap dengan armada lain bisa Anda baca di artikel [Hiace Premio vs Innova Reborn](https://lincahtravel.web.id/blog/2026-06-13-hiace-premio-vs-innova-reborn/).
+Admin kami siap dihubungi melalui WhatsApp di **0813-6923-1893** setiap hari. Sampaikan detail rencana perjalanan Anda, dan kami akan menyiapkan penawaran carter yang benar-benar sesuai kebutuhan. Perbandingan lengkap dengan armada lain bisa Anda baca di artikel [Hiace Premio vs Innova Reborn](https://lincahtravel.web.id/blog/hiace-premio-vs-innova-reborn-perjalanan-dinas).

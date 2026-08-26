@@ -16,9 +16,10 @@ interface RoutesPricesProps {
   routes: Route[];
   cityImages: Record<string, string>;
   showMainRoutes?: boolean;
+  bookingDirect?: boolean;
 }
 
-export default function RoutesPrices({ routes, cityImages, showMainRoutes = true }: RoutesPricesProps) {
+export default function RoutesPrices({ routes, cityImages, showMainRoutes = true, bookingDirect = false }: RoutesPricesProps) {
   const [searchQuery, setSearchQuery] = useState('');
   const [filterType, setFilterType] = useState<'semua' | 'utama' | 'sumsel'>('semua');
 
@@ -39,6 +40,10 @@ export default function RoutesPrices({ routes, cityImages, showMainRoutes = true
   });
 
   const onRouteSelect = (route: Route) => {
+    if (bookingDirect) {
+      window.location.href = `/booking?route=${route.id}`;
+      return;
+    }
     const fromSlug = route.from.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
     const toSlug = route.to.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
     window.location.href = `/${fromSlug}/${toSlug}`;
@@ -59,9 +64,9 @@ export default function RoutesPrices({ routes, cityImages, showMainRoutes = true
         <div className="mb-20">
           <div className="flex items-center justify-between pb-4 border-b border-slate-200 mb-8 text-left">
             <div>
-              <h3 className="text-xl sm:text-2xl font-extrabold text-blue-900 tracking-tight uppercase">
+              <h2 className="text-xl sm:text-2xl font-extrabold text-blue-900 tracking-tight uppercase">
                 ⭐ Rute Utama Unggulan
-              </h3>
+              </h2>
               <p className="text-xs sm:text-sm text-slate-500 mt-1">Pemberangkatan reguler paling padat dengan fasilitas super nyaman.</p>
             </div>
             <span className="hidden sm:inline-block text-xs font-bold uppercase tracking-wider text-slate-400">Pasti Berangkat Setiap Hari</span>
@@ -139,9 +144,9 @@ export default function RoutesPrices({ routes, cityImages, showMainRoutes = true
         <div>
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 pb-4 border-b border-slate-200 mb-8 text-left">
             <div>
-              <h3 className="text-xl sm:text-2xl font-extrabold text-blue-900 tracking-tight uppercase">
+              <h2 className="text-xl sm:text-2xl font-extrabold text-blue-900 tracking-tight uppercase">
                 Semua Layanan Rute & Harga Tiket Travel
-              </h3>
+              </h2>
               <p className="text-xs sm:text-sm text-slate-500 mt-1">
                 Layanan door to door menjangkau semua kabupaten dan kota se-Sumsel.
               </p>
@@ -187,11 +192,10 @@ export default function RoutesPrices({ routes, cityImages, showMainRoutes = true
                         <MapPinCheck className="w-4 h-4 text-blue-700" />
                       </div>
                       <div>
-                        <span className="block text-sm font-bold text-slate-800 flex items-center mr-1 uppercase">
-                          {route.from}{' '}
-                          <span className="text-slate-400 mx-2 text-xs font-normal">→</span>{' '}
-                          <span className="text-blue-700">{route.to}</span>
-                        </span>
+                      <h3 className="block text-sm font-bold text-slate-800 uppercase">
+                        {route.from}{' '}
+                        <span className="text-blue-700">{route.to}</span>
+                      </h3>
                         
                       </div>
                     </div>

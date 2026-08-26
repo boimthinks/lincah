@@ -83,5 +83,5 @@ Semua data dinamis disimpan dalam Markdown, didefinisikan di `src/content.config
 - **Safe Data Fetching**: selalu `.catch(() => null)` saat `getEntry` untuk data kota agar build tidak gagal.
 - **Tailwind v4**: gunakan `@tailwindcss/vite`, bukan postcss.
 - **Windows Paths**: gunakan forward slash untuk import Astro.
-- **Permalink Redirects (301)**: `/travel/from-to/` lama diarahkan ke `/{from}/{to}/` via `public/_redirects`.
+- **Permalink Redirects (301)**: `/travel/from-to/` lama diarahkan ke `/{from}/{to}` via `public/_redirects`. Semua URL TANPA trailing slash (`trailingSlash: 'never'`, `build.format: 'file'`); `_redirects` otomatis 301 dari URL ber-trailing slash lama.
 - **404 Page**: `src/pages/404.astro` dengan countdown 5 detik sebelum redirect ke homepage.

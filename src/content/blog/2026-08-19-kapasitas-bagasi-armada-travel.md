@@ -64,4 +64,4 @@ Ketiganya idealnya memakai Hiace Premio. Innova Reborn tetap pilihan yang nyaman
 
 Kesimpulannya memang begitu. Semakin banyak penumpang, semakin terbatas ruang bagasi yang tersisa. Tidak ada satu armada yang cocok untuk semua kondisi, jadi sampaikan detail kebutuhan Anda di awal.
 
-Admin kami siap menjawab via WhatsApp di **0813-6923-1893** setiap hari, termasuk hari libur. Sebutkan jumlah penumpang, rute tujuan, dan jenis barang bawaan, maka kami akan merekomendasikan armada yang muat tanpa kompromi. Info lebih detail soal perbandingan kedua armada bisa Anda baca di artikel [Hiace Premio vs Innova Reborn](https://lincahtravel.web.id/blog/hiace-premio-vs-innova-reborn-perjalanan-dinas/).
+Admin kami siap menjawab via WhatsApp di **0813-6923-1893** setiap hari, termasuk hari libur. Sebutkan jumlah penumpang, rute tujuan, dan jenis barang bawaan, maka kami akan merekomendasikan armada yang muat tanpa kompromi. Info lebih detail soal perbandingan kedua armada bisa Anda baca di artikel [Hiace Premio vs Innova Reborn](https://lincahtravel.web.id/blog/hiace-premio-vs-innova-reborn-perjalanan-dinas).

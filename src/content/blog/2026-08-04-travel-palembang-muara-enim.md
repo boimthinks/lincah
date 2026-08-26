@@ -73,7 +73,7 @@ Perjalanan jauh kadang membuat Anda perlu menginap. Beberapa pilihan penginapan 
 - **Hotel Griya Sintesa**, di Jl. Karet, Air Lintang. Cocok untuk yang ingin lebih dekat dengan kawasan pemukiman.
 - **Mitra Hotel**, di Jl. Letnan M. Zen, Pasar II. Pilihan yang lebih sederhana dengan harga bersahabat.
 
-Kalau tujuan Anda sebenarnya masih lanjut ke kota lain seperti [Lubuklinggau](/palembang/lubuklinggau/) atau [Lahat](/palembang/lahat/), sampaikan saja ke admin kami. Rute antar kota itu bisa kami susun dalam satu perjalanan.
+Kalau tujuan Anda sebenarnya masih lanjut ke kota lain seperti [Lubuklinggau](/palembang/lubuklinggau) atau [Lahat](/palembang/lahat), sampaikan saja ke admin kami. Rute antar kota itu bisa kami susun dalam satu perjalanan.
 
 ## Tips Perjalanan ke Muara Enim
 

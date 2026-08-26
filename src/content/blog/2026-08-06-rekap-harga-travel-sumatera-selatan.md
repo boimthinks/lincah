@@ -41,7 +41,7 @@ Catatan kecil untuk tabel di atas: ini semua tarif door-to-door. Kalau Anda hany
 
 Perjalanan yang masih satu kawasan Palembang adalah yang paling ringan.
 
-Kayu Agung bisa ditempuh 1,5 jam via tol dengan tarif Rp 100.000. Keberangkatan setiap jam mulai pukul 07.00 sampai 18.00 WIB. Rute ini dipakai banyak orang yang bekerja di Palembang tapi tinggal di OKI. Informasi lengkapnya ada di artikel [travel Palembang Kayu Agung](https://lincahtravel.web.id/blog/travel-palembang-kayu-agung-door-to-door/).
+Kayu Agung bisa ditempuh 1,5 jam via tol dengan tarif Rp 100.000. Keberangkatan setiap jam mulai pukul 07.00 sampai 18.00 WIB. Rute ini dipakai banyak orang yang bekerja di Palembang tapi tinggal di OKI. Informasi lengkapnya ada di artikel [travel Palembang Kayu Agung](https://lincahtravel.web.id/blog/travel-palembang-kayu-agung-door-to-door).
 
 Prabumulih sedikit lebih jauh, Rp 120.000 untuk 2 jam, dengan jadwal setiap jam dari 07.00 sampai 21.00 WIB. Buat yang pulang kampung akhir pekan atau dinas ke lapangan, rute ini yang paling ramai.
 
@@ -51,11 +51,11 @@ Ada satu lagi yang sering ditanyakan mahasiswa baru: Indralaya, Rp 100.000, 45 m
 
 Begitu masuk jalur Lintas Sumatera ke arah barat, tarif naik seiring bertambahnya jarak.
 
-Baturaja Rp 120.000 untuk 4-5 jam via Prabumulih. Jadwalnya paling fleksibel, ada empat kali keberangkatan. Rute ini sudah kami ulas panjang lebar di artikel [travel Palembang Baturaja](https://lincahtravel.web.id/blog/travel-palembang-baturaja-door-to-door/).
+Baturaja Rp 120.000 untuk 4-5 jam via Prabumulih. Jadwalnya paling fleksibel, ada empat kali keberangkatan. Rute ini sudah kami ulas panjang lebar di artikel [travel Palembang Baturaja](https://lincahtravel.web.id/blog/travel-palembang-baturaja-door-to-door).
 
-Muara Enim Rp 150.000, 4-5 jam, dengan empat jadwal juga. Kota ini jadi persinggahan penting karena posisinya di jalur menuju Lahat dan Lubuklinggau. Detail tarif dan tipsnya ada di artikel [travel Palembang Muara Enim](https://lincahtravel.web.id/blog/travel-palembang-muara-enim-door-to-door/).
+Muara Enim Rp 150.000, 4-5 jam, dengan empat jadwal juga. Kota ini jadi persinggahan penting karena posisinya di jalur menuju Lahat dan Lubuklinggau. Detail tarif dan tipsnya ada di artikel [travel Palembang Muara Enim](https://lincahtravel.web.id/blog/travel-palembang-muara-enim-door-to-door).
 
-Lahat Rp 200.000 untuk 5-6 jam. Pemandangan perbukitan mulai terlihat setelah melewati Muara Enim, dan udara perlahan terasa sejuk. Jadwal serta tips naiknya bisa dibaca di artikel [travel Palembang Lahat](https://lincahtravel.web.id/blog/travel-palembang-lahat-door-to-door/).
+Lahat Rp 200.000 untuk 5-6 jam. Pemandangan perbukitan mulai terlihat setelah melewati Muara Enim, dan udara perlahan terasa sejuk. Jadwal serta tips naiknya bisa dibaca di artikel [travel Palembang Lahat](https://lincahtravel.web.id/blog/travel-palembang-lahat-door-to-door).
 
 Sekayu, ibu kota Musi Banyuasin, tarifnya Rp 180.000 untuk 3 jam via lintas tengah. Kalau urusan Anda ke arah Muba, rute ini yang paling pas, bukan lewat Kayu Agung.
 
@@ -63,11 +63,11 @@ Sekayu, ibu kota Musi Banyuasin, tarifnya Rp 180.000 untuk 3 jam via lintas teng
 
 Untuk jarak di atas 250 kilometer, tarif berkisar Rp 180.000 sampai Rp 300.000.
 
-Pagaralam Rp 180.000, 7-8 jam, melewati jalan berkelok di kaki Gunung Dempo. Karena medannya menantang, kami hanya menurunkan armada yang paling prima di rute ini. Ulasan lengkapnya ada di artikel [travel Palembang Pagaralam](https://lincahtravel.web.id/blog/travel-palembang-pagaralam-door-to-door/).
+Pagaralam Rp 180.000, 7-8 jam, melewati jalan berkelok di kaki Gunung Dempo. Karena medannya menantang, kami hanya menurunkan armada yang paling prima di rute ini. Ulasan lengkapnya ada di artikel [travel Palembang Pagaralam](https://lincahtravel.web.id/blog/travel-palembang-pagaralam-door-to-door).
 
-Jambi Rp 200.000, sekitar 6-7 jam. Rute ini banyak dipakai untuk perjalanan dinas dan kami sudah menulis [panduan khususnya](https://lincahtravel.web.id/blog/travel-palembang-jambi-perjalanan-dinas/). Lubuklinggau juga Rp 200.000 untuk 7-8 jam, jadi pintu masuk ke arah Bengkulu, dengan detail di artikel [travel Palembang Lubuklinggau](https://lincahtravel.web.id/blog/travel-palembang-lubuk-linggau-door-to-door/).
+Jambi Rp 200.000, sekitar 6-7 jam. Rute ini banyak dipakai untuk perjalanan dinas dan kami sudah menulis [panduan khususnya](https://lincahtravel.web.id/blog/travel-palembang-jambi-perjalanan-dinas). Lubuklinggau juga Rp 200.000 untuk 7-8 jam, jadi pintu masuk ke arah Bengkulu, dengan detail di artikel [travel Palembang Lubuklinggau](https://lincahtravel.web.id/blog/travel-palembang-lubuk-linggau-door-to-door).
 
-Lampung adalah yang paling mahal di daftar utama, Rp 300.000 untuk 4-5 jam via Tol Trans Sumatera. Durasi tempuhnya justru lebih pendek dari Pagaralam karena sepanjang jalan sudah tol. Tarif ini berbeda dengan tiket bus, karena layanannya door-to-door sampai ke alamat tujuan di Lampung. Pembahasan lengkapnya ada di artikel [travel Palembang Lampung](https://lincahtravel.web.id/blog/travel-palembang-lampung-via-tol/).
+Lampung adalah yang paling mahal di daftar utama, Rp 300.000 untuk 4-5 jam via Tol Trans Sumatera. Durasi tempuhnya justru lebih pendek dari Pagaralam karena sepanjang jalan sudah tol. Tarif ini berbeda dengan tiket bus, karena layanannya door-to-door sampai ke alamat tujuan di Lampung. Pembahasan lengkapnya ada di artikel [travel Palembang Lampung](https://lincahtravel.web.id/blog/travel-palembang-lampung-via-tol).
 
 ## Rute lain yang jarang ditanyakan
 

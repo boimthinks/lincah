@@ -61,7 +61,7 @@ function getRouteDates() {
     if (fromMatch && toMatch) {
       const from = fromMatch[1].trim().toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
       const to = toMatch[1].trim().toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
-      const url = `/${from}/${to}/`;
+      const url = `/${from}/${to}`;
       
       const stats = fs.statSync(filePath);
       dates[url] = stats.mtime.toISOString().split('T')[0];
@@ -77,7 +77,10 @@ const BUILD_DATE = new Date().toISOString().split('T')[0];
 // https://astro.build/config
 export default defineConfig({
   site: 'https://lincahtravel.web.id',
-  trailingSlash: 'always',
+  trailingSlash: 'never',
+  build: {
+    format: 'file',
+  },
   prefetch: {
     prefetchAll: true,
     defaultStrategy: 'hover',
@@ -85,13 +88,13 @@ export default defineConfig({
     integrations: [react(), sitemap({
     filter: (page) => {
       const excluded = [
-        '/batu-marta/', '/baturaja/', '/bayung-lencir/', '/belitang/',
-        '/betung/', '/danau-ranau/', '/indralaya/', '/jambi/',
-        '/kayu-agung/', '/kikim/', '/kuala-tungkal/', '/lahat/',
-        '/lampung/', '/lubuklinggau/', '/martapura/', '/muara-bulian-jambi/',
-        '/muara-dua/', '/muara-enim/', '/pagaralam/', '/palembang/',
-        '/prabumulih/', '/sekayu/', '/sungai-lilin/', '/talang-padang/',
-        '/tebing-tinggi/', '/tugumulyo/'
+        '/batu-marta', '/baturaja', '/bayung-lencir', '/belitang',
+        '/betung', '/danau-ranau', '/indralaya', '/jambi',
+        '/kayu-agung', '/kikim', '/kuala-tungkal', '/lahat',
+        '/lampung', '/lubuklinggau', '/martapura', '/muara-bulian-jambi',
+        '/muara-dua', '/muara-enim', '/pagaralam', '/palembang',
+        '/prabumulih', '/sekayu', '/sungai-lilin', '/talang-padang',
+        '/tebing-tinggi', '/tugumulyo'
       ];
       const path = new URL(page).pathname;
       return !excluded.includes(path);
@@ -106,14 +109,14 @@ export default defineConfig({
       }
 
       // Check if the item is a blog post
-      const blogMatch = pathname.match(/^\/blog\/([^/]+)\/$/);
+      const blogMatch = pathname.match(/^\/blog\/([^/]+)$/);
       if (blogMatch && blogDates[blogMatch[1]]) {
         item.lastmod = new Date(blogDates[blogMatch[1]]);
         return item;
       }
       
       // Check if the item is a route page (not city hub)
-      const routeMatch = pathname.match(/^\/([^\/]+)\/([^\/]+)\/$/);
+      const routeMatch = pathname.match(/^\/([^\/]+)\/([^\/]+)$/);
       if (routeMatch && routeMatch[1] !== routeMatch[2]) {
         if (routeDates[pathname]) {
           item.lastmod = new Date(routeDates[pathname]);

@@ -24,7 +24,7 @@ export function generateRouteKeywords(routes: RouteData[]): KeywordLink[] {
   for (const route of routes) {
     const fromSlug = slugifyCity(route.from);
     const toSlug = slugifyCity(route.to);
-    const url = `/${fromSlug}/${toSlug}/`;
+    const url = `/${fromSlug}/${toSlug}`;
     const routeKey = `${fromSlug}-${toSlug}`;
     
     const fromEscaped = escapeRegExp(route.from.toLowerCase());

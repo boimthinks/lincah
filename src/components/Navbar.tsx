@@ -16,10 +16,9 @@ export default function Navbar() {
   }, []);
 
   const navItems = [
-    { name: 'Beranda', id: '', path: '/' },
-    { name: 'Harga Travel', id: 'travel', path: '/travel' },
+    { name: 'Travel Palembang', id: '', path: '/' },
+    { name: 'Harga', id: 'travel', path: '/travel' },
     { name: 'Booking', id: 'booking', path: '/booking' },
-    { name: 'Rental Mobil', id: 'rental', path: '/rental' },
     { name: 'Blog', id: 'blog', path: '/blog' },
     { name: 'Tentang Kami', id: 'tentang-kami', path: '/tentang-kami' },
   ];

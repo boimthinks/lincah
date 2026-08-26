@@ -151,6 +151,17 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Martapura | ✅ Ada | `2026-08-13-travel-palembang-martapura-oku-timur.md` |
 | Palembang-Tebing Tinggi (Empat Lawang) | ✅ Ada | `2026-08-14-travel-palembang-tebing-tinggi-empat-lawang.md` |
 | Palembang-Baturaja (vs Kereta) | ✅ Ada | `2026-08-25-perbandingan-travel-vs-kereta-palembang-baturaja.md` |
+| Palembang-Pendopo Lintang | ✅ Ada | `2026-08-25-travel-palembang-pendopo-lintang.md` |
+| Palembang-Simpang Belimbing | ✅ Ada | `2026-08-26-travel-palembang-simpang-belimbing.md` (angle pekerja proyek & tambang) |
+
+### Rute Terdaftar yang Sudah Ditulis Setelah Tabel Ini Dibuat
+| Rute | File |
+|---|---|
+| Palembang-Belitang | `2026-08-17-travel-palembang-belitang-oku-timur.md` |
+| Palembang-Tanjung Enim | `2026-08-16-travel-palembang-tanjung-enim.md` |
+| Palembang-Sungai Lilin | `2026-08-15-travel-palembang-sungai-lilin.md` |
+| Palembang-Muara Bulian | `2026-08-18-travel-palembang-muara-bulian-perjalanan-dinas.md` |
+| Jambi-Bangko | `2026-08-08-travel-jambi-bangko-door-to-door.md` |
 
 ### Rute Belum Ada Artikelya (PRIORITAS TINGGI)
 | Rute | Prioritas | Alasan |
