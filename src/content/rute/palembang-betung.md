@@ -4,7 +4,7 @@ to: betung
 price: 180000
 duration: 3 - 4 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "17:00 WIB", "20:00 WIB"]
-type: utama
+type: sumatera selatan
 distance: 150 km
 description: Travel Palembang ke Betung — 3-4 jam, Rp 180.000 via jalan utama. Door-to-door, armada AC, jadwal fleksibel. Booking sekarang!
 img: src\content\city-images.md

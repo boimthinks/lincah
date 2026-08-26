@@ -4,7 +4,7 @@ to: lubuklinggau
 price: 200000
 duration: 7 - 8 Jam
 departureTimes: ["09:00 WIB", "16:00 WIB", "20:00 WIB"]
-type: sumatera selatan
+type: utama
 distance: 320 km
 description: Travel Palembang ke Lubuklinggau — 7-8 jam, Rp 180.000 via Lintas Sumatera. Door-to-door, armada AC nyaman. Booking sekarang!
 img: src\content\city-images.md

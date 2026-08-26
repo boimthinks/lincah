@@ -4,7 +4,7 @@ to: baturaja
 price: 200000
 duration: 4 - 5 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "17:00 WIB", "20:00 WIB"]
-type: utama
+type: sumatera selatan
 distance: 200 km
 description: Butuh travel Palembang ke Baturaja? Lincah Travel jemput di depan rumah Anda. Perjalanan 4-5 jam via Prabumulih dengan Hiace/Innova. Booking via WhatsApp sekarang!
 img: src\content\city-images.md

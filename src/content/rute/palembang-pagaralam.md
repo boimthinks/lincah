@@ -4,7 +4,7 @@ to: pagaralam
 price: 210000
 duration: 7 - 8 Jam
 departureTimes: ["08:00 WIB", "15:00 WIB", "20:00 WIB"]
-type: sumatera selatan
+type: utama
 distance: 290 km
 description: Travel Palembang ke Pagaralam — 7-8 jam, Rp 210.000. Door-to-door, armada AC, udara sejuk Gunung Dempo. Booking sekarang!
 img: src\content\city-images.md

@@ -4,7 +4,7 @@ to: lampung
 price: 300000
 duration: 4 - 5 Jam (Via Tol)
 departureTimes: ["09:00 WIB", "15:00 WIB", "21:00 WIB"]
-type: utama
+type: sumatera selatan
 distance: 350 km
 description: Travel Palembang ke Lampung via tol 4-5 jam, Rp 300.000. Lincah Travel jemput door-to-door. Pilihan armada Hiace Premio & Innova Reborn. Booking sekarang!
 img: src\content\city-images.md

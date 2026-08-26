@@ -4,7 +4,7 @@ to: kuala tungkal
 price: 400000
 duration: 10 - 11 Jam
 departureTimes: ["07:00 WIB", "19:00 WIB"]
-type: utama
+type: sumatera selatan
 distance: 402 km
 description: Travel Palembang ke Kuala Tungkal nyaman & aman. Lincah Travel door-to-door, harga Rp 400.000, perjalanan 10-11 jam. Armada AC modern, driver berpengalaman. Pesan via WA sekarang!
 img: src\content\city-images.md

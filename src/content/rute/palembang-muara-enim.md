@@ -4,7 +4,7 @@ to: muara enim
 price: 150000
 duration: 4 - 5 Jam
 departureTimes: ["08:00 WIB", "14:00 WIB", "17:00 WIB", "20:00 WIB"]
-type: utama
+type: sumatera selatan
 distance: 180 km
 description: Travel Palembang ke Muara Enim — 4-5 jam, Rp 150.000 via Lintas Sumatera. Door-to-door, armada AC, jadwal fleksibel. Booking sekarang!
 img: src\content\city-images.md

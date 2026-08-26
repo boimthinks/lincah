@@ -44,9 +44,13 @@ export default function RoutesPrices({ routes, cityImages, showMainRoutes = true
       window.location.href = `/booking?route=${route.id}`;
       return;
     }
+    window.location.href = getRouteUrl(route);
+  };
+
+  const getRouteUrl = (route: Route) => {
     const fromSlug = route.from.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
     const toSlug = route.to.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
-    window.location.href = `/${fromSlug}/${toSlug}`;
+    return `/${fromSlug}/${toSlug}`;
   };
 
   const getRouteImage = (toCity: string) => {
@@ -78,15 +82,19 @@ export default function RoutesPrices({ routes, cityImages, showMainRoutes = true
                 key={route.id}
                 className="bg-white rounded-none border border-slate-200 hover:border-blue-500 overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 flex flex-col justify-between"
               >
-                <div className="relative w-full aspect-[4/3] overflow-hidden bg-slate-100">
-                  <img 
-                    src={getRouteImage(route.to)} 
-                    alt={`travel ${route.from} ${route.to} murah`} 
+                <a
+                  href={getRouteUrl(route)}
+                  aria-label={`Travel ${route.from} ke ${route.to}`}
+                  className="relative block w-full aspect-[4/3] overflow-hidden bg-slate-100 cursor-pointer"
+                >
+                  <img
+                    src={getRouteImage(route.to)}
+                    alt={`travel ${route.from} ${route.to} murah`}
                     width="400" height="300"
-                    className="w-full h-full object-cover transition-transform duration-500 hover:scale-110" 
+                    className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
                   />
                   <div className="absolute inset-x-0 bottom-0 h-2/3 bg-gradient-to-t from-white via-white/90 to-transparent"></div>
-                  
+
                   <div className="absolute bottom-4 left-4 right-4 z-10 flex items-center justify-between text-left">
                     <div>
                       <span className="block text-[9px] uppercase font-bold text-slate-400 tracking-wider mb-0.5">Dari</span>
@@ -97,7 +105,7 @@ export default function RoutesPrices({ routes, cityImages, showMainRoutes = true
                       <h4 className="text-lg font-extrabold text-blue-900 uppercase leading-none">{route.to}</h4>
                     </div>
                   </div>
-                </div>
+                </a>
 
                 <div className="p-6 sm:p-8 space-y-6 text-left flex-grow">
                   <div className="space-y-3 text-xs sm:text-sm text-slate-600 font-medium">
