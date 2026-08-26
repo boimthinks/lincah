@@ -6,15 +6,21 @@ duration: 1.5 Jam
 departureTimes: ["Setiap Jam (07:00 - 18:00)"]
 type: utama
 distance: 65 km
-description: Travel Palembang ke Kayu Agung — 1,5 jam, Rp 100.000 via tol. Setiap jam, armada AC, door-to-door. Booking sekarang!
+description: Travel Palembang ke Kayu Agung — 1,5 jam via jalur arteri. Setiap jam berangkat, Rp 100.000, armada AC, door-to-door. Booking sekarang!
 img: src\content\city-images.md
 ---
 
-Kayu Agung, ibukota Kabupaten Ogan Komering Ilir, kini dekat dari Palembang. Berkat tol, perjalanan yang dulu makan berjam-jam cukup ditempuh sekitar 1,5 jam. Banyak orang memakai rute ini untuk urusan pekerjaan, bisnis, atau sekadar menjenguk keluarga.
+Kayu Agung, ibukota Kabupaten Ogan Komering Ilir, kini dekat dari Palembang. Jarak 65 km lewat jalur arteri sisi selatan cukup ditempuh sekitar 1,5 jam. Banyak orang memakai rute ini untuk urusan pekerjaan, bisnis, atau sekadar menjenguk keluarga.
+
+## Jalur yang Dilalui Travel Palembang-Kayu Agung
+
+Lincah Travel mengambil jalur arteri non-tol sisi tenggara, bukan keluar dari gerbang tol Trans-Sumatera. Dari Palembang, rutenya Kertapati/Jakabaring, Pemulutan, Indralaya, Tanjung Raja, Teluk Gelam, hingga Kayu Agung sebagai ibukota OKI, dengan lanjutan ke Pedamarang. Lewat jalur ini penjemputan door-to-door di titik-titik di antaranya tetap memungkinkan.
+
+Koridor Tenggara ini jadi urat nadi komuter harian Palembang-OKI. Kalau titik jemput Anda berada di sekitar persimpangan utamanya, layanan [travel Palembang Indralaya](/palembang/indralaya) untuk area kampus UNSRI juga tersedia.
 
 ## Keunggulan Lincah Travel untuk Rute Palembang-Kayu Agung
 
-*   **Efisiensi Waktu.** Kami memanfaatkan tol secara optimal supaya Anda sampai lebih cepat dan bebas dari kemacetan jalur lama.
+*   **Efisiensi Waktu.** Jalur arteri langsung sisi tenggara membuat perjalanan pendek ini presisi waktunya tanpa bergantung pada kondisi gerbang tol.
 *   **Layanan Door-to-Door.** Kami jemput di rumah atau kantor, lalu antar ke alamat tujuan di Kayu Agung.
 *   **Jadwal Luas.** Setiap jam mulai 07.00 sampai 18.00 WIB, sehingga Anda tidak menunggu lama.
 *   **Armada Terawat.** Innova Reborn dan Avanza/Veloz dalam kondisi bersih.

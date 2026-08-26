@@ -232,6 +232,21 @@ const toDistricts = toDistrictsEntry?.data.items || [];
           </div>
         )}
 
+        <div class="mt-12 bg-gradient-to-r from-blue-900 to-blue-700 p-8 sm:p-10 text-white shadow-lg flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
+          <div>
+            <h2 class="text-xl sm:text-2xl font-black uppercase tracking-tight">Siap Berangkat ke {capitalize(to)}?</h2>
+            <p class="text-blue-100 text-sm mt-2 leading-relaxed max-w-lg">
+              Pesan sekarang lewat formulir online: tentukan tanggal, jam, dan titik jemput di peta. Admin kami akan konfirmasi ketersediaan kursi via WhatsApp.
+            </p>
+          </div>
+          <a
+            href={`/booking?route=${entry.id}`}
+            class="bg-yellow-400 hover:bg-yellow-300 text-blue-950 font-extrabold text-xs uppercase tracking-widest px-8 py-4 rounded-none shadow-md transition-all whitespace-nowrap cursor-pointer"
+          >
+            Pesan Tiket
+          </a>
+        </div>
+
         {/* Displaying 'from' city data */}
                 {fromDistricts.length > 0 && (
                    <div class="mt-12">
@@ -270,7 +285,8 @@ const toDistricts = toDistrictsEntry?.data.items || [];
            <div class="lg:col-span-4 space-y-6 lg:sticky lg:top-28 h-fit">
             <SidebarCTA 
               title="Pesan Travel Sekarang" 
-              description="Hubungi admin kami untuk pemesanan cepat dan info jadwal terbaru." 
+              description="Isi formulir online, tentukan titik jemput di peta, dan admin kami akan konfirmasi kursi via WhatsApp." 
+              routeId={entry.id}
             />
             <OtherRoutes currentRouteId={entry.id} />
           </div>

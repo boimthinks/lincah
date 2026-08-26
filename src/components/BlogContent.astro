@@ -6,7 +6,7 @@ const routes = await getCollection('rute');
 const keywords = generateRouteKeywords(routes.map(r => ({ from: r.data.from, to: r.data.to })));
 
 const rawHtml = await Astro.slots.render('default');
-const processedHtml = injectInternalLinks(rawHtml, keywords, 5);
+const processedHtml = injectInternalLinks(rawHtml, keywords, 6);
 ---
 
 <div class="blog-content" set:html={processedHtml} />

@@ -30,7 +30,7 @@ export function generateRouteKeywords(routes: RouteData[]): KeywordLink[] {
     const fromEscaped = escapeRegExp(route.from.toLowerCase());
     const toEscaped = escapeRegExp(route.to.toLowerCase());
     
-    const pattern = `travel\\s+(ke\\s+)?${fromEscaped}\\s*[-–—]?\\s*${toEscaped}`;
+    const pattern = `travel\\s+(?:ke\\s+)?${fromEscaped}\\s*(?:ke\\s+)?[-–—]?\\s*${toEscaped}`;
     
     keywords.push({
       keyword: `travel ${route.from.toLowerCase()} ${route.to.toLowerCase()}`,

@@ -40,6 +40,8 @@ Rute-rute berikut adalah **fokus utama bisnis dan target optimasi SEO/pemasaran 
 4. **Palembang - Martapura**
 5. **Palembang - Muara Dua**
 
+> **Geografi rute:** Untuk detail koridor, daerah yang dilewati, junction, dan karakteristik jalur per rute, baca `PENGETAHUAN-KORIDOR-RUTE.md`. Wajib dipakai saat artikel menyebut daerah yang dilalui perjalanan.
+
 ---
 
 ## 4. Rute Populer & Harga (Wajib Dicantumkan Jujur)
@@ -162,6 +164,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Sungai Lilin | `2026-08-15-travel-palembang-sungai-lilin.md` |
 | Palembang-Muara Bulian | `2026-08-18-travel-palembang-muara-bulian-perjalanan-dinas.md` |
 | Jambi-Bangko | `2026-08-08-travel-jambi-bangko-door-to-door.md` |
+| Rute Utama (artikel pilar, 6 koridor) | `2026-08-26-rute-utama-lincah-travel.md` |
 
 ### Rute Belum Ada Artikelya (PRIORITAS TINGGI)
 | Rute | Prioritas | Alasan |
@@ -237,6 +240,7 @@ Gunakan daftar template judul ini secara fleksibel untuk merencanakan artikel ru
 
 - **Testimoni:** `src/content/testimonials/`
 - **Rute:** `src/content/rute/*.md`
+- **Koridor & geografi rute:** `PENGETAHUAN-KORIDOR-RUTE.md`
 - **Armada:** `src/content/vehicles/`
 - **Hotel per kota:** `src/content/hotels/*`
 

@@ -12,6 +12,12 @@ img: src\content\city-images.md
 
 Muara Dua, ibukota Kabupaten Ogan Komering Ulu Selatan (OKU Selatan), adalah kota yang terletak di kaki Bukit Barisan, pegunungan yang membentang di sepanjang Sumatera. Dengan jarak 290 km dari Palembang, perjalanan ke Muara Dua memakan waktu 7-8 jam via Lintas Sumatera, melewati pemandangan perbukitan yang hijau dan udara yang segar.
 
+## Jalur yang Dilalui Travel Palembang-Muara Dua
+
+Rute ini memasuki koridor OKU Raya menuju OKU Selatan. Urutannya Indralaya, Prabumulih, Rambang Dangku, Peninjauan, lalu Baturaja sebagai ibukota OKU. Setelah Baturaja, perjalanan melintasi Martapura di OKU Timur sebelum mendaki ke Muaradua; jalur yang sama berlanjut ke Banding Agung dekat Danau Ranau.
+
+Koridor ini hidup dari pedagang hasil bumi seperti kopi dan karet, wisatawan Danau Ranau, serta mahasiswa dan PNS. Titik-titik penting di jalur yang sama juga kami layani, mulai [travel Palembang Martapura](/palembang/martapura) sampai [travel Palembang Danau Ranau](/palembang/danau-ranau).
+
 Kota ini dikenal sebagai daerah penghasil komoditas pertanian dan perkebunan, serta memiliki potensi wisata alam yang menarik. Bagi Anda yang ingin menjelajahi keindahan alam Sumatera Selatan bagian selatan, Muara Dua adalah tujuan yang tepat.
 
 ## Mengapa Memilih Lincah Travel untuk Rute Palembang-Muara Dua?

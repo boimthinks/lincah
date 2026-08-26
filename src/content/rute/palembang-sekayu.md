@@ -10,9 +10,15 @@ description: Travel Palembang ke Sekayu — 3 jam, Rp 180.000 via lintas tengah 
 img: src\content\city-images.md
 ---
 
-Sekayu, ibukota Kabupaten Musi Banyuasin (Muba), adalah gerbang menuju wilayah timur Sumatera Selatan. Sebagai pusat pemerintahan kabupaten, kota ini ramai dikunjungi oleh pegawai negeri, guru, dan pebisnis dari Palembang untuk urusan dinas atau pengadaan barang. Rute lintas tengah Muba yang dilewati menawarkan pemandangan sawah dan perkebunan karet yang khas.
+Sekayu, ibukota Kabupaten Musi Banyuasin (Muba), adalah gerbang menuju wilayah timur Sumatera Selatan. Sebagai pusat pemerintahan kabupaten, kota ini ramai dikunjungi oleh pegawai negeri, guru, dan pebisnis dari Palembang untuk urusan dinas atau pengadaan barang. Jalurnya bercabang dari Lintas Timur Sumatera di Simpang Betung, lalu menembus hamparan sawah dan perkebunan karet khas Musi Banyuasin.
 
 Dengan jarak 120 km, perjalanan Palembang-Sekayu biasanya memakan waktu 3 jam. Lincah Travel memastikan Anda tiba tepat waktu dengan layanan door-to-door yang nyaman.
+
+## Jalur yang Dilalui Travel Palembang-Sekayu
+
+Dari Palembang, perjalanan mengikuti Lintas Timur Sumatera melewati Pangkalan Balai hingga Simpang Betung. Dari simpang ini rute belok memasuki jantung Musi Banyuasin: Lais, Sekayu sebagai ibukota kabupaten, lalu Babat Toman dan Sanga Desa. Jalur yang sama bisa diteruskan sampai Mangunjaya bagi yang ingin menyambung ke arah Lubuklinggau.
+
+Koridor ini ramai oleh PNS Pemkab Muba, guru, serta pekerja migas dan tambang yang berdomisili di Palembang. Titik-titik di jalur induknya juga kami layani, mulai [travel Palembang Betung](/palembang/betung) sampai [travel Palembang Jambi](/palembang/jambi).
 
 ## Kenapa Memilih Lincah Travel untuk Rute Palembang-Sekayu?
 
@@ -20,7 +26,7 @@ Dengan jarak 120 km, perjalanan Palembang-Sekayu biasanya memakan waktu 3 jam. L
 
 **Armada Terawat.** Toyota Hiace Premio untuk kelompok besar, Innova Reborn untuk keluarga, dan Avanza/Veloz untuk perjalanan ekonomis, semuanya dengan AC full dan kursi nyaman.
 
-**Sopir Ahli Rute Muba.** Driver kami menguasai jalan lintas tengah Muba, termasuk jalan alternatif jika ada gangguan lalu lintas.
+**Sopir Ahli Rute Muba.** Driver kami menguasai jalur Betung-Sekayu beserta jalan alternatifnya jika ada gangguan lalu lintas.
 
 **Harga Kompetitif.** Rp 180.000 flat untuk semua jenis armada, tidak ada biaya tersembunyi.
 
@@ -42,7 +48,7 @@ Dengan jarak 120 km, perjalanan Palembang-Sekayu biasanya memakan waktu 3 jam. L
 
 1. **Pesan H-1** untuk jadwal pagi, terutama jika Anda berangkat berkelompok.
 2. **Bawa uang tunai**: meskipun banyak tempat sudah menerima transfer, beberapa warung dan toko di Sekayu masih menggunakan transaksi tunai.
-3. **Manfaatkan waktu perjalanan** untuk beristirahat, rute lintas tengah Muba relatif tenang dengan sedikit kemacetan.
+3. **Manfaatkan waktu perjalanan** untuk beristirahat, jalur Betung-Sekayu relatif tenang dengan sedikit kemacetan.
 
 ## Cara Pemesanan
 

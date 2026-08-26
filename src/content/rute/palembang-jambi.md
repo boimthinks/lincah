@@ -12,6 +12,12 @@ img: src\content\city-images.md
 
 Perjalanan lintas provinsi dari Palembang ke Jambi memang menguras energi bila tak direncanakan. Jarak tempuh 269 km dengan estimasi 6 jam lebih membutuhkan kendaraan yang nyaman agar Anda tiba di Jambi dalam keadaan segar, bukan habis di setengah jalan. Kami menggunakan sistem door-to-door dan menjemput Anda langsung dari alamat di Palembang.
 
+## Jalur yang Dilalui Travel Palembang-Jambi
+
+Rute ini menyusuri jalur Lintas Timur Sumatera, koridor logistik dan perkebunan paling sibuk di Sumsel bagian utara. Dari Palembang, perjalanan melewati Talang Kelapa (Sembawa) dan Pangkalan Balai sebagai ibukota Banyuasin sebelum tiba di Simpang Betung. Dari titik ini jalan menembus kawasan sawit Musi Banyuasin: Sungai Lilin, Tungkal Jaya, hingga Bayung Lencir di batas Sumsel-Jambi.
+
+Sektor terakhir dimulai dari Bayung Lencir menuju Tempino di Muaro Jambi, lalu berakhir di Kota Jambi. Driver kami hafal titik-titik rawan macet koridor ini sehingga jam berangkat bisa disesuaikan dengan kondisi lapangan. Kalau tujuan Anda kota-kota kecil di sepanjang jalur yang sama, kami juga melayani [travel Palembang Sungai Lilin](/palembang/sungai-lilin) dan [travel Palembang Bayung Lencir](/palembang/bayung-lencir).
+
 ## Kenyamanan Sepanjang Rute Palembang-Jambi
 
 Perjalanan jauh menuntut persiapan. Beberapa hal yang kami pastikan selama perjalanan:

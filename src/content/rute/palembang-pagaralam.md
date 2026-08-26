@@ -14,6 +14,12 @@ Pagaralam, kota di dataran tinggi Sumatera Selatan, adalah surga bagi pencinta a
 
 Dengan jarak 290 km, perjalanan Palembang-Pagaralam memakan waktu 7-8 jam melewati jalan berkelok-kelok yang menantang. Namun, pemandangan pegunungan dan udara segar sepanjang perjalanan akan membuat Anda lupa dengan lama perjalanan.
 
+## Jalur yang Dilalui Travel Palembang-Pagaralam
+
+Perjalanan mengikuti Lintas Tengah Sumatera sampai Kota Lahat. Dari Lahat, rute berbelok memasuki dataran tinggi Besemah melewati Pulau Pinang/Gumay Ulu dan Kota Agung sebelum tiba di kawasan perkebunan teh Gunung Dempo. Medan naik-turun di sektor terakhir inilah alasan kami hanya menugaskan driver senior yang hafal jalur pegunungan.
+
+Bagi Anda yang berhenti lebih dulu di jalur induknya, tersedia juga layanan [travel Palembang Lahat](/palembang/lahat) dengan sistem door-to-door yang sama.
+
 ## Mengapa Memilih Lincah Travel untuk Rute Palembang-Pagaralam?
 
 **Armada Terbaik untuk Perjalanan Jauh.** Toyota Hiace Premio dengan reclining seat dan AC double blower memastikan kenyamanan Anda selama perjalanan panjang.

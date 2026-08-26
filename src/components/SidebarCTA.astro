@@ -1,17 +1,23 @@
 ---
-import { MessageSquare } from 'lucide-react';
+import { MessageSquare, Ticket } from 'lucide-react';
 
 interface Props {
   title?: string;
   description?: string;
   buttonText?: string;
+  routeId?: string;
 }
 
 const { 
   title = "Butuh Bantuan Pemesanan?", 
   description = "Hubungi admin kami sekarang untuk konsultasi rute, jadwal, dan harga terbaik.", 
-  buttonText = "Chat Admin Sekarang" 
+  buttonText,
+  routeId
 } = Astro.props;
+
+const href = routeId ? `/booking?route=${routeId}` : '/booking';
+const finalButtonText = buttonText ?? (routeId ? 'Booking Sekarang' : 'Chat Admin Sekarang');
+const Icon = routeId ? Ticket : MessageSquare;
 
 const ADMIN_WA = '6281369231893';
 ---
@@ -21,7 +27,7 @@ const ADMIN_WA = '6281369231893';
   
   <div class="relative z-10 text-center space-y-4">
     <div class="w-12 h-12 bg-yellow-400 text-blue-900 flex items-center justify-center rounded-none mx-auto">
-      <MessageSquare className="w-6 h-6" />
+      <Icon className="w-6 h-6" />
     </div>
     
     <h3 class="text-lg font-black text-white uppercase tracking-tight">
@@ -33,10 +39,10 @@ const ADMIN_WA = '6281369231893';
     </p>
     
     <a 
-      href="/booking"
+      href={href}
       class="block w-full bg-yellow-400 hover:bg-yellow-300 text-blue-900 font-extrabold uppercase tracking-widest text-xs py-4 transition-colors text-center cursor-pointer"
     >
-      {buttonText}
+      {finalButtonText}
     </a>
   </div>
 </div>
