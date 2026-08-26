@@ -333,13 +333,31 @@ Terima kasih!`;
 
     const waUrl = `https://wa.me/${ADMIN_WA}?text=${encodeURIComponent(waText)}`;
 
+    // Simpan ringkasan booking untuk halaman terima kasih (harus sebelum navigasi)
+    const bookingSummary = {
+      noNota,
+      nama: nama.trim(),
+      whatsapp: fullWhatsapp,
+      tujuan: selectedRoute?.to || tujuan,
+      tanggal,
+      jam,
+      jumlahPenumpang,
+      alamatJemput: alamatJemput.trim(),
+      tarif: totalTarif,
+      coordString,
+    };
+    sessionStorage.setItem('lincah_booking_last', JSON.stringify(bookingSummary));
+
     // WA harus dibuka SINKRON dalam gesture klik user (sebelum await apa pun),
     // jika dipanggil setelah await fetch maka popup blocker akan memblokir tab WhatsApp.
-    const waWindow = window.open(waUrl, '_blank', 'noopener,noreferrer');
-    if (!waWindow) {
-      setErrorMessage('Popup WhatsApp diblokir browser. Izinkan popup untuk situs ini lalu coba lagi.');
+    // Catatan: jangan pakai fitur 'noopener' di sini karena membuat window.open
+    // selalu return null sehingga deteksi popup-blocker menjadi salah.
+    const waWindow = window.open('', '_blank');
+    if (waWindow) {
+      waWindow.opener = null;
+      waWindow.location.href = waUrl;
     } else {
-      onClose();
+      setErrorMessage('Popup WhatsApp diblokir browser. Izinkan popup untuk situs ini lalu coba lagi.');
     }
 
     try {
@@ -374,6 +392,11 @@ Terima kasih!`;
     }
 
     setIsSubmitting(false);
+
+    // Arahkan ke halaman terima kasih hanya jika WA berhasil dibuka
+    if (waWindow) {
+      window.location.href = '/booking/terimakasih';
+    }
   };
 
   if (!isPage && !isOpen) return null;
