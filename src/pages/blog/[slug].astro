@@ -8,6 +8,7 @@ import RelatedPosts from '../../components/RelatedPosts.astro';
 import RouteCard from '../../components/RouteCard.astro';
 import { getCollection, getEntries, render, getEntry } from 'astro:content';
 import BlogContent from '../../components/BlogContent.astro';
+import GoogleSourcePreferences from '../../components/GoogleSourcePreferences.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -219,10 +220,10 @@ const cityImages = cityImagesEntry?.data.cities || {};
             
             {/* Kesimpulan & CTA */}
             {post.data.kesimpulan && (
-              <div class="mt-12 pt-8 border-t border-slate-200">
-                <h2 class="text-lg font-bold text-slate-900 uppercase tracking-wide mb-4">Penutup</h2 >
+              <div class="mt-8">
+                <GoogleSourcePreferences />
                 <p class="text-slate-600 leading-relaxed">{post.data.kesimpulan}</p>
-              </div >
+              </div>
             )}
 
             {/* Tags */}

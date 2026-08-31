@@ -1,0 +1,72 @@
+---
+// Komponen untuk Google Source Preferences
+// Memungkinkan pengunjung menambahkan Lincah Travel sebagai preferred source di Google
+// Single blog button version
+---
+
+<div id="google-source-preferences">
+  <button id="add-preferred-source" class="btn-preferred-source">
+    <svg xmlns="http://www.w3.org/2000/svg" class="icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+    </svg>
+    Tambah sebagai Sumber Favorit di Google
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const addButton = document.getElementById('add-preferred-source');
+    if (addButton) {
+      addButton.addEventListener('click', () => {
+        if (window.google && window.google.news && window.google.news.sourcePreferences) {
+          window.google.news.sourcePreferences.showDialog({
+            forceReload: true,
+            sourceUrl: 'https://lincahtravel.web.id'
+          });
+        } else {
+          window.open('https://www.google.com/preferences/source?q=https://lincahtravel.web.id', '_blank');
+        }
+      });
+    }
+  });
+</script>
+
+<style>
+  #google-source-preferences {
+    margin: 2.5rem 0;
+  }
+
+  .btn-preferred-source {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    width: 100%;
+    padding: 0.875rem 1.5rem;
+    background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+    color: white;
+    font-weight: 600;
+    font-size: 0.9375rem;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.1);
+  }
+
+  .btn-preferred-source:hover {
+    background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 8px -1px rgba(37, 99, 235, 0.2);
+  }
+
+  .btn-preferred-source:active {
+    transform: translateY(0);
+  }
+
+  .icon {
+    width: 20px;
+    height: 20px;
+  }
+</style>
