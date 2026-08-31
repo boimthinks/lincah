@@ -505,7 +505,7 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
     }
 
     function renderNota(nota) {
-      const validasiUrl = SITE_URL + '/validasi/' + nota.no_nota;
+      const validasiUrl = SITE_URL + '/validasi?id=' + nota.no_nota;
       const tglLong = formatDate(nota.tanggal_berangkat);
       const tglShort = formatDateShort(nota.tanggal_berangkat);
 

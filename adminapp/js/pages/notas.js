@@ -348,7 +348,7 @@ const NotasPage = {
 
       const formattedTgl = DateUtils.getFormattedDate(nota.tanggal_berangkat);
       const waLink = `https://wa.me/${nota.whatsapp}`;
-      const validasiUrl = `https://lincahtravel.web.id/validasi/${nota.no_nota}`;
+      const validasiUrl = `https://lincahtravel.web.id/validasi?id=${nota.no_nota}`;
 
       template.innerHTML = `
         <div style="padding: 40px 40px 30px;">
@@ -478,7 +478,7 @@ const NotasPage = {
 
     const nomor = nota.whatsapp.startsWith('62') ? nota.whatsapp : Helpers.formatWhatsApp(nota.whatsapp);
     const formattedTgl = DateUtils.getFormattedDate(nota.tanggal_berangkat);
-    const validasiUrl = `https://lincahtravel.web.id/validasi/${nota.no_nota}`;
+    const validasiUrl = `https://lincahtravel.web.id/validasi?id=${nota.no_nota}`;
     const tarifStr = Helpers.formatCurrency(nota.tarif);
 
     const message = `Halo *${nota.nama}*,
