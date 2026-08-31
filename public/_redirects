@@ -1,11 +1,11 @@
 # Lincah Travel - Netlify Redirects
 
+# Validasi Nota - redirect /validasi/[id] to /validasi?id=[id]
+/validasi/*  /validasi?id=:splat  301!
+
 # Strip trailing slashes from old indexed URLs (301) - must run first
 /:seg1/  /:seg1  301
 /:seg1/:seg2/  /:seg1/:seg2  301
-
-# Validasi Nota - redirect /validasi/[id] to /validasi?id=[id]
-/validasi/*  /validasi?id=:splat  301
 
 # Old permalink format /travel/from-to/ -> new route pages (301)
 /travel/batu-marta-palembang/  /batu-marta/palembang  301
