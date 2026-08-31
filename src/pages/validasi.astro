@@ -73,6 +73,77 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
       margin-top: 8px;
     }
 
+    .form-page {
+      min-height: 100vh;
+      background: #f1f5f9;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px 16px;
+    }
+    .form-card {
+      width: 100%;
+      max-width: 400px;
+      background: white;
+      border-radius: 16px;
+      padding: 40px 28px 36px;
+      text-align: center;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+    }
+    .form-card svg { margin-bottom: 20px; }
+    .form-card h2 {
+      font-size: 22px;
+      font-weight: 800;
+      color: #0f172a;
+      margin-bottom: 8px;
+    }
+    .form-card > p {
+      font-size: 13px;
+      color: #64748b;
+      line-height: 1.6;
+      margin-bottom: 24px;
+    }
+    .form-card form {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .form-card input {
+      width: 100%;
+      padding: 14px 16px;
+      font-size: 16px;
+      font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+      font-weight: 600;
+      color: #0f172a;
+      border: 2px solid #e2e8f0;
+      border-radius: 10px;
+      outline: none;
+      transition: border-color 0.2s;
+      text-align: center;
+      letter-spacing: 0.5px;
+    }
+    .form-card input:focus { border-color: #1e3a8a; }
+    .form-card input::placeholder { color: #94a3b8; font-weight: 400; letter-spacing: 0; }
+    .form-card button {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      width: 100%;
+      padding: 14px;
+      background: #1e3a8a;
+      color: white;
+      border: none;
+      border-radius: 10px;
+      font-size: 15px;
+      font-weight: 700;
+      font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .form-card button:hover { background: #1d4ed8; }
+    .form-card button .material-icons { font-size: 20px; }
+
     .nota-wrapper {
       min-height: 100vh;
       background: #f1f5f9;
@@ -496,12 +567,41 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
           <span class="material-icons icon">search_off</span>
           <h2>Nota Tidak Ditemukan</h2>
           <p>${message || 'Nota dengan nomor tersebut tidak valid atau sudah tidak tersedia.'}</p>
-          <a href="/">
-            <span class="material-icons" style="font-size: 16px;">home</span>
-            Kembali ke Beranda
+          <a href="/validasi">
+            <span class="material-icons" style="font-size: 16px;">arrow_back</span>
+            Cari Nota Lain
           </a>
         </div>
       `;
+    }
+
+    function showForm() {
+      document.getElementById('app').innerHTML = `
+        <div class="form-page">
+          <div class="form-card">
+            <svg viewBox="0 0 513 512" xmlns="http://www.w3.org/2000/svg" style="width:56px;height:56px;">
+              <path fill-rule="evenodd" fill="rgb(255, 255, 255)" d="M84.911,0.000 L429.089,0.000 C475.432,0.000 512.100,37.568 512.100,83.911 L512.100,428.089 C512.100,474.432 475.432,511.100 429.089,511.100 L84.911,511.100 C38.568,511.100 1.000,474.432 1.000,428.089 L1.000,83.911 C1.000,37.568 38.568,0.000 84.911,0.000 Z"/>
+              <path fill-rule="evenodd" fill="rgb(20, 71, 230)" d="M447.263,256.242 C421.875,342.251 316.351,411.975 211.570,411.975 C129.379,411.975 72.074,369.069 63.433,309.059 L0.526,309.059 L0.526,300.365 L244.792,300.365 L268.125,211.490 L212.111,211.490 L201.839,250.614 L69.614,250.614 C74.202,237.059 80.775,223.947 88.100,211.490 L0.526,211.490 L0.526,202.795 L214.393,202.795 L270.408,202.795 L283.469,153.045 L145.936,153.045 C190.202,120.826 246.959,100.509 303.510,100.509 C408.291,100.509 472.652,170.233 447.263,256.242 ZM186.495,309.059 L173.433,358.810 L326.929,358.810 L341.120,309.059 L186.495,309.059 Z"/>
+            </svg>
+            <h2>Validasi Nota</h2>
+            <p>Masukkan nomor nota perjalanan untuk memverifikasi keabsahan dokumen.</p>
+            <form id="nota-form">
+              <input type="text" id="nota-input" placeholder="Contoh: 20260831-001" autocomplete="off" required />
+              <button type="submit">
+                <span class="material-icons">search</span>
+                Verifikasi Nota
+              </button>
+            </form>
+          </div>
+        </div>
+      `;
+      document.getElementById('nota-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+        const val = document.getElementById('nota-input').value.trim();
+        if (val) {
+          window.location.href = '/validasi/' + encodeURIComponent(val);
+        }
+      });
     }
 
     function renderNota(nota) {
@@ -621,7 +721,7 @@ const siteTitle = 'Validasi Nota | Lincah Travel';
     async function main() {
       const id = getNotaId();
       if (!id) {
-        showError('Tidak ada nomor nota yang ditemukan di URL.');
+        showForm();
         return;
       }
       try {
