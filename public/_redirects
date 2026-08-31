@@ -1,7 +1,7 @@
 # Lincah Travel - Netlify Redirects
 
-# Validasi Nota - redirect /validasi/[id] to /validasi?id=[id]
-/validasi/*  /validasi?id=:splat  301!
+# Validasi Nota - serve validasi.html for /validasi/* routes (200 rewrite)
+/validasi/*  /validasi.html  200!
 
 # Strip trailing slashes from old indexed URLs (301) - must run first
 /:seg1/  /:seg1  301
