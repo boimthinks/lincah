@@ -17,14 +17,14 @@
   - Dilarang membuat konten duplikat massal (*scaled content abuse*) dengan struktur tulisan yang identik untuk rute-rute berbeda. Setiap artikel harus memiliki variasi informasi yang khas dan spesifik lokal.
   - Hindari kanibalisasi kata kunci atau pembuatan halaman berlebihan (*doorway pages*) hanya untuk memanipulasi peringkat pencarian.
 
-## Konten Video (Pabrik Konten Drama - `konten-video/`)
-- Saat diminta membuat **ide/naskah video drama pendek (short/reels/tiktok, 60–75 detik)** Lincah Travel, baca dan ikuti panduan di:
-  1. **`konten-video/PROMPT_PABRIK_KONTEN.md`** — master system prompt & workflow 2 tahap (Drama Multi-Character).
-  2. **`konten-video/STRATEGI_KONTEN.md`** — 8 katalog drama & formula 4 babak (Hook Keributan -> Tension -> Transformation Twist -> Punchline).
+## Konten Video (Pabrik Konten UGC Flash - `konten-video/`)
+- Saat diminta membuat **ide/naskah video UGC super singkat (short/reels/tiktok, 12–18 detik, 2–3 klip @ 6 detik)** Lincah Travel, baca dan ikuti panduan di:
+  1. **`konten-video/PROMPT_PABRIK_KONTEN.md`** — master system prompt & workflow 2 tahap (UGC Flash, gaya rekaman HP organik).
+  2. **`konten-video/STRATEGI_KONTEN.md`** — 8 katalog angle UGC & formula 3 klip (Hook -> Bukti -> CTA).
   3. **`konten-video/DAFTAR_RUTE.md`** — daftar rute resmi (hanya buat konten untuk rute terdaftar).
   4. **`konten-video/published_videos.json`** — riwayat video agar tidak duplikasi.
-  5. **`konten-video/TEMPLATE_PRODUKSI.md`** — template skrip drama & image prompt Google Flow per segmen.
-- **Wajib** memakai skill **`penulis-ahli`** untuk naskah drama & dialog agar hasil alami, beremosi, dan bebas dari kesan buatan AI.
+  5. **`konten-video/TEMPLATE_PRODUKSI.md`** — template naskah UGC & image prompt Google Flow per klip.
+- **Wajib** memakai skill **`penulis-ahli`** untuk teks overlay, caption, dan narasi UGC agar natural dan bebas dari kesan buatan AI.
 - **Wajib** mencatat setiap video yang diproduksi ke `konten-video/published_videos.json`.
 
 ## Tech Stack

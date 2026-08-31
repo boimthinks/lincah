@@ -98,8 +98,13 @@ const ADMIN_WA = '6281369231893';
           </li>
         </ul>
 
-        <div class="bg-white/5 border border-white/10 p-4 rounded-none text-center text-[10px] text-slate-400 leading-relaxed font-semibold">
-          ⚠️ <span class="text-yellow-400">Peringatan:</span> Transaksi dan pembatalan resmi hanya dilayani melalui kontak WhatsApp Admin yang tertera di website ini demi keutuhan keamanan bersama.
+        <div class="bg-white/5 border border-white/10 0 text-center">
+          <button id="footer-add-preferred-source" class="w-full inline-flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold px-4 py-3 transition-colors">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+            </svg>
+            Tambah sebagai Sumber Favorit di Google
+          </button>
         </div>
       </div>
 
@@ -119,3 +124,21 @@ const ADMIN_WA = '6281369231893';
 
   </div>
 </footer>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const addButton = document.getElementById('footer-add-preferred-source');
+    if (addButton) {
+      addButton.addEventListener('click', () => {
+        if (window.google && window.google.news && window.google.news.sourcePreferences) {
+          window.google.news.sourcePreferences.showDialog({
+            forceReload: true,
+            sourceUrl: 'https://lincahtravel.web.id'
+          });
+        } else {
+          window.open('https://www.google.com/preferences/source?q=https://lincahtravel.web.id', '_blank');
+        }
+      });
+    }
+  });
+</script>

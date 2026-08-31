@@ -1,76 +1,77 @@
-# STRATEGI KONTEN — Lincah Travel (Katalog Drama & Transformasi)
+# STRATEGI KONTEN — Lincah Travel (UGC Flash: Cepat & Viral-Friendly)
 
-File ini adalah **panduan variasi ide video drama pendek (60–75 detik)** untuk AI Content Producer Lincah Travel. Tujuannya menciptakan konten emosional yang berpotensi viral dengan promosi halus (*soft-selling*) berbasis perubahan nasib/perspektif (*transformation twist*).
+File ini adalah **panduan variasi ide video UGC (User-Generated Content style) super singkat (12–21 detik)** untuk AI Content Producer Lincah Travel. Tujuannya menciptakan konten yang **cepat diproduksi** (hanya 2–3 potongan video), terlihat seperti rekaman organik penumpang biasa, namun tetap mampu membungkus promosi halus layanan Lincah Travel.
 
----
-
-## Formula Drama 4 Babak
-
-Setiap naskah drama harus mengikuti alur struktur berikut:
-
-1. **Babak 1: High-Stakes Hook (0:00 - 0:07)**
-   - Perdebatan, keributan, atau perselisihan emosi tinggi antara 2 orang di detik pertama.
-   - Penonton langsung penasaran: *"Ada masalah apa ini?"*
-2. **Babak 2: Tension & Dilema (0:07 - 0:25)**
-   - Karakter menghadapi tekanan waktu/jarak, mencari solusi di kondisi terdesak.
-   - Penemuan solusi halus (melihat/booking Lincah Travel via smartphone/rekomendasi).
-3. **Babak 3: Transformation Twist (0:25 - 0:55)**
-   - **Perubahan 180°**: Dari tidak bisa menjadi bisa, dari hampir gagal menjadi sukses, dari konflik menjadi lega.
-   - Pindah scene ke hasil positif yang membahagiakan/mengharukan.
-4. **Babak 4: Punchline & Soft Promo (0:55 - 0:75)**
-   - Kalimat penutup yang berbobot (*punchline statement*) yang menghubungkan pesan moral/kehidupan dengan keunggulan Lincah Travel.
+> **Kenapa UGC?** Drama memang besar view, tapi butuh waktu produksi panjang (multi-karakter, 4 babak, 7 segmen). UGC bisa siap dalam hitungan menit: **cukup 2–3 klip × 6 detik** → sudah jadi video siap upload ke YouTube Shorts / Reels / TikTok.
 
 ---
 
-## 8 Katalog Sudut Pandang Drama (Angle & Konflik)
+## Formula UGC 3 Klip ("HBC")
 
-Gunakan salah satu dari 8 sudut pandang drama di bawah ini secara bergantian agar konten tidak monoton.
+Setiap video UGC mengikuti alur super padat berikut:
 
-### 1. Drama Kirim Berkas / Lamaran Pekerjaan (Titip Paket Kilat Same-Day)
-- **Konflik Hook:** Orang tua/pasangan marah besar karena dokumen lamaran/persyaratan penting lupa dikirim dan deadline besok pagi.
-- **Transformasi:** Dari terancam menganggur/gagal menjadi diterima kerja/lolos seleksi karena berkas sampai hari itu juga via Lincah Travel.
-- **Punchline:** *"Masa depan gak boleh tertunda cuma gara-gara berkas lambat. Kirim paket kilat door-to-door, sampai di hari yang sama bersama Lincah Travel."*
+| Klip | Detik | Fungsi | Isi Visual |
+|------|-------|--------|------------|
+| **Klip 1 — H (Hook)** | 0:00–0:06 | Stop scrolling | Visual relatable yang bikin penasaran: momen khas perjalanan Sumatera |
+| **Klip 2 — B (Bukti)** | 0:06–0:12 | Tunjukkan keunggulan | Kondisi nyata di dalam armada / ketepatan waktu / kenyamanan tanpa drama |
+| **Klip 3 — C (CTA)** | 0:12–0:18 | Closing + promo halus | Tokoh menghadap kamera / tangan menunjuk, teks overlay call to action |
 
-### 2. Drama Ujian Ketepatan Waktu / Calon Mertua (Kepastian Jadwal & Anti Cancel)
-- **Konflik Hook:** Calon mertua atau bos marah karena karakter dianggkap tidak tepat janji atau membatalkan secara sepihak.
-- **Transformasi:** Dari divonis "tidak bertanggung jawab" menjadi dipuji karena tiba tepat waktu tanpa telat selangkah pun.
-- **Punchline:** *"Kepercayaan dibangun dari ketepatan waktu. Pilih travel yang garansi berangkat tanpa cancel sepihak."*
-
-### 3. Drama Perselisihan Ongkos & Hemat Nyetir Sendiri (Komparasi Biaya & Kelelahan)
-- **Konflik Hook:** Suami istri/dua sahabat ribut hebat di pinggir jalan karena mobil mogok, bensin/tol bengkak, dan capek luar biasa.
-- **Transformasi:** Dari stres & rugi jutaan rupiah menjadi perjalanan santai, tinggal duduk manis dan langsung sampai depan rumah.
-- **Punchline:** *"Bukan cuma menghemat uang tol dan bensin, tapi juga menghemat emosi dan tenaga keluarga."*
-
-### 4. Drama Penjemputan / Drama Hujan & Transit (Privilese Door-to-Door)
-- **Konflik Hook:** Seseorang basah kuyup terkena hujan sambil membawa barang bawaan berat karena ditinggal atau kesulitan naik ojek sambungan.
-- **Transformasi:** Dari kesusahan transit & kehujanan menjadi dijemput persis di depan rumah dan diantar sampai tujuan akhir.
-- **Punchline:** *"Perjalanan yang nyaman itu yang gak bikin kamu repot di jalan. Dijemput di depan pintu, diantar sampai ke tujuan."*
-
-### 5. Drama Orang Tua Sakit / Kebutuhan Darurat Perantau (Kecepatan & Kenyamanan Single Passenger)
-- **Konflik Hook:** Tangisan dan kepanikan anak di perantauan saat mendengar kabar darurat dari kampung halaman, tetapi panik tidak dapat tiket.
-- **Transformasi:** Dari kepanikan mendalam menjadi ketenangan karena langsung mendapatkan armada yang siap jalan dan tiba dengan cepat.
-- **Punchline:** *"Di saat setiap detik sangat berharga untuk keluarga, pastikan perjalananmu ada di tangan yang tepat."*
-
-### 6. Drama Keamanan Solo Traveler Wanita (Anti Travel Gelap)
-- **Konflik Hook:** Orang tua/suami melarang keras anak wanita bepergian sendirian antar-kota karena takut keselamatan di jalan.
-- **Transformasi:** Dari keraguan dan rasa takut menjadi pembuktian bahwa perjalanan sangat aman, sopir ramah, dan selamat sampai tujuan.
-- **Punchline:** *"Rasa aman bukan bonus, tapi kepastian. Perjalanan nyaman & terpercaya untuk siapa saja."*
-
-### 7. Drama Mudik / Acara Keluarga Carter Privat ( Carter Satu Mobil )
-- **Konflik Hook:** Keributan rombongan keluarga karena desak-desakan dengan penumpang lain dan jadwal yang diatur-atur orang.
-- **Transformasi:** Dari suasana liburan yang kacau menjadi perjalanan eksklusif sekeluarga dengan satu mobil carter privat yang fleksibel.
-- **Punchline:** *"Momen kebersamaan keluarga terlalu berharga untuk dikompromikan. Carter privat, jalan kapan saja."*
-
-### 8. Drama Kenyamanan Perjalanan / Anti Mabuk & Pegal (Standar Armada Innova/Hiace)
-- **Konflik Hook:** Keluhan parah penumpang yang mabuk darat dan badan pegal-pegal akibat travel tua yang sempit dan panas.
-- **Transformasi:** Dari penderitaan perjalanan menjadi pengalaman segar seperti rebahan di rumah dengan kabin dingin AC Innova Reborn/Hiace.
-- **Punchline:** *"Jangan biarkan badan rusak di jalan sebelum sampai di tujuan. Pilih kenyamanan armada terbaik."*
+> **Varian 2 Klip (12 detik):** H + C saja — untuk konten yang sangat situsional (misal klip bukti kenyamanan lalu langsung CTA).
 
 ---
 
-## Aturan Pabrik Konten Drama
+## 8 Katalog Sudut Pandang UGC (Sesuai Layanan)
 
-- **Rotasi Angle & Rute:** Jangan gunakan angle atau rute yang sama untuk dua produksi berturut-turut. Cek `published_videos.json`.
-- **Bahasa Manusiawi:** Dialog wajib menggunakan percakapan sehari-hari khas Indonesia/Sumatera Selatan (bantuan skill `penulis-ahli`), jauhi bahasa kaku atau seperti membacakan brosur.
-- **Konsistensi Visual Google Flow:** Karakter visual harus didaftarkan di awal cerita agar Google Flow dapat memunculkan karakter yang sama sepanjang scene.
-- **Faktual Data:** Rute, durasi, dan harga harus tetap akurat merujuk ke `DAFTAR_RUTE.md`.
+Gunakan salah satu sudut pandang di bawah ini secara bergantian agar feed tidak monoton. Semua versi **UGC singkat** — bukan drama.
+
+### 1. Titip Paket Kilat (Same-Day Delivery)
+- **Klip H:** Barang/sampul dokumen diserahkan ke sopir di depan rumah, pukul 07.00.
+- **Klip B:** Penerima membuka paket di kota tujuan hari itu juga (tampak jam/tanggal).
+- **Klip C:** "Titip paket dokumen, sampai hari yang sama. 👍"
+
+### 2. Ketepatan Waktu / Garansi Berangkat (Anti Cancel)
+- **Klip H:** Jam dinding/dashboard mobil menunjuk tepat waktu, mobil jalan on-time.
+- **Klip B:** Penumpang cek HP di lokasi tujuan, tiba lebih cepat dari perkiraan.
+- **Klip C:** "Gak ada istilah cancel sepihak. Berangkat pasti tepat waktu."
+
+### 3. Hemat vs Nyetir Sendiri (Komparasi Biaya & Tenaga)
+- **Klip H:** Tangan menunjuk struk pom bensin/tol yang bengkak.
+- **Klip B:** Zoom keluar — penumpang rebahan santai, AC dingin, sopir yang nyetir.
+- **Klip C:** "Hitung ulang: bensin, tol, capek bunda. 😅 Naik travel lebih tenang."
+
+### 4. Privilese Door-to-Door / Jemput di Depan Rumah
+- **Klip H:** Motor berhenti persis di depan pagar rumah, sopir angkat koper.
+- **Klip B:** Dijemput di rumah, diantar sampai depan rumah tujuan (identik lokasi beda kota).
+- **Klip C:** "Gak perlu naik-mik pindah angkot. Jemput di pintu, antar sampai depan."
+
+### 5. Darurat Perantau (Kecepatan Respon Single Passenger)
+- **Klip H:** Layar chat WA hijau, admin Lincah Travel balas cepat di tengah panik.
+- **Klip B:** Duduk sendiri di kursi Innova, jalan malam hari, tenang.
+- **Klip C:** "Butuh berangkat cepat? Admin Lincah Travel gak pernah lama bales."
+
+### 6. Solo Traveler Wanita (Rasa Aman)
+- **Klip H:** Penumpang wanita sendirian di kursi, sopir ramah menyapa.
+- **Klip B:** Kardus/tas diletakkan rapi, kondisi jalan aman, sampai lokasi.
+- **Klip C:** "Naik sendiri aman, ditatau sopirnya. Ternyata travel gak serem kok."
+
+### 7. Carter Privat Keluarga (1 Mobil Khusus)
+- **Klip H:** Keluarga ramai anak-anak naik satu mobil Hiace, leluasa.
+- **Klip B:** Anak-anak tidur/canda di kabin luas, semua barang muat.
+- **Klip C:** "Satu keluarga satu mobil, jalan kapan aja. Gak perlu nunggu siapa-siapa."
+
+### 8. Standar Armada (Innova Reborn / Hiace Premio)
+- **Klip H:** Indoor kabin AC dingin, jok bersih, USB charger tersedia.
+- **Klip B:** Penumpang tertidur pulas / laptop dibuka di kabin Hiace.
+- **Klip C:** "Armada standby Innova Reborn & Hiace. Pegal? Gak akan. Mabuk? Jarang."
+
+---
+
+## Aturan Produksi UGC
+
+- **Gaya "Rekaman HP Sendiri":** Visual harus terlihat seperti direkam ponsel penumpang biasa — angle tangan, sedikit getar, framing natural, BUKAN sinematik/dramatis. Nuansa pretend-organic.
+- **Minimal Tokoh:** Cenderung 1 tokoh utama (tangan/perspective first-person) atau 1 penumpang. Tanpa konflik multi-tokoh.
+- **Teks Overlay = Tulang Punggung:** Karena minim dialog, cerita disampaikan lewat **teks besar di layar + caption**, bukan dialog panjang.
+- **Rotasi Sudut & Rute:** Jangan gunakan sudut pandang atau rute yang sama untuk dua produksi berturut-turut. Cek `published_videos.json`.
+- **Faktual Data:** Rute, durasi, harga, dan armada harus akurat merujuk `DAFTAR_RUTE.md`.
+- **Bahasa Natural:** Teks overlay dan caption memakai bahasa sehari-hari khas Indonesia/Sumatera Selatan (bantuan skill `penulis-ahli`), jauhi kata-kata salesy/brosur.
+- **Video, Bukan Slideshow:** Setiap klip harus berupa cuplikan video bergerak (gerakan kamera/tangan/objek), bukan sekadar foto statis.

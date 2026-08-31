@@ -1,97 +1,48 @@
-# Naskah Drama: [Judul Video]
+# Naskah UGC Flash: [Judul Video]
 
-> **Aturan Pakai**: 1 project = 1 file. Isi bagian `[...]`. Bagian "Publikasi" (paling bawah) hanya dikerjakan SETELAH video selesai diproduksi.
+> **Aturan Pakai**: 1 project = 1 file. Isi bagian `[...]`. Bagian "Publikasi" (paling bawah) dikerjakan SETELAH video selesai diproduksi. Total durasi target: 12–18 detik (2–3 klip × 6 detik).
 
 ## Meta
-- **Angle Drama**: [misal: Drama Kirim Berkas / Lamaran Pekerjaan]
+- **Angle UGC**: [misal: Titip Paket Kilat / Same-Day Delivery]
 - **Rute**: Asal - Tujuan | Harga Rp | Estimasi | Jarak
 - **Format**: Vertical 9:16 (Shorts / Reels / TikTok)
-- **Durasi**: [jumlah] detik (target 60–75 detik)
+- **Durasi**: [jumlah] detik (target 12–18 detik)
+- **Jumlah Klip**: [2 atau 3] klip @ 6 detik
 
 ---
 
-## Definisi Karakter
-Daftar tokoh drama, deskripsi visual dikunci SEKALI di awal agar konsisten di semua segmen Google Flow. Salin blok ini ke setiap image prompt.
+## Skrip Teks Overlay & Voiceover
 
-```text
-@[nama1]: [Deskripsi (usia, wajah, pakaian, ekspresi)].
-@[nama2]: [Deskripsi].
-@[nama3]: [Deskripsi].
-```
+> Teks Overlay = tulisan besar di layar. Voiceover (opsional) = audio narasi kasual. Gunakan bahasa sehari-hari khas Indonesia/Sumsel.
 
-> Contoh:
-> @ibu: Wanita Indonesia 50-an, bertudung, daster, ekspresi tegas.
-> @anak: Pemuda Indonesia 20-an, kaos oblong, tas ransel, cemas.
-> @kakak: Wanita muda 20-an, hijab modis, ekspresi haru.
+| Klip | Teks Overlay (di Layar) | Voiceover / Suara (Opsional) |
+|------|--------------------------|------------------------------|
+| 1 (H) | [Teks hook 3-6 kata] | [narasi singkat, kalau ada] |
+| 2 (B) | [Teks bukti/benefit] | [narasi singkat, kalau ada] |
+| 3 (C) | [Teks CTA + sebut Lincah Travel] | [narasi CTA] |
 
 ---
 
-## Naskah Dialog Drama (Skrip Babak Demi Babak)
+## Segmen Video (Image Prompt Google Flow — Gaya UGC Hand-held)
 
-Gunakan format percakapan dengan penanda **emosi & aksi**. Durasi per babak: Hook (0:00–0:07), Tension (0:07–0:25), Twist (0:25–0:55), Punchline (0:55–0:75).
+> **WAJIB gaya UGC**: Setiap image prompt diawali dengan `First-person POV hand-held phone camera shot, candid organic style, natural lighting`. Akhiri semua dengan `. Vertical 9:16.`. Bila menampilkan mobil/nyetir/kabin, sisipkan frasa **`right-hand-drive Indonesian MPV`** (setir kanan, jalan sisi kiri).
 
-### Babak 1 — High-Stakes Hook (0:00–0:07)
-> **Aksi/Camera**: [zoom in cepat ke wajah tokoh saat berteriak]
-- **[Tokoh]** (marah, nada tinggi): *"...dialog pertama..."*
-- **[Tokoh]** (membalas panik): *"...dialog kedua..."*
-- **[Tokoh]** (aksi dramatis, membanting pintu): *(SFX: pintu dibanting keras)*
-
-### Babak 2 — Tension & Pencarian Solusi (0:07–0:25)
-> **Aksi/Camera**: [close up layar smartphone, zoom out ke wajah tokoh]
-- **[Tokoh]** (gundah): *"...dialog kecemasan deadline..."*
-- **[Tokoh]** (menyerap info, ekspresi berubah): *"...menemukan Lincah Travel / rekomendasi..."*
-
-### Babak 3 — Transformation Twist (0:25–0:55)
-> **Aksi/Camera**: [pindah scene, zoom out momen haru/sukses]
-- **[Tokoh]** (haru/gembira): *"...bukti berkas/barang sampai dan hasil sukses..."*
-- **[Tokoh]** (tersenyum lega): *"...dialog ucapan terima kasih / penerimaan..."*
-
-### Babak 4 — Punchline & Soft Promo (0:55–0:75)
-> **Aksi/Camera**: [tokoh utama menghadap kamera, slow zoom]
-- **[Tokoh]** (tenang, penuh makna): *"...punchline statement kehidupan..."* *(promosi halus Lincah Travel di kalimat terakhir)*
-
----
-
-## Segmen Video (Image Prompt Google Flow)
-
-> **WAJIB** untuk segmen yang menampilkan mobil/nyetir/kabin: sisipkan frasa **`right-hand-drive Indonesian MPV`** (setir di sisi KANAN, mobil keluarga MPV gaya Indonesia seperti Innova/Hiace; jalan sisi kiri). Hapus frasa ini hanya bila segmen murni di dalam ruangan apartemen/rumah non-kendaraan.
-
-### Segmen 1 — Babak 1 (0:00-0:04)
-- **Aksi Kamera**: [Zoom in cepat ke wajah tokoh]
+### Klip 1 — Hook (0:00–0:06)
+- **Aksi Kamera**: [Gerakan POV tangan hp, agak bergetar, natural]
 - **Image Prompt**:
-  > [Deskripsi adegan 2+ tokoh bertengkar, sesuaikan emosi & definisi karakter. Aktifkan ekspresi dramatis. Akhiri dengan: `. Vertical 9:16.`]
+  > First-person POV hand-held phone camera shot, candid organic style, natural lighting. [Deskripsikan cuplikan 6 detik yang menarik perhatian, 1 tokoh/kasual]. Vertical 9:16.
 
-### Segmen 2 — Babak 1 (0:04-0:07)
-- **Aksi Kamera**: [Gerakan panning ke aksi membanting pintu]
+### Klip 2 — Bukti / Nilai (0:06–0:12)
+- **Aksi Kamera**: [Gerakan POV berpindah ke kondisi dalam kabin/objek bukti]
 - **Image Prompt**:
-  > [...]
+  > First-person POV hand-held phone camera shot, candid organic style, natural lighting. [Deskripsikan bukti kenyamanan/layanan: `right-hand-drive Indonesian MPV` kalau di dalam mobil]. Vertical 9:16.
 
-### Segmen 3 — Babak 2 (0:07-0:15)
-- **Aksi Kamera**: [Close up smartphone + wajah tokoh]
+### Klip 3 — CTA / Resolusi (0:12–0:18)
+- **Aksi Kamera**: [Tangan tunjuk layar / tokoh tersenyum ke kamera / plang Lincah Travel]
 - **Image Prompt**:
-  > [...]
+  > First-person POV hand-held phone camera shot, candid organic style, natural lighting. [Deskripsikan momen closing ringan, senyum ramah]. Vertical 9:16.
 
-### Segmen 4 — Babak 2 (0:15-0:25)
-- **Aksi Kamera**: [Interaksi tokoh di dalam kendaraan/mobil]
-- **Image Prompt**:
-  > [`right-hand-drive Indonesian MPV`. Deskripsi penumpang duduk nyaman di kursi. Akhiri `. Vertical 9:16.`]
-
-### Segmen 5 — Babak 3 (0:25-0:40)
-- **Aksi Kamera**: [Pindah scene - momen haru/sukses]
-- **Image Prompt**:
-  > [...]
-
-### Segmen 6 — Babak 3 (0:40-0:55)
-- **Aksi Kamera**: [Zoom out reaksi penuh bahagia]
-- **Image Prompt**:
-  > [...]
-
-### Segmen 7 — Babak 4 (0:55-0:75)
-- **Aksi Kamera**: [Close up face tokoh, slow zoom, natural]
-- **Image Prompt**:
-  > [Tokoh menghadap kamera ekspresi tenang bernarasi punchline. Akhiri `. Vertical 9:16.`]
-
-*(tambah/hapus blok segmen sesuai jumlah potongan video, per babak, 3-5 detik per segmen)*
+*(hapus Klip 2 bila memakai versi 2 klip)*
 
 ---
 
@@ -100,19 +51,15 @@ Gunakan format percakapan dengan penanda **emosi & aksi**. Durasi per babak: Hoo
 ### YouTube
 - **Judul**:
   ```
-  [judul hook + twist untuk YouTube]
+  [judul hook UGC untuk YouTube Shorts]
   ```
 - **Deskripsi**:
   ```
-  [deskripsi lengkap untuk YouTube]
+  [deskripsi singkat + link/call to action]
   ```
 
-### Sosial Media (TikTok / Instagram / Facebook) — judul + caption
-- **Judul**:
-  ```
-  [judul / hook caption yang memancing penasaran]
-  ```
+### Sosial Media (TikTok / Instagram / Facebook) — caption
 - **Caption**:
   ```
-  [isi caption sosmed + hashtag]
+  [caption kasual + hashtag: #lincahtravel #travelsumsel #travelpalembang ...]
   ```

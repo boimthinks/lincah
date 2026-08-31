@@ -4,8 +4,8 @@
 /:seg1/  /:seg1  301
 /:seg1/:seg2/  /:seg1/:seg2  301
 
-# Validasi Nota - rewrite /validasi/[id] to serve /validasi page
-/validasi/*  /validasi?id=:splat  200
+# Validasi Nota - redirect /validasi/[id] to /validasi?id=[id]
+/validasi/*  /validasi?id=:splat  301
 
 # Old permalink format /travel/from-to/ -> new route pages (301)
 /travel/batu-marta-palembang/  /batu-marta/palembang  301

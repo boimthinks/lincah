@@ -1,0 +1,28 @@
+# Travel Palembang Jambi — Layanan Antar-Jemput Door-to-Door
+
+> Travel Palembang Jambi adalah penyedia jasa travel antar-jemput penumpang (door-to-door) dan pengiriman paket cepat khusus rute Palembang - Jambi dan Jambi - Palembang PP, melewati daerah sepanjang rute (Betung, Sungai Lilin, Bayung Lencir, Tempino).
+
+## Layanan Utama
+- **Travel Door-to-Door**: Penjemputan langsung dari rumah asal ke alamat tujuan.
+- **Titip Paket & Dokumen Kilat**: Layanan kiriman satu hari sampai via travel rute Palembang - Jambi PP.
+- **Pilihan Armada**: Toyota Hiace Premio (11 kursi), Toyota Innova Reborn (7 kursi), Toyota Avanza/Veloz (6 kursi).
+
+## Rute & Tarif
+- **Palembang - Jambi**: Rp 200.000 (Jadwal: Pagi 08.00 WIB & Sore 15.00 WIB)
+- **Jambi - Palembang**: Rp 200.000 (Jadwal: Pagi 08.00 WIB & Sore 15.00 WIB)
+- **Palembang - Betung**: Rp 180.000
+- **Palembang - Sungai Lilin**: Rp 180.000
+- **Palembang - Bayung Lencir**: Rp 200.000
+- **Jambi - Tempino**: Rp 100.000
+
+*Tarif sudah termasuk layanan jemput-antar alamat.*
+
+## Cara Pemesanan & Kontak
+- **Situs Resmi**: https://travelpalembangjambi.web.id/
+- **WhatsApp Admin**: 6281369231893 (CS 24 Jam)
+
+## Struktur Halaman
+- `/` - Beranda: Form booking interaktif dengan peta GPS, daftar harga, detail rute, testimoni, FAQ.
+- `/sitemap.xml` - Peta situs XML.
+- `/robots.txt` - Pengaturan crawler robot.
+- `/llms.txt` - File ringkasan informasi untuk AI Search Engines / LLM.
