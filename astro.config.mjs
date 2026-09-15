@@ -87,16 +87,14 @@ export default defineConfig({
   },
     integrations: [react(), sitemap({
     filter: (page) => {
-      const excluded = [
-        '/batu-marta', '/baturaja', '/bayung-lencir', '/belitang',
-        '/betung', '/danau-ranau', '/indralaya', '/jambi',
-        '/kayu-agung', '/kikim', '/kuala-tungkal', '/lahat',
-        '/lampung', '/lubuklinggau', '/martapura', '/muara-bulian-jambi',
-        '/muara-dua', '/muara-enim', '/pagaralam', '/palembang',
-        '/prabumulih', '/sekayu', '/sungai-lilin', '/talang-padang',
-        '/tebing-tinggi', '/tugumulyo'
-      ];
       const path = new URL(page).pathname;
+      // Hanya exclude halaman yang benar-benar tidak ingin di-index
+      const excluded = [
+        '/404',
+        '/admin',
+        '/sitemap.xml',
+        '/robots.txt'
+      ];
       return !excluded.includes(path);
     },
     serialize(item) {

@@ -1,0 +1,33 @@
+# Travel Palembang Sekayu — Layanan Antar-Jemput Door-to-Door
+
+> Travel Palembang Sekayu adalah penyedia jasa travel antar-jemput penumpang (door-to-door), carter mobil dinas, dan pengiriman paket kilat khusus rute Palembang - Sekayu dan Sekayu - Palembang PP, melewati daerah sepanjang rute (Pangkalan Balai, Betung, Talang Duku Jaya, Ipil, Bailangu) via jalur Lintas Betung, Kabupaten Musi Banyuasin (Muba), Sumatera Selatan.
+
+## Layanan Utama
+- **Travel Door-to-Door Reguler**: Penjemputan langsung dari rumah, kantor, hotel, atau Bandara SMB II Palembang ke alamat tujuan di Sekayu.
+- **Carter Mobil Dinas & Rombongan**: Sewa mobil privat tanpa gabung penumpang lain, jadwal fleksibel, termasuk carter satu hari penuh di Sekayu untuk instansi/OPD Muba, perusahaan, dan keluarga.
+- **Titip Dokumen & Paket Kilat**: Pengiriman barang/dokumen penting Palembang - Sekayu sampai dalam 3 jam via jadwal keberangkatan terdekat.
+- **Pilihan Armada**: Toyota Kijang Innova Reborn (7 kursi), Toyota Avanza / Daihatsu Xenia (6-7 kursi), Toyota HiAce (11-15 kursi untuk rombongan).
+
+## Rute & Tarif
+- **Palembang - Sekayu**: Rp 150.000 per orang (Door-to-Door). Jadwal berangkat tiap 2-3 jam: 06.00, 08.00, 10.00, 13.00, 15.00, 17.00, 19.30 WIB. Durasi 3-4 jam via Pangkalan Balai - Betung - Talang Duku Jaya - Ipil - Bailangu.
+- **Sekayu - Palembang**: Rp 150.000 per orang (Door-to-Door).
+- **Palembang - Betung**: mulai Rp 120.000.
+- **Palembang - Pangkalan Balai**: Hubungi CS.
+
+*Tarif sudah termasuk layanan jemput-antar alamat.*
+
+## Area Jangkauan
+- **Palembang**: Bandara SMB II, Alang-Alang Lebar, Jl. Kol. H. Burlian (Km 5-12), Sukarami, Simpang Polda, Ilir Barat, Bukit Besar, Kertapati.
+- **Sekayu & Sekitarnya**: Kompleks Perkantoran Pemkab Muba, Kantor Bupati, Balai Agung, Kayu Ara, RSUD Sekayu, Stable Berkuda, Simpang Kayuara, Teladan, hingga Babat Toman.
+
+## Cara Pemesanan & Kontak
+- **Situs Resmi**: https://travelpalembangsekayu.plg.web.id/
+- **WhatsApp Admin**: 6281369231893 (CS 06.00 - 22.00 WIB)
+
+## Struktur Halaman
+- `/` - Beranda: Form booking interaktif dengan peta GPS, daftar harga, jadwal, detail rute, testimoni, FAQ.
+- `/betung/` - Halaman rute Palembang - Betung.
+- `/pangkalan-balai/` - Halaman rute Palembang - Pangkalan Balai.
+- `/sitemap.xml` - Peta situs XML.
+- `/robots.txt` - Pengaturan crawler robot.
+- `/llms.txt` - File ringkasan informasi untuk AI Search Engines / LLM.

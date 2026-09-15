@@ -1,8 +1,8 @@
 ---
 title: "Travel Palembang Lampung Tol"
-judul_seo: "Mengapa Rute Palembang-Lampung via Tol Trans-Sumatera Jadi Favorit Mahasiswa dan Pekerja"
+judul_seo: "Rute Palembang-Lampung via Tol Trans-Sumatera Favorit Mahasiswa & Pekerja"
 slug: "rute-palembang-lampung-tol-favorit"
-description: "Analisis lengkap rute travel Palembang-Lampung via Tol Trans-Sumatera. Temukan durasi, harga, jadwal, dan mengapa rute ini menjadi favorit mahasiswa dan pekerja."
+description: "Rute travel Palembang-Lampung via Tol Trans-Sumatera: durasi 4,5 jam, harga terjangkau. Temukan mengapa jadi favorit untuk perjalanan antar kota."
 pubDate: "2026-06-12"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikqsrDjy1Up5isWknLagWH_XK5TLYOZfvxgekOcTerYV_Lq603dc6It2NlAnDEPBFGchsXed8XigBFTGU7RjpDR_rM51wV-nVTIXYYOX8SDyLMCnrYNWEx0F1sC0dOscT_L0ee7OA-sTZzGfBZt2Jy9GvlxF0PgnzYvLGXzBmgpRGbE26cBSTf3Nyzdw0u/s600/rute-palembang-lampung-tol-favorit.webp"

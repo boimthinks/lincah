@@ -58,6 +58,23 @@ microsite/
 
 ---
 
+## 2b. Identitas Warna Tiap Microsite (Wajib Unik)
+
+Setiap microsite **WAJIB memiliki palet warna (CSS variables `--brand-*` dan
+`--accent-*`) yang BERBEDA** dari microsite lain di dalam folder `microsite/`.
+Jangan menyalin mentah-mentah skema warna microsite referensi.
+
+- Gunakan CSS variables di `:root` (`style.css`) agar mudah diubah dan dibedakan.
+- Warna brand utama (`--brand-900/700/600/500/50`) dan warna aksen (`--accent-500/600`)
+  harus kontras & konsisten di seluruh section (header, hero, CTA band, tombol, FAQ).
+- Favicon (`assets/img/favicon.svg`) juga harus disesuaikan dengan palet microsite
+  yang bersangkutan agar identitas visual beda.
+- **Daftar palet yang sudah dipakai** (cegah duplikat saat buat microsite baru):
+  - `travelpalembangjambi` → Teal/Hijau toska (`#0d7d7a` cs) + Oranye (`#f97316`).
+  - `travelpalembangsekayu` → Biru Indigo (`#13315c`/`#2563eb` cs) + Amber (`#f59e0b`).
+
+---
+
 ## 3. Halaman & Section Wajib
 
 ### 3a. Halaman Utama (`index.html`)
