@@ -61,6 +61,7 @@ Tabel terbit (baris baru ditambahkan):
 | 24 | `2026-08-08-travel-palembang-bayung-lencir.md` | Travel Palembang Bayung Lencir Door to Door: Jadwal, Harga Tiket & Panduan 2026 | Travel Palembang Bayung Lencir Rp200.000 door-to-door, 4-5 jam via Lintas Timur. Jadwal 08:00/14:00/19:00 WIB. Booking WhatsApp 0813-6923-1893. |
 | 25 | `2026-08-10-travel-palembang-sekayu.md` | Travel Palembang Sekayu Door to Door: Jadwal, Harga Tiket & Panduan Rute 2026 | Travel Palembang ke Sekayu door-to-door mulai Rp100.000. Cek jadwal keberangkatan 08.00/13.00/16.00 WIB, pilihan armada nyaman, dan booking via WhatsApp 0813-6923-1893. |
 | 27 | `2026-08-13-travel-palembang-martapura-oku-timur.md` | Travel Palembang Martapura OKU Timur Door to Door: Jadwal, Harga Tiket & Tips 2026 | Travel Palembang ke Martapura door-to-door mulai Rp160.000. Cek jadwal 09.00/14.00/20.00 WIB, armada Hiace/Innova/Avanza, dan booking via WhatsApp 0813-6923-1893. |
+| 28 | `2026-09-16-travel-palembang-batu-marta-oku-timur.md` | Travel Palembang Batu Marta OKU Timur Jadwal dan Harga Tiket | Travel Palembang Batu Marta OKU Timur door to door Rp 170.000. Jadwal 08.00/15.00/20.00 WIB. Booking WhatsApp 0813-6923-1893. |
 
 ---
 
@@ -74,6 +75,8 @@ Tabel terbit (baris baru ditambahkan):
   - Panduan lengkap perjalanan travel dari Palembang ke Sekayu (Muba), mencakup estimasi durasi 3–4 jam, jadwal keberangkatan harian, dan layanan antar ke pusat pemerintahan/perkantoran Sekayu.
 - [x] ~~Travel Palembang Martapura OKU Timur: Harga Tiket, Armada, dan Tips Perjalanan~~ → `2026-08-13-travel-palembang-martapura-oku-timur.md`
   - Mengulas layanan travel door-to-door rute Palembang menuju Martapura, termasuk informasi tarif, titik penjemputan, dan jadwal fleksibel untuk penumpang umum maupun dinas.
+- [x] ~~Travel Palembang Batu Marta OKU Timur: Jadwal & Harga Tiket~~ → `2026-09-16-travel-palembang-batu-marta-oku-timur.md`
+  - Panduan lengkap travel Palembang ke Batumarta (Lubuk Raja, OKU Timur): jadwal 08.00/15.00/20.00 WIB, tarif Rp 170.000 flat door-to-door, koridor Tol Palindra + Indralaya-Prabumulih via Baturaja-Martapura, dan pilihan armada Hiace Premio/Innova Reborn/Avanza.
 - [ ] **Travel Palembang Pendopo Pali: Solusi Transportasi Cepat dan Aman Sampai Tujuan**
   - Panduan rute travel Palembang ke Pendopo (Kabupaten PALI) via perlintasan darat, harga tiket terjangkau, serta kemudahan antar-jemput hingga alamat rumah/lokasi kerja.
 - [x] ~~Travel Palembang Indralaya (Ogan Ilir): Pilihan Efisien untuk Mahasiswa Unsri dan Pekerja~~ → `2026-08-11-travel-palembang-indralaya-unsri.md`
