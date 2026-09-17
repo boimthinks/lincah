@@ -13,6 +13,10 @@
 - Saat diminta menulis, mengedit, atau memberi saran judul artikel blog, baca `src/content/blog/` and `SUMBER-PENGETAHUAN.md` (di root project) untuk data brand, rute, harga, armada, testimoni, frontmatter schema. Untuk detail geografi/koridor rute (daerah yang dilewati, junction, karakteristik jalur), baca juga `PENGETAHUAN-KORIDOR-RUTE.md` di root project.
 - Gunakan skill **`penulis-ahli`** untuk menulis/mengedit artikel (menggabungkan humanizer + SEO/GEO + konten non-komoditas dalam satu pass).
 - **Aturan Penyisipan Keyword**: Saat menulis artikel blog baru, wajib menyelipkan kata kunci rute (seperti "travel [asal] [tujuan]" atau "travel [asal] ke [tujuan]") secara natural di dalam body tulisan (bukan di dalam heading atau properti frontmatter seperti pengantar/kesimpulan), agar dapat diproses oleh mekanisme internal link otomatis.
+- **Kewajiban Dua Anchor per Artikel (Internal Link)**: Setiap artikel blog baru wajib memuat minimal 2 tautan internal dengan anchor text sebagai berikut:
+  1. **Anchor rute**: frasa "travel [asal] [tujuan]" (misal "travel palembang lahat") yang mengarah ke halaman rute spesifik (`/[from]/[to]`), diproses otomatis oleh `src/utils/internalLinks.ts`.
+  2. **Anchor merek/homepage**: frasa "travel palembang" (tanpa kota tujuan) yang mengarah ke homepage (`/`), diproses otomatis oleh `src/utils/internalLinks.ts` (keyword `travel palembang` sudah terdaftar di util tersebut).
+  Kedua frasa harus muncul natural di body artikel (bukan di heading atau frontmatter). Pastikan "travel palembang" berdiri sendiri (tidak langsung diikuti nama kota tujuan) agar tidak tertelan oleh anchor rute yang lebih panjang.
 - **Kepatuhan Terhadap Kebijakan Google Spam Update**:
   - Dilarang membuat konten duplikat massal (*scaled content abuse*) dengan struktur tulisan yang identik untuk rute-rute berbeda. Setiap artikel harus memiliki variasi informasi yang khas dan spesifik lokal.
   - Hindari kanibalisasi kata kunci atau pembuatan halaman berlebihan (*doorway pages*) hanya untuk memanipulasi peringkat pencarian.

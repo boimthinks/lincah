@@ -21,6 +21,14 @@ function escapeRegExp(str: string): string {
 export function generateRouteKeywords(routes: RouteData[]): KeywordLink[] {
   const keywords: KeywordLink[] = [];
   
+  // Anchor merek "travel palembang" -> homepage (selalu tersedia, bukan rute spesifik)
+  keywords.push({
+    keyword: 'travel palembang',
+    url: '/',
+    routeKey: 'travel-palembang-home',
+    regexPattern: 'travel\\s+palembang',
+  });
+  
   for (const route of routes) {
     const fromSlug = slugifyCity(route.from);
     const toSlug = slugifyCity(route.to);
