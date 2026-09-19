@@ -165,6 +165,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Muara Bulian | `2026-08-18-travel-palembang-muara-bulian-perjalanan-dinas.md` |
 | Jambi-Bangko | `2026-08-08-travel-jambi-bangko-door-to-door.md` |
 | Rute Utama (artikel pilar, 6 koridor) | `2026-08-26-rute-utama-lincah-travel.md` |
+| Palembang-Kikim | `2026-09-19-travel-palembang-kikim-lahat.md` |
 
 ### Rute Belum Ada Artikelya (PRIORITAS TINGGI)
 | Rute | Prioritas | Alasan |
