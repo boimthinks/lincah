@@ -62,3 +62,30 @@ Bagi Anda yang berhenti lebih dulu di jalur induknya, tersedia juga layanan [tra
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Pagaralam, tanggal, jam, jumlah penumpang, dan alamat penjemputan. Admin kami siap melayani 24 jam. Atau klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Pagaralam dari seluruh area Palembang, meliputi:
+
+*   **Bukit Besar & Bukit Lama (jalur keluar arah barat daya)**
+*   **Ilir Barat I & Demang Lebar Daun**
+*   **Plaju & Kertapati**
+*   **Jakabaring & Seberang Ulu**
+*   **Kemuning & Sukarami (penjemputan rombongan liburan)**
+*   **Bukit Kecil & Pusat Kota Palembang**
+
+## Tujuan & Objek di Pagaralam
+
+Titik turun umum untuk rute Palembang–Pagaralam di antaranya:
+
+*   **Pagar Alam Utara (area/kecamatan)**
+*   **Pagar Alam Selatan (area/kecamatan)**
+*   **Dempo Utara (area/kecamatan)**
+*   **Dempo Selatan (area/kecamatan)**
+*   **Dempo Tengah (area/kecamatan)**
+*   **Hotel Garuda ZZ (penginapan)**
+*   **D'Cabin Hotel Pagaralam (penginapan)**
+*   **Hotel Orchid Dempo (penginapan)**
+*   **Hotel Mirasa (penginapan)**
+*   **Terminal Pagar Alam**
+

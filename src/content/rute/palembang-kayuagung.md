@@ -47,3 +47,31 @@ Koridor Tenggara ini jadi urat nadi komuter harian Palembang-OKI. Kalau titik je
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Kayu Agung, jam yang dimau, dan alamat tujuan. Admin siap membantu proses booking.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Kayu Agung dari seluruh area Palembang, meliputi:
+
+*   **Jakabaring & Akses Gerbang Tol Palindra / Kayu Agung**
+*   **Kertapati & Simpang Flyover Nilakandi**
+*   **Plaju & Seberang Ulu II**
+*   **Ilir Timur I & Koridor Jl. Jend. Sudirman**
+*   **Kalidoni & Sematang Borang**
+*   **Sako & Perumnas Kenten**
+*   **Bukit Lama & Bukit Besar**
+
+## Tujuan & Objek di Kayu Agung
+
+Titik turun umum untuk rute Palembang–Kayu Agung di antaranya:
+
+*   **Kayu Agung (area/kecamatan)**
+*   **Jejawi (area/kecamatan)**
+*   **Sirah Pulau Padang (area/kecamatan)**
+*   **Pedamaran (area/kecamatan)**
+*   **Tulung Selapan (area/kecamatan)**
+*   **Mesuji (area/kecamatan)**
+*   **Hotel Dinesti (penginapan)**
+*   **Stasiun Kayu Agung**
+*   **Terminal Kayu Agung**
+*   **Pelabuhan Kayu Agung**
+

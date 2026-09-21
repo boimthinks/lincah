@@ -36,3 +36,32 @@ Simpang Belimbing terletak di persimpangan penting Jalur Lintas Tengah Sumatera 
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Simpang Belimbing-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Simpang Belimbing
+
+Lincah Travel menjemput penumpang rute Simpang Belimbing–Palembang dari seluruh area Simpang Belimbing, meliputi:
+
+*   **Belimbing**
+*   **Belimbing Jaya**
+*   **Berugo**
+*   **Bulang**
+*   **Cinta Kasih**
+*   **Dalam**
+*   **Darmo Kasih**
+*   **Simpang Tanjung**
+*   **Tanjung**
+*   **Teluk Lubuk**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Simpang Belimbing–Palembang di antaranya:
+
+*   **Stasiun Kereta Api Kertapati & Flyover Keramasan**
+*   **Area Kampus UNSRI Bukit Besar (Jl. Srijaya Negara)**
+*   **The Arista Hotel Palembang & Kawasan Jl. Kapten A. Rivai**
+*   **RS Siloam Sriwijaya & Palembang Square (PS Mall)**
+*   **Hotel Santika Radial Palembang & Transmart**
+*   **RS RK Charitas Palembang (Simpang Charitas)**
+*   **Terminal Karya Jaya & Simpang Musi II**
+*   **Pusat Perkantoran Pemprov Sumsel (Jl. Kapt. A. Rivai)**

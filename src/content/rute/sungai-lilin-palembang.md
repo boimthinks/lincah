@@ -38,3 +38,28 @@ Dengan tarif Rp 180.000, Sungai Lilin-Palembang menjadi salah satu rute termurah
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Sungai Lilin-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam, booking mudah, berangkat tepat waktu.
+
+## Titik Penjemputan di Sungai Lilin
+
+Lincah Travel menjemput penumpang rute Sungai Lilin–Palembang dari seluruh area Sungai Lilin, meliputi:
+
+*   **Sungai Lilin**
+*   **Lais**
+*   **Babat Toman**
+*   **Tungkal Jaya**
+*   **Keluang**
+*   **Plakat Tinggi**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Sungai Lilin–Palembang di antaranya:
+
+*   **Terminal Alang-Alang Lebar & Area Lintas KM 12**
+*   **Bandara Internasional Sultan Mahmud Badaruddin II**
+*   **RSUP Dr. Mohammad Hoesin (RSMH) & Jl. Jend. Sudirman**
+*   **Hotel Novotel Palembang & PTC Mall (Jl. R. Sukamto)**
+*   **Hotel Harper Palembang (Jl. R. Soekamto)**
+*   **Simpang Polda Sumsel & Demang Lebar Daun**
+*   **Stasiun LRT Asrama Haji & Area Punti Kayu**
+*   **Kawasan Pusat Bisnis Palembang Icon & Sudirman**

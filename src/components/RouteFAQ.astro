@@ -1,0 +1,68 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  from: string;
+  to: string;
+  price: number;
+}
+
+const { from, to, price } = Astro.props;
+
+const capitalize = (str: string) => str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+const fromC = capitalize(from);
+const toC = capitalize(to);
+
+const genericFaqs = await getCollection('faq');
+
+const routeFaqs = [
+  {
+    q: `Berapa harga tiket travel ${fromC} ${toC}?`,
+    a: `Harga tiket travel ${fromC} ${toC} adalah Rp ${price.toLocaleString('id-ID')} flat untuk sekali jalan door-to-door. Harga sudah termasuk jemput di alamat ${fromC} dan antar ke tujuan di ${toC}, tanpa biaya tambahan.`
+  },
+  {
+    q: `Apakah bisa kirim paket via travel ${fromC} ${toC}?`,
+    a: `Bisa. Lincah Travel menyediakan layanan kirim paket via travel ${fromC} ${toC} dengan sistem sameday delivery (titip kilat sampai hari yang sama). Paket dokumen penting, barang dagangan, makanan/oleh-oleh, hingga sparepart dijemput di alamat pengirim dan diantar langsung ke penerima.`
+  },
+  {
+    q: `Di mana loket atau agen travel ${fromC}?`,
+    a: `Loket/agen Lincah Travel berada di Lorong Tj. Burung Utama, Bukit Lama, Kec. Ilir Bar. I, Kota Palembang. Anda juga bisa memesan langsung via WhatsApp 0813-6923-1893 tanpa perlu datang ke loket.`
+  },
+  {
+    q: `Nomor telepon travel ${fromC} ${toC} berapa?`,
+    a: `Nomor telepon dan WhatsApp travel ${fromC} ${toC} adalah 0813-6923-1893. Admin siap 24 jam untuk konfirmasi jadwal, pemesanan kursi, serta informasi ongkos kirim paket kilat.`
+  },
+  {
+    q: `Apa saja pilihan mobil travel ${fromC} ${toC}?`,
+    a: `Armada travel ${fromC} ${toC} meliputi Toyota Hiace Premio (11 seat), Toyota Innova Reborn (7 seat), dan Toyota Avanza/Veloz (6 seat), semua ber-AC dan dikemudikan driver berpengalaman.`
+  }
+];
+
+const allFaqs = [...routeFaqs, ...genericFaqs.map(f => ({ q: f.data.question, a: f.data.answer }))];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": allFaqs.map(item => ({
+    "@type": "Question",
+    "name": item.q,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": item.a
+    }
+  }))
+};
+---
+
+<div class="mt-12">
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  <h2 class="text-2xl font-extrabold text-blue-900 uppercase tracking-tight mb-6">Pertanyaan Umum (FAQ) Travel {fromC} {toC}</h2>
+  <div class="space-y-4">
+    {allFaqs.map(item => (
+      <div class="bg-white border border-slate-200 p-5">
+        <h3 class="text-base font-bold text-blue-900 mb-2">{item.q}</h3>
+        <p class="text-sm text-slate-600 leading-relaxed">{item.a}</p>
+      </div>
+    ))}
+  </div>
+</div>

@@ -39,3 +39,28 @@ Perjalanan jauh biasanya menguras tenaga. Sebagian besar kelelahan itu lahir dar
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp dan sebutkan rute Palembang-Batu Marta, tanggal, serta alamat penjemputan. Admin siap merespons 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Batu Marta dari seluruh area Palembang, meliputi:
+
+*   **Seberang Ulu I & Seberang Ulu II**
+*   **Jakabaring & Kompleks OPI Mall**
+*   **Plaju & Kawasan Bagus Kuning**
+*   **Kertapati & Jalur Keramasan**
+*   **Bukit Kecil & Area 26 Ilir**
+*   **Ilir Barat I (Bukit Besar & Demang Lebar Daun)**
+*   **Kalidoni & Ilir Timur II**
+
+## Tujuan & Objek di Batu Marta
+
+Titik turun umum untuk rute Palembang–Batu Marta di antaranya:
+
+*   **Bunga Mayang (area/kecamatan)**
+*   **Madang Suku III (area/kecamatan)**
+*   **Belitang (area/kecamatan)**
+*   **Belitang II (area/kecamatan)**
+*   **Madang Suku I (area/kecamatan)**
+*   **Penginapan Area Batu Marta (penginapan)**
+*   **Terminal Batu Marta**
+

@@ -4,7 +4,7 @@ to: palembang
 price: 210000
 duration: 8 - 9 Jam
 departureTimes: ["09:00 WIB", "16:00 WIB", "21:00 WIB"]
-type: jambi
+type: sumatera selatan
 distance: 310 km
 description: Travel Tebing Tinggi ke Palembang 8-9 jam Rp 210.000 via Lintas Sumatera. Door-to-door armada Hiace Premio. Jadwal 09.00, 16.00, 21.00 WIB. Booking 0813-6923-1893.
 img: src\content\city-images.md
@@ -42,3 +42,27 @@ Palembang sebagai pusat layanan publik menawarkan fasilitas yang tidak tersedia 
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Tebing Tinggi-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam, konfirmasi cepat, langsung berangkat.
 
+## Titik Penjemputan di Tebing Tinggi
+
+Lincah Travel menjemput penumpang rute Tebing Tinggi–Palembang dari seluruh area Tebing Tinggi, meliputi:
+
+*   **Tebing Tinggi**
+*   **Tebing Tinggi Barat**
+*   **Tebing Tinggi Timur**
+*   **Pasemah Air Keruh**
+*   **Ulu Musi**
+*   **Sikapak Timur**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Tebing Tinggi–Palembang di antaranya:
+
+*   **Stasiun Kereta Api Kertapati & Flyover Keramasan**
+*   **Area Kampus UNSRI Bukit Besar (Jl. Srijaya Negara)**
+*   **The Arista Hotel Palembang & Kawasan Jl. Kapten A. Rivai**
+*   **RS Siloam Sriwijaya & Palembang Square (PS Mall)**
+*   **Hotel Santika Radial Palembang & Transmart**
+*   **RS RK Charitas Palembang (Simpang Charitas)**
+*   **Terminal Karya Jaya & Simpang Musi II**
+*   **Pusat Perkantoran Pemprov Sumsel (Jl. Kapt. A. Rivai)**

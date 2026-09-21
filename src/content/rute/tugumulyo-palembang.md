@@ -41,3 +41,28 @@ Palembang sebagai pusat perdagangan dan pendidikan menawarkan banyak hal bagi wa
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Tugumulyo-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam, fast response, langsung dibookingkan.
+
+## Titik Penjemputan di Tugumulyo
+
+Lincah Travel menjemput penumpang rute Tugumulyo–Palembang dari seluruh area Tugumulyo, meliputi:
+
+*   **Tugumulyo**
+*   **Sukakarya**
+*   **Mekar Sari**
+*   **Jaya Bhakti**
+*   **Sri Karang Rejo**
+*   **Bangun Sari**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Tugumulyo–Palembang di antaranya:
+
+*   **Wyndham Opi Hotel Palembang (Kompleks OPI Jakabaring)**
+*   **Stasiun LRT Jakabaring & Gelora Sriwijaya**
+*   **RSUD Palembang BARI & RS Hermina OPI**
+*   **Pasar 16 Ilir & Kawasan Bawah Jembatan Ampera**
+*   **Aryaduta Palembang & Palembang Square Mall**
+*   **Dermaga 7 Ulu & Pasar Induk Jakabaring**
+*   **Stasiun Kereta Api Kertapati**
+*   **RS RK Charitas Palembang**

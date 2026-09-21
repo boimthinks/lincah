@@ -49,3 +49,29 @@ Muara Enim adalah kota penghasil batu bara dan pusat industri tambang di Sumater
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Muara Enim-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam.
 
 Atau klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Muara Enim
+
+Lincah Travel menjemput penumpang rute Muara Enim–Palembang dari seluruh area Muara Enim, meliputi:
+
+*   **Muara Enim**
+*   **Muara Enim Selatan**
+*   **Tanah Abang**
+*   **Semende Darat Laut**
+*   **Semende Darat Tengah**
+*   **Semende Darat Ulu**
+*   **Gunung Megang**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Muara Enim–Palembang di antaranya:
+
+*   **Stasiun Kereta Api Kertapati & Flyover Keramasan**
+*   **Area Kampus UNSRI Bukit Besar (Jl. Srijaya Negara)**
+*   **The Arista Hotel Palembang & Kawasan Jl. Kapten A. Rivai**
+*   **RS Siloam Sriwijaya & Palembang Square (PS Mall)**
+*   **Hotel Santika Radial Palembang & Transmart**
+*   **RS RK Charitas Palembang (Simpang Charitas)**
+*   **Terminal Karya Jaya & Simpang Musi II**
+*   **Pusat Perkantoran Pemprov Sumsel (Jl. Kapt. A. Rivai)**

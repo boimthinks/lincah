@@ -48,3 +48,29 @@ Muara Dua adalah ibukota Kabupaten OKU Selatan yang terletak di kaki Bukit Baris
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Muara Dua-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam.
 
 Atau klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Muara Dua
+
+Lincah Travel menjemput penumpang rute Muara Dua–Palembang dari seluruh area Muara Dua, meliputi:
+
+*   **Muara Dua**
+*   **Buay Pemuka Bangsa Raja**
+*   **Buay Rawan**
+*   **Buay Runjung**
+*   **Simpang**
+*   **Sungai Are**
+*   **Tebing Kabupaten**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Muara Dua–Palembang di antaranya:
+
+*   **Wyndham Opi Hotel Palembang (Kompleks OPI Jakabaring)**
+*   **Stasiun LRT Jakabaring & Gelora Sriwijaya**
+*   **RSUD Palembang BARI & RS Hermina OPI**
+*   **Pasar 16 Ilir & Kawasan Bawah Jembatan Ampera**
+*   **Aryaduta Palembang & Palembang Square Mall**
+*   **Dermaga 7 Ulu & Pasar Induk Jakabaring**
+*   **Stasiun Kereta Api Kertapati**
+*   **RS RK Charitas Palembang**

@@ -38,3 +38,30 @@ Perjalanan jauh lebih nyaman bila tidak harus ganti-ganti kendaraan:
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Lubuklinggau-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Lubuklinggau
+
+Lincah Travel menjemput penumpang rute Lubuklinggau–Palembang dari seluruh area Lubuklinggau, meliputi:
+
+*   **Lubuklinggau Utara I**
+*   **Lubuklinggau Utara II**
+*   **Lubuklinggau Selatan I**
+*   **Lubuklinggau Selatan II**
+*   **Lubuklinggau Timur I**
+*   **Lubuklinggau Timur II**
+*   **Lubuklinggau Barat I**
+*   **Lubuklinggau Barat II**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Lubuklinggau–Palembang di antaranya:
+
+*   **Stasiun Kereta Api Kertapati & Flyover Keramasan**
+*   **Area Kampus UNSRI Bukit Besar (Jl. Srijaya Negara)**
+*   **The Arista Hotel Palembang & Kawasan Jl. Kapten A. Rivai**
+*   **RS Siloam Sriwijaya & Palembang Square (PS Mall)**
+*   **Hotel Santika Radial Palembang & Transmart**
+*   **RS RK Charitas Palembang (Simpang Charitas)**
+*   **Terminal Karya Jaya & Simpang Musi II**
+*   **Pusat Perkantoran Pemprov Sumsel (Jl. Kapt. A. Rivai)**

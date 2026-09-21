@@ -60,3 +60,31 @@ Kota ini dikenal sebagai daerah penghasil komoditas pertanian dan perkebunan, se
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Muara Dua, tanggal, jam, jumlah penumpang, dan alamat penjemputan. Admin kami siap melayani 24 jam. Atau klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Muara Dua dari seluruh area Palembang, meliputi:
+
+*   **Seberang Ulu I & Seberang Ulu II**
+*   **Jakabaring & Kompleks OPI Mall**
+*   **Plaju & Kawasan Bagus Kuning**
+*   **Kertapati & Jalur Keramasan**
+*   **Bukit Kecil & Area 26 Ilir**
+*   **Ilir Barat I (Bukit Besar & Demang Lebar Daun)**
+*   **Kalidoni & Ilir Timur II**
+
+## Tujuan & Objek di Muara Dua
+
+Titik turun umum untuk rute Palembang–Muara Dua di antaranya:
+
+*   **Muara Dua (area/kecamatan)**
+*   **Buay Pemuka Bangsa Raja (area/kecamatan)**
+*   **Buay Rawan (area/kecamatan)**
+*   **Buay Runjung (area/kecamatan)**
+*   **Simpang (area/kecamatan)**
+*   **Sungai Are (area/kecamatan)**
+*   **Hotel Singadilaga (penginapan)**
+*   **Penginapan Tanjung Raya (penginapan)**
+*   **Penginapan Syukur (penginapan)**
+*   **Terminal Muara Dua**
+

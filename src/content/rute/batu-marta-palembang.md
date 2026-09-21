@@ -36,3 +36,27 @@ Batu Marta di Kabupaten OKU Timur terus berkembang sebagai pusat ekonomi dan pen
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Batu Marta-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Batu Marta
+
+Lincah Travel menjemput penumpang rute Batu Marta–Palembang dari seluruh area Batu Marta, meliputi:
+
+*   **Bunga Mayang**
+*   **Madang Suku III**
+*   **Belitang**
+*   **Belitang II**
+*   **Madang Suku I**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Batu Marta–Palembang di antaranya:
+
+*   **Wyndham Opi Hotel Palembang (Kompleks OPI Jakabaring)**
+*   **Stasiun LRT Jakabaring & Gelora Sriwijaya**
+*   **RSUD Palembang BARI & RS Hermina OPI**
+*   **Pasar 16 Ilir & Kawasan Bawah Jembatan Ampera**
+*   **Aryaduta Palembang & Palembang Square Mall**
+*   **Dermaga 7 Ulu & Pasar Induk Jakabaring**
+*   **Stasiun Kereta Api Kertapati**
+*   **RS RK Charitas Palembang**

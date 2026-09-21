@@ -48,3 +48,25 @@ Driver kami hafal betul jalur ini sehingga perjalanan berjalan lancar tanpa haru
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Babat Toman, tanggal, dan alamat penjemputan di Palembang. Admin siap 24 jam. Klik tombol WhatsApp di halaman ini untuk booking instan.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Babat Toman dari seluruh area Kota Palembang, termasuk:
+
+*   **Alang-Alang Lebar & Terminal KM 12 (jalur lintas keluar kota)**
+*   **Sukarami, Talang Betutu & Sekitar Bandara SMB II**
+*   **Jl. Kolonel H. Burlian & Area KM 5 s/d KM 9**
+*   **Demang Lebar Daun & Jalur Lingkar Soekarno-Hatta**
+*   **Kemuning, Sekip & Jl. Basuki Rahmat**
+*   **Sako & Perumnas Kenten**
+*   **Ilir Barat I (Bukit Besar & Macan Kumbang)**
+
+## Tujuan & Objek di Babat Toman
+
+Babat Toman adalah kecamatan di Kabupaten Musi Banyuasin yang menjadi tujuan bagi warga Palembang untuk urusan keluarga, dinas, maupun berlibur ke pedesaan asri. Titik turun umum meliputi:
+
+*   **Pasar Babat Toman** — pusat keramaian kecamatan, jadi titik antar paling sering.
+*   **Jalan Lintas Betung–Sekayu** — jalur utama yang dilalui sebelum masuk ke dalam kota Babat Toman.
+*   **Area persawahan & desa sekitar** — untuk tujuan wisata pedesaan atau kunjungan kerabat, driver antar hingga alamat desa.
+
+> *Catatan: daftar objek di atas adalah contoh awal. Lengkapi dengan hasil riset nama objek/area aktual di Babat Toman.*

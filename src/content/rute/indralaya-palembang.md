@@ -34,3 +34,24 @@ Bagi mahasiswa UNSRI atau pekerja yang rutin menempuh perjalanan Indralaya-Palem
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Indralaya-Palembang, jam keberangkatan, dan alamat penjemputan. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Indralaya
+
+Lincah Travel menjemput penumpang rute Indralaya–Palembang dari seluruh area Indralaya, meliputi:
+
+*   **Indralaya**
+*   **Indralaya Utara**
+*   **Indralaya Selatan**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Indralaya–Palembang di antaranya:
+
+*   **Gerbang Exit Tol Kramasan & Tol Jakabaring**
+*   **Aston Palembang Hotel & Conference Center**
+*   **Stasiun LRT Ampera & Kawasan Wisata BKB (Benteng Kuto Besak)**
+*   **Dermaga Point Ampera & Jembatan Ampera**
+*   **Palembang Trade Center (PTC Mall) & Jl. R. Sukamto**
+*   **RS Siti Fatimah Az-Zahra (Jl. Kol. H. Burlian)**
+*   **Kawasan Hotel Radial & Jl. Jendral Sudirman**

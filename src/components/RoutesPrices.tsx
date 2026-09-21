@@ -200,10 +200,16 @@ export default function RoutesPrices({ routes, cityImages, showMainRoutes = true
                         <MapPinCheck className="w-4 h-4 text-blue-700" />
                       </div>
                       <div>
-                      <h3 className="block text-sm font-bold text-slate-800 uppercase">
-                        {route.from}{' '}
-                        <span className="text-blue-700">{route.to}</span>
-                      </h3>
+                      <a
+                        href={getRouteUrl(route)}
+                        aria-label={`Travel ${route.from} ke ${route.to}`}
+                        className="block hover:no-underline"
+                      >
+                        <h3 className="block text-sm font-bold text-slate-800 uppercase">
+                          {route.from}{' '}
+                          <span className="text-blue-700">{route.to}</span>
+                        </h3>
+                      </a>
                         
                       </div>
                     </div>

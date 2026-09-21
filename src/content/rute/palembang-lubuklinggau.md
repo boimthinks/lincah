@@ -54,3 +54,32 @@ Koridor ini hidup dari pekerja tambang batu bara dan migas, mahasiswa, serta pel
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Lubuklinggau, tanggal, jam, jumlah penumpang, dan alamat penjemputan. Admin siap melayani 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Lubuklinggau dari seluruh area Palembang, meliputi:
+
+*   **Kertapati & Simpang Flyover Nilakandi (akses rute Lintas Tengah)**
+*   **Bukit Lama & Sekitar Loket Pusat Lincah Travel (Lorong Tj. Burung)**
+*   **Ilir Barat I, Bukit Besar & Perumahan Poligon**
+*   **Demang Lebar Daun & Akses Jembatan Musi II**
+*   **Plaju & Seberang Ulu I**
+*   **Gandus & Area Tangga Buntung**
+*   **Bukit Kecil & Kawasan Kambang Iwak**
+
+## Tujuan & Objek di Lubuklinggau
+
+Titik turun umum untuk rute Palembang–Lubuklinggau di antaranya:
+
+*   **Lubuklinggau Utara I (area/kecamatan)**
+*   **Lubuklinggau Utara II (area/kecamatan)**
+*   **Lubuklinggau Selatan I (area/kecamatan)**
+*   **Lubuklinggau Selatan II (area/kecamatan)**
+*   **Lubuklinggau Timur I (area/kecamatan)**
+*   **Lubuklinggau Timur II (area/kecamatan)**
+*   **WE Hotel Lubuklinggau (penginapan)**
+*   **Hotel 929 (penginapan)**
+*   **Hotel Dewinda (penginapan)**
+*   **Stasiun Lubuklinggau**
+*   **Terminal Lubuklinggau**
+

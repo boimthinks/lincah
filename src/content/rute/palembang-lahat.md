@@ -45,3 +45,32 @@ Lahat adalah kota di dataran tinggi Sumatera Selatan yang terkenal dengan perkeb
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute, tanggal, jam, jumlah penumpang, dan alamat penjemputan. Admin siap melayani 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Lahat dari seluruh area Palembang, meliputi:
+
+*   **Kertapati & Simpang Flyover Nilakandi (akses rute Lintas Tengah)**
+*   **Bukit Lama & Sekitar Loket Pusat Lincah Travel (Lorong Tj. Burung)**
+*   **Ilir Barat I, Bukit Besar & Perumahan Poligon**
+*   **Demang Lebar Daun & Akses Jembatan Musi II**
+*   **Plaju & Seberang Ulu I**
+*   **Gandus & Area Tangga Buntung**
+*   **Bukit Kecil & Kawasan Kambang Iwak**
+
+## Tujuan & Objek di Lahat
+
+Titik turun umum untuk rute Palembang–Lahat di antaranya:
+
+*   **Lahat (area/kecamatan)**
+*   **Lahat Selatan (area/kecamatan)**
+*   **Merapi Barat (area/kecamatan)**
+*   **Merapi Timur (area/kecamatan)**
+*   **Merapi Selatan (area/kecamatan)**
+*   **Pagar Gunung (area/kecamatan)**
+*   **JNJ Front One Hotel Lahat (penginapan)**
+*   **Hotel Grand Zuri Lahat (penginapan)**
+*   **Hotel Grand Sigma (penginapan)**
+*   **Stasiun Lahat**
+*   **Terminal Lahat**
+

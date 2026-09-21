@@ -45,3 +45,27 @@ Rute ini memang menantang, tapi kami menawarkan perjalanan yang lebih nyaman:
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp dengan menyebutkan rute, tanggal, jam, dan lokasi penjemputan. Kami akan memproses pesanan dan konfirmasi kursi segera.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Kikim dari seluruh area Palembang, meliputi:
+
+*   **Kertapati & Simpang Flyover Nilakandi (akses rute Lintas Tengah)**
+*   **Bukit Lama & Sekitar Loket Pusat Lincah Travel (Lorong Tj. Burung)**
+*   **Ilir Barat I, Bukit Besar & Perumahan Poligon**
+*   **Demang Lebar Daun & Akses Jembatan Musi II**
+*   **Plaju & Seberang Ulu I**
+*   **Gandus & Area Tangga Buntung**
+*   **Bukit Kecil & Kawasan Kambang Iwak**
+
+## Tujuan & Objek di Kikim
+
+Titik turun umum untuk rute Palembang–Kikim di antaranya:
+
+*   **Kikim Timur (area/kecamatan)**
+*   **Kikim Tengah (area/kecamatan)**
+*   **Kikim Barat (area/kecamatan)**
+*   **Kikim Selatan (area/kecamatan)**
+*   **Penginapan Kikim (penginapan)**
+*   **Terminal Kikim**
+

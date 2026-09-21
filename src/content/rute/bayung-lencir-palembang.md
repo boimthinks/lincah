@@ -36,3 +36,29 @@ Bayung Lencir adalah pintu gerbang Lintas Timur Sumatera Selatan yang strategis.
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Bayung Lencir-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Bayung Lencir
+
+Lincah Travel menjemput penumpang rute Bayung Lencir–Palembang dari seluruh area Bayung Lencir, meliputi:
+
+*   **Bayung Lencir**
+*   **Tungkal Jaya**
+*   **Lalan**
+*   **Babat Toman**
+*   **Keluang**
+*   **Plakat Tinggi**
+*   **Lais**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Bayung Lencir–Palembang di antaranya:
+
+*   **Terminal Alang-Alang Lebar & Area Lintas KM 12**
+*   **Bandara Internasional Sultan Mahmud Badaruddin II**
+*   **RSUP Dr. Mohammad Hoesin (RSMH) & Jl. Jend. Sudirman**
+*   **Hotel Novotel Palembang & PTC Mall (Jl. R. Sukamto)**
+*   **Hotel Harper Palembang (Jl. R. Soekamto)**
+*   **Simpang Polda Sumsel & Demang Lebar Daun**
+*   **Stasiun LRT Asrama Haji & Area Punti Kayu**
+*   **Kawasan Pusat Bisnis Palembang Icon & Sudirman**

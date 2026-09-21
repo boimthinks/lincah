@@ -47,3 +47,30 @@ Martapura di Kabupaten OKU Timur terletak di perbatasan Sumatera Selatan dan Lam
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp dengan nama, tanggal, jam, dan alamat jemput. Admin siap 24 jam. Klik tombol WhatsApp untuk booking sekarang.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Martapura dari seluruh area Palembang, meliputi:
+
+*   **Seberang Ulu I & Seberang Ulu II**
+*   **Jakabaring & Kompleks OPI Mall**
+*   **Plaju & Kawasan Bagus Kuning**
+*   **Kertapati & Jalur Keramasan**
+*   **Bukit Kecil & Area 26 Ilir**
+*   **Ilir Barat I (Bukit Besar & Demang Lebar Daun)**
+*   **Kalidoni & Ilir Timur II**
+
+## Tujuan & Objek di Martapura
+
+Titik turun umum untuk rute Palembang–Martapura di antaranya:
+
+*   **Martapura (area/kecamatan)**
+*   **Martapura Timur (area/kecamatan)**
+*   **Martapura Barat (area/kecamatan)**
+*   **Belitang (area/kecamatan)**
+*   **Belitang I (area/kecamatan)**
+*   **Belitang II (area/kecamatan)**
+*   **Hotel HSM (penginapan)**
+*   **Penginapan Martapura (penginapan)**
+*   **Terminal Martapura**
+

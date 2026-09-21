@@ -45,3 +45,30 @@ Bayung Lencir di Kabupaten Musi Banyuasin terletak di perbatasan Jambi dan Sumat
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Bayung Lencir, tanggal, dan alamat penjemputan. Admin siap 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Bayung Lencir dari seluruh area Palembang, meliputi:
+
+*   **Alang-Alang Lebar & Terminal KM 12 (jalur lintas keluar kota)**
+*   **Sukarami, Talang Betutu & Sekitar Bandara SMB II**
+*   **Jl. Kolonel H. Burlian & Area KM 5 s/d KM 9**
+*   **Demang Lebar Daun & Jalur Lingkar Soekarno-Hatta**
+*   **Kemuning, Sekip & Jl. Basuki Rahmat**
+*   **Sako & Perumnas Kenten**
+*   **Ilir Barat I (Bukit Besar & Macan Kumbang)**
+
+## Tujuan & Objek di Bayung Lencir
+
+Titik turun umum untuk rute Palembang–Bayung Lencir di antaranya:
+
+*   **Bayung Lencir (area/kecamatan)**
+*   **Tungkal Jaya (area/kecamatan)**
+*   **Lalan (area/kecamatan)**
+*   **Babat Toman (area/kecamatan)**
+*   **Keluang (area/kecamatan)**
+*   **Plakat Tinggi (area/kecamatan)**
+*   **Hotel Mella Putri (penginapan)**
+*   **Penginapan Bayung Lencir (penginapan)**
+*   **Terminal Bayung Lencir**
+

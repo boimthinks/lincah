@@ -46,3 +46,29 @@ Danau Ranau terletak di perbatasan OKU Selatan dan Lampung. Banyak wisatawan Pal
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute, tanggal, jam, dan alamat tujuan. Admin siap membalas cepat. Klik tombol di halaman ini untuk booking langsung menuju Danau Ranau.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Danau Ranau dari seluruh area Palembang, meliputi:
+
+*   **Seberang Ulu I & Seberang Ulu II**
+*   **Jakabaring & Kompleks OPI Mall**
+*   **Plaju & Kawasan Bagus Kuning**
+*   **Kertapati & Jalur Keramasan**
+*   **Bukit Kecil & Area 26 Ilir**
+*   **Ilir Barat I (Bukit Besar & Demang Lebar Daun)**
+*   **Kalidoni & Ilir Timur II**
+
+## Tujuan & Objek di Danau Ranau
+
+Titik turun umum untuk rute Palembang–Danau Ranau di antaranya:
+
+*   **Ranau Tengah (area/kecamatan)**
+*   **Ranau Utara (area/kecamatan)**
+*   **Ranau Selatan (area/kecamatan)**
+*   **Banding Agung (area/kecamatan)**
+*   **Buay Sandang Aji (area/kecamatan)**
+*   **Sindang Danu (area/kecamatan)**
+*   **Penginapan di Danau Ranau (penginapan)**
+*   **Terminal Danau Ranau**
+

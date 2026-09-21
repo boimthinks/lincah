@@ -41,3 +41,31 @@ Jalan di rute ini relatif nyaman karena menghubungkan Palembang ke Muara Bulian 
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Muara Bulian Jambi, tanggal, dan alamat penjemputan. Admin siap 24 jam, fast response, langsung dijadwalkan.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Muara Bulian dari seluruh area Palembang, meliputi:
+
+*   **Alang-Alang Lebar & Terminal KM 12 (jalur lintas keluar kota)**
+*   **Sukarami, Talang Betutu & Sekitar Bandara SMB II**
+*   **Jl. Kolonel H. Burlian & Area KM 5 s/d KM 9**
+*   **Demang Lebar Daun & Jalur Lingkar Soekarno-Hatta**
+*   **Kemuning, Sekip & Jl. Basuki Rahmat**
+*   **Sako & Perumnas Kenten**
+*   **Ilir Barat I (Bukit Besar & Macan Kumbang)**
+
+## Tujuan & Objek di Muara Bulian
+
+Titik turun umum dan area pengantaran Lincah Travel di Muara Bulian (Kabupaten Batang Hari, Jambi) di antaranya:
+
+*   **Pasar Baru (Pusat Perdagangan / Kelurahan)**
+*   **Muara Bulian (Kelurahan)**
+*   **Rengas Condong (Kelurahan)**
+*   **Sridadi (Kelurahan)**
+*   **Teratai (Kelurahan)**
+*   **Simpang Terusan & Pasar Terusan**
+*   **Rantau Puri**
+*   **Bajubang Laut**
+*   **Sungai Buluh & Sungai Baung**
+*   **Pelayangan & Kilangan**
+*   **Aro & Malapari**

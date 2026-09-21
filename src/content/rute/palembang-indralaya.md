@@ -42,3 +42,28 @@ Indralaya adalah ibukota Kabupaten Ogan Ilir dan lokasi kampus utama Universitas
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp dan tulis rute Palembang-Indralaya, jam, serta alamat penjemputan. Admin siap 24 jam membantu memilih jadwal yang pas.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Indralaya dari seluruh area Palembang, meliputi:
+
+*   **Jakabaring & Akses Gerbang Tol Palindra / Kayu Agung**
+*   **Kertapati & Simpang Flyover Nilakandi**
+*   **Plaju & Seberang Ulu II**
+*   **Ilir Timur I & Koridor Jl. Jend. Sudirman**
+*   **Kalidoni & Sematang Borang**
+*   **Sako & Perumnas Kenten**
+*   **Bukit Lama & Bukit Besar**
+
+## Tujuan & Objek di Indralaya
+
+Titik turun umum untuk rute Palembang–Indralaya di antaranya:
+
+*   **Indralaya (area/kecamatan)**
+*   **Indralaya Utara (area/kecamatan)**
+*   **Indralaya Selatan (area/kecamatan)**
+*   **Ilaya Hotel & Resort (penginapan)**
+*   **Hotel Wisma Indralaya (penginapan)**
+*   **Stasiun Indralaya**
+*   **Terminal Indralaya**
+

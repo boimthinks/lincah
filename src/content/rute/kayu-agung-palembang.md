@@ -34,3 +34,28 @@ Kayu Agung kini lebih dekat dengan Palembang berkat akses tol yang efisien. Hany
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Kayu Agung-Palembang, jam, serta alamat penjemputan. Admin siap 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Kayu Agung
+
+Lincah Travel menjemput penumpang rute Kayu Agung–Palembang dari seluruh area Kayu Agung, meliputi:
+
+*   **Kayu Agung**
+*   **Jejawi**
+*   **Sirah Pulau Padang**
+*   **Pedamaran**
+*   **Tulung Selapan**
+*   **Mesuji**
+*   **Lempuing**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Kayu Agung–Palembang di antaranya:
+
+*   **Gerbang Exit Tol Kramasan & Tol Jakabaring**
+*   **Aston Palembang Hotel & Conference Center**
+*   **Stasiun LRT Ampera & Kawasan Wisata BKB (Benteng Kuto Besak)**
+*   **Dermaga Point Ampera & Jembatan Ampera**
+*   **Palembang Trade Center (PTC Mall) & Jl. R. Sukamto**
+*   **RS Siti Fatimah Az-Zahra (Jl. Kol. H. Burlian)**
+*   **Kawasan Hotel Radial & Jl. Jendral Sudirman**

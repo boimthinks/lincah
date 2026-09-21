@@ -44,3 +44,27 @@ Simpang Belimbing adalah kawasan strategis di Selatan Kabupaten Muara Enim, titi
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute, tanggal, jam, jumlah penumpang, dan alamat penjemputan. Admin siap melayani 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Simpang Belimbing dari seluruh area Palembang, meliputi:
+
+*   **Kertapati & Simpang Flyover Nilakandi (akses rute Lintas Tengah)**
+*   **Bukit Lama & Sekitar Loket Pusat Lincah Travel (Lorong Tj. Burung)**
+*   **Ilir Barat I, Bukit Besar & Perumahan Poligon**
+*   **Demang Lebar Daun & Akses Jembatan Musi II**
+*   **Plaju & Seberang Ulu I**
+*   **Gandus & Area Tangga Buntung**
+*   **Bukit Kecil & Kawasan Kambang Iwak**
+
+## Tujuan & Objek di Simpang Belimbing
+
+Titik turun umum untuk rute Palembang–Simpang Belimbing di antaranya:
+
+*   **Belimbing (area/kecamatan)**
+*   **Belimbing Jaya (area/kecamatan)**
+*   **Berugo (area/kecamatan)**
+*   **Bulang (area/kecamatan)**
+*   **Cinta Kasih (area/kecamatan)**
+*   **Dalam (area/kecamatan)**
+

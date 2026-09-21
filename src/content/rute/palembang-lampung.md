@@ -27,3 +27,33 @@ Jalur tol mempersingkat waktu tempuh dibandingkan jalur lama. Anda akan melewati
 ## Pesan Sekarang untuk Rute Palembang-Lampung
 
 Mencari perjalanan premium dengan harga transparan? Harga flat Rp 300.000 tanpa biaya tambahan. Segera hubungi **0813-6923-1893** via WhatsApp untuk memesan atau bertanya soal jadwal. Perjalanan Anda lebih aman dan nyaman bersama kami.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Lampung dari seluruh area Palembang, meliputi:
+
+*   **Jakabaring & Akses Gerbang Tol Palindra / Kayu Agung**
+*   **Kertapati & Simpang Flyover Nilakandi**
+*   **Plaju & Seberang Ulu II**
+*   **Ilir Timur I & Koridor Jl. Jend. Sudirman**
+*   **Kalidoni & Sematang Borang**
+*   **Sako & Perumnas Kenten**
+*   **Bukit Lama & Bukit Besar**
+
+## Tujuan & Objek di Lampung
+
+Titik turun umum untuk rute Palembang–Lampung di antaranya:
+
+*   **Tanjung Karang Pusat (area/kecamatan)**
+*   **Tanjung Karang Timur (area/kecamatan)**
+*   **Tanjung Karang Barat (area/kecamatan)**
+*   **Kedaton (area/kecamatan)**
+*   **Sukabumi (area/kecamatan)**
+*   **Panjang (area/kecamatan)**
+*   **Hotel Emersia Lampung (penginapan)**
+*   **Kurnia Perdana Hotel (penginapan)**
+*   **Novotel Lampung (penginapan)**
+*   **Bandara Radin Inten II**
+*   **Pelabuhan Panjang**
+*   **Terminal Rajabasa**
+

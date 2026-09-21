@@ -44,3 +44,32 @@ Harga **Rp 400.000** flat untuk satu kursi, door-to-door, tanpa biaya tambahan.
 ## Booking Sekarang
 
 Hubungi **0813-6923-1893** via WhatsApp. Sampaikan rute Kuala Tungkal-Palembang, tanggal, jam, dan alamat penjemputan di Kuala Tungkal. Admin kami akan segera memproses dan mengonfirmasi kursi Anda. Sampai jumpa di Palembang!
+
+## Titik Penjemputan di Kuala Tungkal
+
+Lincah Travel menjemput penumpang rute Kuala Tungkal–Palembang dari seluruh area Kuala Tungkal, meliputi:
+
+*   **Tungkal Ilir**
+*   **Tungkal Ulu**
+*   **Bram Itam**
+*   **Seberang Kota**
+*   **Betara**
+*   **Kuala Betara**
+*   **Pengabuan**
+*   **Senyerang**
+*   **Merlung**
+*   **Batang Asam**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Kuala Tungkal–Palembang di antaranya:
+
+*   **Terminal Alang-Alang Lebar & Area Lintas KM 12**
+*   **Bandara Internasional Sultan Mahmud Badaruddin II**
+*   **RSUP Dr. Mohammad Hoesin (RSMH) & Jl. Jend. Sudirman**
+*   **Hotel Novotel Palembang & PTC Mall (Jl. R. Sukamto)**
+*   **Hotel Harper Palembang (Jl. R. Soekamto)**
+*   **Simpang Polda Sumsel & Demang Lebar Daun**
+*   **Stasiun LRT Asrama Haji & Area Punti Kayu**
+*   **Kawasan Pusat Bisnis Palembang Icon & Sudirman**

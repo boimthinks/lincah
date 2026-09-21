@@ -36,3 +36,32 @@ Belitang dikenal sebagai lumbung padi Sumatera Selatan. Setiap hari, banyak warg
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Belitang-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Belitang
+
+Lincah Travel menjemput penumpang rute Belitang–Palembang dari seluruh area Belitang, meliputi:
+
+*   **Belitang**
+*   **Belitang I**
+*   **Belitang II**
+*   **Belitang III**
+*   **Madang Suku I**
+*   **Madang Suku II**
+*   **Martapura**
+*   **Buay Madang Timur**
+*   **Buay Madang**
+*   **Buay Pemuka Peliung**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Belitang–Palembang di antaranya:
+
+*   **Wyndham Opi Hotel Palembang (Kompleks OPI Jakabaring)**
+*   **Stasiun LRT Jakabaring & Gelora Sriwijaya**
+*   **RSUD Palembang BARI & RS Hermina OPI**
+*   **Pasar 16 Ilir & Kawasan Bawah Jembatan Ampera**
+*   **Aryaduta Palembang & Palembang Square Mall**
+*   **Dermaga 7 Ulu & Pasar Induk Jakabaring**
+*   **Stasiun Kereta Api Kertapati**
+*   **RS RK Charitas Palembang**

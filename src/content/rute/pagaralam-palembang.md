@@ -47,3 +47,26 @@ Pagaralam adalah kota di dataran tinggi Sumatera Selatan yang terkenal dengan ud
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Pagaralam-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam. Atau klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Pagaralam
+
+Lincah Travel menjemput penumpang rute Pagaralam–Palembang dari seluruh area Pagaralam, meliputi:
+
+*   **Pagar Alam Utara**
+*   **Pagar Alam Selatan**
+*   **Dempo Utara**
+*   **Dempo Selatan**
+*   **Dempo Tengah**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Pagaralam–Palembang di antaranya:
+
+*   **The Zuri Palembang (Kawasan Transmart Radial)**
+*   **Palembang Square Mall & RS Siloam**
+*   **RS Hermina Palembang & RSUP Dr. Mohammad Hoesin**
+*   **Hotel 1O1 Palembang Rajawali & Kawasan Kuliner**
+*   **Bandara Internasional Sultan Mahmud Badaruddin II**
+*   **Pusat Oleh-Oleh Pempek (Kawasan 26 Ilir / Jl. Mujahidin)**
+*   **Stasiun Kereta Api Kertapati**

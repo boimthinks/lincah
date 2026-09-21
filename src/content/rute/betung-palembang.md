@@ -40,3 +40,32 @@ Dengan jarak 150 km, waktu tempuh 3-4 jam terasa singkat bersama Lincah Travel:
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Betung-Palembang, tanggal, dan alamat penjemputan di Betung. Admin siap 24 jam. Klik tombol WhatsApp di halaman ini untuk booking instan.
+
+## Titik Penjemputan di Betung
+
+Lincah Travel menjemput penumpang rute Betung–Palembang dari seluruh area Betung, meliputi:
+
+*   **Simpang Tebenan**
+*   **Taja Indah**
+*   **Bukit**
+*   **Lubuk Karet**
+*   **Pulau Rajak**
+*   **Rimba Asam**
+*   **Sri Kembang**
+*   **Suka Mulya**
+*   **Talang Jaya Indah**
+*   **Talang Jaya Mulya**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Betung–Palembang di antaranya:
+
+*   **Terminal Alang-Alang Lebar & Area Lintas KM 12**
+*   **Bandara Internasional Sultan Mahmud Badaruddin II**
+*   **RSUP Dr. Mohammad Hoesin (RSMH) & Jl. Jend. Sudirman**
+*   **Hotel Novotel Palembang & PTC Mall (Jl. R. Sukamto)**
+*   **Hotel Harper Palembang (Jl. R. Soekamto)**
+*   **Simpang Polda Sumsel & Demang Lebar Daun**
+*   **Stasiun LRT Asrama Haji & Area Punti Kayu**
+*   **Kawasan Pusat Bisnis Palembang Icon & Sudirman**

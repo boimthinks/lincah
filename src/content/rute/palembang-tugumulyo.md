@@ -41,3 +41,29 @@ Dengan layanan door-to-door, Anda tinggal menunggu dijemput dari rumah atau hote
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Tugumulyo, tanggal, dan alamat penjemputan. Admin siap 24 jam, fast response, langsung diproses.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Tugumulyo dari seluruh area Palembang, meliputi:
+
+*   **Seberang Ulu I & Seberang Ulu II**
+*   **Jakabaring & Kompleks OPI Mall**
+*   **Plaju & Kawasan Bagus Kuning**
+*   **Kertapati & Jalur Keramasan**
+*   **Bukit Kecil & Area 26 Ilir**
+*   **Ilir Barat I (Bukit Besar & Demang Lebar Daun)**
+*   **Kalidoni & Ilir Timur II**
+
+## Tujuan & Objek di Tugumulyo
+
+Titik turun umum untuk rute Palembang–Tugumulyo di antaranya:
+
+*   **Tugumulyo (area/kecamatan)**
+*   **Sukakarya (area/kecamatan)**
+*   **Mekar Sari (area/kecamatan)**
+*   **Jaya Bhakti (area/kecamatan)**
+*   **Sri Karang Rejo (area/kecamatan)**
+*   **Bangun Sari (area/kecamatan)**
+*   **Penginapan Tugumulyo (penginapan)**
+*   **Terminal Tugumulyo**
+

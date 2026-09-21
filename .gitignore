@@ -7,3 +7,6 @@ coverage/
 .env*
 !.env.example
 .astro/
+
+# Backup SEO rute (jangan di-commit)
+backup-seo-route-*/

@@ -51,3 +51,32 @@ Dengan jarak 180 km via Lintas Sumatera, perjalanan Palembang-Muara Enim memakan
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Muara Enim, tanggal, jam, jumlah penumpang, dan alamat penjemputan serta tujuan. Admin kami siap melayani 24 jam. Atau klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Muara Enim dari seluruh area Palembang, meliputi:
+
+*   **Kertapati & Simpang Flyover Nilakandi (akses rute Lintas Tengah)**
+*   **Bukit Lama & Sekitar Loket Pusat Lincah Travel (Lorong Tj. Burung)**
+*   **Ilir Barat I, Bukit Besar & Perumahan Poligon**
+*   **Demang Lebar Daun & Akses Jembatan Musi II**
+*   **Plaju & Seberang Ulu I**
+*   **Gandus & Area Tangga Buntung**
+*   **Bukit Kecil & Kawasan Kambang Iwak**
+
+## Tujuan & Objek di Muara Enim
+
+Titik turun umum untuk rute Palembang–Muara Enim di antaranya:
+
+*   **Muara Enim (area/kecamatan)**
+*   **Muara Enim Selatan (area/kecamatan)**
+*   **Tanah Abang (area/kecamatan)**
+*   **Semende Darat Laut (area/kecamatan)**
+*   **Semende Darat Tengah (area/kecamatan)**
+*   **Semende Darat Ulu (area/kecamatan)**
+*   **The Melio Enim Hotel (penginapan)**
+*   **Hotel Griya Sintesa Muara Enim (penginapan)**
+*   **Mitra Hotel (penginapan)**
+*   **Stasiun Muara Enim**
+*   **Terminal Muara Enim**
+

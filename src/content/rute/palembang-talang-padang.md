@@ -40,3 +40,28 @@ Perjalanan 12 jam bukanlah waktu yang sebentar. Karena itu kenyamanan menjadi pr
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Talang Padang, tanggal, dan alamat penjemputan. Admin siap 24 jam, fast response, langsung diproses.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Talang Padang dari seluruh area Palembang, meliputi:
+
+*   **Seberang Ulu I & Seberang Ulu II**
+*   **Jakabaring & Kompleks OPI Mall**
+*   **Plaju & Kawasan Bagus Kuning**
+*   **Kertapati & Jalur Keramasan**
+*   **Bukit Kecil & Area 26 Ilir**
+*   **Ilir Barat I (Bukit Besar & Demang Lebar Daun)**
+*   **Kalidoni & Ilir Timur II**
+
+## Tujuan & Objek di Talang Padang
+
+Titik turun umum untuk rute Palembang–Talang Padang di antaranya:
+
+*   **Talang Padang (area/kecamatan)**
+*   **Wonosobo (area/kecamatan)**
+*   **Pugung (area/kecamatan)**
+*   **Sukaraja (area/kecamatan)**
+*   **Banding Agung (area/kecamatan)**
+*   **Penginapan Talang Padang (penginapan)**
+*   **Terminal Talang Padang**
+

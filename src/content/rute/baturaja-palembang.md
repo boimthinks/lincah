@@ -31,3 +31,32 @@ Palembang termasuk kota yang ramai. Agar perjalanan lancar, kami sarankan:
 ## Cara Pesan Travel Baturaja-Palembang
 
 Tidak ada prosedur rumit. Cukup hubungi kami via WhatsApp di **0813-6923-1893**. Sebutkan nama, tanggal kepergian, jam, serta lokasi penjemputan dan pengantaran. Butuh ke Palembang besok pagi? Segera hubungi kami.
+
+## Titik Penjemputan di Baturaja
+
+Lincah Travel menjemput penumpang rute Baturaja–Palembang dari seluruh area Baturaja, meliputi:
+
+*   **Baturaja Barat**
+*   **Baturaja Timur**
+*   **Lubuk Batang**
+*   **Semidang Aji**
+*   **Pengandonan**
+*   **Ulu Ogan**
+*   **Kedaton Peninjauan Raya**
+*   **Lengkiti**
+*   **Peninjauan**
+*   **Sinar Peninjauan**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Baturaja–Palembang di antaranya:
+
+*   **Wyndham Opi Hotel Palembang (Kompleks OPI Jakabaring)**
+*   **Stasiun LRT Jakabaring & Gelora Sriwijaya**
+*   **RSUD Palembang BARI & RS Hermina OPI**
+*   **Pasar 16 Ilir & Kawasan Bawah Jembatan Ampera**
+*   **Aryaduta Palembang & Palembang Square Mall**
+*   **Dermaga 7 Ulu & Pasar Induk Jakabaring**
+*   **Stasiun Kereta Api Kertapati**
+*   **RS RK Charitas Palembang**

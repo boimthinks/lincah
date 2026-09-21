@@ -27,3 +27,30 @@ Cukup **Rp 200.000** per kursi untuk layanan antar-provinsi. Tidak ada biaya par
 ## Cara Pesan
 
 Chat WhatsApp ke **0813-6923-1893**, sebutkan rute Jambi-Palembang, tanggal, jam, dan alamat penjemputan. Tim admin kami siap membantu memilih jadwal yang paling pas dengan agenda Anda di Palembang.
+
+## Titik Penjemputan di Jambi
+
+Lincah Travel menjemput penumpang rute Jambi–Palembang dari seluruh area Jambi, meliputi:
+
+*   **Telanaipura**
+*   **Jambi Selatan**
+*   **Jambi Timur**
+*   **Pasar Jambi**
+*   **Kotabaru**
+*   **Danau Teluk**
+*   **Pelayangan**
+*   **Jambi Luar Kota**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Jambi–Palembang di antaranya:
+
+*   **Terminal Alang-Alang Lebar & Area Lintas KM 12**
+*   **Bandara Internasional Sultan Mahmud Badaruddin II**
+*   **RSUP Dr. Mohammad Hoesin (RSMH) & Jl. Jend. Sudirman**
+*   **Hotel Novotel Palembang & PTC Mall (Jl. R. Sukamto)**
+*   **Hotel Harper Palembang (Jl. R. Soekamto)**
+*   **Simpang Polda Sumsel & Demang Lebar Daun**
+*   **Stasiun LRT Asrama Haji & Area Punti Kayu**
+*   **Kawasan Pusat Bisnis Palembang Icon & Sudirman**

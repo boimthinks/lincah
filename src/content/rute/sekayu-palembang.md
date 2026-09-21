@@ -39,3 +39,29 @@ Palembang sebagai ibukota provinsi menjadi pusat berbagai layanan publik dan kom
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Sekayu-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam, fast response, langsung dijadwalkan.
+
+## Titik Penjemputan di Sekayu
+
+Lincah Travel menjemput penumpang rute Sekayu–Palembang dari seluruh area Sekayu, meliputi:
+
+*   **Sekayu**
+*   **Lais**
+*   **Sungai Lilin**
+*   **Babat Toman**
+*   **Tungkal Jaya**
+*   **Keluang**
+*   **Bayung Lencir**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Sekayu–Palembang di antaranya:
+
+*   **Terminal Alang-Alang Lebar & Area Lintas KM 12**
+*   **Bandara Internasional Sultan Mahmud Badaruddin II**
+*   **RSUP Dr. Mohammad Hoesin (RSMH) & Jl. Jend. Sudirman**
+*   **Hotel Novotel Palembang & PTC Mall (Jl. R. Sukamto)**
+*   **Hotel Harper Palembang (Jl. R. Soekamto)**
+*   **Simpang Polda Sumsel & Demang Lebar Daun**
+*   **Stasiun LRT Asrama Haji & Area Punti Kayu**
+*   **Kawasan Pusat Bisnis Palembang Icon & Sudirman**

@@ -37,3 +37,31 @@ Alih-alih menempuh rute sendiri dengan kendaraan pribadi atau ganti-ganti angkut
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Belitang, tanggal, dan alamat penjemputan. Admin siap 24 jam, dan driver akan dikirim sesuai jadwal. Booking sekarang untuk mengamankan kursi.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Belitang dari seluruh area Palembang, meliputi:
+
+*   **Seberang Ulu I & Seberang Ulu II**
+*   **Jakabaring & Kompleks OPI Mall**
+*   **Plaju & Kawasan Bagus Kuning**
+*   **Kertapati & Jalur Keramasan**
+*   **Bukit Kecil & Area 26 Ilir**
+*   **Ilir Barat I (Bukit Besar & Demang Lebar Daun)**
+*   **Kalidoni & Ilir Timur II**
+
+## Tujuan & Objek di Belitang
+
+Titik turun umum untuk rute Palembang–Belitang di antaranya:
+
+*   **Belitang (area/kecamatan)**
+*   **Belitang I (area/kecamatan)**
+*   **Belitang II (area/kecamatan)**
+*   **Belitang III (area/kecamatan)**
+*   **Madang Suku I (area/kecamatan)**
+*   **Madang Suku II (area/kecamatan)**
+*   **Hotel Anugera (penginapan)**
+*   **Hotel HSM (penginapan)**
+*   **Terminal Belitang**
+*   **Stasiun Belitang**
+

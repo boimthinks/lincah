@@ -39,3 +39,27 @@ Jarak 150 km via jalan lintas Sumatera biasanya kami tempuh dalam 3-4 jam. Anda 
 ## Cara Pesan Travel Palembang-Betung
 
 Hubungi **0813-6923-1893** via WhatsApp dengan menyebutkan rute Palembang-Betung, tanggal, jam, dan alamat penjemputan. Admin kami responsif 24 jam. Klik tombol WhatsApp di halaman ini untuk booking instan.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Betung dari seluruh area Palembang, meliputi:
+
+*   **Alang-Alang Lebar & Terminal KM 12 (jalur lintas keluar kota)**
+*   **Sukarami, Talang Betutu & Sekitar Bandara SMB II**
+*   **Jl. Kolonel H. Burlian & Area KM 5 s/d KM 9**
+*   **Demang Lebar Daun & Jalur Lingkar Soekarno-Hatta**
+*   **Kemuning, Sekip & Jl. Basuki Rahmat**
+*   **Sako & Perumnas Kenten**
+*   **Ilir Barat I (Bukit Besar & Macan Kumbang)**
+
+## Tujuan & Objek di Betung
+
+Titik turun umum untuk rute Palembang–Betung di antaranya:
+
+*   **Simpang Tebenan (area/kecamatan)**
+*   **Taja Indah (area/kecamatan)**
+*   **Bukit (area/kecamatan)**
+*   **Lubuk Karet (area/kecamatan)**
+*   **Pulau Rajak (area/kecamatan)**
+*   **Rimba Asam (area/kecamatan)**
+

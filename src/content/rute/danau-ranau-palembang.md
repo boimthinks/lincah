@@ -38,3 +38,30 @@ Kami memahami perjalanan 8-9 jam membutuhkan armada dan driver terbaik:
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Danau Ranau-Palembang, tanggal, dan alamat penjemputan. Tim kami siap melayani 24 jam. Klik tombol WhatsApp di halaman ini untuk booking instan.
+
+## Titik Penjemputan di Danau Ranau
+
+Lincah Travel menjemput penumpang rute Danau Ranau–Palembang dari seluruh area Danau Ranau, meliputi:
+
+*   **Ranau Tengah**
+*   **Ranau Utara**
+*   **Ranau Selatan**
+*   **Banding Agung**
+*   **Buay Sandang Aji**
+*   **Sindang Danu**
+*   **Pulau Beringin**
+*   **Mekakau Ilir**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Danau Ranau–Palembang di antaranya:
+
+*   **Wyndham Opi Hotel Palembang (Kompleks OPI Jakabaring)**
+*   **Stasiun LRT Jakabaring & Gelora Sriwijaya**
+*   **RSUD Palembang BARI & RS Hermina OPI**
+*   **Pasar 16 Ilir & Kawasan Bawah Jembatan Ampera**
+*   **Aryaduta Palembang & Palembang Square Mall**
+*   **Dermaga 7 Ulu & Pasar Induk Jakabaring**
+*   **Stasiun Kereta Api Kertapati**
+*   **RS RK Charitas Palembang**

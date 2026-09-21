@@ -46,3 +46,29 @@ Martapura adalah ibukota Kabupaten OKU Timur yang terletak di perbatasan Lampung
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Martapura-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam. Atau klik tombol WhatsApp di halaman ini untuk booking instan.
+
+## Titik Penjemputan di Martapura
+
+Lincah Travel menjemput penumpang rute Martapura–Palembang dari seluruh area Martapura, meliputi:
+
+*   **Martapura**
+*   **Martapura Timur**
+*   **Martapura Barat**
+*   **Belitang**
+*   **Belitang I**
+*   **Belitang II**
+*   **Madang Suku I**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Martapura–Palembang di antaranya:
+
+*   **Wyndham Opi Hotel Palembang (Kompleks OPI Jakabaring)**
+*   **Stasiun LRT Jakabaring & Gelora Sriwijaya**
+*   **RSUD Palembang BARI & RS Hermina OPI**
+*   **Pasar 16 Ilir & Kawasan Bawah Jembatan Ampera**
+*   **Aryaduta Palembang & Palembang Square Mall**
+*   **Dermaga 7 Ulu & Pasar Induk Jakabaring**
+*   **Stasiun Kereta Api Kertapati**
+*   **RS RK Charitas Palembang**

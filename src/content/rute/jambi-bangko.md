@@ -37,3 +37,27 @@ Kami memahami pentingnya efisiensi waktu dan kenyamanan saat menempuh perjalanan
 ## Cara Pemesanan
 
 Sistem booking kami sangat mudah: chat WhatsApp admin di **0813-6923-1893**, sebutkan rute Jambi-Bangko, tanggal, dan alamat penjemputan. Tim kami siap melayani 24 jam. Klik tombol WhatsApp di halaman ini untuk mulai memesan.
+
+## Titik Penjemputan di Jambi
+
+Lincah Travel menjemput penumpang rute Jambi–Bangko dari seluruh area Jambi, meliputi:
+
+*   **Telanaipura**
+*   **Jambi Selatan**
+*   **Jambi Timur**
+*   **Pasar Jambi**
+*   **Kotabaru**
+*   **Danau Teluk**
+*   **Pelayangan**
+*   **Jambi Luar Kota**
+
+
+## Tujuan & Objek di Bangko
+
+Titik turun umum untuk rute Jambi–Bangko di antaranya:
+
+*   **FAMILY INN HOTEL-BANGKO (penginapan)**
+*   **Hotel R Cantika (penginapan)**
+*   **RedDoorz @ Hotel Keluarga Bangko (penginapan)**
+*   **Wisma Permata (penginapan)**
+

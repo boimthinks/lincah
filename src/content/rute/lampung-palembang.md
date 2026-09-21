@@ -27,3 +27,29 @@ Perjalanan via tol memang cepat, namun tetap membutuhkan persiapan. Pastikan And
 ## Booking Tiket Sekarang!
 
 Tidak perlu pusing lagi soal transportasi ke Palembang. Cukup hubungi Lincah Travel di **0813-6923-1893** melalui WhatsApp. Sampaikan rute, tanggal, dan lokasi penjemputan Anda. Admin kami siap membantu memproses pemesanan Anda 24 jam non-stop. Jadikan perjalanan Anda lebih mudah dan aman bersama kami.
+
+## Titik Penjemputan di Lampung
+
+Lincah Travel menjemput penumpang rute Lampung–Palembang dari seluruh area Lampung, meliputi:
+
+*   **Tanjung Karang Pusat**
+*   **Tanjung Karang Timur**
+*   **Tanjung Karang Barat**
+*   **Kedaton**
+*   **Sukabumi**
+*   **Panjang**
+*   **Kemiling**
+*   **Rajabasa**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Lampung–Palembang di antaranya:
+
+*   **Gerbang Exit Tol Kramasan & Tol Jakabaring**
+*   **Aston Palembang Hotel & Conference Center**
+*   **Stasiun LRT Ampera & Kawasan Wisata BKB (Benteng Kuto Besak)**
+*   **Dermaga Point Ampera & Jembatan Ampera**
+*   **Palembang Trade Center (PTC Mall) & Jl. R. Sukamto**
+*   **RS Siti Fatimah Az-Zahra (Jl. Kol. H. Burlian)**
+*   **Kawasan Hotel Radial & Jl. Jendral Sudirman**

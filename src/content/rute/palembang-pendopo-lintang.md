@@ -36,3 +36,27 @@ Pendopo Lintang di Kabupaten Empat Lawang terkenal dengan area perkebunan kopi y
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Pendopo Lintang, tanggal, jam, dan alamat penjemputan. Admin siap 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Pendopo Lintang dari seluruh area Palembang, meliputi:
+
+*   **Kertapati & Simpang Flyover Nilakandi (akses rute Lintas Tengah)**
+*   **Bukit Lama & Sekitar Loket Pusat Lincah Travel (Lorong Tj. Burung)**
+*   **Ilir Barat I, Bukit Besar & Perumahan Poligon**
+*   **Demang Lebar Daun & Akses Jembatan Musi II**
+*   **Plaju & Seberang Ulu I**
+*   **Gandus & Area Tangga Buntung**
+*   **Bukit Kecil & Kawasan Kambang Iwak**
+
+## Tujuan & Objek di Pendopo Lintang
+
+Titik turun umum untuk rute Palembang–Pendopo Lintang di antaranya:
+
+*   **Tanjung Baru (area/kecamatan)**
+*   **Bayau (area/kecamatan)**
+*   **Sarang Bulan (area/kecamatan)**
+*   **Muara Karang (area/kecamatan)**
+*   **Landur (area/kecamatan)**
+*   **Gunung Meraksa Lama (area/kecamatan)**
+

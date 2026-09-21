@@ -27,3 +27,32 @@ Keamanan penumpang kami tempatkan setara dengan ketepatan waktu. Driver tidak ha
 ## Cara Pesan Travel Palembang-Baturaja
 
 Cukup hubungi **0813-6923-1893** via WhatsApp. Admin akan mencatat titik penjemputan dan memastikan kursi Anda terisi di jadwal yang ingin ditempuh. Mau berangkat besok pagi? Langsung sampaikan saja.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Baturaja dari seluruh area Palembang, meliputi:
+
+*   **Seberang Ulu I & Seberang Ulu II**
+*   **Jakabaring & Kompleks OPI Mall**
+*   **Plaju & Kawasan Bagus Kuning**
+*   **Kertapati & Jalur Keramasan**
+*   **Bukit Kecil & Area 26 Ilir**
+*   **Ilir Barat I (Bukit Besar & Demang Lebar Daun)**
+*   **Kalidoni & Ilir Timur II**
+
+## Tujuan & Objek di Baturaja
+
+Titik turun umum untuk rute Palembang–Baturaja di antaranya:
+
+*   **Baturaja Barat (area/kecamatan)**
+*   **Baturaja Timur (area/kecamatan)**
+*   **Lubuk Batang (area/kecamatan)**
+*   **Semidang Aji (area/kecamatan)**
+*   **Pengandonan (area/kecamatan)**
+*   **Ulu Ogan (area/kecamatan)**
+*   **Hotel Baturaja (penginapan)**
+*   **Grand Kemuning Hotel (penginapan)**
+*   **Hotel Villa Baturaja (penginapan)**
+*   **Stasiun Baturaja**
+*   **Terminal Baturaja**
+

@@ -36,3 +36,26 @@ Kikim adalah wilayah di Kabupaten Lahat yang kaya akan kebun kopi dan pemandanga
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Kikim-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Kikim
+
+Lincah Travel menjemput penumpang rute Kikim–Palembang dari seluruh area Kikim, meliputi:
+
+*   **Kikim Timur**
+*   **Kikim Tengah**
+*   **Kikim Barat**
+*   **Kikim Selatan**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Kikim–Palembang di antaranya:
+
+*   **Stasiun Kereta Api Kertapati & Flyover Keramasan**
+*   **Area Kampus UNSRI Bukit Besar (Jl. Srijaya Negara)**
+*   **The Arista Hotel Palembang & Kawasan Jl. Kapten A. Rivai**
+*   **RS Siloam Sriwijaya & Palembang Square (PS Mall)**
+*   **Hotel Santika Radial Palembang & Transmart**
+*   **RS RK Charitas Palembang (Simpang Charitas)**
+*   **Terminal Karya Jaya & Simpang Musi II**
+*   **Pusat Perkantoran Pemprov Sumsel (Jl. Kapt. A. Rivai)**

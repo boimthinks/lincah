@@ -44,3 +44,27 @@ Harga Rp 400.000 flat, sudah termasuk door-to-door tanpa tambahan.
 ## Pesan Tiket Palembang-Kuala Tungkal
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute, tanggal, jam, alamat jemput, dan alamat tujuan. Admin kami akan konfirmasi ketersediaan kursi. Kursi terbatas untuk menjaga kenyamanan, jadi lebih baik segera booking sebelum kehabisan.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Kuala Tungkal dari seluruh area Palembang, meliputi:
+
+*   **Alang-Alang Lebar & Terminal KM 12 (jalur lintas keluar kota)**
+*   **Sukarami, Talang Betutu & Sekitar Bandara SMB II**
+*   **Jl. Kolonel H. Burlian & Area KM 5 s/d KM 9**
+*   **Demang Lebar Daun & Jalur Lingkar Soekarno-Hatta**
+*   **Kemuning, Sekip & Jl. Basuki Rahmat**
+*   **Sako & Perumnas Kenten**
+*   **Ilir Barat I (Bukit Besar & Macan Kumbang)**
+
+## Tujuan & Objek di Kuala Tungkal
+
+Titik turun umum untuk rute Palembang–Kuala Tungkal di antaranya:
+
+*   **Tungkal Ilir (area/kecamatan)**
+*   **Tungkal Ulu (area/kecamatan)**
+*   **Bram Itam (area/kecamatan)**
+*   **Seberang Kota (area/kecamatan)**
+*   **Betara (area/kecamatan)**
+*   **Kuala Betara (area/kecamatan)**
+

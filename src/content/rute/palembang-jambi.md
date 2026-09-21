@@ -37,3 +37,34 @@ Rp 200.000 flat untuk satu kursi sudah termasuk door-to-door. Tiap penumpang jug
 ## Cara Pesan
 
 Cukup layangkan WhatsApp ke **0813-6923-1893**. Sebutkan rute, tanggal, jam, alamat jemput di Palembang, dan alamat tujuan di Jambi. Admin kami konfirmasi kursi dalam beberapa menit.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Jambi dari seluruh area Palembang, meliputi:
+
+*   **Alang-Alang Lebar & Terminal KM 12 (jalur lintas keluar kota)**
+*   **Sukarami, Talang Betutu & Sekitar Bandara SMB II**
+*   **Jl. Kolonel H. Burlian & Area KM 5 s/d KM 9**
+*   **Demang Lebar Daun & Jalur Lingkar Soekarno-Hatta**
+*   **Kemuning, Sekip & Jl. Basuki Rahmat**
+*   **Sako & Perumnas Kenten**
+*   **Ilir Barat I (Bukit Besar & Macan Kumbang)**
+
+## Tujuan & Objek di Jambi
+
+Titik turun umum untuk rute Palembang–Jambi di antaranya:
+
+*   **Telanaipura (area/kecamatan)**
+*   **Jambi Selatan (area/kecamatan)**
+*   **Jambi Timur (area/kecamatan)**
+*   **Pasar Jambi (area/kecamatan)**
+*   **Kotabaru (area/kecamatan)**
+*   **Danau Teluk (area/kecamatan)**
+*   **Aston Jambi Hotel & Conference Center (penginapan)**
+*   **Swiss-Belhotel Jambi (penginapan)**
+*   **Hotel Jayakarta Jambi (penginapan)**
+*   **Bandara Sultan Thaha Saifuddin**
+*   **Stasiun Jambi**
+*   **Terminal Simpang Pulai**
+*   **Pelabuhan Muara Sabak**
+

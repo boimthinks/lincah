@@ -44,3 +44,32 @@ Bagi Anda yang bekerja di sektor migas atau memiliki urusan bisnis di Prabumulih
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Prabumulih, jam keberangkatan, dan alamat penjemputan. Admin kami siap melayani 24 jam. Atau klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Prabumulih dari seluruh area Palembang, meliputi:
+
+*   **Kertapati & Simpang Flyover Nilakandi (akses rute Lintas Tengah)**
+*   **Bukit Lama & Sekitar Loket Pusat Lincah Travel (Lorong Tj. Burung)**
+*   **Ilir Barat I, Bukit Besar & Perumahan Poligon**
+*   **Demang Lebar Daun & Akses Jembatan Musi II**
+*   **Plaju & Seberang Ulu I**
+*   **Gandus & Area Tangga Buntung**
+*   **Bukit Kecil & Kawasan Kambang Iwak**
+
+## Tujuan & Objek di Prabumulih
+
+Titik turun umum untuk rute Palembang–Prabumulih di antaranya:
+
+*   **Prabumulih Utara (area/kecamatan)**
+*   **Prabumulih Selatan (area/kecamatan)**
+*   **Prabumulih Timur (area/kecamatan)**
+*   **Prabumulih Barat (area/kecamatan)**
+*   **Rambang Kapak Tengah (area/kecamatan)**
+*   **Cambai (area/kecamatan)**
+*   **favehotel Prabumulih (penginapan)**
+*   **South Sumatra Hotel (penginapan)**
+*   **Hotel & Restoran Agung (penginapan)**
+*   **Stasiun Prabumulih**
+*   **Terminal Prabumulih**
+

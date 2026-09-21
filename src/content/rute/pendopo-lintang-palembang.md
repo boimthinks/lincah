@@ -36,3 +36,32 @@ Pendopo Lintang (Empat Lawang) adalah daerah di kaki gunung yang memiliki komodi
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Pendopo Lintang-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam. Klik tombol WhatsApp di halaman ini untuk booking langsung.
+
+## Titik Penjemputan di Pendopo Lintang
+
+Lincah Travel menjemput penumpang rute Pendopo Lintang–Palembang dari seluruh area Pendopo Lintang, meliputi:
+
+*   **Tanjung Baru**
+*   **Bayau**
+*   **Sarang Bulan**
+*   **Muara Karang**
+*   **Landur**
+*   **Gunung Meraksa Lama**
+*   **Manggilan**
+*   **Batu Cawang**
+*   **Gunung Meraksa Baru**
+*   **Beruge Tengah**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Pendopo Lintang–Palembang di antaranya:
+
+*   **Stasiun Kereta Api Kertapati & Flyover Keramasan**
+*   **Area Kampus UNSRI Bukit Besar (Jl. Srijaya Negara)**
+*   **The Arista Hotel Palembang & Kawasan Jl. Kapten A. Rivai**
+*   **RS Siloam Sriwijaya & Palembang Square (PS Mall)**
+*   **Hotel Santika Radial Palembang & Transmart**
+*   **RS RK Charitas Palembang (Simpang Charitas)**
+*   **Terminal Karya Jaya & Simpang Musi II**
+*   **Pusat Perkantoran Pemprov Sumsel (Jl. Kapt. A. Rivai)**

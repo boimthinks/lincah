@@ -38,3 +38,29 @@ Dengan tarif Rp 180.000, perjalanan ini sangat ekonomis. Ditambah sistem door-to
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Sungai Lilin, tanggal, dan alamat penjemputan. Admin siap 24 jam, booking mudah, berangkat tepat waktu.
+
+## Titik Penjemputan di Palembang
+
+Lincah Travel menjemput penumpang rute Palembang–Sungai Lilin dari seluruh area Palembang, meliputi:
+
+*   **Alang-Alang Lebar & Terminal KM 12 (jalur lintas keluar kota)**
+*   **Sukarami, Talang Betutu & Sekitar Bandara SMB II**
+*   **Jl. Kolonel H. Burlian & Area KM 5 s/d KM 9**
+*   **Demang Lebar Daun & Jalur Lingkar Soekarno-Hatta**
+*   **Kemuning, Sekip & Jl. Basuki Rahmat**
+*   **Sako & Perumnas Kenten**
+*   **Ilir Barat I (Bukit Besar & Macan Kumbang)**
+
+## Tujuan & Objek di Sungai Lilin
+
+Titik turun umum untuk rute Palembang–Sungai Lilin di antaranya:
+
+*   **Sungai Lilin (area/kecamatan)**
+*   **Lais (area/kecamatan)**
+*   **Babat Toman (area/kecamatan)**
+*   **Tungkal Jaya (area/kecamatan)**
+*   **Keluang (area/kecamatan)**
+*   **Plakat Tinggi (area/kecamatan)**
+*   **Hotel Merah Putih (penginapan)**
+*   **Terminal Sungai Lilin**
+

@@ -40,3 +40,27 @@ Perjalanan sejauh ini membutuhkan kenyamanan ekstra. Armada Hiace Premio dengan 
 ## Cara Pemesanan
 
 Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Talang Padang-Palembang, tanggal, dan alamat penjemputan. Admin siap 24 jam, fast response, langsung diproses.
+
+## Titik Penjemputan di Talang Padang
+
+Lincah Travel menjemput penumpang rute Talang Padang–Palembang dari seluruh area Talang Padang, meliputi:
+
+*   **Talang Padang**
+*   **Wonosobo**
+*   **Pugung**
+*   **Sukaraja**
+*   **Banding Agung**
+
+
+## Tujuan & Objek di Palembang
+
+Titik turun umum untuk rute Talang Padang–Palembang di antaranya:
+
+*   **Wyndham Opi Hotel Palembang (Kompleks OPI Jakabaring)**
+*   **Stasiun LRT Jakabaring & Gelora Sriwijaya**
+*   **RSUD Palembang BARI & RS Hermina OPI**
+*   **Pasar 16 Ilir & Kawasan Bawah Jembatan Ampera**
+*   **Aryaduta Palembang & Palembang Square Mall**
+*   **Dermaga 7 Ulu & Pasar Induk Jakabaring**
+*   **Stasiun Kereta Api Kertapati**
+*   **RS RK Charitas Palembang**
