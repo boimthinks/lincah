@@ -128,7 +128,7 @@ export default defineConfig({
     plugins: [tailwindcss()],
     jsxRuntime: "classic",
     react:
-      import.meta.env.DEV
+      process.env.NODE_ENV !== 'production'
         ? {
             jsxRuntime: "classic",
           }
