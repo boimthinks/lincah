@@ -67,6 +67,19 @@ export function injectInternalLinks(
     'a', 'button', 'textarea', 'input', 'select'
   ]);
   
+  // Gabungkan semua pattern dalam satu regex (longest-first, non-overlapping)
+  // agar frasa lebih panjang (mis. "travel palembang baturaja") diprioritaskan
+  // dan tidak menimpa frasa pendek ("travel palembang") sehingga tidak menghasilkan
+  // anchor <a> bersarang yang tidak valid.
+  const sorted = keywords.slice().sort((a, b) => b.regexPattern.length - a.regexPattern.length);
+  const combinedPattern = sorted
+    .map((kw, idx) => `(?<g${idx}>${kw.regexPattern})`)
+    .join('|');
+  const combinedRegex = new RegExp(
+    `(?<![a-zA-Z0-9])(?:${combinedPattern})(?![a-zA-Z0-9])`,
+    'gi'
+  );
+  
   const tagStack: string[] = [];
   
   let result = '';
@@ -110,20 +123,24 @@ export function injectInternalLinks(
       const isInForbidden = tagStack.some(t => forbiddenTags.has(t));
       
       if (!isInForbidden && totalLinksAdded < maxLinksPerArticle) {
-        for (const kw of keywords) {
-          if (linkedRoutes.has(kw.routeKey)) continue;
-          if (totalLinksAdded >= maxLinksPerArticle) break;
+        text = text.replace(combinedRegex, (match, ...rest) => {
+          if (totalLinksAdded >= maxLinksPerArticle) return match;
           
-          const regex = new RegExp(`(?<![a-zA-Z0-9])(${kw.regexPattern})(?![a-zA-Z0-9])`, 'gi');
-          
-          if (regex.test(text)) {
-            text = text.replace(regex, (match) => {
-              linkedRoutes.add(kw.routeKey);
-              totalLinksAdded++;
-              return `<a href="${kw.url}" class="internal-link">${match}</a>`;
-            });
+          const groupsObj = rest[rest.length - 1] as Record<string, string>;
+          let matchedKw: KeywordLink | undefined;
+          for (let idx = 0; idx < sorted.length; idx++) {
+            if (groupsObj[`g${idx}`] !== undefined) {
+              matchedKw = sorted[idx];
+              break;
+            }
           }
-        }
+          if (!matchedKw) return match;
+          if (linkedRoutes.has(matchedKw.routeKey)) return match;
+          
+          linkedRoutes.add(matchedKw.routeKey);
+          totalLinksAdded++;
+          return `<a href="${matchedKw.url}" class="internal-link">${match}</a>`;
+        });
       }
       
       result += text;
