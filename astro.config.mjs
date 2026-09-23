@@ -88,14 +88,34 @@ export default defineConfig({
     integrations: [react(), sitemap({
     filter: (page) => {
       const path = new URL(page).pathname;
-      // Hanya exclude halaman yang benar-benar tidak ingin di-index
-      const excluded = [
+
+      // Halaman sistem yang memang tidak boleh di-index & tidak boleh di sitemap
+      const excludedExact = [
         '/404',
         '/admin',
         '/sitemap.xml',
-        '/robots.txt'
+        '/robots.txt',
+        '/booking/terimakasih', // halaman konfirmasi (noindex)
+        '/validasi'             // halaman validasi (noindex)
       ];
-      return !excluded.includes(path);
+      if (excludedExact.includes(path)) return false;
+
+      // Halaman dinamis "/[from]" (daftar travel dari tiap kota) di-noindex,
+      // sehingga harus dikeluarkan dari sitemap. Kita biarkan lewat semua
+      // halaman statis level-1 yang memang ingin di-index (blog, booking,
+      // kontak, harga, dll), dan exclude path level-1 sisanya (slug kota).
+      const indexableStaticRoots = new Set([
+        'blog', 'booking', 'kontak', 'harga', 'rental',
+        'tentang-kami', 'travel', 'kebijakan-privasi', 'syarat-dan-ketentuan'
+      ]);
+
+      const segments = path.split('/').filter(Boolean);
+      if (segments.length === 1 && !indexableStaticRoots.has(segments[0])) {
+        // path level-1 yang bukan halaman statis → halaman "/[from]" (noindex)
+        return false;
+      }
+
+      return true;
     },
     serialize(item) {
       const pathname = new URL(item.url).pathname;
