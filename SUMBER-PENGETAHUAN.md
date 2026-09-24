@@ -153,6 +153,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Martapura | ✅ Ada | `2026-08-13-travel-palembang-martapura-oku-timur.md` |
 | Palembang-Tebing Tinggi (Empat Lawang) | ✅ Ada | `2026-08-14-travel-palembang-tebing-tinggi-empat-lawang.md` |
 | Palembang-Baturaja (vs Kereta) | ✅ Ada | `2026-08-25-perbandingan-travel-vs-kereta-palembang-baturaja.md` |
+| Palembang-Baturaja (Travel 2002, BHW, & celah jadwal Lincah) | ✅ Ada | `2026-09-24-travel-palembang-baturaja-2002-bhw-lincah.md` |
 | Palembang-Pendopo Lintang | ✅ Ada | `2026-08-25-travel-palembang-pendopo-lintang.md` |
 | Palembang-Simpang Belimbing | ✅ Ada | `2026-08-26-travel-palembang-simpang-belimbing.md` (angle pekerja proyek & tambang) |
 

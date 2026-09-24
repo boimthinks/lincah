@@ -62,6 +62,7 @@ Tabel terbit (baris baru ditambahkan):
 | 25 | `2026-08-10-travel-palembang-sekayu.md` | Travel Palembang Sekayu Door to Door: Jadwal, Harga Tiket & Panduan Rute 2026 | Travel Palembang ke Sekayu door-to-door mulai Rp100.000. Cek jadwal keberangkatan 08.00/13.00/16.00 WIB, pilihan armada nyaman, dan booking via WhatsApp 0813-6923-1893. |
 | 27 | `2026-08-13-travel-palembang-martapura-oku-timur.md` | Travel Palembang Martapura OKU Timur Door to Door: Jadwal, Harga Tiket & Tips 2026 | Travel Palembang ke Martapura door-to-door mulai Rp160.000. Cek jadwal 09.00/14.00/20.00 WIB, armada Hiace/Innova/Avanza, dan booking via WhatsApp 0813-6923-1893. |
 | 28 | `2026-09-16-travel-palembang-batu-marta-oku-timur.md` | Travel Palembang Batu Marta OKU Timur Jadwal dan Harga Tiket | Travel Palembang Batu Marta OKU Timur door to door Rp 170.000. Jadwal 08.00/15.00/20.00 WIB. Booking WhatsApp 0813-6923-1893. |
+| 29 | `2026-09-24-travel-palembang-baturaja-2002-bhw-lincah.md` | Travel Palembang Baturaja Selain Kereta 2002 dan BHW Serta Jadwal Lincah | Kenali travel Palembang Baturaja 2002, BHW, dan kereta murah. Lincah arahkan sopir jadwal pas plus info armada. WA 0813-6923-1893. |
 
 ---
 
