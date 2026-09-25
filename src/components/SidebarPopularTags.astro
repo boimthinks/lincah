@@ -1,0 +1,43 @@
+---
+import { getCollection } from 'astro:content';
+
+// Ambil semua blog posts untuk internal linking
+const allBlogPosts = await getCollection('blog', (post) => {
+  return true;
+});
+
+// Ekstrak dan hitung semua tags
+const tagCount = {};
+allBlogPosts.forEach(post => {
+  if (post.data.tags) {
+    post.data.tags.forEach(tag => {
+      tagCount[tag] = (tagCount[tag] || 0) + 1;
+    });
+  }
+});
+
+// Ambil 10 tags terpopuler
+const popularTags = Object.entries(tagCount)
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 10);
+---
+
+{popularTags.length > 0 && (
+  <div class="bg-white rounded-xl border border-slate-100 p-4 shadow-sm">
+    <h3 class="text-base font-bold text-slate-900 mb-3 pb-2 border-b border-slate-100 flex items-center gap-2">
+      <span class="material-symbols-outlined text-lg text-blue-600">sell</span>
+      Topik Populer
+    </h3>
+    <div class="flex flex-wrap gap-2">
+      {popularTags.map(([tag, count]) => (
+        <a 
+          href={`/blog?tag=${encodeURIComponent(tag)}`}
+          class="inline-flex items-center gap-1 px-3 py-1.5 text-xs bg-blue-50 text-blue-700 hover:bg-blue-100 rounded-full transition-colors"
+        >
+          #{tag}
+          <span class="text-[10px] text-blue-500">({count})</span>
+        </a>
+      ))}
+    </div>
+  </div>
+)}

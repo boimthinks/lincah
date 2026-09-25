@@ -5,7 +5,9 @@ import Footer from '../../components/Footer.astro';
 import SidebarCTA from '../../components/SidebarCTA.astro';
 import BlogTOC from '../../components/BlogTOC.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
-import BlogSidebarLinks from '../../components/BlogSidebarLinks.astro';
+import SidebarLatestPosts from '../../components/SidebarLatestPosts.astro';
+import SidebarSimilarPosts from '../../components/SidebarSimilarPosts.astro';
+import SidebarPopularTags from '../../components/SidebarPopularTags.astro';
 import RouteCard from '../../components/RouteCard.astro';
 import { getCollection, getEntries, render, getEntry } from 'astro:content';
 import BlogContent from '../../components/BlogContent.astro';
@@ -247,13 +249,15 @@ const cityImages = cityImagesEntry?.data.cities || {};
 
         {/* Sidebar */}
         <div class="lg:col-span-4 space-y-6 lg:sticky lg:top-28 h-fit">
-          <BlogSidebarLinks currentPostId={post.id} />
+          <BlogTOC headings={headings} />
           <SidebarCTA
             title="Butuh Booking Travel?"
             description="Hubungi admin Lincah Travel sekarang untuk reservasi kursi, tanya tarif promo, atau rute lainnya."
             buttonText="Booking Sekarang"
           />
-          <BlogTOC headings={headings} />
+          <SidebarLatestPosts />
+          <SidebarSimilarPosts currentPostId={post.id} />
+          <SidebarPopularTags />
         </div>
       </div>
 

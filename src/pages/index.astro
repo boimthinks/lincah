@@ -8,6 +8,7 @@ import Fleet from '../components/Fleet.astro';
 import HowToBook from '../components/HowToBook.astro';
 import Testimonials from '../components/Testimonials.astro';
 import FAQ from '../components/FAQ.tsx';
+import BlogCard from '../components/BlogCard.astro';
 import Footer from '../components/Footer.astro';
 import { getCollection, getEntry } from 'astro:content';
 
@@ -15,6 +16,12 @@ const routes = await getCollection('rute');
 const vehicles = await getCollection('vehicles');
 const testimonials = await getCollection('testimonials');
 const faqs = await getCollection('faq');
+const blogPosts = await getCollection('blog');
+
+// Ambil 6 artikel blog terbaru untuk cardview di homepage
+const latestBlogPosts = [...blogPosts]
+  .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime())
+  .slice(0, 6);
 
 const cityImagesEntry = await getEntry('city_images', 'city-images').catch(() => null);
 const cityImages = cityImagesEntry?.data.cities || {};
@@ -109,6 +116,42 @@ const description = "Lincah Travel Palembang: Layanan antar jemput door to door 
       });
     </script>
     <Testimonials testimonials={testimonialsData} />
+
+    {/* Blog Cardview Section */}
+    <section id="blog-terbaru" class="py-20 sm:py-28 bg-slate-50 overflow-hidden text-left border-t border-slate-200">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        {/* Header Section */}
+        <div class="text-center max-w-3xl mx-auto mb-16 sm:mb-20">
+          <span class="inline-flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-widest text-blue-700 bg-blue-50 px-3.5 py-2 border border-blue-200 rounded-none mb-3">
+            ARTIKEL & TIPS PERJALANAN
+          </span>
+          <h2 class="text-3xl sm:text-4xl font-extrabold text-blue-900 tracking-tight uppercase">
+            Blog & Info Terbaru Lincah Travel
+          </h2>
+          <p class="text-sm sm:text-base text-slate-500 mt-3 font-normal max-w-xl mx-auto leading-relaxed">
+            Temukan tips perjalanan, panduan rute, dan informasi terbaru seputar layanan travel door-to-door dari Palembang ke seluruh Sumatera Selatan dan sekitarnya.
+          </p>
+        </div>
+
+        {/* 6 Blog Cards */}
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
+          {latestBlogPosts.map((post) => (
+            <BlogCard post={post} />
+          ))}
+        </div>
+
+        {/* Link ke halaman blog */}
+        <div class="text-center mt-12">
+          <a
+            href="/blog"
+            class="inline-flex items-center justify-center gap-2 bg-blue-900 hover:bg-blue-800 text-white font-extrabold uppercase tracking-widest text-xs px-8 py-4 transition-colors"
+          >
+            Lihat Semua Artikel
+          </a>
+        </div>
+      </div>
+    </section>
+
     <FAQ faqs={faqsData} client:load />
   </main>
   <Footer />

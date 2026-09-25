@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+
+// Ambil semua blog posts untuk internal linking
+const allBlogPosts = await getCollection('blog', (post) => {
+  return true;
+});
+
+// Ambil post yang sedang dilihat untuk menentukan related posts
+const { currentPostId } = Astro.props;
+
+// Filter posts berdasarkan kategori yang sama (tidak termasuk current post)
+let similarCategoryPosts = [];
+if (currentPostId) {
+  const currentPost = allBlogPosts.find(p => p.id === currentPostId);
+  if (currentPost) {
+    similarCategoryPosts = allBlogPosts
+      .filter(post => post.id !== currentPostId && post.data.kategori === currentPost.data.kategori)
+      .slice(0, 3);
+  }
+}
+---
+
+{similarCategoryPosts.length > 0 && (
+  <div class="bg-white rounded-xl border border-slate-100 p-4 shadow-sm">
+    <h3 class="text-base font-bold text-slate-900 mb-3 pb-2 border-b border-slate-100 flex items-center gap-2">
+      <span class="material-symbols-outlined text-lg text-blue-600">menu_book</span>
+      Artikel Serupa
+    </h3>
+    <ul class="space-y-2">
+      {similarCategoryPosts.map((post) => (
+        <li>
+          <a 
+            href={`/blog/${post.data.slug}`}
+            class="block py-1.5 px-2 rounded hover:bg-slate-50 transition-colors"
+          >
+            <span class="text-xs font-medium text-slate-800 line-clamp-2">
+              {post.data.title}
+            </span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+)}
