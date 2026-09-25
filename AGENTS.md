@@ -89,3 +89,19 @@ Semua data dinamis disimpan dalam Markdown, didefinisikan di `src/content.config
 - **Windows Paths**: gunakan forward slash untuk import Astro.
 - **Permalink Redirects (301)**: `/travel/from-to/` lama diarahkan ke `/{from}/{to}` via `public/_redirects`. Semua URL TANPA trailing slash (`trailingSlash: 'never'`, `build.format: 'file'`); `_redirects` otomatis 301 dari URL ber-trailing slash lama.
 - **404 Page**: `src/pages/404.astro` dengan countdown 5 detik sebelum redirect ke homepage.
+
+## Git Commit & Push Gotchas
+- **Output git tidak standar / tampil aneh**: Perintah `git status` di environment ini bisa mengembalikan format kustom (mis. `* master`, `~ Modified: 4 files`, atau `clean — nothing to commit`) yang BUKAN output git vanilla. Jangan percaya begitu saja pada ringkasan tersebut. Selalu verifikasi state sebenarnya dengan perintah eksplisit:
+  - `git ls-files --others --exclude-standard` (cek file untracked/baru)
+  - `git ls-files --deleted` (cek file terhapus)
+  - `git diff --name-only` (cek file modified)
+  - `git diff --cached --name-only` (cek yang sudah di-stage)
+- **Jangan `git add .` atau `git add -A` secara buta**: Selalu stage file satu per satu atau per kelompok yang relevan dengan perubahan fitur. Di sesi ini ditemukan `adminapp/pack.zip` ikut terdeteksi sebagai *deleted* padahal BUKAN bagian dari perubahan kita (sudah tidak ada di working tree, besar kemungkinan terhapus oleh proses lain/build). Men-stage dan commit file tidak terkait berisiko menghapus aset `adminapp` secara tidak sengaja.
+- **Cara menyelesaikan masalah saat commit & push**:
+  1. Jalankan perintah verifikasi state di atas (bukan hanya `git status`) untuk memetakan file baru/modified/deleted.
+  2. Pisahkan file milik perubahan kita dari file tidak terkait (mis. `adminapp/pack.zip`). Exclude file tidak terkait dari staging.
+  3. Stage hanya file relevan: `git add <file1> <file2> ...` (hindari `.` atau `-A`).
+  4. Commit dengan pesan yang merangkum perubahan (`git commit -m "..."`).
+  5. Push ke remote: `git push`. Pastikan branch target benar (default `master`).
+  6. Verifikasi hasil: `git log --oneline -3` dan cek output push (`<hash> master -> master`).
+- **Build dulu sebelum commit bila menyentuh kode/komponen**: Jalankan `npm run build` untuk memastikan tidak ada error (EXIT CODE 0) sebelum meng-commit perubahan frontend, agar tidak mem-push kode yang gagal build.
