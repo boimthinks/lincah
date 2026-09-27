@@ -80,4 +80,4 @@ Hubungi admin di WhatsApp **0813-6923-1893** dengan format berikut.
 
 Admin aktif 24 jam, termasuk saat Anda butuh keberangkatan dadakan karena perubahan jadwal proyek.
 
-Lebih suka mengisi formulir? Buka halaman [booking online](/booking) lalu lengkapi data penumpang dan titik jemput lewat peta. Setelah dikirim, detail pesanan otomatis diarahkan ke WhatsApp admin untuk konfirmasi akhir. Rencana menambah rute lain di Sumatera Selatan bisa disesuaikan dengan [rekap harga travel Sumatera Selatan](/blog/rekap-harga-travel-sumatera-selatan). Besok pagi sertifikat terurus, sore harinya Anda sudah duduk kembali di mess tanpa drama menunggu angkutan lewat.
+Lebih suka mengisi formulir? Buka halaman [booking online](/booking) lalu lengkapi data penumpang dan titik jemput lewat peta. Setelah dikirim, detail pesanan otomatis diarahkan ke WhatsApp admin untuk konfirmasi akhir. Rencana menambah rute lain di Sumatera Selatan bisa disesuaikan dengan [rekap harga travel Sumatera Selatan](/blog/rekap-harga-travel-sumatera-selatan-2026). Besok pagi sertifikat terurus, sore harinya Anda sudah duduk kembali di mess tanpa drama menunggu angkutan lewat.

@@ -1,0 +1,89 @@
+---
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+
+const allRoutes = (await getCollection('rute')) as CollectionEntry<'rute'>[];
+
+const slugify = (str: string) => str.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');
+const titleCase = (str: string) => str.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+
+const routeUrl = (route: CollectionEntry<'rute'>) =>
+  `/${slugify(route.data.from)}/${slugify(route.data.to)}`;
+
+// Kelompokkan rute berdasarkan arah: keluar dari Palembang vs masuk ke Palembang.
+// Dua arah ini dilayani fleet yang sama, jadi tampilkan keduanya supaya pengguna
+// dari luar kota bisa langsung menuju halamannya.
+const isPalembang = (city: string) => city.toLowerCase() === 'palembang';
+
+const outward = allRoutes.filter(r => isPalembang(r.data.from));
+const inbound = allRoutes.filter(r => !isPalembang(r.data.from) && isPalembang(r.data.to));
+
+const byPriceAsc = (a: CollectionEntry<'rute'>, b: CollectionEntry<'rute'>) =>
+  a.data.price - b.data.price;
+const byNameAsc = (a: CollectionEntry<'rute'>, b: CollectionEntry<'rute'>) =>
+  titleCase(a.data.from).localeCompare(titleCase(b.data.from), 'id');
+
+const outwardSorted = [...outward].sort(byNameAsc);
+const inboundSorted = [...inbound].sort(byPriceAsc);
+---
+
+<section class="mt-16 pt-12 border-t border-slate-200" aria-labelledby="direktori-rute">
+  <div class="max-w-4xl">
+    <h2 id="direktori-rute" class="text-2xl sm:text-3xl font-extrabold text-blue-900 uppercase tracking-tight">
+      Direktori Rute Travel Lengkap
+    </h2>
+    <p class="text-slate-600 leading-relaxed mt-3">
+      Lincah Travel melayani dua arah perjalanan dengan armada dan jadwal yang sama.
+      Pilih kota asal Anda di bawah untuk melihat ongkos, jadwal keberangkatan, dan
+      detail rute door-to-door. Semua harga sudah termasuk penjemputan di alamat Anda.
+    </p>
+  </div>
+
+  <div class="mt-10 grid grid-cols-1 lg:grid-cols-2 gap-10">
+    <div>
+      <h3 class="text-sm font-bold uppercase tracking-widest text-blue-700 border-b border-slate-200 pb-2 mb-5">
+        Travel dari Palembang
+      </h3>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-1">
+        {outwardSorted.map(route => (
+          <li>
+            <a
+              href={routeUrl(route)}
+              class="flex items-baseline justify-between gap-3 py-2 border-b border-slate-100 hover:bg-slate-50 transition-colors"
+            >
+              <span class="text-sm font-semibold text-slate-700 truncate">
+                Travel Palembang {titleCase(route.data.to)}
+              </span>
+              <span class="text-xs font-medium text-slate-500 whitespace-nowrap">
+                Rp {route.data.price.toLocaleString('id-ID')}
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+
+    <div>
+      <h3 class="text-sm font-bold uppercase tracking-widest text-blue-700 border-b border-slate-200 pb-2 mb-5">
+        Travel ke Palembang
+      </h3>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-1">
+        {inboundSorted.map(route => (
+          <li>
+            <a
+              href={routeUrl(route)}
+              class="flex items-baseline justify-between gap-3 py-2 border-b border-slate-100 hover:bg-slate-50 transition-colors"
+            >
+              <span class="text-sm font-semibold text-slate-700 truncate">
+                Travel {titleCase(route.data.from)} ke Palembang
+              </span>
+              <span class="text-xs font-medium text-slate-500 whitespace-nowrap">
+                Rp {route.data.price.toLocaleString('id-ID')}
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </div>
+</section>

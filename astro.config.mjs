@@ -96,16 +96,17 @@ export default defineConfig({
         '/sitemap.xml',
         '/robots.txt',
         '/booking/terimakasih', // halaman konfirmasi (noindex)
-        '/validasi'             // halaman validasi (noindex)
+        '/validasi',            // halaman validasi (noindex)
+        '/harga'                // halaman internal admin (noindex)
       ];
       if (excludedExact.includes(path)) return false;
 
       // Halaman dinamis "/[from]" (daftar travel dari tiap kota) di-noindex,
       // sehingga harus dikeluarkan dari sitemap. Kita biarkan lewat semua
       // halaman statis level-1 yang memang ingin di-index (blog, booking,
-      // kontak, harga, dll), dan exclude path level-1 sisanya (slug kota).
+      // kontak, rental, dll), dan exclude path level-1 sisanya (slug kota).
       const indexableStaticRoots = new Set([
-        'blog', 'booking', 'kontak', 'harga', 'rental',
+        'blog', 'booking', 'kontak', 'rental',
         'tentang-kami', 'travel', 'kebijakan-privasi', 'syarat-dan-ketentuan'
       ]);
 
