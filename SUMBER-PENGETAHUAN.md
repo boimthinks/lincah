@@ -62,8 +62,15 @@ Gunakan data ini sebagai social proof dalam artikel:
 | **Palembang-Pendopo Lintang** | 8-9 jam | - | Rp 230.000 | Empat Lawang |
 | **Palembang-Kikim** | 7-8 jam | - | Rp 200.000 | Lahat |
 | **Palembang-Indralaya** | 45 menit | Tol | Rp 100.000 | Akses Kampus UNSRI |
+| **Palembang-Muara Beliti** | 6 jam 40 menit | Lintas Tengah (tol Indraprabu) | Rp 250.000 | Ibukota Musi Rawas, urusan Pemkab & niaga |
+| **Palembang-Talang Padang** | 10-12 jam | Tol Trans-Sumatera (Terpeka) - Pringsewu | Rp 400.000 | Lampung Barat, perantau & pebisnis kopi |
+| **Palembang-Tugumulyo** | 7-8 jam | Tol Indraprabu - Lintas OKU Timur | Rp 180.000 | Sentra pangan OKU Timur, transmigrasi |
+| **Palembang-Pelabuhan Tanjung Api-api** | 1 jam 55 menit | Jl. Akses TAA (koridor Gasing) | Rp 150.000 | Gerbang feri ke Bangka (Tanjung Kalian/Muntok) |
 
 **Sumber data:** `src/content/rute/*.md`
+
+> **Catatan penting:** Ongkos travel ke Pelabuhan Tanjung Api-api **belum termasuk**
+> tiket kapal feri. Tiket penyeberangan (ASDP/Ferizy) dibeli terpisah oleh penumpang.
 
 ---
 
@@ -124,6 +131,9 @@ Langggar larangan ini akan menghancurkan konten SEO:
 - **Satu paragraf maksimal 3-4 kali kalimat**.
 - **Tidak ada URL kaki** (links ke navigasi, bukan internal link) — gunakan internal link untuk struktur SEO.
 - **Judul file = tanggal** (format: `YYYY-MM-DD-slug.md`) — sesuai Astro Content Collections.
+- **Arah autolink = artikel blog, BUKAN landing page**: Google mengindeks artikel blog (`/blog/<slug>`), bukan halaman rute `/[from]/[to]`. Autolink otomatis sudah diarahkan ke artikel blog via `ROUTE_BLOG_MAP` di `src/utils/internalLinks.ts`. Setiap artikel rute baru WAJIB didaftarkan ke map itu (dua arah bila ada). Detail lengkap ada di `AGENTS.md`.
+- **Variasi judul artikel rute**: `judul_seo` (H1 & meta title) tidak boleh selalu berawalan "Panduan Lengkap Travel ...". Variasikan dengan pola Ongkos / Harga / Jadwal / angle unik rute. Detail lengkap ada di `AGENTS.md`.
+- **Heading artikel rute TANPA penomoran**: H2 dan H3 tidak diawali nomor ("1.", "2.1", dst). Angka yang bermakna di dalam teks heading (mis. "Lintas Tengah 7 Jam") boleh tetap ada.
 
 ---
 
@@ -167,14 +177,24 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Jambi-Bangko | `2026-08-08-travel-jambi-bangko-door-to-door.md` |
 | Rute Utama (artikel pilar, 6 koridor) | `2026-08-26-rute-utama-lincah-travel.md` |
 | Palembang-Kikim | `2026-09-19-travel-palembang-kikim-lahat.md` |
+| Palembang-Muara Beliti | `2026-09-27-travel-palembang-muara-beliti.md` |
+| Palembang-Talang Padang (Lampung Barat) | `2026-09-27-travel-palembang-talang-padang.md` |
+| Palembang-Tugumulyo (OKU Timur) | `2026-09-27-travel-palembang-tugumulyo.md` |
+| Palembang-Pelabuhan Tanjung Api-api | `2026-09-27-travel-palembang-pelabuhan-tanjung-api-api.md` |
 
-### Rute Belum Ada Artikelya (PRIORITAS TINGGI)
-| Rute | Prioritas | Alasan |
-|---|---|---|
-| Palembang-Belitang | 🔴 Tinggi | Wilayah OKU Timur, pusat pertanian & bisnis |
-| Palembang-Tanjung Enim | 🟡 Sedang | Kawasan tambang & industri dekat Muara Enim |
-| Palembang-Sungai Lilin | 🟡 Sedang | Jalur Lintas Timur Palembang - Jambi |
-| Palembang-Sungai Lilin | 🟡 Sedang | Jalur Lintas Timur Palembang - Jambi |
+### Status Kelengkapan Artikel Rute (SELESAI)
+
+Semua rute yang terdaftar di `src/content/rute/` sudah punya artikel blog dan
+terpetakan di `ROUTE_BLOG_MAP` (`src/utils/internalLinks.ts`), sehingga autolink
+rute mengarah ke artikel yang terindeks Google — bukan ke landing page
+`/[from]/[to]` yang tidak terindeks.
+
+Empat rute terakhir yang ditutup pada 2026-09-27: Muara Beliti, Talang Padang,
+Tugumulyo, dan Pelabuhan Tanjung Api-api.
+
+Untuk audit menyeluruh (rute yang belum punya artikel + prioritas), baca
+`DAFTAR-ARTIKEL-RUTE-BELUM-DITULIS.md` di root project. File tersebut sekarang
+menjadi catatan historis, bukan daftar pekerjaan aktif.
 
 ---
 
@@ -182,9 +202,15 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 
 Topik-topik ini bisa dikembangkan, belum memiliki artikel:
 
-1. Travel Palembang-Muara Enim (tipe beda, lebih kompleks)
-2. Travel Palembang-Lahat (kemungkinan heavy traffic di Tol)
-3. Mengapa Hiace Premio lebih nyaman untuk rute <?= "nama rute" ?>
+1. Mengapa Hiace Premio lebih nyaman untuk rute <?= "nama rute" ?> (angle armada)
+2. Kirim paket / titip barang untuk rute yang belum punya artikel paket sendiri
+   (mis. Muara Beliti, Talang Padang, Tugumulyo, Pelabuhan Tanjung Api-api)
+3. Artikel pendukung (bukan artikel rute utama): jadwal, tips, dan referensi
+   → lihat `DAFTAR-KEYWORD-GOOGLE-ADS.md` & `DAFTAR-ARTIKEL.md` untuk kandidat topik
+
+> **Catatan:** Travel Palembang-Muara Enim dan Travel Palembang-Lahat **sudah**
+> memiliki artikel (lihat daftar di Bagian 9). Jangan menulis ulang tanpa angle
+> baru yang jelas.
 
 Jika menulis topik yang sudah ada artikelnya, **dilarang** kecuali ada pembaruan signifikan (harga berubah, armada baru, pengalaman pelanggan terbaru) atau angle berbeda (misal dari sisi hotel, wisata, atau perjalanan dinas).
 

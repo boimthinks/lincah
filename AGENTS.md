@@ -13,8 +13,20 @@
 - Saat diminta menulis, mengedit, atau memberi saran judul artikel blog, baca `src/content/blog/` and `SUMBER-PENGETAHUAN.md` (di root project) untuk data brand, rute, harga, armada, testimoni, frontmatter schema. Untuk detail geografi/koridor rute (daerah yang dilewati, junction, karakteristik jalur), baca juga `PENGETAHUAN-KORIDOR-RUTE.md` di root project.
 - Gunakan skill **`penulis-ahli`** untuk menulis/mengedit artikel (menggabungkan humanizer + SEO/GEO + konten non-komoditas dalam satu pass).
 - **Aturan Penyisipan Keyword**: Saat menulis artikel blog baru, wajib menyelipkan kata kunci rute (seperti "travel [asal] [tujuan]" atau "travel [asal] ke [tujuan]") secara natural di dalam body tulisan (bukan di dalam heading atau properti frontmatter seperti pengantar/kesimpulan), agar dapat diproses oleh mekanisme internal link otomatis.
+- **Arah Autolink Internal (PENTING — ke Artikel Blog, bukan Landing Page)**: Google bersikeras mengindeks artikel blog (`/blog/<slug>`), bukan halaman rute (`/[from]/[to]`). Agar *link equity* tidak "jatuh" ke halaman yang tidak terindeks, autolink otomatis di `src/utils/internalLinks.ts` **dialihkan ke artikel blog** via pemetaan eksplisit `ROUTE_BLOG_MAP` (`routeKey` → `/blog/<slug>`). Aturan main:
+  1. Setiap artikel rute baru **WAJIB** didaftarkan di `ROUTE_BLOG_MAP` (baik arah `palembang-[kota]` maupun `[kota]-palembang`) agar autolink rute mengarah ke artikel tersebut, bukan ke landing page.
+  2. `routeKey` = `${slugify(from)}-${slugify(to)}` (slugify = lowercase, spasi→`-`, hapus `()`). Contoh: `from=palembang, to=muara beliti` → `palembang-muara-beliti`.
+  3. Jika suatu rute belum punya artikel blog, autolink akan **fallback** ke `/[from]/[to]` (landing page). Jangan memaksakan slug yang belum ada (risiko link 404).
+  4. Nilai `url` di map harus persis sama dengan `slug` frontmatter artikel (tanpa `/blog/` di awal penulisan map, sudah ditambahkan otomatis) — selalu cross-check dengan `grep "^slug:" src/content/blog/*.md` sebelum commit.
+  5. Setelah menambah artikel rute, jalankan `npm run build` untuk memastikan tidak ada slug hantu.
+- **Variasi Judul Artikel Rute (Hindari Pola Monoton)**: `judul_seo` (yang menjadi H1 & meta title) untuk artikel rute **tidak boleh selalu** berawalan "Panduan Lengkap Travel ...". Buat bervariasi antar rute agar tidak terkesan templated/duplikat di mata Google. Contoh variasi yang diperbolehkan (pilih satu yang paling pas dengan angle artikel):
+  1. **Ongkos Travel [Asal] [Tujuan] ...** — fokus harga, mis. "Ongkos Travel Palembang Muara Beliti Jadwal dan Rute Lintas Tengah".
+  2. **Harga Travel [Asal] [Tujuan] ...** — mis. "Harga Travel Palembang Talang Padang Jadwal dan Rute via Tol Trans Sumatera".
+  3. **Jadwal Travel [Asal] [Tujuan] ...** — fokus jadwal/keberangkatan.
+  4. **Travel [Asal] [Tujuan] [Keunikan/Angle]** — mis. "... Paling Nyaman", "... Door to Door Terbaik 2026", "... untuk Perjalanan Dinas".
+  Pastikan tetap mengandung elemen penting (nama rute, dan minimal salah satu dari: harga/ongkos, jadwal, atau rute) untuk kekuatan SEO, panjang maksimal 12 kata tanpa titik dua (sesuai `SUMBER-PENGETAHUAN.md`).
 - **Kewajiban Dua Anchor per Artikel (Internal Link)**: Setiap artikel blog baru wajib memuat minimal 2 tautan internal dengan anchor text sebagai berikut:
-  1. **Anchor rute**: frasa "travel [asal] [tujuan]" (misal "travel palembang lahat") yang mengarah ke halaman rute spesifik (`/[from]/[to]`), diproses otomatis oleh `src/utils/internalLinks.ts`.
+  1. **Anchor rute**: frasa "travel [asal] [tujuan]" (misal "travel palembang lahat") — diproses otomatis oleh `src/utils/internalLinks.ts` yang akan mengarahkan ke **artikel blog rute terkait** (via `ROUTE_BLOG_MAP`), atau *fallback* ke halaman rute `/[from]/[to]` bila rute belum punya artikel.
   2. **Anchor merek/homepage**: frasa "travel palembang" (tanpa kota tujuan) yang mengarah ke homepage (`/`), diproses otomatis oleh `src/utils/internalLinks.ts` (keyword `travel palembang` sudah terdaftar di util tersebut).
   Kedua frasa harus muncul natural di body artikel (bukan di heading atau frontmatter). Pastikan "travel palembang" berdiri sendiri (tidak langsung diikuti nama kota tujuan) agar tidak tertelan oleh anchor rute yang lebih panjang.
 - **Kepatuhan Terhadap Kebijakan Google Spam Update**:

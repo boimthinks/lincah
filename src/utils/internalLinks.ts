@@ -18,6 +18,88 @@ function escapeRegExp(str: string): string {
   return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
+/**
+ * Pemetaan eksplisit routeKey -> URL artikel blog.
+ *
+ * Konteks SEO: Google bersikeras mengindeks artikel blog (bukan halaman rute
+ * /[from]/[to] yang bertindak sebagai money page). Agar link equity dari
+ * autolink tidak "jatuh" ke halaman yang tidak terindeks, autolink dialihkan
+ * ke artikel blog yang benar-benar tampil di SERP.
+ *
+ * routeKey dibentuk dari slug kota asal & tujuan: `${slugify(from)}-${slugify(to)}`.
+ * Mapping ini tidak seragam (slug artikel tidak mengikuti pola rute) sehingga
+ * harus didaftarkan manual. Untuk rute yang belum punya artikel, autolink
+ * akan tetap mengarah ke halaman rute (/[from]/[to]) sebagai fallback.
+ */
+const ROUTE_BLOG_MAP: Record<string, string> = {
+  // Palembang -> kota (arah utama, paling banyak dicari)
+  'palembang-baturaja': '/blog/travel-palembang-baturaja-door-to-door',
+  'palembang-lampung': '/blog/travel-palembang-lampung-via-tol',
+  'palembang-jambi': '/blog/travel-palembang-jambi-berbasis-palembang',
+  'palembang-kayu-agung': '/blog/travel-palembang-kayu-agung-door-to-door',
+  'palembang-kikim': '/blog/ongkos-dan-jadwal-travel-palembang-kikim-lahat',
+  'palembang-lahat': '/blog/travel-palembang-lahat-door-to-door',
+  'palembang-lubuklinggau': '/blog/travel-palembang-lubuk-linggau-door-to-door',
+  'palembang-muara-enim': '/blog/travel-palembang-muara-enim-door-to-door',
+  'palembang-muara-dua': '/blog/travel-palembang-muara-dua-door-to-door',
+  'palembang-pagaralam': '/blog/travel-palembang-pagaralam-door-to-door',
+  'palembang-sekayu': '/blog/travel-palembang-sekayu',
+  'palembang-sungai-lilin': '/blog/travel-palembang-sungai-lilin-door-to-door',
+  'palembang-bayung-lencir': '/blog/travel-palembang-bayung-lencir-door-to-door',
+  'palembang-indralaya': '/blog/travel-palembang-indralaya-unsri',
+  'palembang-martapura': '/blog/travel-palembang-martapura-oku-timur',
+  'palembang-batu-marta': '/blog/travel-palembang-batu-marta-oku-timur',
+  'palembang-belitang': '/blog/travel-palembang-belitang-oku-timur',
+  'palembang-prabumulih': '/blog/travel-palembang-prabumulih-jadwal-malam',
+  'palembang-betung': '/blog/travel-palembang-ke-betung-rekomendasi-hotel',
+  'palembang-simpang-belimbing': '/blog/travel-palembang-simpang-belimbing',
+  'palembang-pendopo-lintang': '/blog/travel-palembang-pendopo-lintang',
+  'palembang-babat-toman': '/blog/travel-palembang-babat-toman-harga',
+  'palembang-tanjung-enim': '/blog/travel-palembang-tanjung-enim',
+  'palembang-tebing-tinggi': '/blog/travel-palembang-tebing-tinggi-empat-lawang',
+  'palembang-danau-ranau': '/blog/perjalanan-palembang-danau-ranau-wisata',
+  'palembang-kuala-tungkal': '/blog/travel-palembang-kuala-tungkal-lintas-provinsi',
+  'palembang-talang-padang': '/blog/travel-palembang-talang-padang',
+  'palembang-tugumulyo': '/blog/travel-palembang-tugumulyo',
+  'palembang-pelabuhan-tanjung-api-api': '/blog/travel-palembang-pelabuhan-tanjung-api-api',
+  'palembang-muara-bulian': '/blog/travel-palembang-muara-bulian-perjalanan-dinas',
+  'palembang-muara-beliti': '/blog/travel-palembang-muara-beliti',
+
+  // Kota -> Palembang (arah balik)
+  'baturaja-palembang': '/blog/travel-palembang-baturaja-door-to-door',
+  'lampung-palembang': '/blog/travel-palembang-lampung-via-tol',
+  'jambi-palembang': '/blog/travel-palembang-jambi-berbasis-palembang',
+  'kayu-agung-palembang': '/blog/travel-palembang-kayu-agung-door-to-door',
+  'kikim-palembang': '/blog/ongkos-dan-jadwal-travel-palembang-kikim-lahat',
+  'lahat-palembang': '/blog/travel-palembang-lahat-door-to-door',
+  'lubuklinggau-palembang': '/blog/travel-palembang-lubuk-linggau-door-to-door',
+  'muara-enim-palembang': '/blog/travel-palembang-muara-enim-door-to-door',
+  'muara-dua-palembang': '/blog/travel-palembang-muara-dua-door-to-door',
+  'pagaralam-palembang': '/blog/travel-palembang-pagaralam-door-to-door',
+  'sekayu-palembang': '/blog/travel-palembang-sekayu',
+  'sungai-lilin-palembang': '/blog/travel-palembang-sungai-lilin-door-to-door',
+  'bayung-lencir-palembang': '/blog/travel-palembang-bayung-lencir-door-to-door',
+  'indralaya-palembang': '/blog/travel-palembang-indralaya-unsri',
+  'martapura-palembang': '/blog/travel-palembang-martapura-oku-timur',
+  'batu-marta-palembang': '/blog/travel-palembang-batu-marta-oku-timur',
+  'belitang-palembang': '/blog/travel-palembang-belitang-oku-timur',
+  'prabumulih-palembang': '/blog/travel-palembang-prabumulih-jadwal-malam',
+  'betung-palembang': '/blog/travel-palembang-ke-betung-rekomendasi-hotel',
+  'simpang-belimbing-palembang': '/blog/travel-palembang-simpang-belimbing',
+  'pendopo-lintang-palembang': '/blog/travel-palembang-pendopo-lintang',
+  'babat-toman-palembang': '/blog/travel-palembang-babat-toman-harga',
+  'tebing-tinggi-palembang': '/blog/travel-palembang-tebing-tinggi-empat-lawang',
+  'danau-ranau-palembang': '/blog/perjalanan-palembang-danau-ranau-wisata',
+  'kuala-tungkal-palembang': '/blog/travel-palembang-kuala-tungkal-lintas-provinsi',
+  'muara-beliti-palembang': '/blog/travel-palembang-muara-beliti',
+  'talang-padang-palembang': '/blog/travel-palembang-talang-padang',
+  'tugumulyo-palembang': '/blog/travel-palembang-tugumulyo',
+
+  // Rute non-Palembang (lintas kota)
+  'jambi-bangko': '/blog/travel-jambi-bangko-door-to-door',
+  'muara-bulian-jambi-palembang': '/blog/travel-palembang-muara-bulian-perjalanan-dinas',
+};
+
 export function generateRouteKeywords(routes: RouteData[]): KeywordLink[] {
   const keywords: KeywordLink[] = [];
   
@@ -32,8 +114,11 @@ export function generateRouteKeywords(routes: RouteData[]): KeywordLink[] {
   for (const route of routes) {
     const fromSlug = slugifyCity(route.from);
     const toSlug = slugifyCity(route.to);
-    const url = `/${fromSlug}/${toSlug}`;
     const routeKey = `${fromSlug}-${toSlug}`;
+    
+    // Arahkan autolink ke artikel blog (yang terindeks Google) bila tersedia,
+    // fallback ke halaman rute /[from]/[to].
+    const url = ROUTE_BLOG_MAP[routeKey] ?? `/${fromSlug}/${toSlug}`;
     
     const fromEscaped = escapeRegExp(route.from.toLowerCase());
     const toEscaped = escapeRegExp(route.to.toLowerCase());
