@@ -23,9 +23,9 @@ Berikut 10 rute yang paling sering kami layani, diurutkan dari yang termurah.
 | Tujuan | Harga | Durasi |
 |---|---|---|
 | Kayu Agung | Rp 100.000 | 1,5 jam |
-| Prabumulih | Rp 120.000 | 2 jam |
+| Prabumulih | Rp 130.000 | 2 jam |
 | Sekayu | Rp 180.000 | 3 jam |
-| Baturaja | Rp 120.000 | 4-5 jam |
+| Baturaja | Rp 200.000 | 4-5 jam |
 | Muara Enim | Rp 150.000 | 4-5 jam |
 | Lahat | Rp 200.000 | 5-6 jam |
 | Pagaralam | Rp 180.000 | 7-8 jam |
@@ -43,7 +43,7 @@ Perjalanan yang masih satu kawasan Palembang adalah yang paling ringan.
 
 Kayu Agung bisa ditempuh 1,5 jam via tol dengan tarif Rp 100.000. Keberangkatan setiap jam mulai pukul 07.00 sampai 18.00 WIB. Rute ini dipakai banyak orang yang bekerja di Palembang tapi tinggal di OKI. Informasi lengkapnya ada di artikel [travel Palembang Kayu Agung](https://lincahtravel.web.id/blog/travel-palembang-kayu-agung-door-to-door).
 
-Prabumulih sedikit lebih jauh, Rp 120.000 untuk 2 jam, dengan jadwal setiap jam dari 07.00 sampai 21.00 WIB. Buat yang pulang kampung akhir pekan atau dinas ke lapangan, rute ini yang paling ramai.
+Prabumulih sedikit lebih jauh, Rp 130.000 untuk 2 jam, dengan jadwal setiap jam dari 07.00 sampai 21.00 WIB. Buat yang pulang kampung akhir pekan atau dinas ke lapangan, rute ini yang paling ramai.
 
 Ada satu lagi yang sering ditanyakan mahasiswa baru: Indralaya, Rp 100.000, 45 menit. Keberangkatan setiap jam dari pagi sampai malam. Karena jalurnya pendek, armada yang kami turunkan biasanya Avanza atau Innova.
 
@@ -51,7 +51,7 @@ Ada satu lagi yang sering ditanyakan mahasiswa baru: Indralaya, Rp 100.000, 45 m
 
 Begitu masuk jalur Lintas Sumatera ke arah barat, tarif naik seiring bertambahnya jarak.
 
-Baturaja Rp 120.000 untuk 4-5 jam via Prabumulih. Jadwalnya paling fleksibel, ada empat kali keberangkatan. Rute ini sudah kami ulas panjang lebar di artikel [travel Palembang Baturaja](https://lincahtravel.web.id/blog/travel-palembang-baturaja-door-to-door).
+Baturaja Rp 200.000 untuk 4-5 jam via Prabumulih. Jadwalnya paling fleksibel, ada empat kali keberangkatan. Rute ini sudah kami ulas panjang lebar di artikel [travel Palembang Baturaja](https://lincahtravel.web.id/blog/travel-palembang-baturaja-door-to-door).
 
 Muara Enim Rp 150.000, 4-5 jam, dengan empat jadwal juga. Kota ini jadi persinggahan penting karena posisinya di jalur menuju Lahat dan Lubuklinggau. Detail tarif dan tipsnya ada di artikel [travel Palembang Muara Enim](https://lincahtravel.web.id/blog/travel-palembang-muara-enim-door-to-door).
 
@@ -129,7 +129,7 @@ Rp 300.000 dengan waktu tempuh 4-5 jam via Tol Trans Sumatera. Keberangkatan puk
 
 ### Rute mana yang paling murah?
 
-Kayu Agung Rp 100.000 dengan waktu tempuh 1,5 jam dan Prabumulih Rp 120.000 (2 jam). Rute dekat lainnya seperti Indralaya Rp 100.000 via tol.
+Kayu Agung Rp 100.000 dengan waktu tempuh 1,5 jam dan Prabumulih Rp 130.000 (2 jam). Rute dekat lainnya seperti Indralaya Rp 100.000 via tol.
 
 ### Bisakah berangkat malam untuk rute jauh?
 

@@ -61,7 +61,8 @@ export default function BookingModal({
   const [step, setStep] = useState(1);
   const [nama, setNama] = useState('');
   const [whatsapp, setWhatsapp] = useState('');
-  const [tujuan, setTujuan] = useState(initialRouteId);
+  const [asal, setAsal] = useState('Palembang');
+  const [tujuan, setTujuan] = useState('');
   const [tanggal, setTanggal] = useState(new Date().toISOString().split('T')[0]);
   const [tanggalDisplay, setTanggalDisplay] = useState(() => isoToDdMmYyyy(new Date().toISOString().split('T')[0]));
   const [jam, setJam] = useState('Pagi');
@@ -83,23 +84,44 @@ export default function BookingModal({
   const capitalize = (str: string) => 
     str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' ');
 
-  const availableRoutes = routes.filter((r) => r.to.toLowerCase() !== 'palembang');
+  // Daftar kota asal unik dari seluruh rute
+  const asalOptions = Array.from(
+    new Set(routes.map((r) => capitalize(r.from)))
+  ).sort((a, b) => a.localeCompare(b, 'id'));
+
+  // Rute yang tersedia bergantung pada kota asal yang dipilih
+  const availableRoutes = routes.filter((r) => {
+    if (r.from.toLowerCase() !== asal.toLowerCase()) return false;
+    // Jika asal = Palembang, jangan tampilkan Palembang sebagai tujuan
+    if (asal.toLowerCase() === 'palembang' && r.to.toLowerCase() === 'palembang') return false;
+    return true;
+  });
   const selectedRoute = availableRoutes.find((r) => r.id === tujuan || r.to.toLowerCase() === tujuan.toLowerCase());
   const tarifPerOrang = selectedRoute ? selectedRoute.price : 0;
   const totalTarif = tarifPerOrang * jumlahPenumpang;
 
   useEffect(() => {
     // Di halaman booking, ambil data rute awal dari URL query params jika ada
+    let initialRoute = '';
     if (isPage && typeof window !== 'undefined') {
       const params = new URLSearchParams(window.location.search);
       const queryRoute = params.get('route');
       if (queryRoute) {
-        setTujuan(queryRoute);
-        return;
+        initialRoute = queryRoute;
       }
     }
-    if (initialRouteId) {
-      setTujuan(initialRouteId);
+    if (!initialRoute && initialRouteId) {
+      initialRoute = initialRouteId;
+    }
+
+    if (initialRoute) {
+      const matched = routes.find((r) => r.id === initialRoute);
+      if (matched) {
+        setAsal(capitalize(matched.from));
+        setTujuan(matched.id);
+      } else {
+        setTujuan(initialRoute);
+      }
     }
   }, [initialRouteId, isPage]);
 
@@ -194,7 +216,7 @@ export default function BookingModal({
 
     setIsSearchingMap(true);
     try {
-      const query = encodeURIComponent(`${searchMapText.trim()} Palembang`);
+      const query = encodeURIComponent(`${searchMapText.trim()} ${asal}`);
       const res = await fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${query}`);
       const data = await res.json();
 
@@ -214,7 +236,7 @@ export default function BookingModal({
           markerInstanceRef.current.setLatLng(newLatLng);
         }
       } else {
-        alert('Lokasi tidak ditemukan di peta Palembang. Coba kata kunci yang lebih rinci.');
+        alert(`Lokasi tidak ditemukan di peta ${asal}. Coba kata kunci yang lebih rinci.`);
       }
     } catch (err) {
       console.error('Search map error:', err);
@@ -323,7 +345,7 @@ No. Ref: *#${noNota}*
 - Penumpang: ${jumlahPenumpang} Orang
 
 *Detail Perjalanan:*
-- Rute: Palembang ke *${selectedRoute?.to || tujuan}*
+- Rute: ${asal} ke *${selectedRoute?.to || tujuan}*
 - Tanggal: ${tanggal}
 - Jadwal: Perjalanan ${jam}
 - Alamat Jemput: ${alamatJemput.trim()}
@@ -365,7 +387,7 @@ Terima kasih!`;
         no_nota: noNota,
         nama: nama.trim(),
         whatsapp: fullWhatsapp,
-        dari: 'Palembang',
+        dari: asal,
         tujuan: selectedRoute?.to || tujuan,
         tanggal_berangkat: tanggal,
         jam_berangkat: jam,
@@ -408,7 +430,7 @@ Terima kasih!`;
       <div className="bg-blue-900 px-6 py-4 flex items-center justify-between text-white border-b border-blue-800">
         <div>
           <h3 className="text-lg font-black uppercase tracking-tight mt-1 text-white">
-            Pesan Travel Palembang
+            Pesan Travel
           </h3>
         </div>
         {!isPage && (
@@ -528,12 +550,20 @@ Terima kasih!`;
                 <label className="block text-xs font-extrabold uppercase tracking-wider text-slate-700 mb-1">
                   Asal
                 </label>
-                <input
-                  type="text"
-                  readOnly
-                  value="Palembang"
-                  className="w-full bg-slate-100 border border-slate-300 px-3 py-2.5 text-sm font-bold text-slate-600 cursor-not-allowed"
-                />
+                <select
+                  value={asal}
+                  onChange={(e) => {
+                    setAsal(e.target.value);
+                    setTujuan(''); // reset tujuan saat asal berubah
+                  }}
+                  className="w-full bg-slate-50 border border-slate-300 px-3 py-2.5 text-sm font-bold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
+                >
+                  {asalOptions.map((city) => (
+                    <option key={city} value={city}>
+                      {city}
+                    </option>
+                  ))}
+                </select>
               </div>
 
               <div>
@@ -546,7 +576,9 @@ Terima kasih!`;
                   required
                   className="w-full bg-slate-50 border border-slate-300 px-3 py-2.5 text-sm font-bold text-slate-900 focus:bg-white focus:outline-none focus:border-blue-700"
                 >
-                  <option value="">-- Pilih Tujuan --</option>
+                  <option value="">
+                    {availableRoutes.length > 0 ? '-- Pilih Tujuan --' : '-- Tidak ada rute --'}
+                  </option>
                   {availableRoutes.map((r) => (
                     <option key={r.id} value={r.id}>
                       {capitalize(r.to)}
@@ -662,7 +694,7 @@ Terima kasih!`;
               <div className="flex gap-1.5 mb-2">
                 <input
                   type="text"
-                  placeholder="Cari lokasi/jalan di Palembang..."
+                  placeholder={`Cari lokasi/jalan di ${asal}...`}
                   value={searchMapText}
                   onChange={(e) => setSearchMapText(e.target.value)}
                   onKeyDown={(e) => {

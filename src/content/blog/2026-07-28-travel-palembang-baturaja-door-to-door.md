@@ -2,12 +2,12 @@
 title: "Travel Palembang Baturaja Door to Door"
 judul_seo: "Travel Palembang Baturaja Door to Door Terbaik 2026: Jadwal, Harga Tiket & Rute"
 slug: "travel-palembang-baturaja-door-to-door"
-description: "Travel Palembang Baturaja door-to-door mulai Rp120.000. Cek jadwal keberangkatan, pilihan armada Hiace/Innova/Avanza, dan cara booking via WhatsApp 24 jam."
+description: "Travel Palembang Baturaja door-to-door mulai Rp200.000. Cek jadwal keberangkatan, pilihan armada Hiace/Innova/Avanza, dan cara booking via WhatsApp 24 jam."
 pubDate: "2026-07-28"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRrTckT_NTxuf8bZtOnqWwcGmopI7J1ftg_5skvzhGqXKkm38gKtM92z4ElIcsTACEDHp0S2WsSRbcr_-5cxbg8a3EAW2VNmhGA8JvPdjkTOCm9xRXZQ-J34Vm_zm3RdCNMAwhGcwRYhPCDQlDFrRzfk5CugjKBbIzJO2DWqsn6hsaw8fUUanalYfVz1w0/s600/travel-palembang-baturaja.webp"
 kategori: "rute"
-pengantar: "Travel Palembang Baturaja door-to-door adalah salah satu rute andalan Lincah Travel dengan tarif paling terjangkau. Dengan harga mulai Rp120.000, Anda bisa menikmati perjalanan 4-5 jam langsung dari depan rumah."
+pengantar: "Travel Palembang Baturaja door-to-door adalah salah satu rute andalan Lincah Travel dengan tarif paling terjangkau. Dengan harga mulai Rp200.000, Anda bisa menikmati perjalanan 4-5 jam langsung dari depan rumah."
 kesimpulan: "Jangan tunda lagi perjalanan Anda ke Baturaja. Hubungi Lincah Travel via WhatsApp di 0813-6923-1893 untuk booking kursi dan konsultasi jadwal keberangkatan terbaru."
 tags: ["travel palembang baturaja", "travel door-to-door", "harga travel palembang baturaja"]
 to: baturaja
@@ -17,6 +17,14 @@ from: palembang
 Pernahkah Anda merasa repot harus ke terminal atau stasiun hanya untuk naik travel ke luar kota? Atau mungkin Anda sudah bosan dengan bus yang jam keberangkatannya suka molor? Nah, kabar baiknya, perjalanan dari Palembang ke Baturaja kini bisa jauh lebih praktis.
 
 Bayangkan Anda dijemput tepat di depan rumah, kantor, atau kos-kosan. Tanpa perlu angkutan tambahan, tanpa perlu menunggu lama. Duduk manis di kursi ber-AC, dan dalam 4-5 jam Anda sudah sampai di kota Baturaja. Inilah yang kami tawarkan setiap hari di Lincah Travel.
+
+## Tonton: Perjalanan Travel Palembang – Baturaja
+
+Berikut video ringkas layanan travel door-to-door Lincah Travel rute Palembang ke Baturaja:
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/_Ky2HYwNfFM" title="Travel Palembang Baturaja Door to Door - Lincah Travel" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Kenapa Rute Palembang-Baturaja Layak Dilirik?
 
@@ -30,15 +38,17 @@ Berikut adalah jadwal keberangkatan dan tarif terkini untuk rute Palembang-Batur
 
 | Keberangkatan | Harga Tiket | Durasi |
 |---|---|---|
-| 08:00 WIB | Rp 120.000 | 4-5 Jam |
-| 14:00 WIB | Rp 120.000 | 4-5 Jam |
-| 17:00 WIB | Rp 120.000 | 4-5 Jam |
-| 20:00 WIB | Rp 120.000 | 4-5 Jam |
+| 08:00 WIB | Rp 200.000 | 4-5 Jam |
+| 14:00 WIB | Rp 200.000 | 4-5 Jam |
+| 17:00 WIB | Rp 200.000 | 4-5 Jam |
+| 20:00 WIB | Rp 200.000 | 4-5 Jam |
 
-Perlu dicatat, tarif Rp 120.000 ini sudah termasuk layanan door-to-door. Tidak ada biaya tambahan untuk penjemputan di lokasi yang masih dalam area kota Palembang. Harga ini juga sudah all-in — tanpa biaya tersembunyi untuk bagasi atau pemberhentian di jalan.
+Perlu dicatat, tarif Rp 200.000 ini sudah termasuk layanan door-to-door. Tidak ada biaya tambahan untuk penjemputan di lokasi yang masih dalam area kota Palembang. Harga ini juga sudah all-in — tanpa biaya tersembunyi untuk bagasi atau pemberhentian di jalan.
 
 ### Catatan Penting soal Jadwal
 Jadwal pagi (08:00 WIB) paling laris karena banyak penumpang yang ingin sampai di Baturaja sebelum jam makan siang. Sementara jadwal sore dan malam lebih diminati oleh pekerja yang baru selesai tugas di Palembang. Kami sarankan booking minimal H-1 untuk mengamankan kursi, terutama di akhir pekan.
+
+Ingin melihat rincian dan panduan memilih tiap slot waktu? Simak juga artikel **[Jadwal Travel Palembang Baturaja Terbaru](/blog/jadwal-travel-palembang-baturaja-terbaru)** untuk penjelasan lengkap jadwal pagi, siang, sore, dan malam.
 
 ## Pilihan Armada untuk Rute Baturaja
 
@@ -53,7 +63,7 @@ Salah satu penumpang setia kami, **Rian Hidayat**, pengusaha asal Palembang, per
 Dengan kapasitas 7 penumpang dan captain seats, armada ini cocok untuk perjalanan dinas yang membutuhkan privasi lebih. Ruang kaki yang lapang dan AC yang dingin membuat perjalanan terasa seperti naik mobil pribadi.
 
 ### Toyota Avanza/Veloz — Ekonomis dan Andal
-Pilihan paling ekonomis untuk perjalanan 1-4 orang. Dengan tarif yang sama Rp 120.000, Anda tetap mendapatkan kenyamanan AC double blower dan driver profesional.
+Pilihan paling ekonomis untuk perjalanan 1-4 orang. Dengan tarif yang sama Rp 200.000, Anda tetap mendapatkan kenyamanan AC double blower dan driver profesional.
 
 ## Apa Kata Pelanggan Lincah Travel?
 

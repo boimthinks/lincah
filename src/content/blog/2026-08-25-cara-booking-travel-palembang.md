@@ -34,7 +34,7 @@ Kami melayani keberangkatan dari Kota Palembang menuju berbagai daerah di Sumate
 
 Berikut adalah daftar harga tiket resmi dari Palembang menuju kota tujuan:
 
-* Palembang ke Baturaja: Rp 120.000 per orang
+* Palembang ke Baturaja: Rp 200.000 per orang
 * Palembang ke Lampung: Rp 300.000 per orang
 * Palembang ke Jambi: Rp 200.000 per orang
 * Palembang ke Lubuklinggau: Rp 200.000 per orang

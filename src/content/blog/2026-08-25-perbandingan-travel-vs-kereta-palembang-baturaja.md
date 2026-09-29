@@ -26,13 +26,13 @@ Banyak orang mengira kereta api selalu menjadi opsi paling hemat. Hal ini memang
 
 | Komponen Biaya | Kereta Api Ekonomi / Eksekutif | Travel Lincah Travel |
 |---|---|---|
-| **Tiket Utama** | Rp30.000 (Ekonomi) - Rp150.000 (Bisnis/Eks) | Rp120.000 |
+| **Tiket Utama** | Rp30.000 (Ekonomi) - Rp150.000 (Bisnis/Eks) | Rp200.000 |
 | **Ongkos ke Stasiun Kertapati** | Rp25.000 - Rp45.000 (Ojek/Taksi Online) | Rp0 (Dijemput di rumah) |
 | **Ongkos dari Stasiun Baturaja** | Rp20.000 - Rp35.000 (Bentor/Ojek Lokal) | Rp0 (Diantar ke alamat) |
 | **Biaya Parkir / Titip Motor** | Rp15.000 - Rp30.000 (Jika bawa kendaraan) | Rp0 |
-| **Estimasi Total Pengeluaran** | **Rp75.000 - Rp225.000** | **Rp120.000 Pas** |
+| **Estimasi Total Pengeluaran** | **Rp75.000 - Rp225.000** | **Rp200.000 Pas** |
 
-Tiket kereta ekonomi memang sangat murah, namun tiketnya sering habis terjual berminggu-minggu sebelum keberangkatan. Jika membeli tiket kelas bisnis atau eksekutif plus biaya taksi online menuju Stasiun Kertapati, total biaya yang Anda keluarkan seringkali justru lebih tinggi dibanding tarif travel door to door sebesar Rp120.000.
+Tiket kereta ekonomi memang sangat murah, namun tiketnya sering habis terjual berminggu-minggu sebelum keberangkatan. Jika membeli tiket kelas bisnis atau eksekutif plus biaya taksi online menuju Stasiun Kertapati, total biaya yang Anda keluarkan seringkali justru lebih tinggi dibanding tarif travel door to door sebesar Rp200.000.
 
 ## 2. Waktu Tempuh dan Durasi Nyata di Lapangan
 
@@ -70,4 +70,4 @@ Pilihan moda transportasi kembali pada prioritas utama kebutuhan Anda:
 * **Pilih Kereta Api jika:** Anda memiliki anggaran sangat ketat, sudah mengantongi tiket ekonomi murah dari jauh-jauh hari, dan lokasi rumah Anda sangat dekat dengan stasiun kereta.
 * **Pilih Travel Door to Door jika:** Anda mengutamakan kepraktisan, membawa keluarga atau anak-anak, membawa banyak barang, atau butuh keberangkatan fleksibel tanpa repot mencari angkutan lanjutan.
 
-Untuk reservasi travel palembang baturaja dengan tarif flat Rp120.000 per kursi, Anda bisa memesan melalui form booking online di website kami atau kirim pesan WhatsApp langsung ke layanan pelanggan Lincah Travel.
+Untuk reservasi travel palembang baturaja dengan tarif flat Rp200.000 per kursi, Anda bisa memesan melalui form booking online di website kami atau kirim pesan WhatsApp langsung ke layanan pelanggan Lincah Travel.

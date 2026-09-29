@@ -22,16 +22,27 @@ interface RoutesPricesProps {
 export default function RoutesPrices({ routes, cityImages, showMainRoutes = true, bookingDirect = false }: RoutesPricesProps) {
   const [searchQuery, setSearchQuery] = useState('');
   const [filterType, setFilterType] = useState<'semua' | 'utama' | 'sumsel'>('semua');
+  const [activeTab, setActiveTab] = useState<'dari' | 'ke'>('dari');
 
   const mainRoutes = routes.filter((r) => r.type === 'utama');
   
   const filteredRoutes = routes.filter((route) => {
-    // Hanya tampilkan rute dengan asal "Palembang"
-    if (route.from.toLowerCase() !== 'palembang') return false;
+    const isDari = route.from.toLowerCase() === 'palembang';
+    const isKe = route.to.toLowerCase() === 'palembang';
 
-    const matchesSearch =
-      route.to.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      route.from.toLowerCase().includes(searchQuery.toLowerCase());
+    // Tab "Dari Palembang": asal = Palembang
+    if (activeTab === 'dari' && !isDari) return false;
+    // Tab "Ke Palembang": tujuan = Palembang
+    if (activeTab === 'ke' && !isKe) return false;
+
+    // Pencarian menyesuaikan arah tab:
+    // - "Dari": cari berdasarkan kota tujuan
+    // - "Ke": cari berdasarkan kota asal
+    const searchTarget =
+      activeTab === 'dari'
+        ? route.to.toLowerCase()
+        : route.from.toLowerCase();
+    const matchesSearch = searchTarget.includes(searchQuery.toLowerCase());
     
     if (filterType === 'semua') return matchesSearch;
     if (filterType === 'utama') return route.type === 'utama' && matchesSearch;
@@ -163,13 +174,41 @@ export default function RoutesPrices({ routes, cityImages, showMainRoutes = true
             
           </div>
 
+          {/* TAB ARAH: Dari Palembang / Ke Palembang */}
+          <div className="flex flex-wrap gap-2 mb-6">
+            <button
+              type="button"
+              onClick={() => setActiveTab('dari')}
+              aria-pressed={activeTab === 'dari'}
+              className={`text-xs sm:text-sm font-extrabold uppercase tracking-wider px-5 py-2.5 rounded-none border transition-all cursor-pointer ${
+                activeTab === 'dari'
+                  ? 'bg-blue-700 text-white border-blue-700 shadow-md'
+                  : 'bg-white text-slate-600 border-slate-300 hover:border-blue-500 hover:text-blue-700'
+              }`}
+            >
+              Dari Palembang
+            </button>
+            <button
+              type="button"
+              onClick={() => setActiveTab('ke')}
+              aria-pressed={activeTab === 'ke'}
+              className={`text-xs sm:text-sm font-extrabold uppercase tracking-wider px-5 py-2.5 rounded-none border transition-all cursor-pointer ${
+                activeTab === 'ke'
+                  ? 'bg-blue-700 text-white border-blue-700 shadow-md'
+                  : 'bg-white text-slate-600 border-slate-300 hover:border-blue-500 hover:text-blue-700'
+              }`}
+            >
+              Ke Palembang
+            </button>
+          </div>
+
           <div className="mb-6 relative max-w-md mx-auto sm:mx-0">
             <div className="absolute inset-y-0 left-3 flex items-center pointer-events-none text-slate-400">
               <Search className="w-5 h-5" />
             </div>
             <input
               type="text"
-              placeholder="Ketik kota tujuan Anda (cth: Lahat, Sekayu)..."
+              placeholder={activeTab === 'dari' ? 'Ketik kota tujuan Anda (cth: Lahat, Sekayu)...' : 'Ketik kota asal Anda (cth: Lahat, Sekayu)...'}
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full bg-white border border-slate-300 text-slate-900 font-medium py-3 pl-11 pr-4 rounded-none text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-700"
@@ -179,7 +218,7 @@ export default function RoutesPrices({ routes, cityImages, showMainRoutes = true
           <div className="bg-white rounded-none border border-slate-200 overflow-hidden shadow-sm">
             <div className="hidden md:grid grid-cols-12 gap-4 px-6 py-4 bg-slate-50 border-b border-slate-100 text-xs font-bold uppercase tracking-wider text-slate-450">
               
-              <div className="col-span-4">Kota Rute (Asal - Tujuan)</div>
+              <div className="col-span-4">{activeTab === 'dari' ? 'Kota Rute (Palembang - Tujuan)' : 'Kota Rute (Asal - Palembang)'}</div>
               <div className="col-span-2">Durasi Tempuh</div>
               <div className="col-span-2">Jadwal Keberangkatan</div>
               <div className="col-span-2 border-l border-slate-100 pl-4">Harga</div>
@@ -252,7 +291,11 @@ export default function RoutesPrices({ routes, cityImages, showMainRoutes = true
               <div className="p-12 text-center text-slate-450">
                 <Search className="w-10 h-10 mx-auto mb-3 text-slate-300" />
                 <p className="font-bold text-sm text-slate-500">Rute tidak ditemukan</p>
-                <p className="text-xs text-slate-400 mt-1">Coba gunakan kata kunci kota lain se-Sumatera Selatan.</p>
+                <p className="text-xs text-slate-400 mt-1">
+                  {activeTab === 'dari'
+                    ? 'Coba gunakan kata kunci kota tujuan lain se-Sumatera Selatan.'
+                    : 'Coba gunakan kata kunci kota asal lain se-Sumatera Selatan.'}
+                </p>
               </div>
             )}
           </div>
