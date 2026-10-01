@@ -68,7 +68,7 @@ const ROUTE_BLOG_MAP: Record<string, string> = {
   // Kota -> Palembang (arah balik)
   'baturaja-palembang': '/blog/travel-palembang-baturaja-door-to-door',
   'lampung-palembang': '/blog/travel-palembang-lampung-via-tol',
-  'jambi-palembang': '/blog/travel-palembang-jambi-berbasis-palembang',
+  'jambi-palembang': '/blog/travel-jambi-palembang-door-to-door',
   'kayu-agung-palembang': '/blog/travel-palembang-kayu-agung-door-to-door',
   'kikim-palembang': '/blog/ongkos-dan-jadwal-travel-palembang-kikim-lahat',
   'lahat-palembang': '/blog/travel-palembang-lahat-door-to-door',

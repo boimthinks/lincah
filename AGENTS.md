@@ -10,6 +10,10 @@
 
 ## Pengingat Penting
 - **Aturan Wajib Anti-Duplikasi Artikel**: Sebelum memberi saran judul, ide topik, atau menulis artikel blog baru, Agent **WAJIB membaca/memindai daftar file nyata di `src/content/blog/`** secara langsung (bukan hanya mengandalkan catatan di markdown).
+- **Peringatan Proaktif & Pencegahan Kanibalisasi Kata Kunci (Keyword Cannibalization)**:
+  - Agent **WAJIB secara tegas dan proaktif mengingatkan pengguna** jika ide, outline, atau permintaan artikel baru berisiko memicu kanibalisasi kata kunci dengan artikel yang sudah ada.
+  - Jika kata kunci target utama suatu rute sudah memiliki artikel pilar, **JANGAN membuat artikel baru** dengan target intent yang bersaing. Alih-alih membuat file baru, arahkan pengguna untuk melakukan **revamp/update konten mendalam** pada artikel pilar yang sudah ada.
+  - Bila artikel pendukung tetap dibuat, pastikan sudut pandang (*angle*) dan *search intent*-nya benar-benar spesifik/berbeda (misal: murni studi kasus musim hujan, panduan perjalanan dinas B2B, atau jasa titip paket kargo), dan wajib mengarahkan internal link ke artikel pilar utama sebagai pusat otoritas rute tersebut.
 - Saat diminta menulis, mengedit, atau memberi saran judul artikel blog, baca `src/content/blog/` and `SUMBER-PENGETAHUAN.md` (di root project) untuk data brand, rute, harga, armada, testimoni, frontmatter schema. Untuk detail geografi/koridor rute (daerah yang dilewati, junction, karakteristik jalur), baca juga `PENGETAHUAN-KORIDOR-RUTE.md` di root project.
 - Gunakan skill **`penulis-ahli`** untuk menulis/mengedit artikel (menggabungkan humanizer + SEO/GEO + konten non-komoditas dalam satu pass).
 - **Aturan Penyisipan Keyword**: Saat menulis artikel blog baru, wajib menyelipkan kata kunci rute (seperti "travel [asal] [tujuan]" atau "travel [asal] ke [tujuan]") secara natural di dalam body tulisan (bukan di dalam heading atau properti frontmatter seperti pengantar/kesimpulan), agar dapat diproses oleh mekanisme internal link otomatis.

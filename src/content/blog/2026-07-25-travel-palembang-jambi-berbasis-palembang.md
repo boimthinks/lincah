@@ -1,137 +1,115 @@
 ---
-title: "Travel Palembang Jambi Pilihan Tepat"
-judul_seo: "Travel Palembang Jambi — Kenapa Pilih yang Berbasis Langsung di Palembang?"
+title: "Travel Palembang Jambi Tol Baleno"
+judul_seo: "Ongkos Travel Palembang Jambi Jadwal dan Rute Tol Baleno"
 slug: "travel-palembang-jambi-berbasis-palembang"
-description: "Cari travel Palembang Jambi andalan? Pilih yang berbasis langsung di Palembang. Harga Rp 200.000, door-to-door, armada nyaman. Pesan via WhatsApp 0813-6923-1893."
+description: "Info ongkos travel Palembang Jambi door to door Rp 200.000 via tol Baleno. Jadwal harian pagi, siang, sore, malam. Armada HiAce dan Innova. Pesan via WA."
 pubDate: "2026-07-25"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq4HPYeDGKuo9yZV-Tp3orslcsSUIvY7LfPZ8pqCeHulLZNMKKD6i5m7IC0yNmgTBomKIw_Ke_M6T66Gau12qvGg99Ofj1qL6y2nv5VZlkEtukrRYPFu-okvPw_vxufsnyEihZqUEjez1BnFYOn5JykARhaMhtWzugZcPGZ_4-9qOK-Y3UstIuUmNjFg3d/s600/travel-palembang-jambi.webp"
 kategori: "rute"
-pengantar: "Mencari travel Palembang Jambi yang terpercaya? Tahukah Anda kalau banyak travel yang mengklaim melayani rute ini tapi kantornya di luar kota? Lincah Travel berbeda — kami berbasis langsung di Palembang, siap menjemput Anda dari rumah atau kantor tanpa basa-basi."
-kesimpulan: "Jangan asal pilih travel Palembang Jambi. Pastikan Anda memilih yang benar-benar berbasis di Palembang agar perjalanan lebih akurat dan tepat waktu. Siap mencoba? Hubungi Lincah Travel via WhatsApp di 0813-6923-1893. Gratis konsultasi rute dan jadwal, booking cepat, berangkat nyaman."
-tags: ["travel palembang jambi", "travel door to door", "travel sumatera selatan", "antar jemput alamat"]
+pengantar: "Perjalanan darat lintas Palembang menuju Jambi kini kian praktis dengan terhubungnya ruas tol dan perbaikan berkala di jalur arteri. Meski demikian, kepadatan angkutan barang di koridor Jalintim tetap menuntut pemilihan moda transportasi yang cermat. Layanan door-to-door hadir memberikan kenyamanan ekstra tanpa perlu repot berganti armada di terminal."
+kesimpulan: "Perjalanan Palembang menuju Jambi tidak perlu melelahkan jika Anda memilih penyedia travel resmi yang berbasis langsung di kota asal. Armada terawat, rute optimal via Tol Baleno, dan layanan antar-jemput alamat memastikan agenda dinas maupun keluarga berjalan lancar. Hubungi Lincah Travel via WhatsApp 0813-6923-1893 untuk pemesanan tiket."
+tags: ["travel palembang jambi", "travel door to door", "jadwal travel jambi", "ongkos travel palembang jambi"]
 to: jambi
 from: palembang
 ---
 
-Pernahkah Anda memesan travel Palembang-Jambi, lalu sopirnya malah telat karena baru berangkat dari Lampung? Atau driver-nya tidak paham jalan di Palembang sehingga penjemputan molor sampai satu jam? Kalau pernah, Anda tidak sendiri.
+Perjalanan darat lintas provinsi sepanjang 269 kilometer yang menghubungkan Palembang dan Jambi mengalami lompatan besar dalam beberapa tahun terakhir. Jalur legendaris Lintas Timur Sumatera (Jalintim) yang dulu identik dengan perjalanan melelahkan hingga belasan jam kini mulai terintegrasi dengan jaringan Jalan Tol Trans Sumatera (JTTS).
 
-Inilah masalah yang sering terjadi ketika travel yang Anda pesan ternyata tidak berbasis di Palembang. Mereka punya pool di Lampung atau Jakarta, dan menjadikan rute Palembang sebagai "sambilan." Akibatnya, ketepatan waktu jadi taruhannya.
+Bagi masyarakat di Sumatera Selatan, mengandalkan agen travel palembang yang memiliki kantor operasional riil di kota asal menjadi faktor penentu keselamatan dan ketepatan waktu. Lincah Travel yang berpusat di Bukit Lama, Palembang, mengoperasikan layanan travel palembang jambi setiap hari dengan armada prima dan sopir lintas yang memahami karakter jalur Sumatera.
 
-Nah, Lincah Travel hadir sebagai solusi. Kami adalah travel yang benar-benar berbasis di Palembang. Kantor kami di **Lorong Tj. Burung Utama, Bukit Lama, Kec. Ilir Barat I, Kota Palembang**. Setiap hari kami melayani penjemputan dari berbagai kecamatan di Palembang menuju Jambi dan kota-kota lainnya.
+Berikut panduan operasional mendalam mengenai rute, perbandingan jalur arteri vs tol, rincian ongkos, spesifikasi armada, serta tips memilih travel eksekutif terbaik.
 
-## Kenapa Banyak Travel "Palembang Jambi" Bukan dari Palembang?
+## Lanskap Transportasi Koridor Palembang–Jambi
 
-Fenomena ini cukup menarik. Coba buka halaman pertama Google untuk kata kunci "travel palembang jambi." Sebagian besar yang muncul adalah travel yang berkantor di Lampung, Jakarta, bahkan Tangerang. Mereka memang melayani rute ini — tapi titik keberangkatan utamanya bukan dari Palembang.
+Koridor Palembang–Jambi bukan sekadar jalur penghubung antarprovinsi, melainkan urat nadi mobilitas ekonomi, logistik perkebunan, dan administrasi pemerintahan.
 
-Bukan berarti mereka tidak profesional. Tapi ada beberapa konsekuensi yang perlu Anda pahami:
+Dahulu, menempuh rute ini membutuhkan waktu 10 hingga 14 jam akibat kepadatan truk muatan berat serta kondisi jalan bergelombang di Musi Banyuasin. Hadirnya integrasi ruas JTTS, khususnya seksi Bayung Lencir–Tempino (Tol Baleno), berhasil memangkas durasi tempuh secara signifikan menjadi rata-rata 6 sampai 7 jam dalam kondisi normal.
 
-**Pertama**, penjemputan dari Palembang biasanya dilakukan oleh sopir yang baru menempuh perjalanan dari Lampung. Artinya, mereka sudah lelah sebelum perjalanan utama dimulai. **Kedua**, penguasaan jalan lokal di Palembang sering kali kurang. Sopir yang jarang beroperasi di Palembang tentu tidak hafal mana jalan yang rawan macet atau jalur alternatif yang lebih cepat.
+Mengapa moda travel eksekutif door-to-door kian diminati dibanding bus reguler?
+- **Efisiensi Waktu dan Biaya Transit:** Penumpang dijemput langsung di depan pintu rumah atau kantor dan diantar tepat sampai ke alamat tujuan, tanpa harus mengeluarkan ongkos taksi atau ojek menuju terminal.
+- **Fleksibilitas Rombongan & Barang:** Bagasi koper dan barang bawaan ditempatkan dengan aman di ruang bagasi mobil tanpa risiko tertukar di bagasi bus besar.
+- **Segmentasi Penumpang Beragam:** Layanan ini menjadi pilihan utama aparatur sipil yang melakukan perjalanan dinas, pebisnis komoditas kelapa sawit dan karet, kalangan akademisi, hingga pengiriman paket dokumen penting satu hari sampai (*same-day cargo*).
 
-Menariknya, banyak calon penumpang tidak menyadari hal ini sampai mereka mengalaminya sendiri. Padahal, informasi lokasi kantor travel mudah ditemukan — tinggal dicek saja.
+## Analisis Rute: Jalur Arteri Murni vs Kombinasi Tol JTTS
 
-## Lincah Travel: Berbasis di Palembang, Paham Palembang
+Mengetahui kondisi medan jalan akan membantu Anda menentukan jam keberangkatan terbaik serta mengantisipasi hambatan lalu lintas.
 
-Inilah yang membedakan Lincah Travel. Kami tidak punya pool di Lampung atau Jakarta. Kantor kami ada di Palembang, sopir kami orang Palembang, dan perjalanan kami **berangkat dari Palembang**.
+### 1. Karakteristik dan Hambatan Jalur Arteri
+Perjalanan dimulai dari Palembang menyusuri Jalan Lintas Timur melewati Sukarami, Pangkalan Balai, Betung, Sungai Lilin, Tungkal Jaya, hingga Bayung Lencir. Titik perlambatan yang kerap terjadi antara lain:
+- **Simpang Pasar Betung:** Aktivitas pasar tumpah dan persimpangan menuju jalur Lintas Tengah (Sekayu/Lubuklinggau) kerap memicu antrean kendaraan.
+- **Konvoi Truk Barang:** Jalur dua lajur tanpa pembatas tengah menuntut keahlian khusus pengemudi saat mendahului truk tangki CPO atau angkutan logistik bermuatan berat.
+- **Segmen Bergelombang:** Di beberapa titik Musi Banyuasin, kontur tanah gambut membuat aspal bergelombang dan membutuhkan suspensi mobil yang kokoh.
 
-Setiap hari kami melayani penjemputan di 18 kecamatan yang ada di Palembang. Mulai dari Ilir Barat I dan II, Ilir Timur I dan II, Seberang Ulu I dan II, Sukarami, Kemuning, Kalidoni, Jakabaring, hingga Kertapati dan Plaju. Kami hafal mana jalan yang lancar di pagi hari, mana jalur alternatif saat macet, dan mana titik jemput yang paling efisien.
+### 2. Efisiensi Seksi Tol Baleno (Bayung Lencir–Tempino)
+Masuknya armada melalui pintu tol di Bayung Lencir dan keluar di gerbang Tempino (Muaro Jambi) memangkas waktu tempuh hingga 1,5–2 jam. Ruas tol ini mengeliminasi kemacetan perbatasan provinsi dan memberikan lintasan aspal mulus dengan standar keselamatan modern.
 
-Bukan cuma soal hafal jalan. Sistem door-to-door kami juga dirancang agar Anda tidak perlu repot ke terminal atau titik kumpul. Cukup beri alamat lengkap, dan kami jemput Anda tepat di depan rumah.
+### Perbandingan Jalur Arteri vs Tol Terintegrasi
 
-## Harga dan Jadwal: Transparan Tanpa Biaya Tersembunyi
+| Parameter Evaluasi | Jalur Arteri Penuh (Non-Tol) | Kombinasi Jalintim + Tol Baleno |
+|---|---|---|
+| **Estimasi Waktu Tempuh** | 9 – 12 Jam (bergantung antrean truk) | 6 – 7 Jam (waktu rata-rata normal) |
+| **Kondisi Fisik Penumpang** | Lelah tinggi akibat rem mendadak (*stop-and-go*) | Jauh lebih segar, istirahat tenang |
+| **Kelancaran Perjalanan** | Rawan macet jika ada kendaraan mogok | Lancar dan terprediksi di segmen jalan bebas hambatan |
+| **Tarif Penumpang** | Sama | Flat Rp 200.000 (sudah termasuk akses tol) |
 
-Bicara soal harga, kami percaya pada transparansi. Tarif travel Palembang-Jambi dari Lincah Travel adalah **Rp 200.000** per orang. Harga ini sudah termasuk:
+## Spesifikasi Armada dan Standar Keselamatan (E-E-A-T)
 
-- Penjemputan dari alamat Anda di Palembang
-- AC double blower selama perjalanan
-- Bagasi luas untuk barang bawaan
-- Pengantaran sampai alamat tujuan di Jambi
+Kenyamanan perjalanan darat jarak jauh sangat bertumpu pada jenis kendaraan serta kedisiplinan kru operasional.
 
-Tidak ada biaya tambahan untuk layanan door-to-door. Tidak ada biaya bagasi ekstra. Harga flat, sesuai dengan yang tercantum.
+### Pilihan Unit Kendaraan Operasional
+- **Toyota HiAce Premio:** Menjadi armada unggulan untuk rute jarak jauh. Kabin tinggi dengan ruang kaki (*legroom*) lega, suspensi belakang lembut, serta pendingin udara *double blower* yang merata ke seluruh baris kursi.
+- **Toyota Innova Reborn:** Pilihan favorit untuk kalangan eksekutif dan keluarga yang menginginkan privasi. Suspensi independen meredam getaran jalan lintas bergelombang secara maksimal.
+- **Toyota Avanza / Veloz:** Disediakan khusus untuk layanan carter drop rombongan kecil dengan efisiensi tinggi.
 
-Untuk jadwal, kami melayani **dua kali keberangkatan setiap hari**:
+### Standar Operasional Prosedur (SOP) Keselamatan
+1. **Pengemudi Berpengalaman:** Pengemudi memiliki jam terbang tinggi di jalur lintas Sumatera, hafal ritme lalu lintas, dan wajib mengambil jeda istirahat berkala untuk mencegah kelelahan (*driver fatigue*).
+2. **Kelaikan Kendaraan Berkala:** Pengecekan rutin meliputi sistem pengereman ABS, ketebalan tapak ban, tekanan angin, sistem kelistrikan, dan oli mesin sebelum unit diberangkatkan.
+3. **Peralatan Darurat Lengkap:** Setiap kendaraan operasional dilengkapi dengan APAR (Alat Pemadam Api Ringan), kotak P3K, ban serep prima, dongkrak, serta segitiga pengaman.
 
-| Keberangkatan | Jam |
-|---|---|
-| Pagi | 08.00 WIB |
-| Sore | 15.00 WIB |
+## Jadwal Keberangkatan, Zona Jemput, dan Tarif Resmi
 
-Estimasi perjalanan Palembang-Jambi sekitar **6-7 jam** dengan jarak tempuh 269 km. Jalur yang kami gunakan adalah lintas Sumatera yang sudah terbukti aman dan lancar. Jika berangkat pagi pukul 08.00, Anda akan tiba di Jambi sekitar pukul 14.00-15.00 WIB. Cocok untuk yang punya agenda sore atau ingin check-in hotel.
+Lincah Travel menerapkan transparansi tarif tanpa ada pungutan biaya tersembunyi di tengah perjalanan.
 
-## Armada untuk Setiap Kebutuhan Perjalanan
+### Rincian Tarif Perjalanan
+- **Tiket Reguler Per Kursi:** **Rp 200.000** per penumpang. Tarif ini sudah mencakup penjemputan alamat di Palembang, pengantaran alamat di Jambi, fasilitas AC, dan bagasi bawaan standar (koper/tas besar).
+- **Layanan Carter Drop (Private):** Mulai Rp 1.200.000 per mobil untuk Anda yang menginginkan fleksibilitas penuh tanpa penumpang lain, bebas menentukan jam berangkat, dan rute langsung.
+- **Titipan Paket Kilat (Same-Day Cargo):** Rp 70.000 – Rp 150.000 per koli untuk dokumen, barang bisnis, atau paket penting yang tiba di hari yang sama.
 
-Setiap penumpang punya preferensi berbeda. Ada yang butuh kapasitas besar untuk rombongan, ada yang lebih suka perjalanan privat. Lincah Travel menyediakan tiga pilihan armada:
+### Jadwal Ritase Harian
 
-### Toyota Hiace Premio — Untuk Rombongan
+| Keberangkatan | Waktu Mulai Jemput | Estimasi Tiba di Jambi | Karakteristik Perjalanan |
+|---|---|---|---|
+| **Pagi** | 08.00 WIB | 14.30 – 15.30 WIB | Perjalanan terang benderang, ideal untuk agenda sore hari di Jambi |
+| **Siang** | 13.00 WIB | 19.30 – 20.30 WIB | Fleksibel setelah menyelesaikan agenda pagi atau urusan setengah hari |
+| **Sore** | 16.00 WIB | 22.30 – 23.30 WIB | Menghindari terik matahari, cocok setelah jam kantor usai |
+| **Malam** | 20.00 WIB | 03.00 – 04.00 WIB | Jalur relatif hening, waktu istirahat tidur pulas selama perjalanan |
 
-Hiace Premio adalah andalan utama kami untuk perjalanan jarak jauh. Kapasitas **11 penumpang** dengan konfigurasi kursi reclining seat premium. Setiap baris dilengkapi USB charger, AC double blower, dan bagasi yang luas. Cocok untuk rombongan keluarga, rekan kantor, atau kelompok wisata.
+*Catatan: Jam keberangkatan di atas adalah estimasi pergerakan unit; pengemudi mulai menjemput berurutan dari alamat penumpang terdekat 30–60 menit sebelum jadwal.*
 
-### Toyota Innova Reborn — Privat & Eksklusif
+### Cakupan Area Door-to-Door
 
-Innova Reborn menjadi favorit para pekerja dinas dan pengusaha. Dengan captain seat layout dan kapasitas **7 penumpang**, perjalanan terasa lebih privat dan nyaman. Ruang kaki yang lapang memungkinkan Anda bekerja atau beristirahat selama perjalanan.
+**Wilayah Penjemputan di Palembang:**
+Meliputi seluruh penjuru kota: Alang-Alang Lebar, Terminal KM 12, Sukarami, Talang Betutu, Bandara Sultan Mahmud Badaruddin II, Jl. Kol. H. Burlian, Basuki Rahmat, Sekip, Demang Lebar Daun, Bukit Lama, Bukit Besar, Ilir Barat, Ilir Timur, Kemuning, Kalidoni, Sako, Seberang Ulu, Kertapati, hingga Jakabaring dan Plaju.
 
-### Toyota Avanza/Veloz — Ekonomis
+**Wilayah Pengantaran di Jambi:**
+Menjangkau kecamatan dan titik strategis: Telanaipura (pusat perkantoran gubernur), Jambi Selatan, Jambi Timur, Pasar Jambi, Kotabaru, Danau Sipin, Handil, Jelutung, kawasan Simpang Rimbo, batas Muaro Jambi, hingga pengantaran langsung ke lobi hotel utama seperti Aston Jambi Hotel, Swiss-Belhotel, BW Luxury, dan Abadi Suite Hotel.
 
-Untuk perjalanan sendiri atau berdua, Avanza atau Veloz adalah pilihan ekonomis yang tetap nyaman. Kapasitas **6 penumpang** dengan AC double blower dan kursi yang bisa diatur.
+## Panduan Evaluasi Sebelum Memesan Tiket Travel
 
-Dari pengalaman kami melayani rute ini, Hiace Premio paling banyak dipilih untuk perjalanan jarak jauh Palembang-Jambi. Kursi yang bisa direbahkan benar-benar membantu penumpang tetap segar sampai tujuan.
+Sebelum memastikan perjalanan Anda, gunakan daftar periksa berikut agar tidak terjebak layanan perantara atau calo tiket:
 
-## Door-to-Door: Dari Palembang ke Jambi Tanpa Ganti Kendaraan
+1. **Pastikan Basis Operasional Nyata:** Pilih operator yang berkantor jelas di Palembang, bukan sekadar calo tiket daring yang mengoper penumpang ke mobil lain.
+2. **Kepastian Model Kendaraan:** Tanyakan dengan tegas jenis unit yang akan menjemput (Innova Reborn atau HiAce Premio), hindari penyedia yang tidak bisa memastikan tipe kendaraan.
+3. **Ketegasan Layanan Antar-Alamat:** Pastikan penjemputan benar-benar *door-to-door* hingga ke depan pintu rumah tanpa diturunkan di pinggir jalan raya.
+4. **Customer Service Tanggap:** Layanan admin yang responsif mempermudah koordinasi saat pengemudi mendekati lokasi penjemputan Anda.
 
-Salah satu keunggulan utama Lincah Travel adalah **sistem door-to-door**. Anda tidak perlu datang ke terminal, pool, atau titik kumpul. Kami jemput dari alamat Anda, dan antar sampai alamat tujuan.
+## Cara Booking Cepat Tiket Palembang–Jambi
 
-Bayangkan skenario ini: Anda tinggal di Jakabaring, Palembang. Pagi-pagi sopir kami sudah siap di depan rumah. Begitu masuk, AC sudah dingin, kursi nyaman, dan perjalanan dimulai. Enam jam kemudian, Anda diantar langsung ke depan hotel Aston Jambi atau alamat lain yang Anda tuju. Tidak perlu naik angkot, tidak perlu panggil ojek.
+Pemesanan tiket di Lincah Travel dapat dilakukan dalam hitungan menit via aplikasi WhatsApp:
 
-Kami melayani penjemputan di seluruh **18 kecamatan Palembang** dan pengantaran ke **8 kecamatan di Jambi**: Telanaipura, Jambi Selatan, Jambi Timur, Pasar Jambi, Kotabaru, Danau Teluk, Pelayangan, dan Jambi Luar Kota.
-
-Bahkan jika tujuan Anda adalah hotel di Jambi seperti Aston Jambi, Swiss-Belhotel, atau Jayakarta — kami antar langsung ke lobi.
-
-## Testimoni: Kata Penumpang Kami
-
-Hadi Wijaya, seorang pejabat dinas pemerintahan asal Jambi, sudah beberapa kali menggunakan Lincah Travel untuk perjalanan pulang-pergi Palembang-Jambi. Begini katanya:
-
-> *"Paling suka naek Innova Reborn privat. Drivernyo sopan, dak tebal-tebal bawa mobilnyo, jadi kito pacak istirahat lurus salamo jalan."*
-
-Dari pengalaman kami, penumpang asal Jambi sering memuji ketepatan waktu driver kami. Mereka juga suka karena tidak perlu menunggu lama di titik jemput — sesuatu yang sering dikeluhkan pengguna travel non-lokal.
-
-## Cara Pesan: Cukup WhatsApp, Beres
-
-Proses pemesanan dibuat semudah mungkin. Anda tidak perlu datang ke kantor atau mengisi formulir panjang. Cukup:
-
-1. **Chat** nomor **0813-6923-1893** via WhatsApp
-2. **Sampaikan** rute Palembang ke Jambi (atau sebaliknya)
-3. **Sebutkan** tanggal dan jam keberangkatan yang diinginkan
-4. **Infokan** alamat penjemputan lengkap
-5. **Sebutkan** jumlah penumpang dan pilihan armada (jika ada)
-
-Admin kami akan merespons cepat dan mengonfirmasi ketersediaan kursi. Prosesnya tidak lebih dari 5 menit.
-
-## Pertanyaan yang Sering Diajukan
-
-### Berapa lama perjalanan Palembang-Jambi?
-
-Estimasi perjalanan sekitar 6-7 jam, tergantung kondisi lalu lintas. Jarak tempuhnya 269 km melalui lintas Sumatera.
-
-### Ada jadwal keberangkatan malam?
-
-Saat ini kami melayani dua jadwal: pukul 08.00 WIB (pagi) dan 15.00 WIB (sore). Keduanya sudah mencakup kebutuhan mayoritas penumpang.
-
-### Apakah benar bisa antar jemput ke hotel di Jambi?
-
-Tentu. Sistem door-to-door kami mengantar Anda sampai ke alamat tujuan, termasuk hotel-hotel di Jambi seperti Aston, Swiss-Belhotel, atau Jayakarta.
-
-### Harga Rp 200.000 sudah termasuk apa saja?
-
-Sudah termasuk penjemputan door-to-door, AC double blower, bagasi luas, snack ringan, dan pengantaran sampai tujuan. Tidak ada biaya tambahan.
-
-### Apakah barang bawaan dibatasi?
-
-Tidak. Armada kami memiliki bagasi luas yang bisa menampung koper, tas besar, atau barang bawaan lainnya.
-
-## Mulai Perjalanan Anda dari Palembang Bersama Lincah Travel
-
-Memilih travel yang berbasis di Palembang bukan sekadar soal gengsi. Ini soal kepastian. Kepastian bahwa sopir paham jalan. Kepastian bahwa penjemputan tepat waktu. Kepastian bahwa Anda berangkat dari Palembang — bukan menunggu travel dari luar kota.
-
-Lincah Travel hadir sebagai solusi transportasi door-to-door yang benar-benar paham kebutuhan penumpang Sumatera Selatan. Dengan kantor di Palembang, armada terawat, dan driver profesional, perjalanan Palembang-Jambi Anda akan terasa berbeda.
-
-Siap merasakan sendiri? Hubungi Lincah Travel sekarang via **WhatsApp di 0813-6923-1893**. Konsultasi rute dan jadwal gratis, booking cepat, dan berangkat nyaman.
+1. Kirim pesan ke nomor WhatsApp **0813-6923-1893**.
+2. Cantumkan tanggal keberangkatan dan pilihan sesi jadwal (pagi 08.00, siang 13.00, sore 16.00, atau malam 20.00 WIB).
+3. Tuliskan nama penumpang, nomor kontak aktif, dan jumlah kursi yang dipesan.
+4. Masukkan alamat lengkap penjemputan di Palembang dan alamat tujuan di Jambi.
+5. Admin akan mengonfirmasi ketersediaan kursi dan jadwal penjemputan sopir.

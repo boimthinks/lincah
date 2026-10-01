@@ -3,7 +3,7 @@ from: palembang
 to: jambi
 price: 200000
 duration: 6 Jam 57 Menit
-departureTimes: ["08:00 WIB", "15:00 WIB"]
+departureTimes: ["08:00 WIB", "13:00 WIB", "16:00 WIB", "20:00 WIB"]
 type: utama
 distance: 269 km
 description: Travel Palembang ke Jambi nyaman dan aman. Lincah Travel door-to-door, harga Rp 200.000. Armada AC & driver berpengalaman. Pesan via WA!
