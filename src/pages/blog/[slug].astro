@@ -220,7 +220,36 @@ const cityImages = cityImagesEntry?.data.cities || {};
             <BlogContent>
               <Content />
             </BlogContent>
-            
+
+            {/* FAQ + FAQPage JSON-LD */}
+            {post.data.faq && post.data.faq.length > 0 && (
+              <div class="mt-12">
+                <script type="application/ld+json" set:html={JSON.stringify({
+                  "@context": "https://schema.org",
+                  "@type": "FAQPage",
+                  "mainEntity": post.data.faq.map(item => ({
+                    "@type": "Question",
+                    "name": item.q,
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": item.a
+                    }
+                  }))
+                })} />
+                <h2 class="text-2xl sm:text-3xl font-black text-blue-900 uppercase tracking-tight leading-tight mb-6">
+                  Pertanyaan Umum (FAQ) Travel {post.data.from && post.data.to ? `${post.data.from.charAt(0).toUpperCase()}${post.data.from.slice(1)} ${post.data.to.charAt(0).toUpperCase()}${post.data.to.slice(1)}` : ''}
+                </h2>
+                <div class="space-y-4">
+                  {post.data.faq.map(item => (
+                    <div class="bg-white border border-slate-200 p-5">
+                      <h3 class="text-base font-bold text-blue-900 mb-2">{item.q}</h3>
+                      <p class="text-sm text-slate-600 leading-relaxed">{item.a}</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
             {/* Kesimpulan & CTA */}
             {post.data.kesimpulan && (
               <div class="mt-8">

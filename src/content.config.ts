@@ -33,6 +33,10 @@ const blogCollection = defineCollection({
     tags: z.array(z.string()).default([]),
     from: z.string().optional(),
     to: z.string().optional(),
+    faq: z.array(z.object({
+      q: z.string(),
+      a: z.string(),
+    })).default([]),
   }),
 });
 
