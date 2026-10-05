@@ -63,6 +63,7 @@ Tabel terbit (baris baru ditambahkan):
 | 27 | `2026-08-13-travel-palembang-martapura-oku-timur.md` | Travel Palembang Martapura OKU Timur Door to Door: Jadwal, Harga Tiket & Tips 2026 | Travel Palembang ke Martapura door-to-door mulai Rp160.000. Cek jadwal 09.00/14.00/20.00 WIB, armada Hiace/Innova/Avanza, dan booking via WhatsApp 0813-6923-1893. |
 | 28 | `2026-09-16-travel-palembang-batu-marta-oku-timur.md` | Travel Palembang Batu Marta OKU Timur Jadwal dan Harga Tiket | Travel Palembang Batu Marta OKU Timur door to door Rp 170.000. Jadwal 08.00/15.00/20.00 WIB. Booking WhatsApp 0813-6923-1893. |
 | 29 | `2026-09-24-travel-palembang-baturaja-2002-bhw-lincah.md` | Travel Palembang Baturaja Selain Kereta 2002 dan BHW Serta Jadwal Lincah | Kenali travel Palembang Baturaja 2002, BHW, dan kereta murah. Lincah arahkan sopir jadwal pas plus info armada. WA 0813-6923-1893. |
+| 30 | `2026-10-05-travel-palembang-sekernan.md` | Travel Palembang Sekernan Jadwal Harga Tiket dan Rute via Jambi 2026 | Travel Palembang Sekernan door-to-door Rp230.000 via Jambi. Jadwal 08/14/20 WIB, 7-8 jam ke Sengeti Muaro Jambi. Booking WA 0813-6923-1893. |
 
 ---
 
@@ -78,6 +79,8 @@ Tabel terbit (baris baru ditambahkan):
   - Mengulas layanan travel door-to-door rute Palembang menuju Martapura, termasuk informasi tarif, titik penjemputan, dan jadwal fleksibel untuk penumpang umum maupun dinas.
 - [x] ~~Travel Palembang Batu Marta OKU Timur: Jadwal & Harga Tiket~~ → `2026-09-16-travel-palembang-batu-marta-oku-timur.md`
   - Panduan lengkap travel Palembang ke Batumarta (Lubuk Raja, OKU Timur): jadwal 08.00/15.00/20.00 WIB, tarif Rp 170.000 flat door-to-door, koridor Tol Palindra + Indralaya-Prabumulih via Baturaja-Martapura, dan pilihan armada Hiace Premio/Innova Reborn/Avanza.
+- [x] ~~Travel Palembang Sekernan (Muaro Jambi): Jadwal, Harga Tiket & Rute via Jambi~~ → `2026-10-05-travel-palembang-sekernan.md`
+  - Panduan rute travel Palembang menuju Sekernan (Kecamatan Sekernan, pusat pemerintahan Kabupaten Muaro Jambi di Sengeti). Tarif door-to-door Rp230.000 bersumber dari acuan Rp200.000 Palembang-Jambi + lanjutan ke Sengeti, durasi 7-8 jam via Jalintim.
 - [ ] **Travel Palembang Pendopo Pali: Solusi Transportasi Cepat dan Aman Sampai Tujuan**
   - Panduan rute travel Palembang ke Pendopo (Kabupaten PALI) via perlintasan darat, harga tiket terjangkau, serta kemudahan antar-jemput hingga alamat rumah/lokasi kerja.
 - [x] ~~Travel Palembang Indralaya (Ogan Ilir): Pilihan Efisien untuk Mahasiswa Unsri dan Pekerja~~ → `2026-08-11-travel-palembang-indralaya-unsri.md`

@@ -64,6 +64,7 @@ const ROUTE_BLOG_MAP: Record<string, string> = {
   'palembang-pelabuhan-tanjung-api-api': '/blog/travel-palembang-pelabuhan-tanjung-api-api',
   'palembang-muara-bulian': '/blog/travel-palembang-muara-bulian-perjalanan-dinas',
   'palembang-muara-beliti': '/blog/travel-palembang-muara-beliti',
+  'palembang-sekernan': '/blog/travel-palembang-sekernan',
 
   // Kota -> Palembang (arah balik)
   'baturaja-palembang': '/blog/travel-palembang-baturaja-door-to-door',
@@ -94,6 +95,7 @@ const ROUTE_BLOG_MAP: Record<string, string> = {
   'muara-beliti-palembang': '/blog/travel-palembang-muara-beliti',
   'talang-padang-palembang': '/blog/travel-palembang-talang-padang',
   'tugumulyo-palembang': '/blog/travel-palembang-tugumulyo',
+  'sekernan-palembang': '/blog/travel-palembang-sekernan',
 
   // Rute non-Palembang (lintas kota)
   'jambi-bangko': '/blog/travel-jambi-bangko-door-to-door',
