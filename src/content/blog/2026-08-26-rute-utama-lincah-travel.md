@@ -31,7 +31,7 @@ Tiga simpul ini bukan sekadar catatan geografi. Bagi Anda yang rumah atau kantor
 | Palembang-Jambi | 269 km | 6-7 jam | Rp200.000 | Perjalanan dinas lintas provinsi |
 | Palembang-Sekayu | 120 km | 3 jam | Rp180.000 | PNS dan pekerja migas |
 | Palembang-Lubuklinggau | 320 km | 7-8 jam | Rp200.000 | Pekerja tambang, mahasiswa |
-| Palembang-Pagaralam | 290 km | 7-8 jam | Rp210.000 | Wisatawan akhir pekan |
+| Palembang-Pagaralam | 290 km | 7-8 jam | Rp250.000 | Wisatawan akhir pekan |
 | Palembang-Muara Dua | 290 km | 7-8 jam | Rp170.000 | Pedagang hasil bumi |
 | Palembang-Kayu Agung | 65 km | 1,5 jam | Rp100.000 | Komuter harian |
 
@@ -69,7 +69,7 @@ Perjalanan 7-8 jam menuntut kenyamanan ekstra, maka rute ini kami layani Hiace P
 
 Sebelum mencapai Lubuklinggau, ada percabangan di Lahat yang belok ke dataran tinggi Besemah. Lewat Pulau Pinang dan Kota Agung, armada mendaki ke Pagaralam, kota perkebunan teh di kaki Gunung Dempo. Koridor ini penuh sesak saat akhir pekan dan liburan sekolah.
 
-Wisatawan umumnya memesan travel Palembang ke Pagaralam untuk perjalanan 7-8 jam dengan tarif Rp210.000. Sistem door-to-door memudahkan keluarga karena penginapan di Pagaralam bisa menjadi titik antar langsung. Musim liburan membuat kursi koridor ini cepat penuh, keluarga yang berangkat berlima biasanya memilih satu unit Innova agar perjalanan mendaki terasa lega. Kalau rencana Anda jatuh pada Jumat sampai Minggu, pesan minimal sehari sebelumnya.
+Wisatawan umumnya memesan travel Palembang ke Pagaralam untuk perjalanan 7-8 jam dengan tarif Rp250.000. Sistem door-to-door memudahkan keluarga karena penginapan di Pagaralam bisa menjadi titik antar langsung. Musim liburan membuat kursi koridor ini cepat penuh, keluarga yang berangkat berlima biasanya memilih satu unit Innova agar perjalanan mendaki terasa lega. Kalau rencana Anda jatuh pada Jumat sampai Minggu, pesan minimal sehari sebelumnya.
 
 ![Travel Palembang Muara Dua](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtH4ZQRawGY55jkH_GVgHm0NHfCvPO7YAcbcOqvUsO-a7WEtjCa_YWL4rqL7pYvd2G3eM14eIGWmVWkX6RCb-q3g_UcVJPKwYVWgtf-YtXX2pXpsLMJrO6DJg4ynDc6CkGJs8at0rxf6V0L17tt2SXcGPnSeDCwIhL7v7Z1mi9BtDpB66PxX8meJ7fyjff/s600/muara-dua.webp)
 

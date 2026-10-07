@@ -23,7 +23,7 @@ Berikut adalah daftar rute resmi yang dilayani oleh Lincah Travel (door-to-door)
 | 17 | **Muara Bulian Jambi - Palembang** | Rp 400.000 | 7 Jam | 299 km |
 | 18 | **Muara Dua - Palembang** | Rp 170.000 | 7 - 8 Jam | 290 km |
 | 19 | **Muara Enim - Palembang** | Rp 140.000 | 4 - 5 Jam | 180 km |
-| 20 | **Pagaralam - Palembang** | Rp 210.000 | 7 - 8 Jam | 290 km |
+| 20 | **Pagaralam - Palembang** | Rp 250.000 | 7 - 8 Jam | 290 km |
 | 21 | **Palembang - Batu Marta** | Rp 170.000 | 5 - 6 Jam | 230 km |
 | 22 | **Palembang - Baturaja** | Rp 120.000 | 4 - 5 Jam | 200 km |
 | 23 | **Palembang - Bayung Lencir** | Rp 200.000 | 4 - 5 Jam | 180 km |
@@ -42,7 +42,7 @@ Berikut adalah daftar rute resmi yang dilayani oleh Lincah Travel (door-to-door)
 | 36 | **Palembang - Muara Bulian** | Rp 400.000 | 7 Jam | 299 km |
 | 37 | **Palembang - Muara Dua** | Rp 170.000 | 7 - 8 Jam | 290 km |
 | 38 | **Palembang - Muara Enim** | Rp 140.000 | 4 - 5 Jam | 180 km |
-| 39 | **Palembang - Pagaralam** | Rp 210.000 | 7 - 8 Jam | 290 km |
+| 39 | **Palembang - Pagaralam** | Rp 250.000 | 7 - 8 Jam | 290 km |
 | 40 | **Palembang - Prabumulih** | Rp 130.000 | 2 Jam | 95 km |
 | 41 | **Palembang - Sekayu** | Rp 180.000 | 3 Jam | 120 km |
 | 42 | **Palembang - Sungai Lilin** | Rp 180.000 | 3 Jam | 110 km |

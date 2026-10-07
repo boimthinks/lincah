@@ -2,7 +2,7 @@
 title: "Travel Palembang Pagaralam"
 judul_seo: "Travel Palembang Pagaralam: Harga, Jadwal & Nomor WA"
 slug: "travel-palembang-pagaralam-door-to-door"
-description: "Travel Palembang Pagaralam Rp180.000 door-to-door. Jadwal 08-15-20 WIB. Perjalanan 7-8 jam via Gunung Dempo. Nomor WA 0813-6923-1893."
+description: "Travel Palembang Pagaralam Rp250.000 door-to-door. Jadwal 08-15-20 WIB. Perjalanan 7-8 jam via Gunung Dempo. Nomor WA 0813-6923-1893."
 pubDate: "2026-07-31"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMgYyY8_9uUDReuMlqK1E3aeFQ4k_E1w5NixE2r7ttKItLEYue0pvr3WDiXZLrEL0uRA6Vad53s6kmt84cdZiLCuagMiGsDraik9wrO-flS037lYs_oCpUYYGWbbFH7N_oHayW-dtwCW6gDdoLM4qCSNYHtei35yY146e3V64-123f8-qpYvLXtIX_rO8u/s600/travel-palembang-pagaralam.webp"
@@ -30,11 +30,11 @@ Berikut jadwal dan tarif resmi untuk rute Palembang-Pagaralam:
 
 | Keberangkatan | Harga Tiket | Durasi |
 |---|---|---|
-| 08:00 WIB | Rp 180.000 | 7-8 Jam |
-| 15:00 WIB | Rp 180.000 | 7-8 Jam |
-| 20:00 WIB | Rp 180.000 | 7-8 Jam |
+| 08:00 WIB | Rp 250.000 | 7-8 Jam |
+| 15:00 WIB | Rp 250.000 | 7-8 Jam |
+| 20:00 WIB | Rp 250.000 | 7-8 Jam |
 
-Harga Rp 180.000 sudah all-in — penjemputan dari alamat Anda di Palembang, biaya tol, dan antar langsung ke tujuan di Pagaralam. Tidak ada biaya tersembunyi untuk bagasi atau pemberhentian istirahat.
+Harga Rp 250.000 sudah all-in — penjemputan dari alamat Anda di Palembang, biaya tol, dan antar langsung ke tujuan di Pagaralam. Tidak ada biaya tersembunyi untuk bagasi atau pemberhentian istirahat.
 
 ### Tips Memilih Jadwal
 
@@ -128,7 +128,7 @@ Udara dingin kadang membuat kita lupa haus. Padahal di ketinggian, tubuh butuh c
 
 Rata-rata 7-8 jam dengan jarak 290 km. Waktu tempuh tergantung kondisi lalu lintas, cuaca, dan medan.
 
-### Apakah harga Rp 180.000 sudah termasuk antar jemput?
+### Apakah harga Rp 250.000 sudah termasuk antar jemput?
 
 Ya, sudah all-in. Penjemputan dari alamat Anda di Palembang dan pengantaran sampai tujuan di Pagaralam sudah termasuk dalam tarif.
 

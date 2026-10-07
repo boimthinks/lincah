@@ -57,7 +57,7 @@ Gunakan data ini sebagai social proof dalam artikel:
 | **Palembang-Prabumulih** | 2 jam | - | Rp 130.000 | Ekonomis |
 | **Palembang-Muara Enim** | 4-5 jam | - | Rp 150.000 | Akses area industri & tambang |
 | **Palembang-Simpang Belimbing** | 3 jam | - | Rp 150.000 | Tambahan Rute |
-| **Palembang-Pagaralam** | 7-8 jam | - | Rp 210.000 | Dataran tinggi Gunung Dempo |
+| **Palembang-Pagaralam** | 7-8 jam | - | Rp 250.000 | Dataran tinggi Gunung Dempo |
 | **Palembang-Tebing Tinggi** | 8-9 jam | - | Rp 210.000 | Empat Lawang |
 | **Palembang-Pendopo Lintang** | 8-9 jam | - | Rp 230.000 | Empat Lawang |
 | **Palembang-Kikim** | 7-8 jam | - | Rp 200.000 | Lahat |
