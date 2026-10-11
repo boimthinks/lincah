@@ -305,4 +305,84 @@ Gunakan skill `penulis-ahli` untuk seluruh penulisan artikel blog. Skill ini men
 
 ---
 
+## 13. Data Kueri Google Search Console & Analisis Intent Riil
+
+Data ini diambil dari laporan performa riil Google Search Console (GSC) 28 hari terakhir. Gunakan daftar ini sebagai acuan prioritas optimasi judul, meta description, sub-heading H2, FAQ schema, dan target penulisan artikel mendatang:
+
+### A. Klaster Informasional: "Berapa Jam & Jarak Tempuh" (Peluang Featured Snippet & AI Overviews)
+Kueri dalam klaster ini memiliki **tayangan sangat tinggi** namun membutuhkan *Direct Answer* (paragraf ringkas 40-50 kata dengan angka km dan jam pasti) agar merebut posisi cuplikan pilihan Google:
+
+- **Sungai Lilin (Muba)**:
+  - `sungai lilin ke palembang berapa jam` (166 tayangan, 0 klik)
+  - `palembang ke sungai lilin berapa jam` (47 tayangan)
+  - `palembang sungai lilin berapa jam` (38 tayangan)
+  - `sungai lilin palembang berapa jam` (34 tayangan)
+  - `jarak sungai lilin ke palembang` (32 tayangan)
+  - `jarak palembang ke sungai lilin` (21 tayangan)
+- **Sekayu (Muba)**:
+  - `palembang sekayu berapa jam` (110 tayangan, 0 klik)
+  - `sekayu palembang berapa jam` (83 tayangan)
+  - `palembang ke sekayu berapa jam` (60 tayangan)
+  - `sekayu ke palembang berapa jam` (55 tayangan)
+  - `dari sekayu ke palembang berapa jam` (21 tayangan)
+- **Danau Ranau (OKU Selatan)**:
+  - `palembang ke danau ranau berapa jam` (46 tayangan, 0 klik)
+  - `danau ranau berapa jam dari palembang` (24 tayangan)
+  - `palembang danau ranau berapa jam` (20 tayangan)
+- **Bayung Lencir & Indralaya**:
+  - `bayung lencir ke palembang berapa jam` (32 tayangan)
+  - `jarak palembang ke indralaya` (21 tayangan)
+
+### B. Klaster Komersial & Transaksional: Rute Utama & Ongkos Travel
+Kueri pencarian penumpang aktif yang mencari tiket, jadwal, atau perbandingan harga:
+
+- **Bayung Lencir**:
+  - `travel bayung lencir palembang` (11 klik, 44 tayangan)
+  - `travel palembang bayung lencir` (3 klik, 21 tayangan)
+  - `bayung lencir ke palembang` (1 klik, 109 tayangan)
+- **Sungai Lilin**:
+  - `travel palembang sungai lilin` (5 klik, 49 tayangan)
+  - `travel sungai lilin palembang` (4 klik, 31 tayangan)
+  - `travel sungai lilin` (2 klik, 19 tayangan)
+  - `ongkos travel palembang sungai lilin` (25 tayangan)
+- **Sekayu**:
+  - `travel palembang sekayu` (4 klik, 133 tayangan)
+  - `travel sekayu palembang` (76 tayangan)
+  - `palembang sekayu` (56 tayangan)
+  - `palembang ke sekayu` (31 tayangan)
+  - `harga travel palembang sekayu` (28 tayangan)
+  - `sekayu ke palembang` (23 tayangan)
+- **Indralaya**:
+  - `travel palembang indralaya` (4 klik, 53 tayangan)
+  - `travel indralaya palembang` (1 klik, 23 tayangan)
+  - `ongkos travel palembang indralaya` (1 klik, 15 tayangan)
+- **Jambi**:
+  - `travel palembang jambi` (22 tayangan)
+  - `jadwal travel jambi palembang` (21 tayangan)
+  - `ongkos travel jambi palembang` (20 tayangan)
+- **Rute Antar Kota Lainnya**:
+  - `travel palembang muara enim` (35 tayangan)
+  - `travel palembang muaradua` (29 tayangan)
+  - `travel palembang baturaja` (25 tayangan)
+  - `travel palembang prabumulih` (1 klik, 14 tayangan)
+  - `travel kuala tungkal ke palembang` (1 klik, 6 tayangan)
+  - `travel palembang pagaralam` (1 klik, 2 tayangan)
+
+### C. Klaster Transportasi Komuter & Kampus (Damri Unsri / Indralaya)
+Pencari info transportasi harian mahasiswa dan dosen Unsri (potensi diarahkan ke travel door to door bagi yang membutuhkan perjalanan cepat via tol tanpa antre halte):
+
+- `damri unsri` (4 klik, 22 tayangan)
+- `jadwal damri palembang indralaya` (1 klik, 36 tayangan)
+- `jadwal damri unsri palembang indralaya` (1 klik, 9 tayangan)
+- `jadwal damri unsri bukit ke indralaya` (1 klik, 6 tayangan)
+- `jadwal damri unsri` (1 klik, 4 tayangan)
+- `jadwal damri indralaya palembang` (40 tayangan)
+- `damri palembang indralaya` (25 tayangan)
+- `halte damri unsri bukit` (24 tayangan)
+
+### D. Branded Keyword
+- `lincah travel` (9 klik, 14 tayangan)
+
+---
+
 **Catatan:** Arahkan semua riset saran judul atau penulisan artikel ke skill `penulis-ahli`. File ini FOKUS pada data/identitas brand, bukan panduan penulisan universal.
