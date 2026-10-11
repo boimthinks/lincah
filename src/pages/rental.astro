@@ -8,8 +8,8 @@ import { getCollection } from 'astro:content';
 const vehicles = await getCollection('vehicles');
 const vehiclesData = vehicles.map(v => ({ id: v.id, ...v.data }));
 
-const title = "Rental Mobil Palembang - Sewa Mobil Lepas Kunci & Driver";
-const description = "Sewa mobil Palembang harian, mingguan, bulanan. Tersedia Hiace Premio, Innova Reborn, Avanza. Lepas kunci atau dengan driver. Harga kompetitif, antar jemput.";
+const title = "Rental Mobil Palembang Lepas Kunci & Driver Murah";
+const description = "Rental mobil Palembang harian dan bulanan. Tersedia Hiace Premio, Innova Reborn, Avanza lepas kunci atau plus sopir. Hubungi 0813-6923-1893.";
 ---
 
 <Layout title={title} description={description}>

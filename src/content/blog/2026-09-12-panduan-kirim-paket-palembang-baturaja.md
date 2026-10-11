@@ -2,7 +2,7 @@
 title: "Kirim Paket Palembang Baturaja"
 judul_seo: "Panduan Kirim Paket Palembang Baturaja Layanan Same Day Tarif Ongkir dan Loket Agen"
 slug: "panduan-kirim-paket-palembang-baturaja"
-description: "Kirim paket Palembang Baturaja sampai hari yang sama via travel door-to-door Lincah Travel. Cek tarif ongkos kirim, jadwal keberangkatan, dan cara booking via WhatsApp."
+description: "Kirim paket Palembang Baturaja sampai hari yang sama via travel door-to-door. Cek tarif hemat, jadwal harian, dan pesan via WhatsApp."
 pubDate: "2026-09-12"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixoZsrNT8DIW0uD4W2zUSfeuOuQWogdk0dZG1-z1mRYdyLBiHCM3AXMJ1lBndeHQcm5e-JgGvonUmtXw-b1j9ShTuveaa8tpBJbGk0jYV1NgFafk7ZHQ3KvFtQ-XGE6PsAnbVUq8IDKAWvmp67RrW3romiyrxOMYsbejs8EHbHBQqDG4-vmKdIYd-kNrJ1/s600/kirim-paket-palembang-baturaja_poco.webp"

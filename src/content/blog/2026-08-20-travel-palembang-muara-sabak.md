@@ -2,7 +2,7 @@
 title: "Travel Palembang Muara Sabak"
 judul_seo: "Travel Palembang ke Muara Sabak Tanjabtim Door to Door Pantai & Bisnis"
 slug: "travel-palembang-muara-sabak"
-description: "Layanan travel Palembang ke Muara Sabak Tanjung Jabung Timur door to door yang aman. Cepat sampai tanpa transit bagi pengunjung pantai dan pelaku bisnis tambang."
+description: "Travel Palembang ke Muara Sabak Tanjabtim door-to-door aman. Cepat sampai tanpa transit untuk urusan pantai & tambang. WA 0813-6923-1893."
 pubDate: "2026-08-20"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq03EHzh0Bknxdw2NciMWyPYcLL6JrEuv6fsoonXSlEC7d8MBcP_nFjkAGip1Ufz2wmC5HmCXMlXJYREGVFzm3gnhPDZrrJSqaL5dr8-nY1sBtP4m5XeJsREuUUsu6SsRTwywhSxetjiDmSqK2DdbCcn06N45kuykEh3QG80vM7Q3OeA0R55f9XsgLrspo/s600/travel-palembang-muara-sabak.webp"

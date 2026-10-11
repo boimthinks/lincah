@@ -2,7 +2,7 @@
 title: "Jadwal Travel Palembang Baturaja Terbaru"
 judul_seo: "Jadwal Travel Palembang Baturaja Terbaru 2026: Pagi, Siang, Sore & Malam Lengkap"
 slug: "jadwal-travel-palembang-baturaja-terbaru"
-description: "Jadwal travel Palembang Baturaja terbaru 2026: keberangkatan 08.00, 14.00, 17.00, dan 20.00 WIB. Tarif mulai Rp200.000 door-to-door. Booking via WhatsApp 0813-6923-1893."
+description: "Jadwal travel Palembang Baturaja terbaru: berangkat pukul 08.00, 14.00, 17.00, dan 20.00 WIB door-to-door. Pesan via WA 0813-6923-1893."
 pubDate: "2026-09-28"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7G-E_UQFUHCWXdldkrqiJQte5bLchjeX7gh2lDEZFt0-imQxkrwWU1hMnoZcGR9aJMZmObHgTHqMpCES4eiG0Ivbpq5egkPvej71eHXyohzJqYhQGcjgc463GIaS67WjPTwtFLhgsB9fSlI0ldO01VA_VZCo1uQo6O6YTI2NpIjIN-qw4hQz-WUaHjupE/s600/travel-palembang-baturaja.webp"

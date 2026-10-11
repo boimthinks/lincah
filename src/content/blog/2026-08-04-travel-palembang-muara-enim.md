@@ -1,6 +1,6 @@
 ---
 title: "Travel Palembang Muara Enim"
-judul_seo: "Travel Palembang Muara Enim: Harga, Jadwal & Nomor WA 2026"
+judul_seo: "Travel Palembang Muara Enim Harga Jadwal dan Nomor WA"
 slug: "travel-palembang-muara-enim-door-to-door"
 description: "Harga travel Palembang Muara Enim Rp150.000 door-to-door. Jadwal 08-20 WIB. Perjalanan 4-5 jam via Lintas Sumatera. Nomor WA 0813-6923-1893."
 pubDate: "2026-08-04"

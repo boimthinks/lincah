@@ -2,7 +2,7 @@
 title: "Harga Travel Palembang Babat Toman"
 judul_seo: "Berapa Harga Tiket Travel Palembang Babat Toman Terbaru?"
 slug: "travel-palembang-babat-toman-harga"
-description: "Harga travel Palembang Babat Toman Rp180.000 flat, 4 jam 20 menit door-to-door via Betung-Sekayu. Jadwal 08.00/14.00/17.00/20.00 WIB. Booking WA 0813-6923-1893."
+description: "Harga travel Palembang Babat Toman Rp180.000 flat, 4 jam door-to-door via Sekayu. Jadwal 4x sehari, pesan via WhatsApp 0813-6923-1893."
 pubDate: "2026-08-30"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnL8EI0JP_akLm0MOTtnzR3v0VpVF4Db95MTKDx0sHC17JU_UjiTjYr5xSvQ1jbt0EN9tqcwcgpgSmpLvoXMllOlqEp3A2n8orypbcZG_6tfHmhiJJ9BxzStx6F4qrUFf_c_LU-rIerpKyAbevdoUAK0rUpDWgl2jVqXtTP6Lbn5H_d0kFtZXQcexq53eT/s600/travel-palembang-babat-toman-celin_poco.webp"

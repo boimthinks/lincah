@@ -2,7 +2,7 @@
 title: "Kirim Paket Palembang Lahat"
 judul_seo: "Kirim Paket Palembang Lahat Same Day Tarif dan Tips Pengemasan Aman"
 slug: "kirim-paket-palembang-lahat"
-description: "Kirim paket Palembang Lahat sampai hari yang sama via travel door-to-door. Simulasi ongkir, jadwal keberangkatan, tips kemas makanan dan dokumen. Chat WA 0813-6923-1893."
+description: "Kirim paket Palembang Lahat sampai hari yang sama via travel door-to-door. Simulasi ongkir, jadwal keberangkatan, dan chat WA 0813-6923-1893."
 pubDate: "2026-09-17"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Szh5IXaXgzBCloJ2nCAE57rkZAF1nGwGhmH-8WhIRDsNccPutH6AiO-xjhaNAfILDjPNaKkZ1huYcNRdg2ia9w68-TFhmuExs_4632AuebDayBilY5oOXeOqkZNSdcKlFLmt7afD7RjQkq7Z2Yh-3JAS7EvU3nWOcdu9Zh7iu35Rapks3yEWCtvtKNiv/s600/kirim-paket-palembang-lahat-via-travel_poco.webp"

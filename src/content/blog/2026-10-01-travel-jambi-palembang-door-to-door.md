@@ -2,7 +2,7 @@
 title: "Travel Jambi Palembang Door to Door"
 judul_seo: "Travel Jambi Palembang Door to Door: Jadwal, Tarif & Antar Jemput 2026"
 slug: "travel-jambi-palembang-door-to-door"
-description: "Travel Jambi Palembang door to door mulai Rp 200.000. Jadwal 4x sehari (08.00–20.00 WIB), antar-jemput alamat via Tol Baleno, armada HiAce & Innova. Booking WA 0813-6923-1893."
+description: "Travel Jambi Palembang door to door Rp200.000. Jadwal 4x sehari via Tol Baleno, armada HiAce & Innova Reborn. Pesan WA 0813-6923-1893."
 pubDate: "2026-10-01"
 updatedDate: "2026-10-03"
 author: "Tim Konten Lincah Travel"

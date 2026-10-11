@@ -2,7 +2,7 @@
 title: "Travel Palembang Muara Tebo"
 judul_seo: "Travel Palembang ke Muara Tebo Jambi Door to Door Jangkau Pelosok Perkebunan"
 slug: "travel-palembang-muara-tebo"
-description: "Travel door to door Palembang ke Muara Tebo Jambi untuk perjalanan bisnis di kawasan perkebunan dan kehutanan. Armada tahan banting siap menembus medan yang sedang dibuka."
+description: "Travel Palembang ke Muara Tebo Jambi door-to-door untuk perjalanan bisnis perkebunan & kehutanan. Armada prima, pesan WA 0813-6923-1893."
 pubDate: "2026-08-20"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLr7OVqFwEG-Io7DFN2Ab2s8qbV5KhINdgeS3qgwpXVtCBwLMRuecLKCWiGKVcRstBljLMFrDpmssi9UU2aCzRrynb_wkyQGB_Ycvx8g4DjYgPrVY5pT9pdc78l8UDymX7CIE295R_odj106dqrY8KkqQnfGNG_IGB7AyNYfnieUbaNzWhbfGLi24S6_l2/s600/travel-palembang-muara-tebo.webp"

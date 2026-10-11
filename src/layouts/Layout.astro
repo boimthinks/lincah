@@ -7,7 +7,7 @@ interface Props {
 	hideFloatingWhatsApp?: boolean;
 }
 
-const { title, description = "Layanan Lincah Travel Terpercaya", canonical, noindex, hideFloatingWhatsApp = false } = Astro.props;
+const { title, description = "Lincah Travel menyediakan layanan travel door-to-door dan rental mobil di Palembang, Sumatera Selatan, Lampung, dan Jambi dengan armada nyaman.", canonical, noindex, hideFloatingWhatsApp = false } = Astro.props;
 const canonicalURL = new URL((canonical || Astro.url.pathname).replace(/\.html$/, "").replace(/\/index$/, "/"), Astro.site).href;
 import '../index.css';
 import FloatingWhatsApp from '../components/FloatingWhatsApp.astro';

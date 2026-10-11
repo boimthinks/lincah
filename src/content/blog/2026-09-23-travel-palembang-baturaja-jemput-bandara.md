@@ -2,7 +2,7 @@
 title: "Travel Palembang Baturaja Jemput Bandara"
 judul_seo: "Travel Palembang Baturaja Jemput di Bandara dan Cerita di Baliknya"
 slug: "travel-palembang-baturaja-jemput-bandara"
-description: "Ongkos travel Palembang-Baturaja Rp200.000, naik jadi Rp250.000 kalau jemput di bandara. Kenapa wajib DP Rp50.000 via QRIS? Ini cerita nyata di balik kebijakan itu."
+description: "Ongkos travel Palembang-Baturaja jemput bandara SMB II door-to-door. Alasan kebijakan DP via QRIS dan tips penjemputan via WA 0813-6923-1893."
 pubDate: "2026-09-23"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE8X8y27ov6vBB7Mkw2WAnCGfCQAT63U-aV3vLLnQi3jt-O1-PXqmyCWPqbJNF2xuYxoZLD0gR_jjE4YiC6Rl73GOG8tYEUCTeQqozgqIhoDwPZr3ez0RR5S9UFDjflNOxIjPqSjJ7X1oyoJErqdGAvH-uclK6KJXH8ykax3cMvfLccIDk11KR4gGhGvfg/s600/Travel-Palembang-Baturaja-Jemput-di-Bandara.webp"

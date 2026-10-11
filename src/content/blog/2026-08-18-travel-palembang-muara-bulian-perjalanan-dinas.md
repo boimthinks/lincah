@@ -2,7 +2,7 @@
 title: "Travel Palembang Muara Bulian"
 judul_seo: "Travel Palembang ke Muara Bulian Jambi Door to Door Jadwal Harga"
 slug: "travel-palembang-muara-bulian-perjalanan-dinas"
-description: "Travel Palembang ke Muara Bulian Jambi Rp400.000 door-to-door. Pilihan tepat perjalanan dinas dan kunjungan kerja ke Batanghari dengan armada Hiace Premio Innova Reborn. Booking via WhatsApp 0813-6923-1893."
+description: "Travel Palembang ke Muara Bulian Jambi Rp400.000 door-to-door. Nyaman untuk dinas ke Batanghari armada Hiace & Innova. WA 0813-6923-1893."
 pubDate: "2026-08-18"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhORmcv8OPYTaBQeWjocgJ0EEdBlFSJCVb4IWPuBkqxquZL7k0MyV_Kgd0pok4gLVp0hdSiyF9-d3O-03gb7x970X09odObzvrlAPYPP0B3wsczvKiCgamX3zzS05EIZk8_mnBxaTnBmuFprB6cGK3kIHd4onVEjTQ-361BgYlxp8Vs3WDDBlNK7NDE0HPk/s600/travel-palembang-muara-bulian.webp"

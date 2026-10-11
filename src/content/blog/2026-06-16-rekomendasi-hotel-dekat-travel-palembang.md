@@ -2,7 +2,7 @@
 title: "Hotel Dekat Travel Palembang"
 judul_seo: "Rekomendasi Hotel di Palembang yang Dekat dengan Titik Penjemputan Travel Lincah"
 slug: "rekomendasi-hotel-dekat-titik-penjemputan-travel-palembang"
-description: "Daftar hotel terbaik di Palembang yang strategis untuk traveler. Dekat titik penjemputan travel, mudah diakses, dan cocok untuk perjalanan bisnis maupun liburan."
+description: "Rekomendasi hotel terbaik di Palembang dekat titik jemput travel. Akses strategis, nyaman, dan ideal untuk perjalanan dinas maupun liburan."
 pubDate: "2026-06-16"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWoEPDHYibYE_TftyoW-RsGDljI8DRaCQT1PrNvocGkIseh8P9K3sbzgQ8flN9CSpfisVkHljgRHKuTHqI0A-GpA9fs_vmO8FDhotoznJgtAFSG0M436lAOwZskXRJ4JOpV0CYHuvSREWkF5OhMQrga9Dr401KyIEOztQ7fRbAVVOjJMrlxGrXJze8g3YW/s600/Hotel%20Santika%20Radial%20Palembang.webp"

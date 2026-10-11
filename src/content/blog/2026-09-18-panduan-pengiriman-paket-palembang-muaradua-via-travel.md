@@ -2,7 +2,7 @@
 title: "Pengiriman Paket Palembang-Muaradua via Travel"
 judul_seo: "Pengiriman Paket Palembang-Muaradua via Travel Layanan Same-Day dan Estimasi Tarif"
 slug: "pengiriman-paket-palembang-muaradua-via-travel"
-description: "Kirim paket Palembang-Muaradua same-day delivery via travel door-to-door. Estimasi tarif 30rb-500rb. SOP pengemasan, mitigasi risiko, jaminan keamanan. Hubungi 0813-6923-1893."
+description: "Kirim paket Palembang-Muaradua same-day delivery via travel door-to-door. Tarif hemat, SOP pengemasan aman, hubungi WA 0813-6923-1893."
 pubDate: "2026-09-18"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZZIRM2wgOxBlTMwY2rZb6QCfXvTFv1xBSYtfHVh1Wv9ZNF5FT0vfH_Bcj32wLaRkGBeJMbn9TDVapx8mzFCTZP7H4g9g97R5WIxM0pMyflTEFQ8gKiQ5uUJjnzpJ3gleQ-mUikCvpONwBJmBlChrkfhSfQX7mjiPLVaA6y1BXM38RDXkXXPC0LjQjker-/s600/pengiriman-paket-palembang-muaradua-via-travel_poco.webp"

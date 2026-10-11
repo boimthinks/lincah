@@ -2,7 +2,7 @@
 title: "Travel Palembang Sengeti"
 judul_seo: "Travel Palembang ke Sengeti Muaro Jambi Door to Door Sehari Balik"
 slug: "travel-palembang-sengeti"
-description: "Travel Palembang ke Sengeti Muaro Jambi door to door ideal untuk kunjungan kerja sehari pula. Alternatif hemat uji cepat, biaya bensin, dan di depan gerbang Candi Muaro Jambi."
+description: "Travel Palembang ke Sengeti Muaro Jambi door-to-door untuk dinas dan wisata Candi Muaro Jambi. Hemat dan tepat waktu. WA 0813-6923-1893."
 pubDate: "2026-08-20"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq03EHzh0Bknxdw2NciMWyPYcLL6JrEuv6fsoonXSlEC7d8MBcP_nFjkAGip1Ufz2wmC5HmCXMlXJYREGVFzm3gnhPDZrrJSqaL5dr8-nY1sBtP4m5XeJsREuUUsu6SsRTwywhSxetjiDmSqK2DdbCcn06N45kuykEh3QG80vM7Q3OeA0R55f9XsgLrspo/s600/travel-palembang-muara-sabak.webp"

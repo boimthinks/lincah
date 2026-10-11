@@ -2,7 +2,7 @@
 title: "Jemputan Bandara SMB II Palembang"
 judul_seo: "Jemputan Pas Mendarat Bandara SMB II Palembang Door-to-Door 2026"
 slug: "jemputan-bandara-smb-ii-palembang-door-to-door"
-description: "Jemputan pas mendarat di Bandara SMB II Palembang door-to-door. Titik jemput di area Sukarami, koordinasi real-time dengan driver, dan armada bagasi luas. Hubungi admin via WhatsApp."
+description: "Jemputan Bandara SMB II Palembang door-to-door. Titik jemput area Sukarami, koordinasi driver cepat, armada bagasi luas. Hubungi WhatsApp."
 pubDate: "2026-08-07"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJP3yHEd4-GCccupW6Xmmtl9nsLZWjekErggV4DXe4vJEXG66Fri2tB1SZ-KyqYMUoQ43iaDmz6493SS47BSuT_HHAHRWTdzOk11RY9qPKTj0q18MLYnCjM-o9zF_onES_baeT7KdpRkM8cJU6JQizHMFEKUIUmDNK6YQNf57-OBW9YygTJNE5INBpMcY2/s600/travel-palembang-jemput-bandara.webp"

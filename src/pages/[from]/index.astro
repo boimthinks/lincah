@@ -34,8 +34,8 @@ const routesData = filteredRoutes.map(r => ({
 const cityImagesEntry = await getEntry('city_images', 'city-images').catch(() => null);
 const cityImages = cityImagesEntry?.data.cities || {};
 
-const title = `Daftar Travel dari ${originalFromName} - Rute & Harga Tiket`;
-const description = `Cari jadwal travel dari ${originalFromName}? Lincah Travel melayani antar-jemput door-to-door dari ${originalFromName} ke berbagai kota. Harga bersaing, armada nyaman.`;
+const title = `Travel dari ${originalFromName} - Rute & Tarif`;
+const description = `Cek jadwal & tarif travel door-to-door dari ${originalFromName} ke berbagai kota di Sumatera. Armada nyaman, pemesanan cepat via WhatsApp.`;
 ---
 
 <Layout title={title} description={description} noindex>

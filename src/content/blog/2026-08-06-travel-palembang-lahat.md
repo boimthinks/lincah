@@ -2,7 +2,7 @@
 title: "Travel Palembang Lahat"
 judul_seo: "Travel Palembang Lahat Door to Door: Harga, Jadwal & Tips Kota Teh 2026"
 slug: "travel-palembang-lahat-door-to-door"
-description: "Travel Palembang Lahat door-to-door Rp200.000, 5-6 jam via Lintas Sumatera. Cek jadwal 08:00/14:00/20:00 WIB dan tips naik ke Kota Teh. Pesan di WhatsApp 0813-6923-1893."
+description: "Travel Palembang Lahat Rp200.000 door-to-door, 5-6 jam via Lintas Sumatera. Cek jadwal 3x sehari dan tips perjalanan. Pesan WA 0813-6923-1893."
 pubDate: "2026-08-06"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZOFpo5OVpKw3zZQvsDagoOa4LPv_tLYGVOvckJqT6rCsnSMr0pQjnY4qvrKvXZqxRkXOLBRzKK_6hzvnEiJHo2lY9NWjw241GoWyStwtSMSRdGULUkWlCSQdvKMn_NijFXw9D1N9MC5kq9xLDqNug6hIn9moJR3u5UZhEph2lt4xUwiKDGh-TS4jd7hnj/s600/travel-palembang-lahat.webp"

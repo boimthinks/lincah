@@ -2,7 +2,7 @@
 title: "Travel Palembang Martapura"
 judul_seo: "Travel Palembang Martapura OKU Timur Door to Door: Jadwal, Harga & Tips 2026"
 slug: "travel-palembang-martapura-oku-timur"
-description: "Travel Palembang ke Martapura door-to-door mulai Rp160.000. Cek jadwal keberangkatan 09.00/14.00/20.00 WIB, pilihan armada nyaman, dan booking via WhatsApp 0813-6923-1893."
+description: "Travel Palembang ke Martapura door-to-door Rp160.000. Jadwal 09.00/14.00/20.00 WIB, armada prima ber-AC, pesan via WhatsApp 0813-6923-1893."
 pubDate: "2026-08-13"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj9sPB-K7UzN4JtopQz0NVYuAjq-qimyOxApOrtUtW0gn1JVcY4II1frZ91ibUr4aRi-ljYcymqwnONPS2vwPuHmSDNjq1QY_BxfLEo71VR8sCFM9W6t3BSX7SLmbARFNesRT3HL8p3oGyiiMB4p_bcrrojyWIoEeuZJg8zIq9T01qT81fXjbeU-2HWhdM/s600/travel-palembang-martapura-oku-timur.webp"

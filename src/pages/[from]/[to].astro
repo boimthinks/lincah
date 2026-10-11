@@ -34,9 +34,12 @@ if (hasBody) {
 
 const capitalize = (str: string) => str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
 
-const title = `Travel ${capitalize(from)} ke ${capitalize(to)} • Harga Tiket, Agen & Jadwal Lincah Travel`;
+let title = `Travel ${capitalize(from)} ke ${capitalize(to)} | Lincah Travel`;
+if (title.length > 60) {
+  title = `Travel ${capitalize(from)} ke ${capitalize(to)}`;
+}
 
-const metaDescription = `Harga tiket travel ${capitalize(from)} ${capitalize(to)} mulai Rp ${price.toLocaleString('id-ID')}. Cek ongkos travel, jadwal, jasa kirim paket via travel, agen & loket, serta nomor telepon 0813-6923-1893. Layanan door-to-door Lincah Travel.`;
+const metaDescription = `Tiket travel ${capitalize(from)} ke ${capitalize(to)} mulai Rp ${price.toLocaleString('id-ID')} door-to-door. Jadwal armada AC & pesan via WA 0813-6923-1893.`;
 
 // Fetch additional data for 'from' and 'to' cities
 const fromCitySlug = from.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '');

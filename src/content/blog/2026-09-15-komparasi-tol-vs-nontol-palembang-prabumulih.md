@@ -2,7 +2,7 @@
 title: "Perbandingan Tol vs Non Tol Palembang Prabumulih"
 judul_seo: "Panduan Tol vs Non Tol Palembang Prabumulih: Waktu Tempuh & Estimasi Biaya"
 slug: "komparasi-tol-vs-nontol-palembang-prabumulih"
-description: "Analisis tol vs non tol Palembang Prabumulih: waktu tempuh 45 menit vs 2 jam, biaya tol Rp 30.000 vs gratis. Temukan rekomendasi perjalanan door-to-door terbaik."
+description: "Analisis tol vs non-tol Palembang Prabumulih: waktu tempuh 45 menit vs 2 jam. Simak rekomendasi perjalanan travel door-to-door terbaik."
 pubDate: "2026-09-15"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1MfpM1br5JDntlte4Zd2jsOpoPd4Z0FPvOMj7fw48uThXHhm7cQH7zvCymilMC0N7CXpoNIcT_x1hG5OmDJt0uC-x0C-xs1x6cfD_oXaDEpuwkx1NwsE9jK4yj1MS1Bfv_xDllKBox1W2EcxWAnSUyakUySSGWt6-mAnZ8FQsMyGN_3dunfQmFPwKJQY_/s600/Panduan-Tol-Non-Tol-Palembang-Prabumulih_poco.webp"
