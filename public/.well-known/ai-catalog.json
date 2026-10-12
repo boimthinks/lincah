@@ -1,10 +1,11 @@
 {
+  "specVersion": "1.0",
   "@context": "https://agenticresourcediscovery.org/context/v1",
   "entries": [
     {
       "identifier": "urn:air:lincahtravel.web.id:travel-booking-service",
       "displayName": "Lincah Travel Booking & Route Assistant",
-      "type": "application/agent-skills+md",
+      "type": "text/markdown; profile=\"urn:air:agent-skills\"",
       "url": "https://lincahtravel.web.id/llms-full.txt",
       "description": "Layanan pemesanan travel antar-kota door-to-door, carter mobil privat dengan sopir, dan jasa pengiriman paket kilat same-day rute Sumatera Selatan, Jambi, dan Lampung.",
       "capabilities": [
