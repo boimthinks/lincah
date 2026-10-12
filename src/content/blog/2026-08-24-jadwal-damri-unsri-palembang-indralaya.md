@@ -1,71 +1,99 @@
 ---
 title: "Jadwal Damri Unsri Palembang Indralaya"
-judul_seo: "Jadwal Damri Unsri Palembang Indralaya Terbaru Tarif dan Rute Lengkap"
+judul_seo: "Jadwal Damri Unsri Palembang Indralaya Tarif Rute Terminal 32 2026"
 slug: "jadwal-damri-unsri-palembang-indralaya"
-description: "Panduan lengkap jadwal Damri Unsri Palembang Indralaya, rute Tol Palindra, tarif tiket, dan alternatif travel Palembang Indralaya door to door."
+description: "Update jadwal Damri Unsri Palembang Indralaya 2026, rute Terminal 32, tarif subsidi tiket, serta alternatif travel door to door via Tol Palindra."
 pubDate: "2026-08-24"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo9V_ZX0NtYliwPewNXLX7i-DXfGh8R1ufxXQP76QSNJ8GmVZ2bRdYGmSrzmDbcHoa-e9NxUFvboLVvBkQ2Gfjrj_erA8pv6_B6nZttD1OyX0qBFJCbeo7aXHOCsR4SzVE9vlmT_0UEb3_8VpipQfb_11MaU1hAq4vwYIV5DVYx3DY4OOhHd6HMkD1vD6v/s600/jadwal-damri-paalembang-indralaya-unsri.webp"
 kategori: "rute"
-pengantar: "Bagi ribuan mahasiswa Universitas Sriwijaya, kepastian jadwal transportasi harian adalah kunci agar tidak terlambat mengikuti jam kuliah dan praktikum di Kampus Indralaya. Perubahan jam operasional, titik kumpul bus, hingga alternatif perjalanan kini semakin memudahkan mobilitas antar dua kota."
-kesimpulan: "Informasi jadwal Damri Unsri Palembang Indralaya dan rute transit ini memudahkan mobilitas harian kampus Anda. Jika membutuhkan layanan perjalanan door to door tanpa antre halte, hubungi admin Lincah Travel di 0813-6923-1893."
-tags: ["damri unsri", "palembang", "indralaya", "travel"]
+pengantar: "Bagi civitas akademika Universitas Sriwijaya, kepastian jam keberangkatan bus kampus adalah kunci agar tidak tertinggal jam praktikum atau seminar di Kampus Indralaya. Pembaruan jadwal di Terminal 32, penambahan armada terintegrasi, hingga opsi carter travel privat kini semakin mempermudah mobilitas harian antar dua kota."
+kesimpulan: "Mengetahui jadwal operasional bus DAMRI dan titik kumpul di Terminal 32 membantu efisiensi waktu kuliah Anda. Jika Anda membawa barang berat atau butuh ketepatan waktu mendesak tanpa antre halte bus, hubungi admin Lincah Travel di WhatsApp 0813-6923-1893 untuk penjemputan langsung di pintu rumah."
+tags: ["damri unsri", "palembang ke unsri indralaya", "jadwal damri terminal 32 indralaya", "travel palembang indralaya", "tol palindra"]
 from: "palembang"
 to: "indralaya"
+faq:
+  - q: "Berapa jadwal Damri Unsri dari Terminal 32 Indralaya ke Palembang?"
+    a: "Bus beroperasi dari Terminal 32 Indralaya mulai pukul 07.30 WIB hingga 18.30 WIB dengan interval keberangkatan rata-rata setiap satu jam sekali, ditambah jadwal khusus sore hari."
+  - q: "Di mana saja titik kumpul bus Damri rute Palembang ke Unsri Indralaya?"
+    a: "Titik kumpul utama di Palembang berpusat di Pool DAMRI KM 9 Jl. Kol. H. Burlian, Terminal KM 12, Halte Punti Kayu, serta Halte Simpang Flyover Jakabaring."
+  - q: "Berapa tarif tiket bus Damri rute Palembang Indralaya terbaru?"
+    a: "Tarif umum dipatok sekitar Rp15.000 per orang, sedangkan tarif integrasi antarmoda LRT bersubsidi bagi mahasiswa Unsri dipatok mulai dari Rp7.000 per perjalanan."
+  - q: "Berapa lama waktu tempuh perjalanan Palembang ke Kampus Unsri Indralaya?"
+    a: "Perjalanan lewat jalan tol bebas hambatan Tol Palindra memakan waktu sekitar 35 hingga 45 menit dari gerbang tol menuju kawasan gerbang utama kampus."
+  - q: "Kapan mahasiswa atau dosen disarankan memilih travel door to door dibanding bus DAMRI?"
+    a: "Travel door to door ideal dipilih saat membawa barang praktikum berat, berkas skripsi, koper perlengkapan wisuda, atau mengejar jadwal kuliah pagi buta tanpa harus repot berjalan ke halte bus umum."
+  - q: "Berapa ongkos travel Palembang Indralaya door to door di Lincah Travel?"
+    a: "Tarif travel Palembang Indralaya dipatok flat Rp100.000 per orang dengan penjemputan langsung di alamat rumah di Palembang dan diantar sampai depan fakultas tujuan di Kampus Unsri."
 ---
 
-Aktivitas perkuliahan di Universitas Sriwijaya (Unsri) menciptakan pergerakan ribuan mahasiswa, dosen, serta staf administrasi dari Palembang menuju Kampus Indralaya setiap hari. Mengetahui secara rinci jadwal damri unsri palembang indralaya sangat penting agar Anda dapat mengatur waktu keberangkatan dengan tenang.
+Pergerakan harian ribuan mahasiswa, dosen, serta staf pengajar Universitas Sriwijaya (Unsri) menjadikan koridor Palembang menuju Indralaya salah satu jalur transportasi tersibuk di Sumatera Selatan. Akses perjalanan dari Palembang ke Unsri Indralaya kini semakin ringkas sejak tersambungnya Tol Palembang Indralaya (Tol Palindra).
 
-Seiring beroperasinya Tol Palembang-Indralaya (Palindra), waktu tempuh perjalanan darat kini terpangkas signifikan. Ditambah penataan angkutan kampus yang lebih tertib dan aman dari Dinas Perhubungan, armada bus BUMN menjadi andalan utama transportasi massal di koridor ini.
+Kendati demikian, tantangan mobilitas harian sering kali terletak pada pemilihan moda transportasi yang tepat. Sebagian mahasiswa mengandalkan bus DAMRI reguler karena pertimbangan efisiensi biaya, sementara sebagian lainnya memilih jasa antar jemput langsung guna menghindari keletihan antre halte.
 
-## Pembaruan Layanan dan Jam Operasional Bus Kampus
+Bagi Anda yang mengutamakan kenyamanan bebas repot, layanan travel palembang indralaya menyediakan solusi penjemputan alamat door to door langsung hingga pelataran gedung dekanat fakultas. Sementara untuk kebutuhan rute antar kota lainnya di Sumatera Bagian Selatan, layanan travel palembang kami senantiasa siap menemani agenda perjalanan Anda.
 
-Guna memenuhi lonjakan penumpang pada jam sibuk pagi dan sore hari, operasional bus kampus mengalami penambahan unit dari 10 menjadi 13 unit. Armada ini terdiri atas bus besar, bus sedang, serta unit pendukung untuk melayani mobilitas internal di dalam lingkungan kampus Indralaya.
+## Pembaruan Armada dan Jam Operasional Bus Kampus Unsri
 
-Jam operasional juga telah diperpanjang hingga pukul 20.00 WIB. Perpanjangan waktu ini sangat membantu mahasiswa yang memiliki agenda kelas praktikum petang, bimbingan tugas akhir, maupun kegiatan organisasi di kampus.
+Guna mengantisipasi lonjakan penumpang pada jam sibuk kuliah pagi dan kepulangan praktikum sore, Dinas Perhubungan bersama Perum DAMRI telah menambah unit operasional aktif dari 10 unit menjadi 13 unit armada. Pilihan armada terdiri dari bus besar berkapasitas 50 kursi serta medium bus yang lincah menembus kepadatan kota.
 
-## Jadwal Keberangkatan Bus dari Indralaya ke Palembang
+Jam layanan bus kampus kini telah diperpanjang hingga pukul 20.00 WIB malam. Pembaruan jam operasional ini menjadi angin segar bagi mahasiswa tingkat akhir yang kerap menyelesaikan bimbingan skripsi hingga menjelang magrib di Kampus Ogan Ilir.
 
-Bagi mahasiswa yang telah selesai kuliah di Kampus Indralaya, titik kumpul utama untuk kembali ke arah Palembang dipusatkan di Terminal 32. Bus diberangkatkan secara berkala dengan interval sekitar satu jam sekali.
+## Jadwal Lengkap Bus DAMRI Terminal 32 Indralaya ke Palembang
 
-| Jam Keberangkatan | Titik Awal | Tujuan Akhir |
+Titik sentral kepulangan mahasiswa dari Kampus Indralaya menuju Kota Palembang dipusatkan di Terminal 32 Indralaya. Bus diberangkatkan secara berkala mengikuti jadwal tetap berikut:
+
+| Jam Keberangkatan | Titik Awal Keberangkatan | Rute dan Tujuan Akhir |
 |---|---|---|
-| 07.30 WIB | Terminal 32 Indralaya | Palembang |
-| 08.30 WIB | Terminal 32 Indralaya | Palembang |
-| 09.30 WIB | Terminal 32 Indralaya | Palembang |
-| 10.30 WIB | Terminal 32 Indralaya | Palembang |
-| 11.30 WIB | Terminal 32 Indralaya | Palembang |
-| 12.00 WIB | Terminal 32 Indralaya | Palembang |
-| 13.00 WIB | Terminal 32 Indralaya | Palembang |
-| 14.30 WIB | Terminal 32 Indralaya | Palembang |
-| 15.30 WIB | Terminal 32 Indralaya | Palembang |
-| 16.20 WIB | Terminal 32 Indralaya | Palembang |
-| 16.30 WIB | Terminal 32 Indralaya | Palembang |
-| 17.30 WIB | Terminal 32 Indralaya | Palembang |
-| 18.30 WIB | Terminal 32 Indralaya | Palembang |
+| 07.30 WIB | Terminal 32 Indralaya | Jakabaring - KM 9 Palembang |
+| 08.30 WIB | Terminal 32 Indralaya | Jakabaring - KM 9 Palembang |
+| 09.30 WIB | Terminal 32 Indralaya | Jakabaring - KM 9 Palembang |
+| 10.30 WIB | Terminal 32 Indralaya | Jakabaring - KM 9 Palembang |
+| 11.30 WIB | Terminal 32 Indralaya | Jakabaring - KM 9 Palembang |
+| 12.00 WIB | Terminal 32 Indralaya | Jakabaring - KM 9 Palembang |
+| 13.00 WIB | Terminal 32 Indralaya | Jakabaring - KM 9 Palembang |
+| 14.30 WIB | Terminal 32 Indralaya | Jakabaring - KM 9 Palembang |
+| 15.30 WIB | Terminal 32 Indralaya | Jakabaring - KM 9 Palembang |
+| 16.20 WIB | Terminal 32 Indralaya | Jakabaring - KM 9 Palembang |
+| 16.30 WIB | Terminal 32 Indralaya | Jakabaring - KM 9 Palembang |
+| 17.30 WIB | Terminal 32 Indralaya | Jakabaring - KM 9 Palembang |
+| 18.30 WIB | Terminal 32 Indralaya | Jakabaring - KM 9 Palembang |
 
-Selain jadwal dari Terminal 32, tersedia rute khusus dari kawasan perkantoran terpadu Tanjung Senai Ogan Ilir menuju Palembang pada pukul 16.10 WIB setiap hari kerja (Senin sampai Jumat).
+Khusus hari kerja (Senin sampai Jumat), tersedia pula jadwal armada tambahan pukul 16.10 WIB yang melayani penjemputan dari Kompleks Perkantoran Terpadu Tanjung Senai Ogan Ilir langsung menuju Palembang.
 
-## Titik Keberangkatan dan Pool Transit di Palembang
+## Titik Kumpul Keberangkatan dari Arah Kota Palembang
 
-Bagi calon penumpang dari arah Kota Palembang, terdapat beberapa titik kumpul strategis yang dapat diakses sesuai domisili:
+Bagi calon penumpang yang berangkat dari Palembang menuju Kampus Indralaya, beberapa titik kumpul strategis dapat disesuaikan dengan domisili tempat tinggal:
 
-Pool DAMRI KM 9 berada di Jl. Kol. H. Burlian No. 848, melayani pembelian tiket fisik serta pusat informasi. Lokasi ini menjadi titik awal beberapa rute jarak jauh Sumatera Selatan.
+1. **Pool DAMRI KM 9**: Berlokasi di Jl. Kolonel H. Burlian No. 848. Menjadi pusat loket pembelian tiket fisik, jadwal jarak jauh, serta keberangkatan bus pagi.
+2. **Terminal KM 12**: Titik awal bagi warga kawasan Alang-Alang Lebar dan Sukarami dengan jadwal bus pertama mulai pukul 05.50 WIB.
+3. **Halte Integrasi LRT Simpang Jakabaring**: Halte paling padat bagi mahasiswa kawasan Seberang Ulu dan Plaju. Dari simpang flyover Jakabaring, bus langsung melaju masuk gerbang Tol Palindra tanpa terkena lampu merah Kertapati.
+4. **Halte Unsri Kampus Bukit Besar**: Titik temu transit mahasiswa fakultas tertentu yang memiliki agenda kuliah terpisah antara Kampus Bukit Palembang dan Kampus Indralaya.
 
-Terminal KM 12 menjadi titik keberangkatan pagi hari mulai pukul 05.30 WIB untuk bus antar-kota, serta keberangkatan awal pukul 05.50 WIB menuju kawasan Ogan Ilir.
+## Skema Tarif Tiket dan Subsidi Antarmoda Mahasiswa
 
-Pemberhentian Fly Over Jakabaring di sekitar simpang Fly Over Jl. Jendral Ahmad Yani dan Terminal Jakabaring merupakan spot favorit mahasiswa di kawasan Seberang Ulu. Dari titik ini, armada langsung meluncur masuk gerbang Tol Palindra.
+Pemerintah Provinsi Sumatera Selatan bersama BUMN DAMRI menerapkan tarif ramah kantong mahasiswa:
 
-## Rincian Tarif Tiket dan Subsidi Integrasi LRT
+- **Tarif Bus Reguler**: Berkisar Rp15.000 per tiket sekali jalan.
+- **Tarif Subsidi Integrasi Feeder LRT**: Khusus mahasiswa terdaftar yang transit antarmoda di stasiun LRT, tarif terusan dipotong menjadi hanya Rp7.000 per perjalanan.
+- **Metode Pembayaran**: Pembelian dapat dilakukan lewat aplikasi DAMRI Apps, pembayaran non-tunai QRIS di halte, atau loket tiket fisik di Pool KM 9.
 
-Tarif transportasi publik di jalur ini dibuat sangat terjangkau guna mendukung kelancaran kegiatan belajar mengajar para mahasiswa.
+## Solusi Cepat: Travel Palembang Indralaya Door to Door
 
-Pemerintah juga menyediakan program integrasi antarmoda rute Punti Kayu, Asrama Haji, Jakabaring, hingga Kampus Unsri. Lewat skema subsidi, biaya perjalanan terusan yang normalnya Rp15.000 dipotong menjadi Rp7.000 khusus bagi mahasiswa.
+Meskipun bus DAMRI beroperasi teratur, sistem halte memiliki batasan dalam hal fleksibilitas. Bagi mahasiswa yang membawa barang berharga, koper perlengkapan wisuda, manekin praktikum, atau dosen yang terikat jadwal sidang akademik ketat, antre di halte sering kali memakan waktu lebih lama.
 
-Pemesanan tiket bus reguler dapat dilakukan secara online melalui aplikasi DAMRI Apps, maupun langsung di loket Pool KM 9 yang buka mulai pukul 04.30 hingga 17.00 WIB.
+Lincah Travel menghadirkan layanan travel palembang indralaya dan rute kepulangan travel indralaya palembang dengan sejumlah keunggulan utama:
 
-## Pilihan Travel Palembang Indralaya Door to Door
+- **Jemput Depan Pintu**: Driver menjemput langsung dari depan pagar kos, rumah, atau apartemen di Palembang, lalu mengantar tepat di depan gerbang gedung fakultas di Unsri Indralaya.
+- **Bebas Macet via Tol Palindra**: Armada langsung melaju penuh via jalan tol dengan estimasi durasi hanya 35 sampai 45 menit.
+- **Kenyamanan Kabin Privat**: Menggunakan unit Toyota Avanza Veloz atau Innova Reborn ber-AC dingin dengan ruang bagasi luas dan kapasitas tempat duduk yang lega.
+- **Tarif Flat Transparan**: Ongkos ditetapkan flat Rp100.000 per penumpang tanpa biaya transit tambahan.
 
-Meskipun bus reguler beroperasi setiap hari, ada momen ketika mahasiswa atau dosen membutuhkan fleksibilitas lebih, misalnya saat membawa barang praktikum berat, mengejar ujian pagi tanpa harus transit, atau butuh dijemput langsung dari rumah.
+## Cara Pesan Travel Palembang Indralaya via WhatsApp
 
-Lincah Travel menyediakan layanan travel palembang indralaya dengan sistem penjemputan door to door dan rute sebaliknya travel indralaya palembang. Armada seperti Toyota Avanza Veloz dan Innova Reborn melaju penuh via tol dengan waktu tempuh sekitar 45 menit, mengantar Anda langsung hingga gerbang fakultas tujuan.
+Untuk memesan kursi atau layanan carter satu mobil penuh rute Palembang Indralaya, Anda cukup mengirim pesan singkat:
+
+1. Kirim pesan WhatsApp ke nomor resmi admin **0813-6923-1893**.
+2. Cantumkan tanggal perjalanan, jam penjemputan yang diinginkan, dan jumlah penumpang.
+3. Sebutkan alamat penjemputan di Palembang dan lokasi fakultas/tujuan spesifik di Indralaya.
+4. Admin akan segera memverifikasi ketersediaan armada dan menugaskan sopir terdekat untuk menjemput Anda tepat waktu.

@@ -1,0 +1,183 @@
+# Lincah Travel — Dokumentasi Lengkap & Knowledge Base Terpadu
+
+Dokumen ini berisi informasi menyeluruh tentang Lincah Travel: profil bisnis, aturan layanan, spesifikasi armada, seluruh rute perjalanan darat beserta tarif dan jadwal, panduan carter operasional perusahaan, kirim paket kilat, serta katalog artikel panduan perjalanan untuk referensi model bahasa (LLM) dan mesin penjawab AI.
+
+---
+
+## 1. Identitas Bisnis & Kontak Resmi
+
+| Parameter | Detail Faktual |
+|---|---|
+| Nama Usaha | Lincah Travel |
+| Domain Utama | https://lincahtravel.web.id |
+| Tagline | "Cepat . Aman . Nyaman" |
+| Layanan Utama | Travel Reguler Door-to-Door, Carter Mobil Privat, Titip Paket Kilat Same-Day |
+| WhatsApp Reservasi | 6281369231893 (Layanan 24 Jam) |
+| Alamat Kantor | Lorong Tj. Burung Utama, Bukit Lama, Kec. Ilir Barat I, Kota Palembang, Sumatera Selatan 30139 |
+| Wilayah Layanan | Kota Palembang, Ogan Ilir, Prabumulih, Muara Enim, Lahat, Baturaja, Lubuklinggau, Pagaralam, Musi Banyuasin, Lampung, dan Jambi |
+
+### Saluran Media Sosial Resmi
+- LinkedIn: https://www.linkedin.com/company/lincah-travel/
+- TikTok: https://www.tiktok.com/@lincahtravelpalembang
+- YouTube: https://www.youtube.com/@lincahtravel
+- Facebook: https://web.facebook.com/profile.php?id=61591225023421
+- Pinterest: https://id.pinterest.com/lincahtravel/
+
+---
+
+## 2. Kebijakan & Ketentuan Layanan
+
+### A. Layanan Door-to-Door (Antar-Jemput Alamat)
+- Penumpang dijemput langsung dari depan pagar rumah, kantor, hotel, atau bandara di kota asal.
+- Pengantaran dilakukan langsung sampai ke depan pintu alamat tujuan dalam batas wilayah operasional kecamatan kota tujuan.
+- Tidak memerlukan biaya tambahan penjemputan selama berada di dalam zona perkotaan standar.
+
+### B. Ketentuan Bagasi
+- Setiap penumpang mendapatkan alokasi bagasi gratis: 1 koper ukuran sedang (maksimal 24 inci) dan 1 tas ransel/jinjing.
+- Penumpang yang membawa barang melebihi kapasitas wajib memberitahukan admin saat pemesanan untuk penyesuaian bagasi atau carter kursi tambahan.
+
+### C. Sistem Pembayaran & Pembatalan
+- Pembayaran dapat dilakukan via transfer bank saat reservasi atau secara tunai (COD) langsung kepada pengemudi saat penjemputan.
+- Pembatalan perjalanan wajib diinformasikan ke admin WhatsApp paling lambat 6 jam sebelum jam keberangkatan tanpa dikenakan denda.
+
+---
+
+## 3. Spesifikasi Unit Armada
+
+1. **Toyota Hiace Premio**
+   - Kapasitas: 11 Kursi Penumpang
+   - Konfigurasi: 1 kursi depan + 10 kursi kabin belakang
+   - Fasilitas: Reclining seats empuk dengan sandaran ergonomis, AC double blower merata, port USB charger di setiap baris bangku, suspensi lembut untuk perjalanan jarak jauh.
+   - Peruntukan: Perjalanan rombongan keluarga besar, dinas instansi, dan pergantian kru kerja proyek.
+
+2. **Toyota Innova Reborn**
+   - Kapasitas: 7 Kursi Penumpang
+   - Konfigurasi: Jok captain seat / medium, kabin privat dengan peredaman suara tinggi.
+   - Fasilitas: Full AC dingin, ruang kaki lega, suspensi premium, bagasi luas.
+   - Peruntukan: Pejabat dinas, pimpinan vendor tambang, rombongan eksekutif, dan keluarga kecil.
+
+3. **Toyota Avanza & Veloz**
+   - Kapasitas: 6 Kursi Penumpang
+   - Fasilitas: AC double blower, kabin bersih dan rapi, mesin terawat.
+   - Peruntukan: Perjalanan reguler ekonomis, komuter harian antar-kota, dan mahasiswa.
+
+---
+
+## 4. Katalog Lengkap Rute, Tarif, dan Jadwal Resmi 2026
+
+### Koridor Barat & Tengah (Sumatera Selatan)
+- **Palembang – Indralaya (UNSRI)**: Tarif Rp 100.000 | Durasi 45 menit | Jadwal setiap jam (06.00 – 20.00 WIB) via Tol Palindra.
+- **Palembang – Prabumulih**: Tarif Rp 130.000 | Durasi 2 jam | Jadwal setiap jam (07.00 – 21.00 WIB) via Tol Indraprabu.
+- **Palembang – Simpang Belimbing**: Tarif Rp 150.000 | Durasi 3 jam | Jadwal 08.00, 14.00, 20.00 WIB.
+- **Palembang – Muara Enim**: Tarif Rp 150.000 | Durasi 3,5 - 4,5 jam | Jadwal 08.00, 14.00, 17.00, 20.00 WIB via Tol Indraprabu & Lintas Tengah.
+- **Palembang – Tanjung Enim**: Tarif Rp 160.000 | Durasi 4 - 5 jam | Jadwal 08.00, 14.00, 17.00, 20.00 WIB (Akses Tambang PTBA).
+- **Palembang – Lahat**: Tarif Rp 200.000 | Durasi 5 - 6 jam | Jadwal 08.00, 14.00, 20.00 WIB via Koridor Merapi.
+- **Palembang – Kikim**: Tarif Rp 200.000 | Durasi 7 - 8 jam | Jadwal 08.00, 14.00, 20.00 WIB.
+- **Palembang – Tebing Tinggi (Empat Lawang)**: Tarif Rp 210.000 | Durasi 8 - 9 jam | Jadwal 09.00, 16.00, 21.00 WIB.
+- **Palembang – Pendopo Lintang**: Tarif Rp 230.000 | Durasi 8 - 9 jam | Jadwal 08.00, 14.00, 20.00 WIB.
+- **Palembang – Muara Beliti**: Tarif Rp 250.000 | Durasi 6,5 jam | Jadwal 08.00, 14.00, 20.00 WIB.
+- **Palembang – Lubuklinggau**: Tarif Rp 200.000 | Durasi 7 - 8 jam | Jadwal 09.00, 16.00, 20.00 WIB.
+
+### Koridor Selatan & OKU Raya
+- **Palembang – Baturaja**: Tarif Rp 200.000 | Durasi 4 - 5 jam | Jadwal 08.00, 14.00, 17.00, 20.00 WIB via Prabumulih.
+- **Palembang – Batu Marta**: Tarif Rp 170.000 | Durasi 5 - 6 jam | Jadwal 08.00, 15.00, 20.00 WIB.
+- **Palembang – Martapura (OKU Timur)**: Tarif Rp 160.000 | Durasi 5 jam | Jadwal 08.00, 14.00, 20.00 WIB.
+- **Palembang – Belitang**: Tarif Rp 150.000 | Durasi 5 - 6 jam | Jadwal 08.00, 15.00, 19.00 WIB.
+- **Palembang – Tugumulyo**: Tarif Rp 180.000 | Durasi 7 - 8 jam | Jadwal 09.00, 16.00, 20.00 WIB.
+- **Palembang – Muara Dua (OKU Selatan)**: Tarif Rp 170.000 | Durasi 7 - 8 jam | Jadwal 09.00, 15.00, 21.00 WIB.
+- **Palembang – Danau Ranau**: Tarif Rp 240.000 | Durasi 8 - 9 jam | Jadwal 08.00, 14.00, 20.00 WIB.
+
+### Koridor Barat Daya (Wisata Alam)
+- **Palembang – Pagaralam**: Tarif Rp 250.000 | Durasi 7 - 8 jam | Jadwal 08.00, 15.00, 20.00 WIB (Kawasan Wisata Kebun Teh Gunung Dempo).
+
+### Koridor Utara & Musi Banyuasin (Lintas Timur)
+- **Palembang – Betung**: Tarif Rp 180.000 | Durasi 3 - 4 jam | Jadwal 08.00, 14.00, 17.00, 20.00 WIB.
+- **Palembang – Sekayu**: Tarif Rp 180.000 | Durasi 3 jam | Jadwal 08.00, 13.00, 16.00 WIB via Simpang Betung - Lais.
+- **Palembang – Babat Toman**: Tarif Rp 200.000 | Durasi 4 - 5 jam | Jadwal 08.00, 14.00, 20.00 WIB.
+- **Palembang – Sungai Lilin**: Tarif Rp 180.000 | Durasi 2,5 - 3 jam | Jadwal 08.00, 14.00, 18.00 WIB.
+- **Palembang – Bayung Lencir**: Tarif Rp 200.000 | Durasi 4 - 5 jam | Jadwal 08.00, 14.00, 19.00 WIB.
+
+### Koridor Tenggara & Pesisir
+- **Palembang – Kayu Agung (OKI)**: Tarif Rp 100.000 | Durasi 1,5 jam | Jadwal setiap jam (07.00 – 18.00 WIB).
+- **Palembang – Pelabuhan Tanjung Api-api (TAA)**: Tarif Rp 150.000 | Durasi 1,5 - 2 jam | Sambungan tiket kapal feri ke Pulau Bangka (Muntok).
+
+### Koridor Antar-Provinsi (Jambi & Lampung)
+- **Palembang – Lampung**: Tarif Rp 300.000 | Durasi 4 - 4,5 jam | Jadwal 09.00, 15.00, 21.00 WIB via Tol Trans Sumatera (Bakauheni - Terbanggi Besar - Kayu Agung).
+- **Palembang – Talang Padang (Lampung Barat)**: Tarif Rp 400.000 | Durasi 10 - 12 jam | Jadwal 08.00, 14.00, 20.00 WIB.
+- **Palembang – Jambi**: Tarif Rp 200.000 | Durasi 5 - 6 jam | Jadwal 08.00, 15.00 WIB via Lintas Timur.
+- **Palembang – Muara Bulian**: Tarif Rp 180.000 | Durasi 5 - 6 jam | Jadwal 09.00, 16.00, 21.00 WIB.
+- **Palembang – Sekernan**: Tarif Rp 220.000 | Durasi 6 - 7 jam | Jadwal 08.00, 15.00, 20.00 WIB.
+- **Palembang – Kuala Tungkal**: Tarif Rp 400.000 | Durasi 10 - 11 jam | Jadwal 07.00, 19.00 WIB (Pintu feri ke Kepulauan Riau / Batam).
+- **Palembang – Bangko (Merangin)**: Tarif Rp 250.000 | Durasi 8 - 9 jam | Jadwal 08.00, 15.00, 20.00 WIB.
+- **Palembang – Muara Bungo**: Tarif Rp 250.000 | Durasi 9 - 10 jam | Jadwal 08.00, 15.00, 20.00 WIB.
+- **Palembang – Sungai Penuh (Kerinci)**: Tarif Rp 350.000 | Durasi 12 - 14 jam | Jadwal 08.00, 15.00 WIB.
+
+---
+
+## 5. Layanan Carter Mobil Korporat & Paket Kilat
+
+### Carter Drop Off & Sewa Harian Standby
+- **Unit Toyota Innova Reborn**: Carter drop satu kali jalan mulai Rp 850.000 – Rp 950.000 (Muara Enim/Tanjung Enim/Baturaja). Sewa harian dengan sopir di site mulai Rp 1.100.000/hari.
+- **Unit Toyota Hiace Premio**: Carter drop satu kali jalan mulai Rp 1.400.000 – Rp 1.600.000 untuk rombongan hingga 11 orang.
+- **Inklusi Biaya**: Sudah termasuk mobil, sopir berpengalaman, BBM, dan biaya tol.
+- **Administrasi Kantor**: Disediakan faktur tagihan (invoice resmi) dan kuitansi fisik bermeterai untuk mempermudah klaim perjalanan dinas perusahaan.
+
+### Penjemputan Khusus Bandara SMB II Palembang
+- Pengemudi menjemput tepat waktu di gate kedatangan domestik Bandara Sultan Mahmud Badaruddin II (SMB II) Palembang membawa papan nama penumpang, bebas biaya parkir bandara.
+
+### Pengiriman Paket Kilat Same-Day
+- Barang, dokumen tender, suku cadang, dan makanan khas dapat dititipkan melalui armada travel yang berangkat hari itu juga.
+- Barang diantar langsung ke alamat penerima di kota tujuan tanpa perlu diambil di pool kargo.
+
+---
+
+## 6. Indeks Artikel Panduan Blog Resmi
+
+Berikut adalah daftar artikel panduan perjalanan, komparasi rute, dan jadwal yang terbit di blog resmi Lincah Travel (URL format: https://lincahtravel.web.id/blog/{slug}):
+
+1. `travel-palembang-muara-enim-door-to-door`: Panduan Travel Palembang Muara Enim tarif Rp150.000, jadwal, dan jalur Tol Indraprabu.
+2. `carter-travel-palembang-muara-enim-dinas-tambang`: Panduan Carter Travel Palembang Muara Enim Tanjung Enim Kunjungan Dinas Tambang 2026.
+3. `jadwal-damri-unsri-palembang-indralaya`: Panduan Jadwal Damri Unsri Palembang Indralaya, rute Terminal 32, tiket mahasiswa, dan travel tol 45 menit.
+4. `travel-palembang-indralaya-unsri`: Panduan Travel Palembang Indralaya UNSRI tarif Rp100.000 door-to-door via tol.
+5. `travel-palembang-lahat-door-to-door`: Panduan Travel Palembang Lahat Rp200.000 door-to-door 5-6 jam via Merapi.
+6. `travel-palembang-baturaja-door-to-door`: Panduan Travel Palembang Baturaja Rp200.000 door-to-door via Prabumulih.
+7. `travel-palembang-sekayu`: Panduan Travel Palembang Sekayu door-to-door 3 jam via Simpang Betung.
+8. `ongkos-travel-palembang-sekayu`: Rincian ongkos dan jadwal travel Palembang Sekayu terkini.
+9. `travel-palembang-sungai-lilin-door-to-door`: Panduan Ongkos Travel Palembang Sungai Lilin tarif Rp180.000 durasi 3 jam.
+10. `travel-palembang-bayung-lencir-door-to-door`: Panduan Travel Palembang Bayung Lencir tarif Rp200.000 via Lintas Timur.
+11. `travel-palembang-lampung-via-tol`: Panduan Travel Palembang Lampung full via Tol Trans Sumatera 4,5 jam Rp300.000.
+12. `travel-palembang-jambi-berbasis-palembang`: Panduan Travel Palembang Jambi door-to-door 5 jam Rp200.000.
+13. `travel-palembang-lubuk-linggau-door-to-door`: Panduan Travel Palembang Lubuklinggau tarif Rp200.000 door-to-door.
+14. `travel-palembang-pagaralam-door-to-door`: Panduan Travel Palembang Pagaralam Gunung Dempo Rp250.000 door-to-door.
+15. `travel-palembang-kuala-tungkal-transit-batam`: Panduan Travel Palembang Kuala Tungkal transit kapal roro ke Batam Kepri.
+16. `travel-palembang-pelabuhan-tanjung-api-api`: Panduan Travel Palembang Pelabuhan Tanjung Api-Api penghubung feri Bangka.
+17. `travel-palembang-talang-padang`: Panduan Travel Palembang Talang Padang Tanggamus / Lampung Barat Rp400.000.
+18. `travel-palembang-tugumulyo`: Panduan Travel Palembang Tugumulyo OKU Timur Rp180.000.
+19. `travel-palembang-muara-beliti`: Panduan Travel Palembang Muara Beliti Musi Rawas Rp250.000.
+20. `travel-palembang-bangko-merangin`: Panduan Travel Palembang Bangko Merangin Rp250.000.
+21. `travel-palembang-sungai-penuh`: Panduan Travel Palembang Sungai Penuh Kerinci Rp350.000.
+22. `travel-palembang-sekernan`: Panduan Travel Palembang Sekernan Muaro Jambi Rp220.000.
+23. `travel-palembang-muara-dua-door-to-door`: Panduan Travel Palembang Muara Dua OKU Selatan Rp170.000.
+24. `travel-palembang-belitang-oku-timur`: Panduan Travel Palembang Belitang OKU Timur Rp150.000.
+25. `travel-palembang-martapura-oku-timur`: Panduan Travel Palembang Martapura OKU Timur Rp160.000.
+26. `travel-palembang-prabumulih-jadwal-malam`: Panduan Travel Palembang Prabumulih jadwal malam via Tol Indraprabu.
+27. `rekap-harga-travel-sumatera-selatan-2026`: Rekapitulasi daftar tarif ongkos tiket travel seluruh Sumatera Selatan.
+28. `cara-booking-tiket-travel-lincah-whatsapp`: Prosedur pemesanan tiket travel via WhatsApp admin 0813-6923-1893.
+
+---
+
+## 7. Format Booking Cepat via WhatsApp
+
+Calon penumpang dapat memesan tiket maupun carter mobil dengan mengirimkan format berikut ke **WhatsApp 0813-6923-1893**:
+
+```text
+Halo Lincah Travel, saya ingin memesan tiket:
+- Nama:
+- Rute: [Kota Asal] ke [Kota Tujuan]
+- Jenis Layanan: [Travel Reguler / Carter Mobil Privat / Paket Kilat]
+- Tanggal & Jam Keberangkatan:
+- Jumlah Penumpang:
+- Alamat Lengkap Penjemputan:
+- Alamat Lengkap Tujuan:
+- Catatan Bagasi:
+```

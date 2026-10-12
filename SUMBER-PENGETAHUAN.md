@@ -186,6 +186,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Sungai Penuh | `2026-10-09-travel-palembang-sungai-penuh.md` |
 | Palembang-Kuala Tungkal (Transit Batam) | `2026-10-12-travel-palembang-kuala-tungkal-transit-batam.md` |
 | Palembang-Jambi (Telanaipura & Bandara) | `2026-10-12-travel-palembang-jambi-telanaipura-bandara.md` |
+| Palembang-Muara Enim (Carter Dinas Tambang PTBA) | `2026-10-08-carter-travel-palembang-muara-enim-dinas-tambang.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
