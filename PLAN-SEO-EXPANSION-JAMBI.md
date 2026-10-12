@@ -143,11 +143,11 @@ Gunakan checklist ini untuk melacak progres pengerjaan di sesi mendatang:
   - [x] Tulis artikel: `travel-palembang-kuala-tungkal-transit-batam`
   - [x] Tulis artikel: `travel-palembang-jambi-telanaipura-bandara`
   - [x] Uji build (`npm run build`)
-- [ ] **Batch 3 (Revamp Satelit Eksisting Batanghari & Barat Jambi)**:
-  - [ ] Revamp `travel-palembang-muara-bulian-perjalanan-dinas.md` + pasang 6 FAQ
-  - [ ] Revamp `travel-palembang-muara-bungo.md` + pasang 6 FAQ
-  - [ ] Revamp `travel-palembang-muara-tebo.md` + pasang 6 FAQ
-  - [ ] Revamp `travel-palembang-sarolangun.md` + pasang 6 FAQ
+- [x] **Batch 3 (Revamp Satelit Eksisting Batanghari & Barat Jambi)**:
+  - [x] Revamp `travel-palembang-muara-bulian-perjalanan-dinas.md` + pasang 6 FAQ
+  - [x] Revamp `travel-palembang-muara-bungo.md` + pasang 6 FAQ
+  - [x] Revamp `travel-palembang-muara-tebo.md` + pasang 6 FAQ
+  - [x] Revamp `travel-palembang-sarolangun.md` + pasang 6 FAQ
 - [ ] **Batch 4 (Revamp Satelit Eksisting Pesisir & Kerinci)**:
   - [ ] Revamp `travel-palembang-muara-sabak.md` + pasang 6 FAQ
   - [ ] Revamp `travel-palembang-siulak.md` + pasang 6 FAQ
