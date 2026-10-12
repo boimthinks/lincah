@@ -3,5 +3,6 @@ Allow: /
 
 Sitemap: https://lincahtravel.web.id/sitemap-index.xml
 
-# LLM optimization
+# LLM & Agentic Resource Discovery (ARD)
 LLMs.txt: https://lincahtravel.web.id/llms.txt
+Agentmap: https://lincahtravel.web.id/.well-known/ard.json

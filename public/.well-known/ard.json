@@ -1,0 +1,24 @@
+{
+  "@context": "https://agenticresourcediscovery.org/context/v1",
+  "entries": [
+    {
+      "identifier": "urn:air:lincahtravel.web.id:travel-booking-service",
+      "displayName": "Lincah Travel Booking & Route Assistant",
+      "type": "application/agent-skills+md",
+      "url": "https://lincahtravel.web.id/llms-full.txt",
+      "description": "Layanan pemesanan travel antar-kota door-to-door, carter mobil privat dengan sopir, dan jasa pengiriman paket kilat same-day rute Sumatera Selatan, Jambi, dan Lampung.",
+      "capabilities": [
+        "TravelBooking",
+        "RouteInquiry",
+        "CharterBooking",
+        "SameDayDelivery"
+      ],
+      "representativeQueries": [
+        "jadwal dan ongkos travel palembang ke muara enim door to door",
+        "pesan carter hiace atau innova palembang ke lahat tanjung enim",
+        "tarif tiket travel palembang indralaya via tol unsri",
+        "kirim paket kilat palembang jambi sampai hari ini"
+      ]
+    }
+  ]
+}
