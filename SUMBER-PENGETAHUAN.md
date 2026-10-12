@@ -66,6 +66,7 @@ Gunakan data ini sebagai social proof dalam artikel:
 | **Palembang-Talang Padang** | 10-12 jam | Tol Trans-Sumatera (Terpeka) - Pringsewu | Rp 400.000 | Lampung Barat, perantau & pebisnis kopi |
 | **Palembang-Tugumulyo** | 7-8 jam | Tol Indraprabu - Lintas OKU Timur | Rp 180.000 | Sentra pangan OKU Timur, transmigrasi |
 | **Palembang-Pelabuhan Tanjung Api-api** | 1 jam 55 menit | Jl. Akses TAA (koridor Gasing) | Rp 150.000 | Gerbang feri ke Bangka (Tanjung Kalian/Muntok) |
+| **Palembang-Muara Lakitan** | 5-6 jam | Sekayu / PALI | Rp 200.000 | 20 desa di Musi Rawas, door-to-door |
 
 **Sumber data:** `src/content/rute/*.md`
 

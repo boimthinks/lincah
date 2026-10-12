@@ -1,0 +1,23 @@
+---
+city: "muara-lakitan"
+items:
+  - "Muara Lakitan"
+  - "Anyar"
+  - "Bumi Makmur"
+  - "Harapan Makmur"
+  - "Lubuk Pandan"
+  - "Marga Baru"
+  - "Muara Rengas"
+  - "Mukti Karya"
+  - "Pelita Jaya"
+  - "Pendingan"
+  - "Pian Raya"
+  - "Prabumulih II"
+  - "Semangus Baru"
+  - "Semangus"
+  - "Semeteh"
+  - "Sidomulyo"
+  - "Sindang Jaya"
+  - "Sungai Pinang"
+  - "Tri Anggun Jaya"
+---
