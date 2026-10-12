@@ -148,10 +148,10 @@ Gunakan checklist ini untuk melacak progres pengerjaan di sesi mendatang:
   - [x] Revamp `travel-palembang-muara-bungo.md` + pasang 6 FAQ
   - [x] Revamp `travel-palembang-muara-tebo.md` + pasang 6 FAQ
   - [x] Revamp `travel-palembang-sarolangun.md` + pasang 6 FAQ
-- [ ] **Batch 4 (Revamp Satelit Eksisting Pesisir & Kerinci)**:
-  - [ ] Revamp `travel-palembang-muara-sabak.md` + pasang 6 FAQ
-  - [ ] Revamp `travel-palembang-siulak.md` + pasang 6 FAQ
-  - [ ] Revamp `travel-palembang-sengeti.md` + pasang 6 FAQ
-- [ ] **Batch 5 (Konsolidasi Pilar Utama)**:
-  - [ ] Update artikel pilar `2026-07-25-travel-palembang-jambi-berbasis-palembang.md` dengan Hub Navigasi seluruh kabupaten Jambi.
-  - [ ] Verifikasi semua tautan silang dan build akhir.
+- [x] **Batch 4 (Revamp Satelit Eksisting Pesisir & Kerinci)**:
+  - [x] Revamp `travel-palembang-muara-sabak.md` + pasang 6 FAQ
+  - [x] Revamp `travel-palembang-siulak.md` + pasang 6 FAQ
+  - [x] Revamp `travel-palembang-sengeti.md` + pasang 6 FAQ
+- [x] **Batch 5 (Konsolidasi Pilar Utama)**:
+  - [x] Update artikel pilar `2026-07-25-travel-palembang-jambi-berbasis-palembang.md` dengan Hub Navigasi seluruh kabupaten Jambi.
+  - [x] Verifikasi semua tautan silang dan build akhir.
