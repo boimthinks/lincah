@@ -29,8 +29,10 @@ Perjalanan panjang membutuhkan lebih dari sekadar kendaraan. Anda butuh pengalam
 
 ## Rute Perjalanan Palembang - Kuala Tungkal
 
-Perjalanan dari Palembang akan melewati beberapa kota penting sebelum tiba di Kuala Tungkal. Rute yang umumnya dilalui adalah:
-Palembang → Indralaya → Prabumulih → Muara Enim → Lahat → Lubuklinggau → Jambi → Kuala Tungkal.
+Perjalanan dari Palembang akan melewati koridor Jalan Lintas Timur Sumatera sebelum tiba di pesisir Tanjung Jabung Barat. Rute yang dilalui meliputi:
+Palembang → Betung → Sungai Lilin → Bayung Lencir → Tempino → Simpang Rimbo → Simpang Tuan → Kuala Tungkal.
+
+Bagi Anda yang berencana menyeberang ke Batam via feri, simak juga panduan khusus [travel Palembang Kuala Tungkal koneksi kapal roro](/blog/travel-palembang-kuala-tungkal-transit-batam) kami.
 
 Pemandangan sepanjang jalan didominasi oleh perkebunan sawit dan hutan tropis yang hijau, memberikan suasana berbeda dari hiruk pikuk kota. Driver kami sangat paham titik istirahat terbaik yang aman dan nyaman.
 

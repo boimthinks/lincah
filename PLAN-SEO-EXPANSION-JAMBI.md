@@ -139,10 +139,10 @@ Gunakan checklist ini untuk melacak progres pengerjaan di sesi mendatang:
   - [x] Tulis artikel: `travel-palembang-sungai-penuh`
   - [x] Daftarkan kedua rute di `ROUTE_BLOG_MAP` (`src/utils/internalLinks.ts`)
   - [x] Uji build (`npm run build`)
-- [ ] **Batch 2 (Satelit Transit & Sub-Hub)**:
-  - [ ] Tulis artikel: `travel-palembang-kuala-tungkal-transit-batam`
-  - [ ] Tulis artikel: `travel-palembang-jambi-telanaipura-bandara`
-  - [ ] Uji build (`npm run build`)
+- [x] **Batch 2 (Satelit Transit & Sub-Hub)**:
+  - [x] Tulis artikel: `travel-palembang-kuala-tungkal-transit-batam`
+  - [x] Tulis artikel: `travel-palembang-jambi-telanaipura-bandara`
+  - [x] Uji build (`npm run build`)
 - [ ] **Batch 3 (Revamp Satelit Eksisting Batanghari & Barat Jambi)**:
   - [ ] Revamp `travel-palembang-muara-bulian-perjalanan-dinas.md` + pasang 6 FAQ
   - [ ] Revamp `travel-palembang-muara-bungo.md` + pasang 6 FAQ

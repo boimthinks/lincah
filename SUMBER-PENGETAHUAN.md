@@ -182,6 +182,10 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Talang Padang (Lampung Barat) | `2026-09-27-travel-palembang-talang-padang.md` |
 | Palembang-Tugumulyo (OKU Timur) | `2026-09-27-travel-palembang-tugumulyo.md` |
 | Palembang-Pelabuhan Tanjung Api-api | `2026-09-27-travel-palembang-pelabuhan-tanjung-api-api.md` |
+| Palembang-Bangko (Merangin) | `2026-10-10-travel-palembang-bangko-merangin.md` |
+| Palembang-Sungai Penuh | `2026-10-09-travel-palembang-sungai-penuh.md` |
+| Palembang-Kuala Tungkal (Transit Batam) | `2026-10-12-travel-palembang-kuala-tungkal-transit-batam.md` |
+| Palembang-Jambi (Telanaipura & Bandara) | `2026-10-12-travel-palembang-jambi-telanaipura-bandara.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
