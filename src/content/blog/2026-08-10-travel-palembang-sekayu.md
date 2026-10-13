@@ -37,7 +37,7 @@ Bagi Anda yang merencanakan perjalanan dinas maupun pribadi, layanan travel pale
 
 Waktu tempuh perjalanan dari Palembang ke Sekayu rata-rata memakan waktu 2,5 sampai 3 jam dalam kondisi lalu lintas normal. Jarak tempuh antara kedua kota ini adalah sekitar 120 km menyusuri koridor barat laut Musi Banyuasin.
 
-Perjalanan darat ini dimulai dari Palembang menyusuri Jalan Lintas Timur melewati Pangkalan Balai hingga tiba di Simpang Betung. Dari simpang tersebut, rute berbelok melintasi Lais hingga masuk ke pusat Kota Sekayu. Kondisi jalan yang sebagian besar sudah beraspal mulus membuat ritme berkendara cukup stabil dan jarang mengalami kemacetan parah selain jam pasar tumpah.
+Perjalanan darat ini dimulai dari Palembang menyusuri Jalan Lintas Timur melewati Pangkalan Balai hingga tiba di Simpang Betung. Dari simpang tersebut, rute berbelok melintasi Lais hingga masuk ke pusat Kota Sekayu. Kondisi jalan yang sebagian besar sudah beraspal mulus membuat ritme berkendara cukup stabil dan jarang mengalami kemacetan parah selain jam pasar tumpah. Untuk rincian biaya tiket flat, carter satu mobil, dan titip paket, Anda dapat membaca [Ongkos Travel Palembang Sekayu](/blog/ongkos-travel-palembang-sekayu), serta komparasi durasi di [Panduan Travel Palembang Berapa Jam Tempuhnya](/blog/travel-palembang-ke-sekayu-sungai-lilin-danau-ranau-berapa-jam).
 
 ## Layanan Travel Sekayu Palembang Door to Door
 

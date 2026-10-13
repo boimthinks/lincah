@@ -12,6 +12,19 @@ kesimpulan: "Ongkos travel Palembang Sekayu tetap transparan: Rp180.000 per oran
 tags: ["travel palembang sekayu", "tarif travel", "palembang", "sekayu"]
 from: palembang
 to: sekayu
+faq:
+  - q: "Berapa ongkos travel Palembang Sekayu door to door?"
+    a: "Ongkos standar travel Palembang Sekayu adalah Rp180.000 per orang untuk sekali jalan. Tarif flat ini sudah all-in termasuk bensin, sopir, dan layanan jemput antar alamat tanpa biaya tersembunyi."
+  - q: "Palembang ke Sekayu berapa jam perjalanannya jika naik travel?"
+    a: "Waktu tempuh normal dari Palembang ke Sekayu adalah sekitar 2,5 hingga 3 jam perjalanan darat dengan jarak tempuh 120 km melintasi Simpang Betung dan Lais."
+  - q: "Dari Sekayu ke Palembang berapa jam naik travel?"
+    a: "Perjalanan arus balik dari Sekayu ke Palembang juga memakan waktu rata-rata 2,5 sampai 3 jam, langsung diantar ke alamat rumah, kantor, rumah sakit, maupun Bandara SMB II."
+  - q: "Apakah ada biaya tambahan jika dijemput di Bandara SMB II Palembang?"
+    a: "Penjemputan area kota Palembang sudah termasuk tarif standar. Jika titik jemput berada di area khusus Bandara SMB II atau wilayah luar lingkar kota, admin akan mengonfirmasi penyesuaian zona kecil di awal pemesanan."
+  - q: "Berapa biaya carter satu mobil penuh ke Sekayu?"
+    a: "Untuk carter privat satu mobil Toyota HiAce Premio kapasitas 11 penumpang dipatok sekitar Rp1.800.000 hingga Rp2.200.000 sekali jalan, sangat hemat untuk rombongan dinas instansi atau keluarga."
+  - q: "Berapa ongkos kirim surat atau dokumen kilat dari Palembang ke Sekayu?"
+    a: "Ongkos titip paket kilat dan dokumen mulai Rp30.000 dan langsung berangkat mengikuti jadwal keberangkatan armada harian."
 ---
 
 Banyak calon penumpang menanyakan ongkos travel Palembang Sekayu sebelum memesan kursi, terutama untuk keperluan dinas ke ibukota Musi Banyuasin atau kunjungan keluarga. Rute ini menembus koridor barat laut Sumatera Selatan, belok di Simpang Betung menuju Lais lalu Sekayu, sejauh 120 km dengan waktu tempuh sekitar 3 jam.
@@ -145,73 +158,9 @@ Pemesanan dilakukan sepenuhnya lewat WhatsApp, tanpa perlu datang ke agen atau t
 
 Admin akan membalas ketersediaan kursi dan detail penjemputan dalam hitungan menit. Setelah sepakat, Anda tinggal menunggu driver tiba di alamat pada jam yang dijadwalkan.
 
+Jika Anda ingin melihat rincian rute, jam operasional harian, dan panduan komparasi waktu tempuh secara lengkap, simak juga artikel pilar kami tentang [Travel Palembang Sekayu](/blog/travel-palembang-sekayu) serta ulasan komparasi [Palembang ke Sekayu Berapa Jam Tempuhnya](/blog/travel-palembang-ke-sekayu-sungai-lilin-danau-ranau-berapa-jam).
+
 Rute sekoridor juga bisa dijadikan rujukan jika tujuan Anda melenceng sedikit dari ibukota Muba. Misalnya [travel Palembang Babat Toman](/palembang/babat-toman) untuk keluarga di selatan Sekayu, [travel Palembang Betung](/palembang/betung) untuk transit koridor utara, atau [travel Palembang Bayung Lencir](/palembang/bayung-lencir) di batas Sumsel-Jambi.
-
-## 6. Pertanyaan Seputar Biaya Travel Palembang Sekayu
-
-**Apakah tarif travel sudah termasuk biaya bensin dan sopir?**
-Ya. Tarif Rp180.000 sudah mencakup bahan bakar, jasa sopir, dan layanan door-to-door dari alamat jemput hingga alamat tujuan. Tidak ada biaya tersembunyi di luar zona tambahan yang dikonfirmasi di awal.
-
-**Apakah ada biaya tambahan jika dijemput di Bandara SMB II Palembang?**
-Penjemputan dalam cakupan kota sudah termasuk tarif. Jika lokasi jemput berada di area Bandara SMB II atau ujung Seberang Ulu yang lebih jauh, bisa ada zona tambahan kecil yang selalu diinformasikan admin sebelum pemesanan disepakati.
-
-**Berapa biaya travel jika membawa anak kecil?**
-Anak di bawah dua tahun yang duduk di pangkuan orang tua biasanya gratis pada layanan reguler. Anak yang membutuhkan kursi sendiri dikenakan tarif penuh Rp180.000, sedangkan untuk carter dihitung sebagai satu penumpang dalam kapasitas armada.
-
-**Apakah ada potongan harga jika memesan tiket untuk rombongan?**
-Tiket reguler tetap Rp180.000 per orang tanpa diskon per kursi. Untuk rombongan delapan orang ke atas, carter HiAce Premio justru lebih efisien per kepala karena tarif dihitung per armada penuh.
-
-**Berapa ongkos kirim surat atau dokumen kilat dari Palembang ke Sekayu?**
-Ongkos titip dokumen ringan mulai dari Rp30.000 dan ikut jadwal keberangkatan harian. Barang lebih besar dikenakan biaya sesuai berat dan dimensi yang dikonfirmasi admin lewat WhatsApp.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Apakah tarif travel sudah termasuk biaya bensin dan sopir?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ya. Tarif Rp180.000 sudah mencakup bahan bakar, jasa sopir, dan layanan door-to-door dari alamat jemput hingga alamat tujuan. Tidak ada biaya tersembunyi di luar zona tambahan yang dikonfirmasi di awal."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah ada biaya tambahan jika dijemput di Bandara SMB II Palembang?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Penjemputan dalam cakupan kota sudah termasuk tarif. Jika lokasi jemput berada di area Bandara SMB II atau ujung Seberang Ulu yang lebih jauh, bisa ada zona tambahan kecil yang selalu diinformasikan admin sebelum pemesanan disepakati."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Berapa biaya travel jika membawa anak kecil?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Anak di bawah dua tahun yang duduk di pangkuan orang tua biasanya gratis pada layanan reguler. Anak yang membutuhkan kursi sendiri dikenakan tarif penuh Rp180.000, sedangkan untuk carter dihitung sebagai satu penumpang dalam kapasitas armada."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah ada potongan harga jika memesan tiket untuk rombongan?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tiket reguler tetap Rp180.000 per orang tanpa diskon per kursi. Untuk rombongan delapan orang ke atas, carter HiAce Premio justru lebih efisien per kepala karena tarif dihitung per armada penuh."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Berapa ongkos kirim surat atau dokumen kilat dari Palembang ke Sekayu?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ongkos titip dokumen ringan mulai dari Rp30.000 dan ikut jadwal keberangkatan harian. Barang lebih besar dikenakan biaya sesuai berat dan dimensi yang dikonfirmasi admin lewat WhatsApp."
-      }
-    }
-  ]
-}
-</script>
 
 ## 7. Kesimpulan dan Rekomendasi Pemesanan
 

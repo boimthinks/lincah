@@ -15,16 +15,16 @@ to: "indralaya"
 faq:
   - q: "Berapa jadwal Damri Unsri dari Terminal 32 Indralaya ke Palembang?"
     a: "Bus beroperasi dari Terminal 32 Indralaya mulai pukul 07.30 WIB hingga 18.30 WIB dengan interval keberangkatan rata-rata setiap satu jam sekali, ditambah jadwal khusus sore hari."
-  - q: "Di mana saja titik kumpul bus Damri rute Palembang ke Unsri Indralaya?"
-    a: "Titik kumpul utama di Palembang berpusat di Pool DAMRI KM 9 Jl. Kol. H. Burlian, Terminal KM 12, Halte Punti Kayu, serta Halte Simpang Flyover Jakabaring."
+  - q: "Di mana saja titik kumpul bus Damri di Palembang termasuk Halte Bukit?"
+    a: "Titik kumpul di Palembang mencakup Halte DAMRI Unsri Bukit (Kampus Bukit Besar Jl. Srijaya Negara), Pool DAMRI KM 9 Jl. Kol. H. Burlian, Terminal KM 12, dan Halte Simpang Flyover Jakabaring."
+  - q: "Berapa jarak Palembang ke Indralaya dan berapa lama perjalanannya?"
+    a: "Jarak tempuh dari Kota Palembang ke Indralaya adalah sekitar 32 hingga 35 kilometer dengan waktu tempuh berkisar 35 sampai 45 menit melalui jalan Tol Palembang-Indralaya (Tol Palindra)."
   - q: "Berapa tarif tiket bus Damri rute Palembang Indralaya terbaru?"
-    a: "Tarif umum dipatok sekitar Rp15.000 per orang, sedangkan tarif integrasi antarmoda LRT bersubsidi bagi mahasiswa Unsri dipatok mulai dari Rp7.000 per perjalanan."
-  - q: "Berapa lama waktu tempuh perjalanan Palembang ke Kampus Unsri Indralaya?"
-    a: "Perjalanan lewat jalan tol bebas hambatan Tol Palindra memakan waktu sekitar 35 hingga 45 menit dari gerbang tol menuju kawasan gerbang utama kampus."
-  - q: "Kapan mahasiswa atau dosen disarankan memilih travel door to door dibanding bus DAMRI?"
-    a: "Travel door to door ideal dipilih saat membawa barang praktikum berat, berkas skripsi, koper perlengkapan wisuda, atau mengejar jadwal kuliah pagi buta tanpa harus repot berjalan ke halte bus umum."
+    a: "Tarif umum tiket bus DAMRI dipatok sekitar Rp15.000 per orang, sedangkan tarif integrasi antarmoda LRT bersubsidi mahasiswa dipatok mulai dari Rp7.000 per perjalanan."
   - q: "Berapa ongkos travel Palembang Indralaya door to door di Lincah Travel?"
     a: "Tarif travel Palembang Indralaya dipatok flat Rp100.000 per orang dengan penjemputan langsung di alamat rumah di Palembang dan diantar sampai depan fakultas tujuan di Kampus Unsri."
+  - q: "Kapan mahasiswa atau dosen disarankan memilih travel door to door dibanding bus DAMRI?"
+    a: "Travel door to door ideal dipilih saat membawa barang praktikum berat, berkas skripsi, koper perlengkapan wisuda, atau mengejar jadwal kuliah pagi buta tanpa harus repot berjalan ke halte bus umum."
 ---
 
 Pergerakan harian ribuan mahasiswa, dosen, serta staf pengajar Universitas Sriwijaya (Unsri) menjadikan koridor Palembang menuju Indralaya salah satu jalur transportasi tersibuk di Sumatera Selatan. Akses perjalanan dari Palembang ke Unsri Indralaya kini semakin ringkas sejak tersambungnya Tol Palembang Indralaya (Tol Palindra).
@@ -63,12 +63,18 @@ Khusus hari kerja (Senin sampai Jumat), tersedia pula jadwal armada tambahan puk
 
 ## Titik Kumpul Keberangkatan dari Arah Kota Palembang
 
-Bagi calon penumpang yang berangkat dari Palembang menuju Kampus Indralaya, beberapa titik kumpul strategis dapat disesuaikan dengan domisili tempat tinggal:
+Bagi mahasiswa dan calon penumpang yang berangkat dari Palembang menuju Kampus Indralaya, beberapa titik kumpul dan halte strategis dapat disesuaikan dengan domisili tempat tinggal:
 
-1. **Pool DAMRI KM 9**: Berlokasi di Jl. Kolonel H. Burlian No. 848. Menjadi pusat loket pembelian tiket fisik, jadwal jarak jauh, serta keberangkatan bus pagi.
-2. **Terminal KM 12**: Titik awal bagi warga kawasan Alang-Alang Lebar dan Sukarami dengan jadwal bus pertama mulai pukul 05.50 WIB.
-3. **Halte Integrasi LRT Simpang Jakabaring**: Halte paling padat bagi mahasiswa kawasan Seberang Ulu dan Plaju. Dari simpang flyover Jakabaring, bus langsung melaju masuk gerbang Tol Palindra tanpa terkena lampu merah Kertapati.
-4. **Halte Unsri Kampus Bukit Besar**: Titik temu transit mahasiswa fakultas tertentu yang memiliki agenda kuliah terpisah antara Kampus Bukit Palembang dan Kampus Indralaya.
+1. **Halte DAMRI Unsri Bukit (Kampus Bukit Besar)**: Berlokasi tepat di kawasan depan gerbang Kampus Unsri Bukit Besar (Jl. Srijaya Negara). Halte ini menjadi titik kumpul utama bagi mahasiswa dan dosen yang memiliki jadwal kuliah silang antara kampus Palembang dan Indralaya, serta mahasiswa yang bermukim di seputar Bukit Lama, Padang Selasa, dan Ilir Barat.
+2. **Pool DAMRI KM 9**: Berlokasi di Jl. Kolonel H. Burlian No. 848. Menjadi pusat loket pembelian tiket fisik, jadwal jarak jauh, serta keberangkatan bus pagi.
+3. **Terminal KM 12**: Titik awal bagi warga kawasan Alang-Alang Lebar dan Sukarami dengan jadwal bus pertama mulai pukul 05.50 WIB.
+4. **Halte Integrasi LRT Simpang Jakabaring**: Halte paling padat bagi mahasiswa kawasan Seberang Ulu dan Plaju. Dari simpang flyover Jakabaring, bus langsung melaju masuk gerbang Tol Palindra tanpa terkena lampu merah Kertapati.
+
+## Jarak Palembang ke Indralaya dan Durasi Perjalanan via Tol Palindra
+
+Jarak tempuh dari Kota Palembang menuju Indralaya (Ogan Ilir) adalah sekitar 32 hingga 35 kilometer. Sebelum adanya tol, perjalanan arteri melalui Kertapati bisa memakan waktu hingga 1,5 sampai 2 jam akibat antrean truk barang. 
+
+Kini, dengan tersambungnya Jalan Tol Palembang-Indralaya (Tol Palindra), waktu tempuh terpangkas drastis menjadi hanya **35 hingga 45 menit** dalam kondisi lalu lintas normal. Jarak yang ringkas ini menjadikan mobilitas harian antara Palembang dan Indralaya sangat efisien baik dengan bus umum maupun layanan travel door to door.
 
 ## Skema Tarif Tiket dan Subsidi Antarmoda Mahasiswa
 

@@ -12,11 +12,24 @@ kesimpulan: "Jangan tunda lagi perjalanan Anda ke Baturaja. Hubungi Lincah Trave
 tags: ["travel palembang baturaja", "travel door-to-door", "harga travel palembang baturaja"]
 to: baturaja
 from: palembang
+faq:
+  - q: "Berapa tarif travel Palembang Baturaja door-to-door?"
+    a: "Tarif reguler adalah Rp200.000 per orang sekali jalan. Harga ini sudah all-in termasuk fasilitas penjemputan alamat di Palembang, pengantaran door-to-door sampai Baturaja, serta bagasi reguler tanpa biaya tersembunyi."
+  - q: "Apakah dijemput langsung ke alamat rumah di Palembang?"
+    a: "Ya, driver kami menjemput langsung ke alamat rumah, kos, hotel, kantor, maupun titik penjemputan lain di seluruh wilayah Kota Palembang sesuai jadwal yang dipesan."
+  - q: "Apakah layanan travel melayani rute ke kecamatan luar seperti Lengkiti atau Batumarta?"
+    a: "Tentu bisa. Kami melayani pengantaran hingga ke berbagai kecamatan di Ogan Komering Ulu seperti Lengkiti (Lengketi), Sosoh Buay Rayap, kawasan Batumarta (Lubuk Raja), Semidang Aji, hingga Peninjauan."
+  - q: "Berapa jam estimasi perjalanan dari Palembang ke Baturaja?"
+    a: "Durasi rata-rata berkisar 4 hingga 5 jam melewati koridor Prabumulih dengan jarak sekitar 200 km, menyesuaikan kondisi lalu lintas harian."
+  - q: "Pilihan armada apa saja yang tersedia untuk rute ini?"
+    a: "Kami menyediakan Toyota Hiace Premio berkapasitas lega, Toyota Innova Reborn untuk kenyamanan ekstra, serta Toyota Avanza/Veloz yang lincah dan ekonomis."
+  - q: "Bagaimana cara booking travel Palembang Baturaja?"
+    a: "Cukup hubungi WhatsApp resmi Lincah Travel di 0813-6923-1893. Informasikan tanggal, pilihan jam berangkat (08.00, 14.00, 17.00, atau 20.00 WIB), alamat jemput, dan alamat tujuan."
 ---
 
 Pernahkah Anda merasa repot harus ke terminal atau stasiun hanya untuk naik travel ke luar kota? Atau mungkin Anda sudah bosan dengan bus yang jam keberangkatannya suka molor? Nah, kabar baiknya, perjalanan dari Palembang ke Baturaja kini bisa jauh lebih praktis.
 
-Bayangkan Anda dijemput tepat di depan rumah, kantor, atau kos-kosan. Tanpa perlu angkutan tambahan, tanpa perlu menunggu lama. Duduk manis di kursi ber-AC, dan dalam 4-5 jam Anda sudah sampai di kota Baturaja. Inilah yang kami tawarkan setiap hari di Lincah Travel.
+Bayangkan Anda dijemput tepat di depan rumah, kantor, atau kos-kosan. Tanpa perlu angkutan tambahan, tanpa perlu menunggu lama. Duduk manis di kursi ber-AC, dan dalam 4-5 jam Anda sudah sampai di kota Baturaja. Inilah kenyamanan yang kami tawarkan setiap hari bersama layanan travel Palembang dari Lincah Travel.
 
 ## Tonton: Perjalanan Travel Palembang – Baturaja
 
@@ -95,22 +108,16 @@ Pastikan Anda memberikan alamat dengan patokan yang jelas. Misalnya: "Depan Indo
 ### 4. Datang Tepat Waktu
 Layanan door-to-door berarti driver akan menjemput sesuai jadwal. Usahakan sudah siap 5-10 menit sebelum waktu jemput agar perjalanan tidak molor.
 
-## Pertanyaan yang Sering Ditanyakan
+## Jangkauan Area Antar Door-to-Door hingga Pelosok OKU
 
-### Berapa lama perjalanan Palembang-Baturaja?
-Rata-rata 4-5 jam via jalur Prabumulih dengan jarak tempuh sekitar 200 km.
+Layanan *door-to-door* Lincah Travel tidak terbatas hanya pada kawasan protokol pusat Kota Baturaja saja. Mengingat luasnya wilayah Kabupaten Ogan Komering Ulu (OKU) dengan beragam sentra aktivitas perkebunan, pertanian, dan perdagangan, kami melayani titik antar langsung ke berbagai kecamatan:
 
-### Apakah bisa jemput di lokasi tertentu di Palembang?
-Tentu. Layanan door-to-door kami menjemput di mana pun Anda berada dalam area kota Palembang. Cukup sebutkan alamat lengkap saat booking.
+- **Pusat Bisnis & Pemerintahan Baturaja**: Meliputi kecamatan **Baturaja Timur** (seperti Kemalaraja, Pasar Lama, Pasar Atas, Sukaraya, Sekarjaya, Baturaja Permai) dan **Baturaja Barat** (Tanjung Agung, Talang Jawa, Air Gading, Saung Naga). Penumpang kami antarkan tepat ke alamat kantor instansi dinas, RSUD Ibnu Sutowo, hotel/penginapan, maupun perumahan warga.
+- **Kawasan Perkebunan & Permukiman Transmigrasi**: Untuk Anda yang memiliki keperluan atau perjalanan pulang kampung ke kawasan **Lengkiti** (biasa disebut warga lokal Lengketi), permukiman **Lubuk Raja** (kawasan Batumarta I hingga unit sekitarnya), serta wilayah **Sosoh Buay Rayap**, driver kami siap mengantar hingga depan gerbang rumah.
+- **Kecamatan Koridor & Jalur Poros Tengah**: Kami melayani titik turun di sepanjang jalan lintas **Lubuk Batang**, **Semidang Aji**, **Pengandonan**, **Muara Jaya**, hingga wilayah **Ulu Ogan**.
+- **Kawasan Jalur Lintas Timur OKU**: Meliputi area **Peninjauan**, **Kedaton Peninjauan Raya**, serta kawasan perkampungan **Sinar Peninjauan**.
 
-### Apakah ada diskon untuk pembelian tiket rombongan?
-Hubungi admin kami via WhatsApp untuk informasi harga khusus rombongan. Biasanya kami memberikan penawaran terbaik untuk pemesanan 5 kursi atau lebih.
-
-### Bagaimana kalau barang bawaan banyak?
-Tidak masalah. Armada Hiace Premio memiliki bagasi luas yang cukup untuk koper dan barang bawaan lainnya.
-
-### Apakah bisa berangkat tengah malam?
-Untuk permintaan jadwal khusus di luar jam reguler, silakan konsultasi dengan admin. Kami akan berusaha mengakomodasi selama armada tersedia.
+Untuk penjemputan di Palembang maupun pengantaran ke pelosok desa di Baturaja, cukup berikan patokan alamat yang jelas (seperti gang, nomor rumah, atau masjid terdekat) saat reservasi via WhatsApp agar pengemudi kami dapat mengatur rute perjalanan dengan lancar.
 
 ## Solusi Tepat Perjalanan ke Baturaja
 

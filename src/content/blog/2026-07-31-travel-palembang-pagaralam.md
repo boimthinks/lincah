@@ -12,6 +12,19 @@ kesimpulan: "Siap menyusuri jalan berkelok menuju udara sejuk Pagaralam? Hubungi
 tags: ["travel palembang pagaralam", "travel door-to-door", "gunung dempo"]
 from: palembang
 to: pagaralam
+faq:
+  - q: "Berapa jarak Palembang ke Pagaralam dan sebaliknya?"
+    a: "Jarak darat dari Kota Palembang ke Pagaralam maupun arah sebaliknya dari Pagaralam ke Palembang adalah sekitar 290 kilometer melalui jalur Lintas Tengah Sumatera."
+  - q: "Palembang ke Pagaralam berapa jam naik travel?"
+    a: "Waktu tempuh normal berkisar antara 7 hingga 8 jam perjalanan darat, sudah termasuk akses jalan Tol Palembang-Prabumulih dan waktu istirahat makan di rest area lokal."
+  - q: "Berapa harga tiket travel Palembang Pagaralam door to door?"
+    a: "Tarif flat tiket travel Palembang Pagaralam adalah Rp250.000 per orang sekali jalan, all-in sudah termasuk penjemputan alamat di Palembang, tol, dan pengantaran sampai hotel/villa di Pagaralam."
+  - q: "Kapan saja jadwal keberangkatan travel Palembang Pagaralam?"
+    a: "Lincah Travel melayani tiga kali keberangkatan harian, yaitu trip pagi pukul 08.00 WIB, trip sore pukul 15.00 WIB, dan trip malam pukul 20.00 WIB."
+  - q: "Rute mana saja yang dilintasi armada menuju Pagaralam?"
+    a: "Armada melaju via Tol Palembang-Prabumulih, melintasi Kota Prabumulih, Muara Enim, Lahat, lalu menanjak perbukitan ke dataran tinggi Kota Pagaralam."
+  - q: "Apakah penumpang dijemput langsung ke alamat rumah di Palembang?"
+    a: "Ya, kami menjemput langsung dari alamat rumah, hotel, kos, maupun Bandara SMB II Palembang dan mengantar hingga depan penginapan atau alamat rumah di Pagaralam."
 ---
 
 Bayangkan suhu 15 derajat Celsius di malam hari, saat kota Palembang masih berkeringat di udara panas. Itulah Pagaralam — salah satu dari sedikit tempat di Sumatera Selatan yang bisa membuat Anda melupakan panas kota dalam hitungan jam.
@@ -23,6 +36,14 @@ Perjalanan 290 km ini memang bukan yang tercepat, butuh 7-8 jam melewati jalan b
 Pagaralam adalah kota wisata utama di dataran tinggi Sumatera Selatan. Udara sejuknya menjadi magnet bagi keluarga Palembang yang ingin melepas penat, pendaki yang mengejar sunrise di puncak Dempo, hingga pasangan yang sekadar mencari suasana berbeda dari hiruk-pikuk kota.
 
 Dari pengalaman kami melayani rute ini, pola penumpangnya menarik. Akhir pekan dan libur panjang, kursi selalu penuh — kebanyakan keluarga dengan anak-anak. Hari biasa, penumpangnya didominasi mereka yang punya urusan dinas atau mengunjungi keluarga. Rute ini memang punya dua sisi sekaligus: wisata dan silaturahmi.
+
+## Jarak Palembang ke Pagaralam dan Waktu Tempuh Perjalanan
+
+**Jarak tempuh dari Palembang ke Pagaralam (maupun arah sebaliknya dari Pagaralam ke Palembang) adalah sekitar 290 kilometer dengan waktu tempuh rata-rata 7 hingga 8 jam perjalanan darat.**
+
+Durasi tersebut sudah memperhitungkan efisiensi waktu melalui akses jalan Tol Indralaya–Prabumulih, lalu berlanjut menyusuri koridor Lintas Tengah Sumatera melintasi Muara Enim dan Lahat sebelum mendaki tanjakan perbukitan menuju Kota Pagaralam. Waktu tempuh 7 sampai 8 jam ini juga sudah termasuk jeda istirahat makan siang dan salat di rest area pilihan.
+
+Bagi Anda yang menginginkan perjalanan santai tanpa repot menyetir sendiri di jalur pegunungan, mengandalkan jasa travel Palembang dari Lincah Travel memberikan kepastian tiba dengan selamat. Sopir kami sangat menguasai ritme tikungan dan kontur jalan dataran tinggi sehingga seluruh penumpang dapat beristirahat nyaman di kabin ber-AC hingga tiba di depan penginapan atau vila.
 
 ## Jadwal Keberangkatan dan Harga Tiket 2026
 
@@ -121,28 +142,6 @@ Meski banyak tempat sudah menerima transfer, beberapa warung dan loket wisata di
 ### Minum Air Cukup
 
 Udara dingin kadang membuat kita lupa haus. Padahal di ketinggian, tubuh butuh cairan ekstra. Bawa botol minum sendiri biar tetap terhidrasi.
-
-## Pertanyaan yang Sering Ditanyakan
-
-### Berapa lama perjalanan Palembang-Pagaralam?
-
-Rata-rata 7-8 jam dengan jarak 290 km. Waktu tempuh tergantung kondisi lalu lintas, cuaca, dan medan.
-
-### Apakah harga Rp 250.000 sudah termasuk antar jemput?
-
-Ya, sudah all-in. Penjemputan dari alamat Anda di Palembang dan pengantaran sampai tujuan di Pagaralam sudah termasuk dalam tarif.
-
-### Armada apa yang tersedia?
-
-Toyota Hiace Premio (11 penumpang), Toyota Innova Reborn (7 penumpang), dan Toyota Avanza/Veloz (6 penumpang).
-
-### Bagaimana kalau saya mudah mabuk perjalanan?
-
-Sebutkan saat booking, kami akan mengatur kursi terbaik dan memastikan istirahat rutin selama perjalanan.
-
-### Apakah bisa berhenti di tengah perjalanan?
-
-Bisa, asalkan dikomunikasikan saat booking. Misalnya mau foto di kebun teh atau berhenti di rest area tertentu.
 
 ## Solusi Tepat untuk Liburan ke Pagaralam
 

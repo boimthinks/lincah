@@ -188,6 +188,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Kuala Tungkal (Transit Batam) | `2026-10-12-travel-palembang-kuala-tungkal-transit-batam.md` |
 | Palembang-Jambi (Telanaipura & Bandara) | `2026-10-12-travel-palembang-jambi-telanaipura-bandara.md` |
 | Palembang-Muara Enim (Carter Dinas Tambang PTBA) | `2026-10-08-carter-travel-palembang-muara-enim-dinas-tambang.md` |
+| Palembang-Muara Lakitan (Musi Rawas) | `2026-10-13-travel-palembang-muara-lakitan.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 

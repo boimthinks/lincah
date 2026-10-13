@@ -37,7 +37,7 @@ Jika Anda membutuhkan opsi transportasi terpercaya di Sumatera Selatan, layanan 
 
 Waktu tempuh perjalanan dari Sungai Lilin ke Palembang rata-rata berkisar antara 2,5 sampai 3 jam dalam kondisi lalu lintas normal. Rute darat ini menempuh jarak sekitar 110 km melalui Jalur Lintas Timur Sumatera.
 
-Jalur yang dilalui membentang dari pusat Sungai Lilin melewati Betung, Pangkalan Balai, dan kawasan Sembawa hingga tiba di pusat Kota Palembang. Durasi perjalanan bisa sedikit bertambah menjadi 3,5 jam saat jam sibuk pasar tumpah di sekitar Betung atau saat arus truk logistik sedang padat di ruas jalan nasional.
+Jalur yang dilalui membentang dari pusat Sungai Lilin melewati Betung, Pangkalan Balai, dan kawasan Sembawa hingga tiba di pusat Kota Palembang. Durasi perjalanan bisa sedikit bertambah menjadi 3,5 jam saat jam sibuk pasar tumpah di sekitar Betung atau saat arus truk logistik sedang padat di ruas jalan nasional. Untuk panduan lengkap waktu tempuh antarkota di Sumsel, simak juga ulasan kami tentang [Travel Palembang Berapa Jam Tempuhnya](/blog/travel-palembang-ke-sekayu-sungai-lilin-danau-ranau-berapa-jam).
 
 ## Mengapa Rute Palembang ke Sungai Lilin Tinggi Peminat
 

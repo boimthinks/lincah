@@ -67,6 +67,7 @@ const ROUTE_BLOG_MAP: Record<string, string> = {
   'palembang-sekernan': '/blog/travel-palembang-sekernan',
   'palembang-bangko': '/blog/travel-palembang-bangko-merangin',
   'palembang-sungai-penuh': '/blog/travel-palembang-sungai-penuh',
+  'palembang-muara-lakitan': '/blog/travel-palembang-muara-lakitan',
 
   // Kota -> Palembang (arah balik)
   'baturaja-palembang': '/blog/travel-palembang-baturaja-door-to-door',
@@ -100,6 +101,7 @@ const ROUTE_BLOG_MAP: Record<string, string> = {
   'sekernan-palembang': '/blog/travel-palembang-sekernan',
   'bangko-palembang': '/blog/travel-palembang-bangko-merangin',
   'sungai-penuh-palembang': '/blog/travel-palembang-sungai-penuh',
+  'muara-lakitan-palembang': '/blog/travel-palembang-muara-lakitan',
 
   // Rute non-Palembang (lintas kota)
   'jambi-bangko': '/blog/travel-jambi-bangko-door-to-door',
