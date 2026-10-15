@@ -4,7 +4,7 @@ to: kayu agung
 price: 100000
 duration: 1.5 Jam
 departureTimes: ["Setiap Jam (07:00 - 18:00)"]
-type: utama
+type: sumatera selatan
 distance: 65 km
 description: Travel Palembang ke Kayu Agung — 1,5 jam via jalur arteri. Setiap jam berangkat, Rp 100.000, armada AC, door-to-door. Booking sekarang!
 img: src\content\city-images.md

@@ -55,7 +55,7 @@ Gunakan data ini sebagai social proof dalam artikel:
 | **Palembang-Baturaja** | 3 jam | - | Rp 120.000 | Door-to-door service |
 | **Palembang-Lubuklinggau** | 4 jam | - | Rp 200.000 | Akses ke Bengkulu |
 | **Palembang-Prabumulih** | 2 jam | - | Rp 130.000 | Ekonomis |
-| **Palembang-Muara Enim** | 4-5 jam | - | Rp 150.000 | Akses area industri & tambang |
+| **Palembang-Muara Enim** | 4-5 jam | - | Rp 180.000 | Akses area industri & tambang |
 | **Palembang-Simpang Belimbing** | 3 jam | - | Rp 150.000 | Tambahan Rute |
 | **Palembang-Pagaralam** | 7-8 jam | - | Rp 250.000 | Dataran tinggi Gunung Dempo |
 | **Palembang-Tebing Tinggi** | 8-9 jam | - | Rp 210.000 | Empat Lawang |
@@ -102,9 +102,9 @@ Gunakan format ini setiap artikel blog (nama file = tanggal):
 ```yaml
 ---
 title: "Judul pendek maksimal 5 kata"
-judul_seo: "Judul panjang SEO/GEO maksimal 12 kata tanpa titik dua"
+judul_seo: "Judul panjang SEO/GEO 50-60 karakter (max 12 kata tanpa titik dua)"
 slug: "slug-huruf-kecil-dengan-pemisah"
-description: "Meta description 120-155 karakter mengandung GEO modifier dan CTA"
+description: "Meta description 110-160 karakter mengandung GEO modifier dan CTA"
 pubDate: "YYYY-MM-DD"
 author: "Tim Konten Lincah Travel"
 image_url: "/img/blog/nama-gambar.jpg"
@@ -148,7 +148,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Baturaja | ✅ Ada | `2026-07-28-travel-palembang-baturaja-door-to-door.md` |
 | Palembang-Lampung | ✅ Ada | `2026-06-20-travel-palembang-lampung-via-tol.md` |
 | Palembang-Jambi | ✅ Ada | `2026-06-15-travel-palembang-jambi-dinas.md` & lainnya |
-| Palembang-Prabumulih | ✅ Ada | `2026-06-17-avanza-veloz-travel-prabumulih.md` |
+| Palembang-Prabumulih | ✅ Ada | `2026-10-15-travel-palembang-prabumulih.md` (Pilar Utama) & `2026-06-17-avanza-veloz-travel-prabumulih.md` |
 | Palembang-Lubuklinggau | ✅ Ada | `2026-07-30-travel-palembang-lubuklinggau.md` |
 | Palembang-Pagaralam | ✅ Ada | `2026-07-31-travel-palembang-pagaralam.md` |
 | Palembang-Danau Ranau | ✅ Ada | `2026-06-19-perjalanan-danau-ranau.md` |
@@ -308,7 +308,7 @@ Gunakan skill `penulis-ahli` untuk seluruh penulisan artikel blog. Skill ini men
 **Proses:**
 1. Baca file ini (SUMBER-PENGETAHUAN.md) untuk data brand, rute, harga, testimonial.
 2. Gunakan skill `penulis-ahli` untuk menulis—skill ini akan mengintegrasikan semua prinsip.
-3. Sebelum menyimpan, cek: (a) wasmulya email mengarang data, (b) no emoji/Hanzi, (c) frontmatter schema benar, (d) paragraf ≤ 3-4 kalimat.
+3. Sebelum menyimpan, cek: (a) wasmulya email mengarang data, (b) no emoji/Hanzi, (c) frontmatter schema benar, (d) panjang judul SEO 50–60 karakter & deskripsi 110–160 karakter, (e) paragraf ≤ 3-4 kalimat.
 
 ---
 

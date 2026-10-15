@@ -26,7 +26,7 @@ Berikut 10 rute yang paling sering kami layani, diurutkan dari yang termurah.
 | Prabumulih | Rp 130.000 | 2 jam |
 | Sekayu | Rp 180.000 | 3 jam |
 | Baturaja | Rp 200.000 | 4-5 jam |
-| Muara Enim | Rp 150.000 | 4-5 jam |
+| Muara Enim | Rp 180.000 | 4-5 jam |
 | Lahat | Rp 200.000 | 5-6 jam |
 | Pagaralam | Rp 250.000 | 7-8 jam |
 | Jambi | Rp 200.000 | 6-7 jam |
@@ -53,7 +53,7 @@ Begitu masuk jalur Lintas Sumatera ke arah barat, tarif naik seiring bertambahny
 
 Baturaja Rp 200.000 untuk 4-5 jam via Prabumulih. Jadwalnya paling fleksibel, ada empat kali keberangkatan. Rute ini sudah kami ulas panjang lebar di artikel [travel Palembang Baturaja](https://lincahtravel.web.id/blog/travel-palembang-baturaja-door-to-door).
 
-Muara Enim Rp 150.000, 4-5 jam, dengan empat jadwal juga. Kota ini jadi persinggahan penting karena posisinya di jalur menuju Lahat dan Lubuklinggau. Detail tarif dan tipsnya ada di artikel [travel Palembang Muara Enim](https://lincahtravel.web.id/blog/travel-palembang-muara-enim-door-to-door).
+Muara Enim Rp 180.000, 4-5 jam, dengan empat jadwal juga. Kota ini jadi persinggahan penting karena posisinya di jalur menuju Lahat dan Lubuklinggau. Detail tarif dan tipsnya ada di artikel [travel Palembang Muara Enim](https://lincahtravel.web.id/blog/travel-palembang-muara-enim-door-to-door).
 
 Lahat Rp 200.000 untuk 5-6 jam. Pemandangan perbukitan mulai terlihat setelah melewati Muara Enim, dan udara perlahan terasa sejuk. Jadwal serta tips naiknya bisa dibaca di artikel [travel Palembang Lahat](https://lincahtravel.web.id/blog/travel-palembang-lahat-door-to-door).
 
@@ -80,7 +80,7 @@ Selain 10 rute di atas, masih ada tujuan lain yang tarifnya perlu Anda tahu. Rin
 | Belitang | Rp 150.000 | 5-6 jam |
 | Martapura | Rp 160.000 | 5 jam |
 | Batu Marta | Rp 170.000 | 5-6 jam |
-| Muara Dua | Rp 170.000 | 7-8 jam |
+| Muara Dua | Rp 220.000 | 7-8 jam |
 | Tugumulyo | Rp 180.000 | 7-8 jam |
 | Bayung Lencir | Rp 200.000 | 4-5 jam |
 | Danau Ranau | Rp 240.000 | 8-9 jam |

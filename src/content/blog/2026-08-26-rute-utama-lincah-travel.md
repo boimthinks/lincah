@@ -32,7 +32,7 @@ Tiga simpul ini bukan sekadar catatan geografi. Bagi Anda yang rumah atau kantor
 | Palembang-Sekayu | 120 km | 3 jam | Rp180.000 | PNS dan pekerja migas |
 | Palembang-Lubuklinggau | 320 km | 7-8 jam | Rp200.000 | Pekerja tambang, mahasiswa |
 | Palembang-Pagaralam | 290 km | 7-8 jam | Rp250.000 | Wisatawan akhir pekan |
-| Palembang-Muara Dua | 290 km | 7-8 jam | Rp170.000 | Pedagang hasil bumi |
+| Palembang-Muara Dua | 290 km | 7-8 jam | Rp220.000 | Pedagang hasil bumi |
 | Palembang-Kayu Agung | 65 km | 1,5 jam | Rp100.000 | Komuter harian |
 
 Semua tarif di atas bersifat flat dan sudah mencakup penjemputan di alamat serta pengantaran sampai alamat tujuan. Tidak ada biaya tambahan untuk bagasi standar.
@@ -77,7 +77,7 @@ Wisatawan umumnya memesan travel Palembang ke Pagaralam untuk perjalanan 7-8 jam
 
 Arah selatan membentang dari Prabumulih ke jantung Ogan Komering Ulu. Urutan kotanya Rambang Dangku, Peninjauan, Baturaja, Martapura, lalu mendaki ke Muaradua. Kawasan ini penghasil kopi dan karet, dan jalurnya menyambung ke Banding Agung dekat Danau Ranau.
 
-Pedagang hasil bumi dan wisatawan Danau Ranau jadi penumpang tetap koridor ini. Layanan travel Palembang Muara Dua dibanderol Rp170.000 untuk perjalanan 7-8 jam, tarif paling hemat di antara rute jarak jauh kami. Bagi wisatawan yang melanjutkan perjalanan ke Danau Ranau, armada dapat mengantar sampai Banding Agung karena jalurnya satu garis. Diskusikan titik antarnya saat memesan supaya durasi dan tarifnya dihitung jelas sejak awal.
+Pedagang hasil bumi dan wisatawan Danau Ranau jadi penumpang tetap koridor ini. Layanan travel Palembang Muara Dua dibanderol Rp220.000 untuk perjalanan 7-8 jam dengan penjemputan door-to-door. Bagi wisatawan yang melanjutkan perjalanan ke Danau Ranau, armada dapat mengantar sampai Banding Agung karena jalurnya satu garis. Diskusikan titik antarnya saat memesan supaya durasi dan tarifnya dihitung jelas sejak awal.
 
 ![Travel Palembang Kayu Agung](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjfPl21KjBplfT-4Di5SOH8cSLs6tJT_0ECTJbk9Tb1ZPsSjRZDwAp2Cw5PLJIEg2d_m6X1YElQhPF-B2LEEpSMUvcjJAvJ3p8twDf3R6o9zeHoql2VuLXXmtCjYslZwG1mVl1ltgbI3L-EUi1K7CaTyxfe4v4gIiwMOrdj2ise3SFwjNCQafGBtu6D4eH/s600/kayu-agung.webp)
 

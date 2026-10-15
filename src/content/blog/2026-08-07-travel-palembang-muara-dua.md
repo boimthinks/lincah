@@ -2,7 +2,7 @@
 title: "Travel Palembang Muara Dua"
 judul_seo: "Travel Palembang Muara Dua: Harga, Jadwal & Nomor WA"
 slug: "travel-palembang-muara-dua-door-to-door"
-description: "Travel Palembang Muara Dua Rp170.000 door-to-door. Jadwal 09-15-21 WIB. Perjalanan 7-8 jam via Bukit Barisan OKU Selatan. Nomor WA 0813-6923-1893."
+description: "Travel Palembang Muara Dua Rp220.000 door-to-door. Jadwal 09-15-21 WIB. Perjalanan 7-8 jam via Bukit Barisan OKU Selatan. Nomor WA 0813-6923-1893."
 pubDate: "2026-08-07"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYW8jubVg9tC6kycPjytzA9Ge1sJFZ_6Jas3fv791zNxZU8dmk4wq-GGCUSLz6mhldB4RM2-BuXuK8cEIH1lZLgSdFKhI8QOGZWN8j3BQSZG0atTiGz96x-hYZ0QaM95RkOqgBZQTJw_BF_CHjrBcB93laBGsX3MELwAHvKP0ybjgXuaXvBjKUh0L2YWeN/s600/travel-palembang-muara-duo.webp"
@@ -24,7 +24,7 @@ Sebagai penyedia layanan travel door-to-door, kami memahami bahwa perjalanan 7-8
 
 **Driver Ahli Medan Perbukitan.** Jalur menuju OKU Selatan dikenal berkelok dan memiliki tanjakan. Sopir kami berpengalaman bertahun-tahun menguasai medan ini, sehingga keselamatan dan kenyamanan Anda tetap terjaga.
 
-**Harga Transparan.** Cukup dengan Rp 170.000, Anda sudah mendapatkan layanan door-to-door all-in tanpa biaya tambahan tersembunyi.
+**Harga Transparan.** Cukup dengan Rp 220.000, Anda sudah mendapatkan layanan door-to-door all-in tanpa biaya tambahan tersembunyi.
 
 ## Jadwal Keberangkatan dan Harga Tiket
 
@@ -32,9 +32,9 @@ Berikut adalah jadwal keberangkatan harian kami untuk rute Palembang-Muara Dua:
 
 | Keberangkatan | Harga Tiket | Durasi |
 |---|---|---|
-| 09:00 WIB | Rp 170.000 | 7-8 Jam |
-| 15:00 WIB | Rp 170.000 | 7-8 Jam |
-| 21:00 WIB | Rp 170.000 | 7-8 Jam |
+| 09:00 WIB | Rp 220.000 | 7-8 Jam |
+| 15:00 WIB | Rp 220.000 | 7-8 Jam |
+| 21:00 WIB | Rp 220.000 | 7-8 Jam |
 
 ## Pilihan Armada
 

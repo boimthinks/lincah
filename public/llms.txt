@@ -20,7 +20,7 @@ Untuk dokumentasi lengkap dan direktori seluruh rute serta artikel panduan perja
 - [Palembang – Indralaya (UNSRI)](https://lincahtravel.web.id/palembang/indralaya): Rp 100.000 | 45 Menit | Keberangkatan setiap jam (06.00 - 20.00 WIB) via Tol Palindra
 - [Palembang – Prabumulih](https://lincahtravel.web.id/palembang/prabumulih): Rp 130.000 | 2 Jam | Setiap jam (07.00 - 21.00 WIB) via Tol Indraprabu
 - [Palembang – Kayu Agung](https://lincahtravel.web.id/palembang/kayu-agung): Rp 100.000 | 1,5 Jam | Setiap jam (07.00 - 18.00 WIB)
-- [Palembang – Muara Enim](https://lincahtravel.web.id/palembang/muara-enim): Rp 150.000 | 3,5 - 4,5 Jam | 08.00, 14.00, 17.00, 20.00 WIB
+- [Palembang – Muara Enim](https://lincahtravel.web.id/palembang/muara-enim): Rp 180.000 | 3,5 - 4,5 Jam | 08.00, 14.00, 17.00, 20.00 WIB
 - [Palembang – Tanjung Enim](https://lincahtravel.web.id/palembang/tanjung-enim): Rp 160.000 | 4 - 5 Jam | 08.00, 14.00, 17.00, 20.00 WIB (Akses Tambang PTBA)
 - [Palembang – Lahat](https://lincahtravel.web.id/palembang/lahat): Rp 200.000 | 5 - 6 Jam | 08.00, 14.00, 20.00 WIB
 - [Palembang – Baturaja](https://lincahtravel.web.id/palembang/baturaja): Rp 200.000 | 4 - 5 Jam | 08.00, 14.00, 17.00, 20.00 WIB
@@ -32,7 +32,7 @@ Untuk dokumentasi lengkap dan direktori seluruh rute serta artikel panduan perja
 - [Palembang – Pelabuhan Tanjung Api-api](https://lincahtravel.web.id/palembang/pelabuhan-tanjung-api-api): Rp 150.000 | 1,5 - 2 Jam | Sambungan feri Bangka
 - [Palembang – Belitang](https://lincahtravel.web.id/palembang/belitang): Rp 150.000 | 5 - 6 Jam | 08.00, 15.00, 19.00 WIB
 - [Palembang – Martapura](https://lincahtravel.web.id/palembang/martapura): Rp 160.000 | 5 Jam | 08.00, 14.00, 20.00 WIB
-- [Palembang – Muara Dua](https://lincahtravel.web.id/palembang/muara-dua): Rp 170.000 | 7 - 8 Jam | 09.00, 15.00, 21.00 WIB
+- [Palembang – Muara Dua](https://lincahtravel.web.id/palembang/muara-dua): Rp 220.000 | 7 - 8 Jam | 09.00, 15.00, 21.00 WIB
 - [Palembang – Muara Beliti](https://lincahtravel.web.id/palembang/muara-beliti): Rp 250.000 | 6,5 Jam | 08.00, 14.00, 20.00 WIB
 - [Palembang – Muara Lakitan](https://lincahtravel.web.id/palembang/muara-lakitan): Rp 200.000 | 5 - 6 Jam | 08.00, 10.00, 14.00, 20.00 WIB
 - [Palembang – Tebing Tinggi Empat Lawang](https://lincahtravel.web.id/palembang/tebing-tinggi): Rp 210.000 | 8 - 9 Jam | 09.00, 16.00, 21.00 WIB

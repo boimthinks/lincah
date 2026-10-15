@@ -8,7 +8,7 @@ author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIJUfpk7QsojxGOhyphenhyphenBzOaL5vd2vJFG1JxOSuU8SRvclNNouRX09VENvqpceR2GMDKCxMr0E-BZh6n25Ana_wQ9sztxsLsAjtMKvGylLqaG9r6MPRwlI5d7pZpLdmHXIh64cMtupQQAbNQqf-05gCvOjeTXAhwAixSZxNbDDM0eyBSJ1X8Cb_KkZOy7bDaP/s600/travel-palembang-gelumbang.webp"
 kategori: "rute"
 pengantar: "Banyak penumpang kami tidak hanya tujuannya ke pusat Kota Muara Enim, tapi ke kecamatan-kecamatan di sekitarnya — mulai dari Gelumbang yang dekat Palembang, hingga Lawang Kidul, Tanjung Agung, dan kawasan Semende Darat di selatan. Artikel ini panduan lengkap untuk Anda yang mencari travel Palembang Gelumbang maupun kecamatan lain di Kabupaten Muara Enim."
-kesimpulan: "Perjalanan Palembang ke Gelumbang dan seluruh kecamatan Muara Enim tidak harus ribet. Dengan layanan antar jemput sampai alamat, Anda tinggal duduk santai di kursi. Untuk tujuan ke pusat Kota Muara Enim, cek Travel Palembang Muara Enim dengan tarif flat Rp 150.000. Hubungi kami di 0813-6923-1893 untuk booking atau tanya jadwal."
+kesimpulan: "Perjalanan Palembang ke Gelumbang dan seluruh kecamatan Muara Enim tidak harus ribet. Dengan layanan antar jemput sampai alamat, Anda tinggal duduk santai di kursi. Untuk tujuan ke pusat Kota Muara Enim, cek Travel Palembang Muara Enim dengan tarif flat Rp 180.000. Hubungi kami di 0813-6923-1893 untuk booking atau tanya jadwal."
 tags: ["travel palembang gelumbang", "travel palembang muara enim", "travel door-to-door", "muara enim", "lintas sumatera"]
 from: palembang
 to: gelumbang
@@ -76,7 +76,7 @@ Berikut simulasi estimasi untuk kecamatan di zona timur yang lebih dekat ke Pale
 | **Palembang – Sungai Rotan** | ±95–110 km | 2 Jam 45 Menit | Rp110.000 – Rp140.000 | Rute perairan/rawa darat; tarif dipengaruhi jarak penetrasi ke pelosok desa. |
 | **Palembang – Muara Belida** | ±60–75 km | 2 Jam | Rp90.000 – Rp120.000 | Akses via jalur lintas timur/alternatif; rawan genangan musiman di titik tertentu. |
 
-> **Catatan konsisten dengan artikel utama:** Untuk tujuan **pusat Kota Muara Enim** dan kecamatan di zona barat/selatan yang lebih jauh (Lawang Kidul, Tanjung Agung, Gunung Megang, Benakat, Semende Darat, dll.), berlaku **tarif flat Rp 150.000** dengan durasi 4–5 jam. Detail lengkap ada di artikel travel Palembang Muara Enim.
+> **Catatan konsisten dengan artikel utama:** Untuk tujuan **pusat Kota Muara Enim** dan kecamatan di zona barat/selatan yang lebih jauh (Lawang Kidul, Tanjung Agung, Gunung Megang, Benakat, Semende Darat, dll.), berlaku **tarif flat Rp 180.000** dengan durasi 4–5 jam. Detail lengkap ada di artikel travel Palembang Muara Enim.
 
 ### Daftar Kecamatan Muara Enim yang Kami Jangkau
 
@@ -167,4 +167,4 @@ Setelah yakin operator sudah tepat, langsung saja pesan. Untuk reservasi kursi, 
 
 **WhatsApp: 0813-6923-1893**
 
-Perjalanan Palembang ke Gelumbang dan seluruh kecamatan Muara Enim tidak harus ribet. Dengan layanan antar jemput sampai alamat, Anda tinggal duduk santai. Butuh tujuan ke pusat Kota Muara Enim? Cek artikel travel Palembang Muara Enim untuk tarif flat Rp 150.000 dan jadwal lengkap.
+Perjalanan Palembang ke Gelumbang dan seluruh kecamatan Muara Enim tidak harus ribet. Dengan layanan antar jemput sampai alamat, Anda tinggal duduk santai. Butuh tujuan ke pusat Kota Muara Enim? Cek artikel travel Palembang Muara Enim untuk tarif flat Rp 180.000 dan jadwal lengkap.

@@ -1,12 +1,12 @@
 ---
 from: palembang
 to: muara dua
-price: 170000
+price: 220000
 duration: 7 - 8 Jam
 departureTimes: ["09:00 WIB", "15:00 WIB", "21:00 WIB"]
 type: utama
 distance: 290 km
-description: Travel Palembang ke Muara Dua (OKU Selatan) — 7-8 jam, Rp 170.000. Door-to-door, armada AC. Booking sekarang!
+description: Travel Palembang ke Muara Dua (OKU Selatan) — 7-8 jam, Rp 220.000. Door-to-door, armada AC. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -28,7 +28,7 @@ Kota ini dikenal sebagai daerah penghasil komoditas pertanian dan perkebunan, se
 
 **Driver Ahli Medan Perbukitan.** Sopir kami berpengalaman mengemudi di jalan berkelok-kelok dan menanjak di wilayah pegunungan.
 
-**Harga Terjangkau.** Rp 170.000 flat, tarif kompetitif untuk layanan door-to-door.
+**Harga Terjangkau.** Rp 220.000 flat, tarif kompetitif untuk layanan door-to-door.
 
 ## Jadwal Keberangkatan Palembang ke Muara Dua
 

@@ -69,7 +69,7 @@ Dokumen ini berisi informasi menyeluruh tentang Lincah Travel: profil bisnis, at
 - **Palembang – Indralaya (UNSRI)**: Tarif Rp 100.000 | Durasi 45 menit | Jadwal setiap jam (06.00 – 20.00 WIB) via Tol Palindra.
 - **Palembang – Prabumulih**: Tarif Rp 130.000 | Durasi 2 jam | Jadwal setiap jam (07.00 – 21.00 WIB) via Tol Indraprabu.
 - **Palembang – Simpang Belimbing**: Tarif Rp 150.000 | Durasi 3 jam | Jadwal 08.00, 14.00, 20.00 WIB.
-- **Palembang – Muara Enim**: Tarif Rp 150.000 | Durasi 3,5 - 4,5 jam | Jadwal 08.00, 14.00, 17.00, 20.00 WIB via Tol Indraprabu & Lintas Tengah.
+- **Palembang – Muara Enim**: Tarif Rp 180.000 | Durasi 3,5 - 4,5 jam | Jadwal 08.00, 14.00, 17.00, 20.00 WIB via Tol Indraprabu & Lintas Tengah.
 - **Palembang – Tanjung Enim**: Tarif Rp 160.000 | Durasi 4 - 5 jam | Jadwal 08.00, 14.00, 17.00, 20.00 WIB (Akses Tambang PTBA).
 - **Palembang – Lahat**: Tarif Rp 200.000 | Durasi 5 - 6 jam | Jadwal 08.00, 14.00, 20.00 WIB via Koridor Merapi.
 - **Palembang – Kikim**: Tarif Rp 200.000 | Durasi 7 - 8 jam | Jadwal 08.00, 14.00, 20.00 WIB.
@@ -84,7 +84,7 @@ Dokumen ini berisi informasi menyeluruh tentang Lincah Travel: profil bisnis, at
 - **Palembang – Martapura (OKU Timur)**: Tarif Rp 160.000 | Durasi 5 jam | Jadwal 08.00, 14.00, 20.00 WIB.
 - **Palembang – Belitang**: Tarif Rp 150.000 | Durasi 5 - 6 jam | Jadwal 08.00, 15.00, 19.00 WIB.
 - **Palembang – Tugumulyo**: Tarif Rp 180.000 | Durasi 7 - 8 jam | Jadwal 09.00, 16.00, 20.00 WIB.
-- **Palembang – Muara Dua (OKU Selatan)**: Tarif Rp 170.000 | Durasi 7 - 8 jam | Jadwal 09.00, 15.00, 21.00 WIB.
+- **Palembang – Muara Dua (OKU Selatan)**: Tarif Rp 220.000 | Durasi 7 - 8 jam | Jadwal 09.00, 15.00, 21.00 WIB.
 - **Palembang – Danau Ranau**: Tarif Rp 240.000 | Durasi 8 - 9 jam | Jadwal 08.00, 14.00, 20.00 WIB.
 
 ### Koridor Barat Daya (Wisata Alam)
@@ -135,7 +135,7 @@ Dokumen ini berisi informasi menyeluruh tentang Lincah Travel: profil bisnis, at
 
 Berikut adalah daftar artikel panduan perjalanan, komparasi rute, dan jadwal yang terbit di blog resmi Lincah Travel (URL format: https://lincahtravel.web.id/blog/{slug}):
 
-1. `travel-palembang-muara-enim-door-to-door`: Panduan Travel Palembang Muara Enim tarif Rp150.000, jadwal, dan jalur Tol Indraprabu.
+1. `travel-palembang-muara-enim-door-to-door`: Panduan Travel Palembang Muara Enim tarif Rp180.000, jadwal, dan jalur Tol Indraprabu.
 2. `carter-travel-palembang-muara-enim-dinas-tambang`: Panduan Carter Travel Palembang Muara Enim Tanjung Enim Kunjungan Dinas Tambang 2026.
 3. `jadwal-damri-unsri-palembang-indralaya`: Panduan Jadwal Damri Unsri Palembang Indralaya, rute Terminal 32, tiket mahasiswa, dan travel tol 45 menit.
 4. `travel-palembang-indralaya-unsri`: Panduan Travel Palembang Indralaya UNSRI tarif Rp100.000 door-to-door via tol.
@@ -157,7 +157,7 @@ Berikut adalah daftar artikel panduan perjalanan, komparasi rute, dan jadwal yan
 20. `travel-palembang-bangko-merangin`: Panduan Travel Palembang Bangko Merangin Rp250.000.
 21. `travel-palembang-sungai-penuh`: Panduan Travel Palembang Sungai Penuh Kerinci Rp350.000.
 22. `travel-palembang-sekernan`: Panduan Travel Palembang Sekernan Muaro Jambi Rp220.000.
-23. `travel-palembang-muara-dua-door-to-door`: Panduan Travel Palembang Muara Dua OKU Selatan Rp170.000.
+23. `travel-palembang-muara-dua-door-to-door`: Panduan Travel Palembang Muara Dua OKU Selatan Rp220.000.
 24. `travel-palembang-belitang-oku-timur`: Panduan Travel Palembang Belitang OKU Timur Rp150.000.
 25. `travel-palembang-martapura-oku-timur`: Panduan Travel Palembang Martapura OKU Timur Rp160.000.
 26. `travel-palembang-prabumulih-jadwal-malam`: Panduan Travel Palembang Prabumulih jadwal malam via Tol Indraprabu.

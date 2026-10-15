@@ -64,5 +64,9 @@
 /travel/tebing-tinggi-palembang/  /tebing-tinggi/palembang  301
 /travel/tugumulyo-palembang/  /tugumulyo/palembang  301
 
+# Redirect blog lama ke artikel pilar utama (301)
+/blog/travel-palembang-prabumulih-jadwal-malam  /blog/travel-palembang-prabumulih  301
+/blog/travel-palembang-prabumulih-jadwal-malam/  /blog/travel-palembang-prabumulih  301
+
 # Serve .html files at extensionless URLs (build.format: 'file') - must run last
 /*  /:splat.html  200

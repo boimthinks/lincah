@@ -2,19 +2,19 @@
 title: "Travel Palembang Muara Enim"
 judul_seo: "Travel Palembang Muara Enim Harga Jadwal dan Nomor WA 2026"
 slug: "travel-palembang-muara-enim-door-to-door"
-description: "Harga travel Palembang Muara Enim Rp150.000 door-to-door. Jadwal 4x sehari via Tol Indraprabu dan Tanjung Enim. Hubungi WA 0813-6923-1893."
+description: "Harga travel Palembang Muara Enim Rp180.000 door-to-door. Jadwal 4x sehari via Tol Indraprabu dan Tanjung Enim. Hubungi WA 0813-6923-1893."
 pubDate: "2026-08-04"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7HOl3DnXaqtdZQJ0AYs6syRF7azz7xLIJoGiOzQdUf8nQMg37WFSIfb6sfTbk2tNHkSzXNWKkf_9OD_yIcENt4TdPbW0uo5VRS1ROFjviiQ0x9bQDDXH3y6Cn6ZSxyMJcGPNU6zsciMeEw7X9K2qrDZ8lQL9QHGKo9dAXKFgNO_LnNY82MxGXOw1w427A/s600/travel-palembang-muara-enim.webp"
 kategori: "rute"
 pengantar: "Perubahan jadwal kerja mendadak atau tugas lapangan ke kawasan tambang membutuhkan transportasi yang sigap dan tiba tepat waktu. Bagi Anda yang sering bepergian antara Palembang, Muara Enim, hingga Tanjung Enim, Lincah Travel menghadirkan layanan door to door terpercaya dengan armada prima setiap hari."
-kesimpulan: "Perjalanan ke pusat industri Sumatera Selatan kini semakin ringkas berkat jalur bebas hambatan. Dengan tarif flat Rp150.000 per kursi dan sistem antar jemput sampai depan pagar, Anda tinggal duduk tenang selama perjalanan. Hubungi admin kami di 0813-6923-1893 untuk memastikan ketersediaan kursi Anda."
+kesimpulan: "Perjalanan ke pusat industri Sumatera Selatan kini semakin ringkas berkat jalur bebas hambatan. Dengan tarif flat Rp180.000 per kursi dan sistem antar jemput sampai depan pagar, Anda tinggal duduk tenang selama perjalanan. Hubungi admin kami di 0813-6923-1893 untuk memastikan ketersediaan kursi Anda."
 tags: ["travel palembang muara enim", "travel muara enim palembang", "travel palembang tanjung enim", "muara enim", "tanjung enim"]
 from: palembang
 to: muara enim
 faq:
   - q: "Berapa ongkos travel Palembang Muara Enim per orang?"
-    a: "Tarif resmi tiket travel Palembang Muara Enim dipatok flat Rp150.000 per orang, sudah mencakup layanan antar jemput door to door tanpa biaya tambahan."
+    a: "Tarif resmi tiket travel Palembang Muara Enim dipatok flat Rp180.000 per orang, sudah mencakup layanan antar jemput door to door tanpa biaya tambahan."
   - q: "Palembang ke Muara Enim berapa jam perjalanan?"
     a: "Waktu tempuh normal berkisar antara 3,5 hingga 4,5 jam melintasi Tol Palindra lalu tersambung ke Tol Indralaya Prabumulih dan Jalur Lintas Tengah Sumatera."
   - q: "Kapan saja jadwal keberangkatan travel Palembang ke Muara Enim?"
@@ -50,10 +50,10 @@ Lincah Travel memberlakukan tarif flat yang transparan bagi setiap calon penumpa
 
 | Jam Keberangkatan | Tarif Tiket | Estimasi Waktu Tempuh | Rute Utama |
 |---|---|---|---|
-| 08.00 WIB (Pagi) | Rp 150.000 | 3,5 - 4,5 Jam | Tol Indraprabu - Lintas Tengah |
-| 14.00 WIB (Siang) | Rp 150.000 | 3,5 - 4,5 Jam | Tol Indraprabu - Lintas Tengah |
-| 17.00 WIB (Sore) | Rp 150.000 | 3,5 - 4,5 Jam | Tol Indraprabu - Lintas Tengah |
-| 20.00 WIB (Malam) | Rp 150.000 | 3,5 - 4,0 Jam | Tol Indraprabu - Lintas Tengah |
+| 08.00 WIB (Pagi) | Rp 180.000 | 3,5 - 4,5 Jam | Tol Indraprabu - Lintas Tengah |
+| 14.00 WIB (Siang) | Rp 180.000 | 3,5 - 4,5 Jam | Tol Indraprabu - Lintas Tengah |
+| 17.00 WIB (Sore) | Rp 180.000 | 3,5 - 4,5 Jam | Tol Indraprabu - Lintas Tengah |
+| 20.00 WIB (Malam) | Rp 180.000 | 3,5 - 4,0 Jam | Tol Indraprabu - Lintas Tengah |
 
 Jadwal pagi pukul 08.00 WIB menjadi rujukan utama bagi profesional yang hendak menghadiri pertemuan kerja siang hari di kantor dinas atau lokasi site. Sementara jadwal malam pukul 20.00 WIB sangat diminati karena kondisi jalan nasional Lintas Tengah lebih lengang dan sejuk, memungkinkan penumpang beristirahat pulas selama perjalanan.
 
