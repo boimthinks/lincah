@@ -51,7 +51,7 @@ Gunakan data ini sebagai social proof dalam artikel:
 | Rute | Durasi | Via | Harga | Catatan |
 |---|---|---|---|---|
 | **Palembang-Lampung** | 4.5 jam | Tol Trans-Sumatera | Rp 300.000 | Favorit perjalanan umum |
-| **Palembang-Jambi** | 5 jam | - | Rp 200.000 | Favorit perjalanan dinas |
+| **Palembang-Jambi** | 5 jam | - | Rp 250.000 | Favorit perjalanan dinas |
 | **Palembang-Baturaja** | 3 jam | - | Rp 120.000 | Door-to-door service |
 | **Palembang-Lubuklinggau** | 4 jam | - | Rp 200.000 | Akses ke Bengkulu |
 | **Palembang-Prabumulih** | 2 jam | - | Rp 130.000 | Ekonomis |
@@ -189,6 +189,8 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Jambi (Telanaipura & Bandara) | `2026-10-12-travel-palembang-jambi-telanaipura-bandara.md` |
 | Palembang-Muara Enim (Carter Dinas Tambang PTBA) | `2026-10-08-carter-travel-palembang-muara-enim-dinas-tambang.md` |
 | Palembang-Muara Lakitan (Musi Rawas) | `2026-10-13-travel-palembang-muara-lakitan.md` |
+| Palembang-Prabumulih (Pilar Utama Revamp) | `2026-10-15-travel-palembang-prabumulih.md` |
+| Palembang-Martapura (Kirim Paket Kilat) | `2026-10-16-kirim-paket-palembang-martapura.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
