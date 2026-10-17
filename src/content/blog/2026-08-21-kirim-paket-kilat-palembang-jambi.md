@@ -35,7 +35,7 @@ Jika peta di atas sulit dilihat, Anda bisa membuka rute langsung di aplikasi Goo
 
 ## Berapa Biaya Kirim Paket dengan Travel Executive
 
-Tarif penumpang untuk rute Palembang Jambi adalah Rp 200.000 per orang, sudah termasuk door-to-door dari alamat jemput hingga alamat tujuan. Untuk kirim paket, biaya dihitung terpisah berdasarkan tiga hal: berat, ukuran, dan jarak turun di kota atau kabupaten tujuan.
+Tarif penumpang untuk rute Palembang Jambi adalah Rp 250.000 per orang, sudah termasuk door-to-door dari alamat jemput hingga alamat tujuan. Untuk kirim paket, biaya dihitung terpisah berdasarkan tiga hal: berat, ukuran, dan jarak turun di kota atau kabupaten tujuan.
 
 Karena tarif barang memakai perhitungan dimensi yang tidak bisa disamakan, angka pastinya baru muncul setelah admin melihat jenis kirimannya. Barang ringan seperti dokumen dan surat jelas jauh lebih murah dibanding koli besar atau kardus mesin. Yang paling mudah adalah mengirim detail isi dan ukuran lewat WhatsApp, lalu admin mengonfirmasi estimasi biaya dalam hitungan menit.
 

@@ -8,8 +8,8 @@
 - **Pilihan Armada**: Toyota Hiace Premio (11 kursi), Toyota Innova Reborn (7 kursi), Toyota Avanza/Veloz (6 kursi).
 
 ## Rute & Tarif
-- **Palembang - Jambi**: Rp 200.000 (Jadwal: Pagi 08.00 WIB & Sore 15.00 WIB)
-- **Jambi - Palembang**: Rp 200.000 (Jadwal: Pagi 08.00 WIB & Sore 15.00 WIB)
+- **Palembang - Jambi**: Rp 250.000 (Jadwal: Pagi 08.00 WIB & Sore 15.00 WIB)
+- **Jambi - Palembang**: Rp 250.000 (Jadwal: Pagi 08.00 WIB & Sore 15.00 WIB)
 - **Palembang - Betung**: Rp 180.000
 - **Palembang - Sungai Lilin**: Rp 180.000
 - **Palembang - Bayung Lencir**: Rp 200.000

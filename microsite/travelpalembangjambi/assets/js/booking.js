@@ -398,8 +398,8 @@ Terima kasih!`;
       const supabaseUrl = 'https://wrllosddilihcoqofhdr.supabase.co';
       const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndybGxvc2RkaWxpaGNvcW9maGRyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODIwMzEzMDgsImV4cCI6MjA5NzYwNzMwOH0.Om4UkzVF0Qobqkva5yZuKu5FSAg8GI00dYUiOaaIsPQ';
 
-      // Tarif default 200000 per pax
-      const totalTarif = 200000 * paxNum;
+      // Tarif default 250000 per pax
+      const totalTarif = 250000 * paxNum;
 
       const payload = {
         no_nota: noNota,

@@ -29,7 +29,7 @@ Berikut 10 rute yang paling sering kami layani, diurutkan dari yang termurah.
 | Muara Enim | Rp 180.000 | 4-5 jam |
 | Lahat | Rp 200.000 | 5-6 jam |
 | Pagaralam | Rp 250.000 | 7-8 jam |
-| Jambi | Rp 200.000 | 6-7 jam |
+| Jambi | Rp 250.000 | 6-7 jam |
 | Lubuklinggau | Rp 200.000 | 7-8 jam |
 | Lampung | Rp 300.000 | 4-5 jam via tol |
 
@@ -65,7 +65,7 @@ Untuk jarak di atas 250 kilometer, tarif berkisar Rp 180.000 sampai Rp 300.000.
 
 Pagaralam Rp 250.000, 7-8 jam, melewati jalan berkelok di kaki Gunung Dempo. Karena medannya menantang, kami hanya menurunkan armada yang paling prima di rute ini. Ulasan lengkapnya ada di artikel [travel Palembang Pagaralam](https://lincahtravel.web.id/blog/travel-palembang-pagaralam-door-to-door).
 
-Jambi Rp 200.000, sekitar 6-7 jam. Rute ini banyak dipakai untuk perjalanan dinas dan kami sudah menulis [panduan khususnya](https://lincahtravel.web.id/blog/travel-palembang-jambi-perjalanan-dinas). Lubuklinggau juga Rp 200.000 untuk 7-8 jam, jadi pintu masuk ke arah Bengkulu, dengan detail di artikel [travel Palembang Lubuklinggau](https://lincahtravel.web.id/blog/travel-palembang-lubuk-linggau-door-to-door).
+Jambi Rp 250.000, sekitar 6-7 jam. Rute ini banyak dipakai untuk perjalanan dinas dan kami sudah menulis [panduan khususnya](https://lincahtravel.web.id/blog/travel-palembang-jambi-perjalanan-dinas). Lubuklinggau juga Rp 200.000 untuk 7-8 jam, jadi pintu masuk ke arah Bengkulu, dengan detail di artikel [travel Palembang Lubuklinggau](https://lincahtravel.web.id/blog/travel-palembang-lubuk-linggau-door-to-door).
 
 Lampung adalah yang paling mahal di daftar utama, Rp 300.000 untuk 4-5 jam via Tol Trans Sumatera. Durasi tempuhnya justru lebih pendek dari Pagaralam karena sepanjang jalan sudah tol. Tarif ini berbeda dengan tiket bus, karena layanannya door-to-door sampai ke alamat tujuan di Lampung. Pembahasan lengkapnya ada di artikel [travel Palembang Lampung](https://lincahtravel.web.id/blog/travel-palembang-lampung-via-tol).
 

@@ -16,7 +16,7 @@ faq:
   - q: "Berapa tarif carter privat Jambi Palembang?"
     a: "Layanan carter privat (sewa satu mobil penuh) Jambi–Palembang mulai dari Rp 1.200.000 sudah termasuk sopir, BBM, dan tiket tol ruas operasional. Harga bervariasi tergantung jenis unit (Innova Reborn atau HiAce Premio) serta titik penjemputan dan pengantaran."
   - q: "Apa bedanya carter privat dengan travel Jambi Palembang reguler?"
-    a: "Travel reguler berarti membeli satu kursi (Rp 200.000) dan mengikuti jadwal bersama empat sesi harian. Carter privat berarti menyewa seluruh mobil untuk privasi penuh, bebas menentukan jam berangkat, dan tanpa penumpang lain."
+    a: "Travel reguler berarti membeli satu kursi (Rp 250.000) dan mengikuti jadwal bersama empat sesi harian. Carter privat berarti menyewa seluruh mobil untuk privasi penuh, bebas menentukan jam berangkat, dan tanpa penumpang lain."
   - q: "Unit apa saja yang tersedia untuk carter Jambi Palembang?"
     a: "Tersedia Toyota Innova Reborn (7 seat, captain seat, eksklusif) dan Toyota HiAce Premio (11 seat, kabin lapang) untuk rombongan lebih besar. Keduanya ber-AC double blower dan dikemudikan driver berpengalaman jalur Sumatera."
   - q: "Apakah bisa diturunkan di lobi rumah sakit atau hotel di Palembang?"

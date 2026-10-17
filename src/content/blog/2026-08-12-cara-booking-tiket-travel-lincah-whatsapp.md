@@ -60,7 +60,7 @@ Lincah Travel mengoperasikan tiga varian armada utama dengan kondisi terawat dan
 | Rute Perjalanan | Estimasi Durasi | Jalur Utama | Tarif per Kursi | Armada Favorit |
 |---|---|---|---|---|
 | Palembang ke Lampung | 4,5 Jam | Tol Trans-Sumatera | Rp 150.000 | Toyota Hiace Premio |
-| Palembang ke Jambi | 5 Jam | Lintas Timur | Rp 180.000 | Toyota Innova Reborn |
+| Palembang ke Jambi | 5 Jam | Lintas Timur | Rp 250.000 | Toyota Innova Reborn |
 | Palembang ke Baturaja | 3 Jam | Jalur Tengah | Rp 200.000 | Toyota Avanza / Veloz |
 | Palembang ke Lubuklinggau | 4 Jam | Jalinteng | Rp 150.000 | Toyota Innova Reborn |
 | Palembang ke Prabumulih | 2 Jam | Tol & Jalur Utama | Rp 130.000 | Toyota Avanza / Veloz |

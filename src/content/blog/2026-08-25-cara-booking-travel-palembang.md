@@ -36,7 +36,7 @@ Berikut adalah daftar harga tiket resmi dari Palembang menuju kota tujuan:
 
 * Palembang ke Baturaja: Rp 200.000 per orang
 * Palembang ke Lampung: Rp 300.000 per orang
-* Palembang ke Jambi: Rp 200.000 per orang
+* Palembang ke Jambi: Rp 250.000 per orang
 * Palembang ke Lubuklinggau: Rp 200.000 per orang
 * Palembang ke Prabumulih: Rp 130.000 per orang
 * Palembang ke Muara Enim: Rp 180.000 per orang

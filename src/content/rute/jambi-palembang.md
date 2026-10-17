@@ -1,12 +1,12 @@
 ---
 from: jambi
 to: palembang
-price: 200000
+price: 250000
 duration: 6 Jam
 departureTimes: ["08:00 WIB", "13:00 WIB", "16:00 WIB", "20:00 WIB"]
 type: sumatera selatan
 distance: 320 km
-description: Travel Jambi ke Palembang cepat & aman dengan Lincah Travel. Door-to-door, Rp 200.000, armada AC modern. Pesan via WhatsApp sekarang juga!
+description: Travel Jambi ke Palembang cepat & aman dengan Lincah Travel. Door-to-door, Rp 250.000, armada AC modern. Pesan via WhatsApp sekarang juga!
 img: src\content\city-images.md
 ---
 
@@ -22,7 +22,7 @@ Kami tidak sekadar mengantar penumpang. Setiap perjalanan dirancang agar Anda ti
 
 ## Harga Transparan
 
-Cukup **Rp 200.000** per kursi untuk layanan antar-provinsi. Tidak ada biaya parkir, biaya terminal, atau biaya tambahan lain. Yang Anda bayar sesuai yang tercantum.
+Cukup **Rp 250.000** per kursi untuk layanan antar-provinsi. Tidak ada biaya parkir, biaya terminal, atau biaya tambahan lain. Yang Anda bayar sesuai yang tercantum.
 
 ## Cara Pesan
 

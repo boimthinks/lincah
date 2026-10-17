@@ -56,7 +56,7 @@ Paket yang dititipkan pada trip pagi biasanya tiba di Bungo saat jam check-in ho
 
 ## Simulasi Biaya Kirim
 
-Tarif penumpang Palembang Jambi ialah Rp 200.000 per orang sudah termasuk door-to-door. Rute ke Bungo dan Tebo lebih jauh dari Kota Jambi, sehingga konfirmasikan angka pasti ke admin sebelum mengirim. Untuk kirim paket, ongkir dihitung terpisah dari tiket berdasarkan berat, ukuran, dan jarak turun.
+Tarif penumpang Palembang Jambi ialah Rp 250.000 per orang sudah termasuk door-to-door. Rute ke Bungo dan Tebo lebih jauh dari Kota Jambi, sehingga konfirmasikan angka pasti ke admin sebelum mengirim. Untuk kirim paket, ongkir dihitung terpisah dari tiket berdasarkan berat, ukuran, dan jarak turun.
 
 Struktur biaya mengikuti layanan kirim paket umum Lincah Travel:
 - Pickup di luar radius kota Palembang: Rp 10.000-30.000.

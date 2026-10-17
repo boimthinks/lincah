@@ -28,7 +28,7 @@ Tiga simpul ini bukan sekadar catatan geografi. Bagi Anda yang rumah atau kantor
 
 | Rute | Jarak | Durasi | Tarif | Penumpang khas |
 |---|---|---|---|---|
-| Palembang-Jambi | 269 km | 6-7 jam | Rp200.000 | Perjalanan dinas lintas provinsi |
+| Palembang-Jambi | 269 km | 6-7 jam | Rp250.000 | Perjalanan dinas lintas provinsi |
 | Palembang-Sekayu | 120 km | 3 jam | Rp180.000 | PNS dan pekerja migas |
 | Palembang-Lubuklinggau | 320 km | 7-8 jam | Rp200.000 | Pekerja tambang, mahasiswa |
 | Palembang-Pagaralam | 290 km | 7-8 jam | Rp250.000 | Wisatawan akhir pekan |
@@ -43,7 +43,7 @@ Semua tarif di atas bersifat flat dan sudah mencakup penjemputan di alamat serta
 
 Jalur paling utara mengikuti Lintas Timur Sumatera. Armada meninggalkan Palembang lewat Talang Kelapa dan Pangkalan Balai, ibukota Banyuasin, sebelum berhenti sejenak di Simpang Betung. Setelah itu jalan membentang di kawasan perkebunan Musi Banyuasin: Sungai Lilin, Tungkal Jaya, dan Bayung Lencir di tepi perbatasan Jambi.
 
-Banyak penumpang di koridor ini adalah pegawai yang bolak-balik Palembang-Jambi untuk urusan kantor. Bagi mereka, layanan travel Palembang Jambi dengan sistem door-to-door memangkas waktu transit dibanding naik bus antarkota. Tarifnya Rp200.000 dengan jadwal keberangkatan pagi dan sore.
+Banyak penumpang di koridor ini adalah pegawai yang bolak-balik Palembang-Jambi untuk urusan kantor. Bagi mereka, layanan travel Palembang Jambi dengan sistem door-to-door memangkas waktu transit dibanding naik bus antarkota. Tarifnya Rp250.000 dengan jadwal keberangkatan pagi dan sore.
 
 Jalur yang sama sebenarnya berlanjut lebih jauh lagi ke wilayah Jambi bagian dalam. Kami juga melayani Muara Bulian di Batanghari dan Kuala Tungkal di Tanjung Jabung Barat dengan pola keberangkatan serupa. Jadi kalau tujuan Anda melewati Bayung Lencir, sebutkan saja kotanya saat memesan.
 

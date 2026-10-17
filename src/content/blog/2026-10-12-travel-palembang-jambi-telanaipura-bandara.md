@@ -2,12 +2,12 @@
 title: "Travel Palembang Jambi Telanaipura Bandara"
 judul_seo: "Travel Palembang Jambi Antar Alamat Telanaipura dan Bandara Sultan Thaha"
 slug: "travel-palembang-jambi-telanaipura-bandara"
-description: "Travel Palembang Jambi Rp200.000 antar langsung Telanaipura dan Bandara Sultan Thaha. Durasi 5 jam via Tol Baleno. Hubungi WA 0813-6923-1893 sekarang."
+description: "Travel Palembang Jambi Rp250.000 antar langsung Telanaipura dan Bandara Sultan Thaha. Durasi 5 jam via Tol Baleno. Hubungi WA 0813-6923-1893 sekarang."
 pubDate: "2026-10-12"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmcRX0sf3kEzaHrYlA7Ho-vQbaFgdtG72G_kuzXYfK62KrltwzIs1sufewDc8H8lA3TxdeUgmyENVPsZjYnYsdJAeGn9eV3JFOkVA1myNtbUqfyxfVWuLI4hvnbuIJJRLf4OuISzjWryHgejW78DoABV8SAVmG-P_MkQjkOAGVJYgYrQ0ZwTqOSMvplQjM/s600/travel-palembang-sultan-thaha-jambi_poco.webp"
 kategori: "rute"
-pengantar: "Kebutuhan transportasi darat dari Palembang menuju pusat perkantoran dan simpul penerbangan Kota Jambi menuntut kepastian waktu serta titik antar yang presisi. Lincah Travel melayani rute door to door langsung ke kawasan pemerintahan Telanaipura dan terminal Bandara Sultan Thaha Jambi dengan tarif resmi Rp200.000 per orang melintasi Tol Baleno."
+pengantar: "Kebutuhan transportasi darat dari Palembang menuju pusat perkantoran dan simpul penerbangan Kota Jambi menuntut kepastian waktu serta titik antar yang presisi. Lincah Travel melayani rute door to door langsung ke kawasan pemerintahan Telanaipura dan terminal Bandara Sultan Thaha Jambi dengan tarif resmi Rp250.000 per orang melintasi Tol Baleno."
 kesimpulan: "Perjalanan dinas instansi maupun transit penerbangan ke Jambi kini berjalan lancar tanpa repot berganti kendaraan atau memesan taksi tambahan. Hubungi admin WhatsApp Lincah Travel di 0813-6923-1893 untuk memastikan kursi Anda hari ini."
 tags: ["travel palembang jambi", "telanaipura jambi", "bandara sultan thaha", "simpang rimbo", "tol baleno"]
 from: "palembang"
@@ -16,7 +16,7 @@ faq:
   - q: "Berapa lama waktu tempuh travel Palembang ke Telanaipura Jambi?"
     a: "Durasi perjalanan rata-rata berkisar antara 4.5 hingga 5 jam melintasi Jalan Lintas Timur Sumatera dan ruas tol fungsional Bayung Lencir Tempino (Baleno)."
   - q: "Berapa tarif tiket travel Palembang ke Bandara Sultan Thaha Jambi?"
-    a: "Ongkos tiket resmi adalah Rp200.000 per orang, sudah mencakup fasilitas antar langsung ke drop zone terminal keberangkatan Bandara Sultan Thaha."
+    a: "Ongkos tiket resmi adalah Rp250.000 per orang, sudah mencakup fasilitas antar langsung ke drop zone terminal keberangkatan Bandara Sultan Thaha."
   - q: "Apakah mobil mengantar langsung ke komplek kantor dinas di Telanaipura?"
     a: "Ya, sopir kami mengantar langsung ke lobi kantor dinas, seperti Kantor Gubernur Jambi, Gedung DPRD Provinsi, Kejaksaan Tinggi, maupun RSUD Raden Mattaher tanpa biaya tambahan."
   - q: "Kapan saja jadwal keberangkatan harian rute Palembang Jambi?"
@@ -60,7 +60,7 @@ Lincah Travel menawarkan dua kali jadwal keberangkatan harian yang disesuaikan d
 | 08.00 WIB (Pagi) | 13.00 WIB | Rapat dinas siang atau jadwal penerbangan sore | Tiba saat jam kerja kantor masih berlangsung aktif |
 | 20.00 WIB (Malam) | 01.00 WIB | Istirahat hotel atau agenda dinas pagi hari berikutnya | Lalu lintas lengang, tiba dini hari di alamat hotel |
 
-Ongkos tiket resmi untuk rute Palembang ke Jambi dibanderol flat Rp200.000 per penumpang. Harga ini sudah mencakup penjemputan dari depan pintu rumah di Palembang serta pengantaran langsung ke lobi kantor, hotel, maupun terminal bandara di Jambi tanpa ada pungutan liar di jalan.
+Ongkos tiket resmi untuk rute Palembang ke Jambi dibanderol flat Rp250.000 per penumpang. Harga ini sudah mencakup penjemputan dari depan pintu rumah di Palembang serta pengantaran langsung ke lobi kantor, hotel, maupun terminal bandara di Jambi tanpa ada pungutan liar di jalan.
 
 ## Standar Armada Prima untuk Perjalanan Bisnis
 

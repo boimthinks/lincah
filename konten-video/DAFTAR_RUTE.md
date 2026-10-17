@@ -12,7 +12,7 @@ Berikut adalah daftar rute resmi yang dilayani oleh Lincah Travel (door-to-door)
 | 6 | **Danau Ranau - Palembang** | Rp 240.000 | 8 - 9 Jam | 330 km |
 | 7 | **Indralaya - Palembang** | Rp 50.000 | 45 Menit | 35 km |
 | 8 | **Jambi - Bangko** | Rp 200.000 | 2 - 3 Jam | 126 km |
-| 9 | **Jambi - Palembang** | Rp 200.000 | 6 Jam | 320 km |
+| 9 | **Jambi - Palembang** | Rp 250.000 | 6 Jam | 320 km |
 | 10 | **Kayu Agung - Palembang** | Rp 100.000 | 1.5 Jam | 65 km |
 | 11 | **Kikim - Palembang** | Rp 200.000 | 7 - 8 Jam | 280 km |
 | 12 | **Kuala Tungkal - Palembang** | Rp 400.000 | 10 - 11 Jam | 402 km |
@@ -31,7 +31,7 @@ Berikut adalah daftar rute resmi yang dilayani oleh Lincah Travel (door-to-door)
 | 25 | **Palembang - Betung** | Rp 180.000 | 3 - 4 Jam | 150 km |
 | 26 | **Palembang - Danau Ranau** | Rp 240.000 | 8 - 9 Jam | 330 km |
 | 27 | **Palembang - Indralaya** | Rp 50.000 | 45 Menit | 35 km |
-| 28 | **Palembang - Jambi** | Rp 200.000 | 6 Jam 57 Menit | 269 km |
+| 28 | **Palembang - Jambi** | Rp 250.000 | 6 Jam 57 Menit | 269 km |
 | 29 | **Palembang - Kayu Agung** | Rp 100.000 | 1.5 Jam | 65 km |
 | 30 | **Palembang - Kikim** | Rp 200.000 | 7 - 8 Jam | 280 km |
 | 31 | **Palembang - Kuala Tungkal** | Rp 400.000 | 10 - 11 Jam | 402 km |

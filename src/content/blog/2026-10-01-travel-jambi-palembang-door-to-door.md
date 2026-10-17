@@ -2,7 +2,7 @@
 title: "Travel Jambi Palembang Door to Door"
 judul_seo: "Travel Jambi Palembang Door to Door: Jadwal, Tarif & Antar Jemput 2026"
 slug: "travel-jambi-palembang-door-to-door"
-description: "Travel Jambi Palembang door to door Rp200.000. Jadwal 4x sehari via Tol Baleno, armada HiAce & Innova Reborn. Pesan WA 0813-6923-1893."
+description: "Travel Jambi Palembang door to door Rp250.000. Jadwal 4x sehari via Tol Baleno, armada HiAce & Innova Reborn. Pesan WA 0813-6923-1893."
 pubDate: "2026-10-01"
 updatedDate: "2026-10-03"
 author: "Tim Konten Lincah Travel"
@@ -15,7 +15,7 @@ from: jambi
 to: palembang
 faq:
   - q: "Berapa tarif travel Jambi Palembang door to door?"
-    a: "Tarif reguler travel Jambi Palembang adalah Rp 200.000 per kursi sudah termasuk penjemputan alamat di Jambi, pengantaran alamat di Palembang, full AC, bagasi standar, dan tiket tol. Untuk carter privat satu mobil penuh, tarif mulai Rp 1.200.000."
+    a: "Tarif reguler travel Jambi Palembang adalah Rp 250.000 per kursi sudah termasuk penjemputan alamat di Jambi, pengantaran alamat di Palembang, full AC, bagasi standar, dan tiket tol. Untuk carter privat satu mobil penuh, tarif mulai Rp 1.200.000."
   - q: "Berapa lama perjalanan Jambi ke Palembang?"
     a: "Durasi tempuh rata-rata 6 jam via kombinasi jalur arteri dan Tol Baleno (seksi Tempino–Bayung Lencir). Sesi pagi berangkat 08.00 WIB dan tiba sekitar 14.30–15.30 WIB; sesi malam tiba 03.00–04.00 WIB."
   - q: "Apa saja jam keberangkatan travel Jambi Palembang?"
@@ -57,7 +57,7 @@ Bagi Anda yang merencanakan perjalanan pulang-pergi, panduan lengkap mengenai ko
 
 Lincah Travel menerapkan tarif resmi yang transparan tanpa ada pungutan liar di jalan:
 
-- **Tarif Tiket Reguler:** **Rp 200.000** per kursi.
+- **Tarif Tiket Reguler:** **Rp 250.000** per kursi.
 - **Fasilitas Termasuk:** Layanan penjemputan alamat di Jambi, pengantaran alamat di Palembang, full AC, bagasi bawaan standar (koper/tas besar), serta tiket tol ruas operasional.
 - **Layanan Carter Privat (Drop):** Tersedia opsi sewa satu mobil penuh mulai dari Rp 1.200.000 bagi keluarga atau dinas yang menginginkan privasi mutlak dan kebebasan menentukan jam berangkat.
 

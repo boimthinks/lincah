@@ -206,7 +206,7 @@ ADMIN_WA = 6281369231893
   tujuan: string,
   tanggal_berangkat: date,  // format YYYY-MM-DD
   jam_berangkat: string,
-  tarif: number,            // 200000 * jumlah_penumpang
+  tarif: number,            // 250000 * jumlah_penumpang
   jemput: string,
   jumlah_penumpang: number,
   status_booking: 'pending',

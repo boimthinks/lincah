@@ -1,12 +1,12 @@
 ---
 from: palembang
 to: jambi
-price: 200000
+price: 250000
 duration: 6 Jam 57 Menit
 departureTimes: ["08:00 WIB", "13:00 WIB", "16:00 WIB", "20:00 WIB"]
 type: utama
 distance: 269 km
-description: Travel Palembang ke Jambi nyaman dan aman. Lincah Travel door-to-door, harga Rp 200.000. Armada AC & driver berpengalaman. Pesan via WA!
+description: Travel Palembang ke Jambi nyaman dan aman. Lincah Travel door-to-door, harga Rp 250.000. Armada AC & driver berpengalaman. Pesan via WA!
 img: src\content\city-images.md
 ---
 
@@ -28,7 +28,7 @@ Perjalanan jauh menuntut persiapan. Beberapa hal yang kami pastikan selama perja
 
 ## Harga Tiket dan Fasilitas
 
-Rp 200.000 flat untuk satu kursi sudah termasuk door-to-door. Tiap penumpang juga mendapat:
+Rp 250.000 flat untuk satu kursi sudah termasuk door-to-door. Tiap penumpang juga mendapat:
 
 - Kabin ber-AC dengan sirkulasi baik.
 - USB charger di setiap baris kursi.

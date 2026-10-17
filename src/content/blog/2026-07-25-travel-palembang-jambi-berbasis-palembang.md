@@ -2,7 +2,7 @@
 title: "Travel Palembang Jambi Tol Baleno"
 judul_seo: "Ongkos Travel Palembang Jambi Jadwal dan Rute Tol Baleno"
 slug: "travel-palembang-jambi-berbasis-palembang"
-description: "Info ongkos travel Palembang Jambi door to door Rp 200.000 via tol Baleno. Jadwal harian pagi, siang, sore, malam. Armada HiAce dan Innova. Pesan via WA."
+description: "Info ongkos travel Palembang Jambi door to door Rp 250.000 via tol Baleno. Jadwal harian pagi, siang, sore, malam. Armada HiAce dan Innova. Pesan via WA."
 pubDate: "2026-07-25"
 updatedDate: "2026-10-12"
 author: "Tim Konten Lincah Travel"
@@ -17,7 +17,7 @@ faq:
   - q: "Palembang ke Jambi berapa jam naik travel lewat Tol Baleno?"
     a: "Waktu tempuh normal saat ini berkisar antara 4.5 hingga 5 jam berkat integrasi ruas tol fungsional Bayung Lencir Tempino (Baleno) yang memotong jalur macet di perbatasan provinsi."
   - q: "Berapa ongkos travel Palembang ke Jambi per orang?"
-    a: "Tarif resmi Lincah Travel adalah Rp200.000 flat per kursi untuk rute Palembang ke Kota Jambi, sudah termasuk fasilitas antar jemput door to door ke alamat tujuan."
+    a: "Tarif resmi Lincah Travel adalah Rp250.000 flat per kursi untuk rute Palembang ke Kota Jambi, sudah termasuk fasilitas antar jemput door to door ke alamat tujuan."
   - q: "Kapan saja jadwal keberangkatan travel Palembang Jambi?"
     a: "Keberangkatan dilayani empat kali sehari, yakni trip pagi pukul 08.00 WIB, trip siang pukul 13.00 WIB, trip sore pukul 16.00 WIB, dan trip malam pukul 20.00 WIB."
   - q: "Apakah penumpang dijemput langsung ke rumah dan diantar ke alamat di Jambi?"
@@ -70,7 +70,7 @@ Masuknya armada melalui pintu tol di Bayung Lencir dan keluar di gerbang Tempino
 | **Estimasi Waktu Tempuh** | 9 sampai 12 Jam (bergantung antrean truk) | 4.5 sampai 5 Jam (waktu rata-rata normal) |
 | **Kondisi Fisik Penumpang** | Lelah tinggi akibat rem mendadak di jalan padat | Jauh lebih segar, istirahat tenang |
 | **Kelancaran Perjalanan** | Rawan macet jika ada kendaraan mogok | Lancar dan terprediksi di segmen jalan bebas hambatan |
-| **Tarif Penumpang** | Sama | Flat Rp 200.000 (sudah all-in akses tol) |
+| **Tarif Penumpang** | Sama | Flat Rp 250.000 (sudah all-in akses tol) |
 
 ## Spesifikasi Armada dan Standar Keselamatan
 
@@ -88,7 +88,7 @@ Bagi rombongan dinas instansi yang menghendaki privasi satu mobil penuh tanpa pe
 
 Lincah Travel menerapkan transparansi tarif tanpa ada pungutan biaya tersembunyi di tengah perjalanan:
 
-- **Tiket Reguler Per Kursi:** **Rp 200.000** per penumpang. Tarif ini sudah mencakup penjemputan alamat di Palembang, pengantaran alamat di Jambi, fasilitas AC, dan bagasi bawaan standar.
+- **Tiket Reguler Per Kursi:** **Rp 250.000** per penumpang. Tarif ini sudah mencakup penjemputan alamat di Palembang, pengantaran alamat di Jambi, fasilitas AC, dan bagasi bawaan standar.
 - **Layanan Carter Drop Privat:** Mulai Rp 1.200.000 per mobil untuk Anda yang menginginkan fleksibilitas penuh tanpa penumpang lain, bebas menentukan jam berangkat, dan rute langsung.
 - **Titipan Paket Kilat Same Day:** Tersedia pengiriman dokumen penting dan sampel niaga yang tiba di hari yang sama melalui layanan [kirim paket kilat Palembang Jambi](/blog/kirim-paket-kilat-palembang-jambi).
 

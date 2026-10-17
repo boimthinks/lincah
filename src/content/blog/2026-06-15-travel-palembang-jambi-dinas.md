@@ -24,7 +24,7 @@ Tidak semua rute travel punya karakteristik yang sama. Rute Palembang-Jambi puny
 
 Menurut data operasional kami, rata-rata penumpang rute ini adalah pekerja dinas yang membutuhkan ketepatan waktu dan kenyamanan selama perjalanan. Mereka sering membawa laptop, dokumen penting, atau barang-barang presentasi yang perlu dijaga dengan baik.
 
-Harga tiket untuk rute Palembang-Jambi adalah Rp 180.000 per penumpang, dengan jadwal keberangkatan pukul 08:00, 14:00, dan 20:00 WIB. Untuk perjalanan dinas, jadwal pagi pukul 08:00 biasanya menjadi pilihan favorit karena memungkinkan Anda tiba di Jambi sebelum sore hari.
+Harga tiket untuk rute Palembang-Jambi adalah Rp 250.000 per penumpang, dengan jadwal keberangkatan pukul 08:00, 14:00, dan 20:00 WIB. Untuk perjalanan dinas, jadwal pagi pukul 08:00 biasanya menjadi pilihan favorit karena memungkinkan Anda tiba di Jambi sebelum sore hari.
 
 ## Armada yang Cocok untuk Perjalanan Dinas
 
@@ -68,7 +68,7 @@ Banyak pekerja dinas bertanya, "Mengapa tidak naik pesawat saja?" Pertanyaan yan
 |---|---|---|
 | Penjemputan | Langsung dari alamat | Harus ke bandara |
 | Fleksibilitas | Bisa berangkat kapan saja | Terjadwal tetap |
-| Biaya | Rp 180K flat | Bervariasi |
+| Biaya | Rp 250K flat | Bervariasi |
 | Barang Bawaan | Lebih fleksibel | Terbatas |
 | Lokasi Drop-off | Langsung ke tujuan | Harus lanjut ke kota |
 
@@ -86,7 +86,7 @@ Ya, kami melayani keberangkatan pukul 20:00 WIB. Perjalanan malam ini cocok bagi
 
 ### Berapa harga tiket travel Palembang-Jambi?
 
-Tarif flat kami adalah Rp 180.000 per penumpang. Harga sudah termasuk layanan door-to-door.
+Tarif flat kami adalah Rp 250.000 per penumpang. Harga sudah termasuk layanan door-to-door.
 
 ### Apakah bisa memilih armada Innova Reborn?
 
