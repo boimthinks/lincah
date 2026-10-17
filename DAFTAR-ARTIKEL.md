@@ -66,6 +66,7 @@ Tabel terbit (baris baru ditambahkan):
 | 30 | `2026-10-05-travel-palembang-sekernan.md` | Travel Palembang Sekernan Jadwal Harga Tiket dan Rute via Jambi 2026 | Travel Palembang Sekernan door-to-door Rp230.000 via Jambi. Jadwal 08/14/20 WIB, 7-8 jam ke Sengeti Muaro Jambi. Booking WA 0813-6923-1893. |
 | 31 | `2026-10-07-rute-lintas-tengah-sumsel-palembang-ke-pagaralam.md` | Rute Lintas Tengah Sumsel Palembang ke Pagaralam Jalur dan Tarif 2026 | Rute travel Palembang Pagaralam via Lintas Tengah Sumsel lewat Prabumulih Lahat. Tarif Rp250.000 door-to-door, armada prima. Pesan via WA 0813-6923-1893. |
 | 32 | `2026-10-16-kirim-paket-palembang-martapura.md` | Kirim Paket Palembang Martapura Same Day 5 Jam Sampai | Kirim paket kilat Palembang Martapura sampai hari yang sama via travel door to door. Dokumen, pempek, sparepart aman. Hubungi WA 081369231893. |
+| 33 | `2026-10-17-kirim-paket-palembang-lubuklinggau.md` | Kirim Paket Kilat Palembang Lubuklinggau Tiba Hari Ini | Kirim paket kilat Palembang Lubuklinggau sampai di hari yang sama. Cocok untuk dokumen, pempek, dan sparepart darurat. Hubungi WhatsApp 0813-6923-1893 sekarang. |
 
 ---
 

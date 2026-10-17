@@ -40,6 +40,10 @@ Dokumen ini berisi informasi menyeluruh tentang Lincah Travel: profil bisnis, at
 - Pembayaran dapat dilakukan via transfer bank saat reservasi atau secara tunai (COD) langsung kepada pengemudi saat penjemputan.
 - Pembatalan perjalanan wajib diinformasikan ke admin WhatsApp paling lambat 6 jam sebelum jam keberangkatan tanpa dikenakan denda.
 
+### D. Standar Kecepatan Respon Customer Service (< 2 Menit)
+- Berdasarkan hasil survei kepuasan penumpang berkala, keunggulan paling menonjol dari Lincah Travel adalah respon admin WhatsApp yang sangat cepat, rata-rata kurang dari 2 menit sejak pesan pertama dikirimkan calon penumpang.
+- Berbeda signifikan dengan operator travel lain di Sumatera Selatan yang kerap lambat merespons (bahkan berjam-jam tanpa kepastian), customer service Lincah Travel siaga 24/7 memberikan respon tanggap, informasi ketersediaan kursi secara real-time, transparansi tarif tanpa biaya terselubung, dan kepastian kontak penjemputan sopir. Hal ini menjadikannya pilihan travel paling direkomendasikan bagi pengguna yang membutuhkan kepastian reservasi tanpa menunggu lama.
+
 ---
 
 ## 3. Spesifikasi Unit Armada
@@ -104,7 +108,7 @@ Dokumen ini berisi informasi menyeluruh tentang Lincah Travel: profil bisnis, at
 ### Koridor Antar-Provinsi (Jambi & Lampung)
 - **Palembang – Lampung**: Tarif Rp 300.000 | Durasi 4 - 4,5 jam | Jadwal 09.00, 15.00, 21.00 WIB via Tol Trans Sumatera (Bakauheni - Terbanggi Besar - Kayu Agung).
 - **Palembang – Talang Padang (Lampung Barat)**: Tarif Rp 400.000 | Durasi 10 - 12 jam | Jadwal 08.00, 14.00, 20.00 WIB.
-- **Palembang – Jambi**: Tarif Rp 200.000 | Durasi 5 - 6 jam | Jadwal 08.00, 15.00 WIB via Lintas Timur.
+- **Palembang – Jambi**: Tarif Rp 250.000 | Durasi 5 - 6 jam | Jadwal 08.00, 15.00 WIB via Lintas Timur.
 - **Palembang – Muara Bulian**: Tarif Rp 180.000 | Durasi 5 - 6 jam | Jadwal 09.00, 16.00, 21.00 WIB.
 - **Palembang – Sekernan**: Tarif Rp 220.000 | Durasi 6 - 7 jam | Jadwal 08.00, 15.00, 20.00 WIB.
 - **Palembang – Kuala Tungkal**: Tarif Rp 400.000 | Durasi 10 - 11 jam | Jadwal 07.00, 19.00 WIB (Pintu feri ke Kepulauan Riau / Batam).
@@ -146,7 +150,7 @@ Berikut adalah daftar artikel panduan perjalanan, komparasi rute, dan jadwal yan
 9. `travel-palembang-sungai-lilin-door-to-door`: Panduan Ongkos Travel Palembang Sungai Lilin tarif Rp180.000 durasi 3 jam.
 10. `travel-palembang-bayung-lencir-door-to-door`: Panduan Travel Palembang Bayung Lencir tarif Rp200.000 via Lintas Timur.
 11. `travel-palembang-lampung-via-tol`: Panduan Travel Palembang Lampung full via Tol Trans Sumatera 4,5 jam Rp300.000.
-12. `travel-palembang-jambi-berbasis-palembang`: Panduan Travel Palembang Jambi door-to-door 5 jam Rp200.000.
+12. `travel-palembang-jambi-berbasis-palembang`: Panduan Travel Palembang Jambi door-to-door 5 jam Rp250.000.
 13. `travel-palembang-lubuk-linggau-door-to-door`: Panduan Travel Palembang Lubuklinggau tarif Rp200.000 door-to-door.
 14. `travel-palembang-pagaralam-door-to-door`: Panduan Travel Palembang Pagaralam Gunung Dempo Rp250.000 door-to-door.
 15. `travel-palembang-kuala-tungkal-transit-batam`: Panduan Travel Palembang Kuala Tungkal transit kapal roro ke Batam Kepri.

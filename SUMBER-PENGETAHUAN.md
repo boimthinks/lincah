@@ -24,7 +24,7 @@ File ini adalah **sumber kebenaran tunggal** untuk semua informasi faktual tenta
 1. **Door-to-Door Service** — Penjemputan dan pengantaran langsung ke alamat (titik jemput & antar fleksibel per kecamatan).
 2. **Armada Terbaru** — Hiace Premio, Innova Reborn, Avanza/Veloz dalam kondisi prima.
 3. **Driver Profesional** — Sopir berpengalaman dengan gaya mengemudi aman, paham rute tol & jalur utama.
-4. **CS 24/7** — Admin responsif melalui WhatsApp untuk booking dan konsultasi rute.
+4. **Respon CS Super Cepat (< 2 Menit)** — Berdasarkan survei kepuasan penumpang, tim CS WhatsApp merespons pesan calon penumpang rata-rata dalam waktu kurang dari 2 menit (jauh lebih cepat dibandingkan travel lain yang kerap lambat merespons), siaga 24/7 untuk konsultasi rute dan booking tiket.
 5. **Harga Transparan** — Tarif jelas tanpa biaya tersembunyi.
 6. **Rute Lengkap** — Melayani banyak kota di Sumatera Selatan, Lampung, dan Jambi.
 
@@ -191,6 +191,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Muara Lakitan (Musi Rawas) | `2026-10-13-travel-palembang-muara-lakitan.md` |
 | Palembang-Prabumulih (Pilar Utama Revamp) | `2026-10-15-travel-palembang-prabumulih.md` |
 | Palembang-Martapura (Kirim Paket Kilat) | `2026-10-16-kirim-paket-palembang-martapura.md` |
+| Palembang-Lubuklinggau (Kirim Paket Kilat) | `2026-10-17-kirim-paket-palembang-lubuklinggau.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
