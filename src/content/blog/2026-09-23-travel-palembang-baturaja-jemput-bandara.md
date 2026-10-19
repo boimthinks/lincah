@@ -12,6 +12,19 @@ kesimpulan: "Kalau pesan travel Palembang-Baturaja jemput bandara, siapkan DP Rp
 tags: ["travel palembang baturaja", "travel palembang baturaja jemput bandara", "ongkos travel palembang baturaja", "harga travel palembang baturaja"]
 to: baturaja
 from: palembang
+faq:
+  - q: "Berapa ongkos travel Palembang Baturaja kalau dijemput di rumah?"
+    a: "Rp 200.000 per kursi untuk penjemputan alamat dalam kota Palembang dengan layanan door-to-door langsung sampai Baturaja tanpa wajib DP."
+  - q: "Berapa tarif travel Palembang Baturaja jika dijemput di Bandara SMB II?"
+    a: "Tarif jemput bandara adalah Rp 250.000 per kursi (ada selisih operasional Rp 50.000 untuk biaya masuk bandara, parkir, dan waktu tunggu sopir)."
+  - q: "Mengapa penjemputan di Bandara SMB II mewajibkan uang muka (DP) Rp 50.000?"
+    a: "DP diwajibkan sebagai jaminan kepastian jadwal dan komitmen kedatangan, agar sopir yang sudah stand-by di bandara tidak menunggu sia-sia."
+  - q: "Apakah DP tiket jemput bandara bisa dialihkan jika penerbangan delay?"
+    a: "Bisa, asalkan Anda mengabari admin minimal 3 jam sebelum estimasi landing pesawat agar jadwal penjemputan driver dapat disesuaikan."
+  - q: "Bagaimana cara sopir Lincah Travel mengenali penumpang di Bandara SMB II?"
+    a: "Penumpang cukup mengirimkan kode penerbangan (flight number) dan mengaktifkan handphone setelah mendarat. Sopir kami akan menunggu di lobi pintu kedatangan."
+  - q: "Armada apa yang melayani rute jemput bandara ke Baturaja?"
+    a: "Unit yang beroperasi adalah Toyota Hiace Premio, Toyota Innova Reborn, dan Toyota Avanza/Veloz ber-AC dingin dengan bagasi luas untuk koper."
 ---
 
 Pernah dengar cerita sopir travel yang sudah ngangkat penumpang di bandara, tapi pas sampai malah dapat kabar penumpangnya kabur naik GoCar? Nah, kisah seperti ini bukan lelucon bagi kami di Lincah Travel. Ini kejadian nyata yang tiap minggu hampir selalu terjadi di rute Palembang-Baturaja. Dan dari situlah lahir kebijakan ongkos jemput bandara plus DP wajib yang sering ditanyakan calon penumpang. Untuk gambaran lengkap jadwal dan rute, silakan cek halaman utama travel palembang baturaja kami.
@@ -81,23 +94,6 @@ Sekalian kirim kode penerbangan (misal JT-xxx atau GA-xxx). Admin kami bisa laca
 
 ### 4. Titik Jemput Jelas
 Bandara SMB II punya dua area: kedatangan domestik dan internasional. Sebutkan maskapai Anda agar sopir menunggu di pintu yang benar.
-
-## Pertanyaan yang Sering Ditanyakan
-
-### Berapa ongkos travel Palembang-Baturaja kalau dijemput di rumah?
-Rp200.000 per kursi, sudah door-to-door dalam area kota Palembang. Tidak wajib DP.
-
-### Kenapa jemput bandara lebih mahal Rp50.000?
-Karena driver harus masuk area bandara, parkir, dan menunggu kedatangan yang bisa makan waktu 30–45 menit. Itu biaya operasional wajar yang kami pisahkan dari tarif kota.
-
-### Apakah DP Rp50.000 bisa dikembalikan kalau batal?
-DP adalah komitmen jadwal. Jika Anda berhalangan dan kabari admin minimal 3 jam sebelum perkiraan landing, DP bisa dialihkan ke jadwal berikutnya. Tapi kalau tiba-tiba hilang kontak seperti kisah di atas, DP kami gunakan untuk menutupi waktu sopir yang sudah stand-by.
-
-### Boleh lunas penuh Rp250.000 dari awal?
-Boleh banget. Malah kami sarankan untuk rute bandara supaya tidak ada urusan transfer saat koper masih di tangan. Jika Anda ingin membandingkan dulu dengan opsi penjemputan lain, halaman travel palembang baturaja kami sudah merangkum semua pilihan armada.
-
-### Armada apa yang dipakai untuk rute ini?
-Sama seperti rute reguler: Toyota Hiace Premio, Innova Reborn, atau Avanza/Veloz tergantung ketersediaan dan jumlah penumpang.
 
 ## Jangan Biarkan Sopir Menunggu di Bandara
 

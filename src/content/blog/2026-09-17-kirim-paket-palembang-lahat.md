@@ -12,6 +12,19 @@ kesimpulan: "Barang ke Lahat tidak harus menunggu besok. Hubungi Lincah Travel v
 tags: ["kirim paket palembang lahat", "jasa pengiriman palembang lahat", "travel palembang lahat"]
 from: palembang
 to: lahat
+faq:
+  - q: "Berapa lama paket dari Palembang sampai ke Lahat via travel?"
+    a: "Paket tiba dalam 5 hingga 6 jam di hari yang sama (same day delivery). Barang yang berangkat trip pagi (08.00 WIB) sudah tiba di Lahat sekitar pukul 13.00-14.00 WIB."
+  - q: "Barang apa saja yang bisa dikirimkan ke Lahat via travel?"
+    a: "Dokumen lelang/kantor, akta notaris, makanan basah (pempek beku vakum), suku cadang darurat mesin/kendaraan, dan perlengkapan harian."
+  - q: "Apakah paket dijemput langsung ke alamat pengirim di Palembang?"
+    a: "Ya, sopir Lincah Travel dapat menjemput paket langsung di rumah atau kantor pengirim di Palembang dan mengantarkannya ke depan pintu penerima di Lahat."
+  - q: "Berapa kisaran ongkos kirim paket Palembang Lahat via travel?"
+    a: "Tarif titip paket bervariasi mulai dari puluhan ribu rupiah untuk amplop dokumen atau kardus kecil, tergantung ukuran, berat barang, dan jangkauan alamat."
+  - q: "Bagaimana cara memastikan kiriman pempek tetap segar sampai di Lahat?"
+    a: "Pastikan pempek divakum kedap udara atau dibekukan. Paket makanan ditempatkan di kabin penumpang ber-AC dingin, bukan di bagasi panas atau tertumpuk barang berat."
+  - q: "Bagaimana prosedur pengiriman paket Palembang Lahat?"
+    a: "Cukup hubungi WhatsApp admin di 0813-6923-1893, kirimkan foto dan ukuran paket, serta konfirmasi alamat penjemputan dan nomor HP penerima di Lahat."
 ---
 
 Barang dari Palembang ke Lahat bergerak setiap hari. Ada berkas lelang yang tidak boleh telat, suku cadang mesin tambang yang butuh segera dipasang, sampai pempek vakum untuk keluarga di kota teh. Jarak 220 kilometer via Lintas Sumatera biasanya ditempuh 5 sampai 6 jam, cukup cepat untuk pengiriman di hari yang sama. Kalau Anda juga butuh ikut trip penumpang, cek dulu info lengkap [travel Palembang Lahat](/blog/travel-palembang-lahat-door-to-door) sebelum menentukan jadwal.

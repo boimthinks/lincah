@@ -10,6 +10,19 @@ kategori: "tips"
 pengantar: "Ketika dokumen tender harus tiba di kantor pemda dalam beberapa jam atau kuliner khas Palembang harus sampai segar di meja keluarga, angkutan travel door-to-door menjadi solusi logistik yang lebih cepat dibanding ekspedisi konvensional."
 kesimpulan: "Jangan lagi khawatir paket terlambat atau rusak di perjalanan. Gunakan layanan pengiriman travel door-to-door untuk muatan penting dengan jaminan waktu dan keamanan. Hubungi Lincah Travel via WhatsApp 0813-6923-1893 untuk konsultasi dan booking slot bagasi."
 tags: ["pengiriman paket", "travel palembang muaradua", "door-to-door", "logistik", "oksel"]
+faq:
+  - q: "Berapa lama waktu pengiriman paket dari Palembang ke Muaradua via travel?"
+    a: "Paket tiba dalam 7 hingga 8 jam di hari yang sama (same-day delivery). Jika dititipkan pada kloter pagi (08.00-10.00 WIB), paket sampai di Muaradua pada sore hari."
+  - q: "Jenis barang apa saja yang bisa dikirimkan ke Muaradua?"
+    a: "Kami melayani dokumen instansi pemerintah, makanan beku khas Palembang seperti pempek vakum, sparepart kendaraan/mesin, obat-obatan, hingga barang dagangan."
+  - q: "Apakah paket dijemput di rumah pengirim dan diantar ke alamat penerima?"
+    a: "Ya, kami melayani sistem door-to-door di mana paket dijemput langsung ke alamat pengirim di Palembang dan diantarkan langsung ke alamat penerima di Muaradua OKU Selatan."
+  - q: "Bagaimana cara pengemasan makanan basah seperti pempek agar tidak rusak?"
+    a: "Makanan basah wajib dikemas vakum kedap udara dan dibekukan terlebih dahulu. Di armada, paket makanan ditempatkan di kompartemen kabin ber-AC dingin."
+  - q: "Bagaimana cara menghitung tarif kirim paket via travel?"
+    a: "Tarif dihitung berdasarkan berat aktual atau berat volumetrik (P x L x T / 6.000) serta jenis layanan penjemputan, dengan harga hemat mulai puluhan ribu rupiah."
+  - q: "Bagaimana cara mengirim paket Palembang ke Muaradua?"
+    a: "Hubungi WhatsApp Lincah Travel di 0813-6923-1893 dengan mengirimkan detail ukuran paket, alamat penjemputan, dan nomor kontak penerima di Muaradua."
 ---
 
 Perjalanan dari Palembang ke Muaradua bukan hanya tentang penumpang yang berpindah tempat. Di balik itu, ada puluhan kilogram paket yang setiap hari menempuh jarak 290 kilometer melewati kaki Bukit Barisan. Dokumen tender pemerintah, surat penting instansi, bahan baku usaha mikro, hingga pempek dan kue basah yang harus tiba segar di rumah pelanggan.

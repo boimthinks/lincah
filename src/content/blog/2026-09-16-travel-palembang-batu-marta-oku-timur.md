@@ -12,6 +12,19 @@ kesimpulan: "Perjalanan Palembang-Batumarta jadi lebih ringkas dengan layanan do
 tags: ["travel palembang batu marta", "travel oku timur", "travel door to door"]
 from: "palembang"
 to: "batu marta"
+faq:
+  - q: "Berapa harga tiket travel Palembang ke Batu Marta OKU Timur?"
+    a: "Tarif resmi adalah Rp 250.000 per kursi untuk sekali jalan door-to-door dengan batas penurunan penumpang di Batumarta Unit 2."
+  - q: "Mengapa pengantaran travel dibatasi hanya sampai Batumarta Unit 2?"
+    a: "Akses jalan dari Unit 2 menuju unit-unit bagian dalam (Unit 6 dan sekitarnya) mengalami kerusakan dan lubang jalan yang parah, sehingga demi keamanan armada dan kenyamanan penumpang penurunan dipusatkan di Unit 2."
+  - q: "Berapa lama durasi perjalanan travel Palembang ke Batu Marta?"
+    a: "Waktu tempuh sekitar 5 hingga 6 jam menempuh jarak kurang lebih 230 km melalui Tol Palindra, Tol Indraprabu, Prabumulih, dan Baturaja."
+  - q: "Jam berapa saja jadwal travel Palembang ke Batu Marta?"
+    a: "Tersedia tiga jadwal keberangkatan setiap hari: Pagi pukul 08.00 WIB, Siang pukul 15.00 WIB, dan Malam pukul 20.00 WIB."
+  - q: "Apakah travel melayani penjemputan dari rumah sakit di Palembang?"
+    a: "Ya, sopir kami melayani penjemputan dari rumah sakit besar di Palembang seperti RSUP Dr. Mohammad Hoesin dan RS Hermina bagi pasien atau keluarga yang kontrol medis."
+  - q: "Bagaimana cara booking tiket travel Palembang Batu Marta?"
+    a: "Pemesanan via WhatsApp ke 0813-6923-1893 dengan mengirimkan nama penumpang, tanggal perjalanan, jadwal, dan alamat penjemputan di Palembang."
 ---
 
 Pagi itu di lobi RSUP Dr. Mohammad Hoesin, sebuah keluarga asal Batumarta menunggu jemputan pulang ke OKU Timur. Anak mereka baru selesai kontrol rutin. Mereka lega tidak perlu ganti angkot atau menunggu bus malam di terminal.

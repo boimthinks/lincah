@@ -12,6 +12,19 @@ kesimpulan: "Siap bepergian ke Lubuklinggau? Jangan biarkan perjalanan jauh memb
 tags: ["travel palembang lubuklinggau", "travel door-to-door", "harga travel lubuklinggau"]
 to: lubuklinggau
 from: palembang
+faq:
+  - q: "Berapa harga tiket travel Palembang Lubuklinggau?"
+    a: "Tarif resmi adalah Rp 200.000 per orang untuk sekali jalan dengan layanan door-to-door, sudah termasuk tol tanpa biaya tambahan tersembunyi."
+  - q: "Berapa lama waktu tempuh perjalanan Palembang ke Lubuklinggau?"
+    a: "Waktu tempuh sekitar 7 hingga 8 jam menempuh jarak sekitar 320 km via Jalan Lintas Tengah Sumatera."
+  - q: "Jam berapa saja jadwal keberangkatan travel Palembang ke Lubuklinggau?"
+    a: "Keberangkatan tersedia tiga kali sehari: Pagi pukul 09.00 WIB, Sore pukul 16.00 WIB, dan Malam pukul 20.00 WIB."
+  - q: "Apa keunggulan sistem jemput door-to-door untuk rute Lubuklinggau?"
+    a: "Sopir menjemput langsung di alamat rumah, kantor, atau hotel Anda di Palembang dan mengantar tepat ke depan pintu tujuan di Lubuklinggau tanpa perlu repot ke terminal."
+  - q: "Apakah bisa turun di tengah perjalanan seperti Muara Enim atau Lahat?"
+    a: "Bisa, asalkan rute penurunan dikomunikasikan sejak awal saat reservasi kepada admin WhatsApp."
+  - q: "Bagaimana cara pesan tiket travel Palembang Lubuklinggau?"
+    a: "Pemesanan melalui WhatsApp di nomor 0813-6923-1893 dengan mengirimkan nama, rute, tanggal perjalanan, jadwal yang dipilih, serta alamat penjemputan dan pengantaran."
 ---
 
 Pernahkah Anda membayangkan perjalanan darat 7-8 jam yang justru terasa menyenangkan? Bukan karena pemandangannya saja — meskipun jalur Lintas Sumatera menuju Lubuklinggau memang menawarkan panorama perbukitan yang sulit dilupakan. Tapi lebih dari itu, perjalanan ini terasa nyaman karena Anda tidak perlu menyetir sendiri, tidak perlu khawatir macet di tikungan tajam, dan bisa rebahan santai di kursi sementara driver profesional membawa Anda ke tujuan.
@@ -107,28 +120,6 @@ Kursi untuk rute Lubuklinggau sering habis, terutama untuk jadwal pagi dan akhir
 ### Atur Waktu Istirahat
 
 Driver kami akan berhenti di rest area untuk istirahat setiap 2-3 jam. Manfaatkan waktu ini untuk meregangkan kaki, ke toilet, atau membeli makanan ringan. Perjalanan jauh juga perlu jeda biar tubuh tetap segar.
-
-## Pertanyaan yang Sering Ditanyakan
-
-### Berapa lama perjalanan Palembang-Lubuklinggau?
-
-Rata-rata 7-8 jam dengan jarak 320 km via Lintas Sumatera. Waktu tempuh tergantung kondisi lalu lintas dan cuaca.
-
-### Apa beda travel door-to-door dengan travel biasa?
-
-Travel door-to-door menjemput dan mengantar langsung ke alamat Anda. Tidak perlu ke terminal atau pool. Cukup tunggu di rumah atau kantor, driver akan datang menjemput.
-
-### Apakah ada diskon untuk rombongan?
-
-Hubungi admin via WhatsApp untuk informasi harga khusus rombongan. Biasanya kami memberikan penawaran khusus untuk pemesanan 5 kursi atau lebih.
-
-### Bagaimana kalau barang bawaan banyak?
-
-Armada Hiace Premio memiliki bagasi luas yang cukup untuk koper besar. Innova Reborn dan Avanza juga punya bagasi standar yang memadai.
-
-### Apakah bisa turun di tengah perjalanan?
-
-Bisa, asalkan sudah dikomunikasikan saat booking. Misalnya Anda ingin turun di Muara Enim atau Lahat di tengah jalan — tinggal sebutkan saja.
 
 ## Solusi Tepat Perjalanan ke Lubuklinggau
 

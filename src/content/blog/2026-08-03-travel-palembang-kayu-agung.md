@@ -12,6 +12,19 @@ kesimpulan: "Siap mengeksplor kayu agung? Hubungi Lincah Travel via WhatsApp di 
 tags: ["travel palembang kayu agung", "travel door-to-door", "wisata kayu agung", "dinesti land", "danau teloko"]
 from: palembang
 to: kayu agung
+faq:
+  - q: "Berapa harga tiket travel Palembang Kayu Agung?"
+    a: "Tarif resmi adalah Rp 100.000 per orang untuk sekali jalan door-to-door, sudah termasuk tarif jalan tol Trans-Sumatera tanpa biaya tersembunyi."
+  - q: "Berapa lama waktu tempuh travel Palembang ke Kayu Agung?"
+    a: "Waktu tempuh sekitar 1,5 jam menempuh jarak kurang lebih 65 km via Tol Kayu Agung-Palembang-Betung (Kapalbetung)."
+  - q: "Jam berapa saja jadwal keberangkatan travel Palembang Kayu Agung?"
+    a: "Keberangkatan tersedia fleksibel setiap jam mulai pukul 07.00 hingga 18.00 WIB setiap hari."
+  - q: "Apakah travel mengantar langsung ke tempat wisata seperti Dinesti Land?"
+    a: "Ya, sopir kami melayani antar-jemput langsung ke rumah, perkantoran, perumahan, maupun destinasi wisata seperti Dinesti Land dan area sekitar Kota Kayu Agung."
+  - q: "Apa saja armada yang beroperasi untuk rute Palembang Kayu Agung?"
+    a: "Kami menggunakan unit Toyota Avanza/Veloz, Toyota Innova Reborn, dan Toyota Hiace Premio berpendingin udara (AC) double blower."
+  - q: "Bagaimana cara booking travel Palembang Kayu Agung?"
+    a: "Pemesanan praktis via WhatsApp ke 0813-6923-1893 dengan mengirimkan nama, jumlah penumpang, jam keberangkatan, dan alamat penjemputan di Palembang."
 ---
 
 Perjalanan dari Palembang ke Kayu Agung sering terasa seperti lompatan singkat melintasi batas kota. Dalam waktu singkat, Anda berpindah dari hiruk pikuk metropolitan ke ketenangan sebuah kota yang dikelilingi perkebunan dan hutan, dekat sungai yang mengalir tenang. Jaraknya memang hanya 65 km, tapi Kayu Agung punya daya tarik tersendiri yang membuat perjalanan ini terasa berbeda.

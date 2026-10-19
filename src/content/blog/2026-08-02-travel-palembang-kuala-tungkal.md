@@ -12,6 +12,19 @@ kesimpulan: "Memilih Lincah Travel untuk rute Palembang-Kuala Tungkal berarti me
 tags: ["travel palembang kuala tungkal", "travel lintas provinsi", "harga travel palembang kuala tungkal", "jadwal travel palembang kuala tungkal", "lincah travel"]
 from: palembang
 to: kuala tungkal
+faq:
+  - q: "Berapa harga tiket travel Palembang Kuala Tungkal?"
+    a: "Tarif resmi adalah Rp 400.000 per orang untuk sekali jalan dengan layanan door-to-door lintas provinsi Sumatera Selatan ke Jambi."
+  - q: "Berapa jam perjalanan dari Palembang ke Kuala Tungkal?"
+    a: "Jarak tempuh sekitar 402 km ditempuh dalam waktu 10 hingga 11 jam melintasi koridor Betung, Sungai Lilin, Bayung Lencir, Tempino, dan Simpang Tuan."
+  - q: "Kapan jadwal keberangkatan travel Palembang Kuala Tungkal?"
+    a: "Keberangkatan tersedia dua kali setiap hari: Pagi pukul 07.00 WIB dan Malam pukul 19.00 WIB."
+  - q: "Apakah travel bisa mengantar langsung ke Pelabuhan Roro Kuala Tungkal?"
+    a: "Ya, sopir kami dapat mengantarkan penumpang langsung ke Pelabuhan Roro Kuala Tungkal bagi yang hendak menyeberang kapal roro ke Batam atau Kepulauan Riau."
+  - q: "Armada apa yang beroperasi untuk rute Palembang Kuala Tungkal?"
+    a: "Kami menggunakan Toyota Hiace Premio dan Toyota Innova Reborn dengan fasilitas kursi reclining empuk, AC dingin, dan colokan charger USB."
+  - q: "Bagaimana cara booking tiket travel Palembang ke Kuala Tungkal?"
+    a: "Pemesanan via WhatsApp di nomor 0813-6923-1893 dengan mengirimkan detail tanggal, jadwal keberangkatan, dan alamat penjemputan di Palembang."
 ---
 
 Bagi Anda yang sering bepergian antara Palembang dan Kuala Tungkal, Jambi, mencari jasa travel yang dapat diandalkan adalah sebuah keharusan. Baik untuk urusan bisnis, dinas, atau mengunjungi keluarga, Lincah Travel memahami betul kebutuhan Anda akan transportasi yang tidak hanya cepat, tetapi juga mengutamakan keamanan dan kenyamanan.

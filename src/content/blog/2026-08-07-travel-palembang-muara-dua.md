@@ -12,6 +12,19 @@ kesimpulan: "Siap bepergian ke Muara Dua? Jangan biarkan perjalanan jauh membuat
 tags: ["travel palembang muara dua", "travel door-to-door", "harga travel oku selatan"]
 to: muara-dua
 from: palembang
+faq:
+  - q: "Berapa harga tiket travel Palembang Muara Dua?"
+    a: "Tarif resmi adalah Rp 220.000 per orang untuk sekali jalan dengan layanan door-to-door langsung ke alamat tujuan tanpa biaya tambahan tersembunyi."
+  - q: "Berapa lama waktu tempuh perjalanan Palembang ke Muara Dua?"
+    a: "Rata-rata perjalanan memakan waktu 7 hingga 8 jam menempuh jarak sekitar 290 km melintasi perbukitan kaki Bukit Barisan OKU Selatan."
+  - q: "Jam berapa saja jadwal travel Palembang ke Muara Dua?"
+    a: "Tersedia tiga jadwal keberangkatan harian: Pagi pukul 09.00 WIB, Siang pukul 15.00 WIB, dan Malam pukul 21.00 WIB."
+  - q: "Apakah Lincah Travel melayani jemput dan antar alamat door-to-door?"
+    a: "Ya, sopir kami menjemput langsung di alamat rumah di Palembang dan mengantar sampai ke pemukiman di Muara Dua maupun kecamatan sekitarnya di OKU Selatan."
+  - q: "Armada apa yang digunakan untuk rute medan perbukitan Muara Dua?"
+    a: "Armada yang digunakan meliputi Toyota Innova Reborn, Hiace Premio, dan Avanza/Veloz yang selalu dicek kondisi mesin, rem, dan suspensinya."
+  - q: "Bagaimana cara pesan tiket travel Palembang Muara Dua?"
+    a: "Pemesanan via WhatsApp ke 0813-6923-1893 dengan mengirimkan nama, tanggal perjalanan, jadwal yang dipilih, serta alamat lengkap penjemputan dan pengantaran."
 ---
 
 Perjalanan dari Palembang ke Muara Dua bukan sekadar perpindahan dari titik A ke titik B. Bagi Anda yang terbiasa dengan rute datar seperti ke Prabumulih atau Kayu Agung, perjalanan ke Muara Dua akan terasa berbeda. Anda akan diajak menembus kaki Bukit Barisan, melewati perkebunan kopi yang luas, hingga hamparan sawah hijau sebelum akhirnya tiba di ibukota Kabupaten Ogan Komering Ulu (OKU) Selatan ini.
@@ -72,13 +85,3 @@ Dari pengalaman lapangan kami, berikut tips untuk perjalanan Palembang-Muara Dua
 Perjalanan jauh memang menantang, namun dengan armada yang tepat dan driver yang berpengalaman, Anda bisa menikmatinya dengan santai. Lincah Travel berkomitmen memberikan kenyamanan di setiap kilometer perjalanan Anda.
 
 Siap bepergian ke Muara Dua? Jangan biarkan perjalanan jauh membuat Anda lelah. Hubungi Lincah Travel via WhatsApp di **0813-6923-1893** untuk booking kursi dan konsultasi jadwal keberangkatan yang paling pas.
-
----
-
-### FAQ
-* **Berapa lama waktu tempuh Palembang-Muara Dua?**
-  Rata-rata perjalanan memakan waktu 7-8 jam dengan jarak tempuh 290 km, tergantung kondisi lalu lintas dan cuaca.
-* **Apakah Lincah Travel melayani jemput di alamat?**
-  Ya, kami menerapkan sistem door-to-door di Palembang dan pengantaran ke lokasi tujuan di OKU Selatan.
-* **Di mana lokasi terminal di Muara Dua?**
-  Kami beroperasi melalui Terminal Bus Muara Dua yang terletak di Jl. Lintas Sumatera, Muara Dua, OKU Selatan.

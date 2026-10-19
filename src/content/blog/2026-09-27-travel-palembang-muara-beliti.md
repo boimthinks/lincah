@@ -12,6 +12,19 @@ kesimpulan: "Perjalanan ke Muara Beliti sejauh 301 km memang tidak pendek, tapi 
 tags: ["travel palembang muara beliti", "travel door-to-door", "harga travel muara beliti"]
 from: palembang
 to: muara beliti
+faq:
+  - q: "Berapa harga tiket travel Palembang Muara Beliti?"
+    a: "Tarif resmi adalah Rp 250.000 per orang untuk sekali jalan door-to-door, sudah mencakup layanan antar-jemput alamat dan biaya tol tanpa biaya tambahan."
+  - q: "Berapa lama durasi perjalanan travel dari Palembang ke Muara Beliti?"
+    a: "Waktu tempuh sekitar 6 jam 40 menit menempuh jarak kurang lebih 301 km melintasi Tol Indralaya-Prabumulih dan Jalan Lintas Tengah Sumatera."
+  - q: "Jam berapa saja jadwal keberangkatan travel Palembang Muara Beliti?"
+    a: "Tersedia tiga jadwal keberangkatan harian: Pagi pukul 08.00 WIB, Siang pukul 14.00 WIB, dan Malam pukul 20.00 WIB."
+  - q: "Apakah Lincah Travel melayani penjemputan dari Bandara SMB II ke Muara Beliti?"
+    a: "Ya, kami melayani penjemputan langsung dari Bandara Sultan Mahmud Badaruddin II (SMB II) Palembang menuju perkantoran Pemkab Musi Rawas maupun perumahan di Muara Beliti."
+  - q: "Apakah tersedia opsi carter privat satu mobil ke Muara Beliti?"
+    a: "Tersedia layanan carter drop-off privat menggunakan Toyota Innova Reborn atau Hiace Premio dengan jam berangkat bebas disesuaikan kebutuhan rombongan."
+  - q: "Bagaimana cara booking travel Palembang Muara Beliti?"
+    a: "Pemesanan via WhatsApp ke admin 0813-6923-1893 dengan mencantumkan nama, jadwal jalan, dan alamat penjemputan di Palembang serta alamat tujuan di Muara Beliti."
 ---
 
 Memilih travel Palembang Muara Beliti berarti memilih kenyamanan di atas kepraktisan semu kendaraan umum. Rute sepanjang 301 km ini menembus jantung Sumatera Selatan bagian barat, melewati perkebunan dan perbukitan sebelum akhirnya tiba di kawasan Agropolitan Centre Musi Rawas. Lincah Travel hadir dengan layanan antar-jemput alamat supaya Anda tidak perlu repot transit.

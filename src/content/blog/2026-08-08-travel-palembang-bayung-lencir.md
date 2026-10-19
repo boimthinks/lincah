@@ -12,6 +12,19 @@ kesimpulan: "Kalau jadwal keberangkatan Anda sudah pasti, sebaiknya kursi dipesa
 tags: ["travel palembang bayung lencir", "travel door to door", "musi banyuasin", "lintas timur", "travel sumatera selatan"]
 from: palembang
 to: bayung lencir
+faq:
+  - q: "Berapa harga tiket travel Palembang Bayung Lencir?"
+    a: "Tarif resmi Lincah Travel adalah Rp 200.000 per orang untuk sekali jalan door-to-door tanpa biaya tersembunyi."
+  - q: "Berapa jam perjalanan dari Palembang ke Bayung Lencir?"
+    a: "Perjalanan darat menempuh jarak sekitar 180 km via Jalur Lintas Timur Sumatera dengan durasi rata-rata 4 hingga 5 jam."
+  - q: "Jam berapa saja jadwal travel Palembang ke Bayung Lencir?"
+    a: "Tersedia tiga jadwal keberangkatan setiap hari: Pagi pukul 08.00 WIB, Siang pukul 14.00 WIB, dan Malam pukul 19.00 WIB."
+  - q: "Apakah travel melayani antar jemput sampai ke mess perkebunan di Bayung Lencir?"
+    a: "Ya, layanan door-to-door kami mencakup penjemputan di wilayah Palembang dan pengantaran langsung ke alamat rumah, kantor, penginapan, maupun mess perkebunan di Bayung Lencir."
+  - q: "Armada apa yang digunakan untuk rute Palembang Bayung Lencir?"
+    a: "Armada yang digunakan meliputi Toyota Avanza/Veloz, Toyota Innova Reborn, dan Toyota Hiace Premio ber-AC dingin dengan kabin bersih dan bagasi luas."
+  - q: "Bagaimana cara memesan tiket travel Palembang Bayung Lencir?"
+    a: "Pemesanan cukup via WhatsApp ke 0813-6923-1893 dengan mengirimkan nama, rute, tanggal, jam keberangkatan, serta alamat penjemputan dan tujuan."
 ---
 
 Pernahkah Anda menghitung berapa lama waktu terbuang hanya untuk menunggu kendaraan yang jadwalnya tidak jelas? Untuk Anda yang bekerja atau berkeluarga di arah Musi Banyuasin, pertanyaan itu bukan sekadar retorika. Keteraturan transportasi antar kota memang menentukan nyaman tidaknya hari kerja.

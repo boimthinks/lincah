@@ -12,6 +12,19 @@ kesimpulan: "Perjalanan transit via Betung memberi kelonggaran waktu bagi Anda y
 tags: ["travel palembang babat toman", "travel palembang bayung lencir", "simpang betung", "musi banyuasin", "travel door to door"]
 from: palembang
 to: babat toman
+faq:
+  - q: "Mengapa memilih transit di Simpang Betung untuk menuju Babat Toman?"
+    a: "Transit di Simpang Betung menjadi alternatif fleksibel saat kemalaman dan kehabisan travel langsung ke Babat Toman, singgah ke kerabat, atau mengambil barang dagangan."
+  - q: "Berapa jarak dan waktu tempuh dari Simpang Betung ke Babat Toman?"
+    a: "Jarak dari Simpang Betung ke Babat Toman sekitar 91 km dengan estimasi waktu tempuh kurang lebih 2 jam perjalanan darat via Kota Sekayu."
+  - q: "Bagaimana cara naik travel dari Palembang menuju Simpang Betung?"
+    a: "Anda dapat memesan tiket travel rute Palembang-Bayung Lencir atau Palembang-Sungai Lilin dan meminta driver menurunkan di persimpangan Simpang Betung."
+  - q: "Apakah mudah mencari kendaraan lanjutan dari Betung ke Babat Toman?"
+    a: "Ya, di kawasan Simpang Betung tersedia banyak angkutan lokal dan travel sambungan arah Sekayu dan Babat Toman yang aktif dari pagi hingga sore."
+  - q: "Berapa total durasi perjalanan Palembang ke Babat Toman via Betung?"
+    a: "Total perjalanan darat memakan waktu sekitar 4 hingga 4,5 jam, setara dengan 2-2,5 jam Palembang ke Betung dan sekitar 2 jam Betung ke Babat Toman."
+  - q: "Bagaimana cara pesan tiket travel arah Betung atau Babat Toman?"
+    a: "Pemesanan dapat langsung menghubungi WhatsApp Lincah Travel di 0813-6923-1893 untuk konfirmasi jadwal keberangkatan terdekat."
 ---
 
 Sebagian besar penumpang yang hendak bepergian ke arah Musi Banyuasin biasanya langsung memesan layanan jemput antar tanpa transit. Namun di lapangan, pola perjalanan warga lokal sering kali lebih fleksibel. Beberapa penumpang dari Palembang justru memilih turun di Simpang Betung sebelum melanjutkan perjalanan darat ke Babat Toman.

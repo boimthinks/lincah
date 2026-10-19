@@ -10,6 +10,21 @@ kategori: "rute"
 pengantar: "Banyak pekerja kantor, kontraktor, dan warga yang butuh pulang ke Prabumulih selepas jam kantor tanpa harus menyetir sendiri dalam kondisi lelah. Keberangkatan malam lewat tol menjadi pilihan paling praktis untuk tiba di rumah dengan aman dan segar keesokan harinya."
 kesimpulan: "Layanan travel Palembang Prabumulih malam dan siang siap mengantar jemput Anda sampai depan pintu rumah dengan aman. Hubungi admin Lincah Travel di WhatsApp 0813-6923-1893 untuk booking tiket rute favorit ini sekarang."
 tags: ["travel", "palembang", "prabumulih"]
+from: palembang
+to: prabumulih
+faq:
+  - q: "Berapa tarif tiket travel Palembang Prabumulih jadwal malam?"
+    a: "Tarif flat adalah Rp 130.000 per orang untuk sekali jalan door-to-door via tol, tanpa biaya tambahan tol atau jemput alamat."
+  - q: "Jam berapa saja jadwal keberangkatan malam travel Palembang ke Prabumulih?"
+    a: "Untuk jadwal malam hari tersedia slot pukul 19.00 WIB, 20.00 WIB, dan pemberangkatan terakhir pukul 21.00 WIB setiap hari."
+  - q: "Berapa lama perjalanan dari Palembang ke Prabumulih via jalan tol?"
+    a: "Waktu tempuh sekitar 2 jam menempuh jarak kurang lebih 95 km lewat Jalan Tol Indralaya-Prabumulih (Indraprabu)."
+  - q: "Apakah travel malam bisa menjemput dari Bandara SMB II Palembang?"
+    a: "Ya, sopir kami dapat menjemput langsung dari Bandara SMB II, kantor, hotel, maupun perumahan warga di Palembang untuk diantar ke Prabumulih."
+  - q: "Apakah ada jadwal keberangkatan siang dari Prabumulih ke Palembang?"
+    a: "Tersedia jadwal siang mulai pukul 11.00 WIB, 12.00 WIB, 13.00 WIB, hingga 14.00 WIB untuk rute Prabumulih ke Palembang."
+  - q: "Bagaimana cara pesan travel Palembang Prabumulih?"
+    a: "Hubungi WhatsApp admin 24 jam di 0813-6923-1893 dengan format nama, tanggal, jam keberangkatan, serta alamat jemput dan antar."
 ---
 
 Bagi profesional, pebisnis migas, maupun masyarakat umum, mobilitas antara Palembang dan Prabumulih berlangsung hampir tanpa henti. Kebutuhan perjalanan sering kali muncul mendesak pada malam hari setelah urusan pekerjaan di ibu kota provinsi selesai. Memilih jasa travel palembang prabumulih memberikan kemudahan penjemputan langsung di tempat, sehingga Anda bisa beristirahat sepanjang perjalanan.

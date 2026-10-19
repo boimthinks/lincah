@@ -12,6 +12,19 @@ kesimpulan: "Perjalanan dari Palembang ke Martapura tidak perlu bikin repot. Pes
 tags: ["travel palembang martapura", "travel door to door", "travel oku timur"]
 from: palembang
 to: martapura
+faq:
+  - q: "Berapa harga tiket travel Palembang Martapura OKU Timur?"
+    a: "Tarif resmi adalah Rp 220.000 per orang untuk sekali jalan door-to-door, sudah mencakup antar-jemput alamat tanpa biaya tersembunyi."
+  - q: "Berapa jam perjalanan travel dari Palembang ke Martapura?"
+    a: "Waktu tempuh sekitar 4 hingga 5 jam melintasi jarak 210 km via Tol Indraprabu, Prabumulih, dan Baturaja di Jalur Lintas Tengah."
+  - q: "Jam berapa saja jadwal keberangkatan travel Palembang ke Martapura?"
+    a: "Keberangkatan beroperasi tiga kali sehari: Pagi pukul 09.00 WIB, Siang pukul 14.00 WIB, dan Malam pukul 20.00 WIB."
+  - q: "Apakah travel mengantar langsung ke pusat perkantoran Pemkab atau rumah warga di Martapura?"
+    a: "Ya, layanan door-to-door menjemput di alamat Anda di Palembang dan mengantar langsung ke kompleks perkantoran Pemkab OKU Timur maupun rumah warga di Martapura."
+  - q: "Armada apa saja yang digunakan untuk rute Palembang Martapura?"
+    a: "Armada yang tersedia mencakup Toyota Avanza/Veloz, Toyota Innova Reborn, dan Toyota Hiace Premio ber-AC double blower dengan kursi reclining empuk."
+  - q: "Bagaimana cara pesan tiket travel Palembang Martapura?"
+    a: "Kirim pesan WhatsApp ke 0813-6923-1893 dengan format nama, tanggal dan jam berangkat, jumlah penumpang, serta alamat penjemputan dan tujuan."
 ---
 
 Martapura merupakan pusat pemerintahan sekaligus pusat perekonomian Kabupaten Ogan Komering Ulu (OKU) Timur. Setiap harinya, pergerakan masyarakat dari Palembang menuju Martapura cukup tinggi, baik untuk urusan dinas pemerintahan, bisnis komoditas pertanian dan beras, kunjungan keluarga, hingga aktivitas perkuliahan.

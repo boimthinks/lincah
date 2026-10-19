@@ -12,6 +12,19 @@ kesimpulan: "Rute Palembang-Indralaya kini hanya 45 menit via tol dengan tarif f
 tags: ["travel", "palembang", "indralaya"]
 from: palembang
 to: indralaya
+faq:
+  - q: "Berapa tarif tiket travel Palembang Indralaya UNSRI?"
+    a: "Tarif resmi adalah Rp 100.000 per orang untuk sekali jalan, sudah mencakup layanan door-to-door dan tarif tol Palindra tanpa biaya tersembunyi."
+  - q: "Berapa lama waktu tempuh travel Palembang ke kampus UNSRI Indralaya?"
+    a: "Waktu tempuh sekitar 45 menit via Tol Palembang-Indralaya (Palindra) dalam kondisi lalu lintas normal."
+  - q: "Apakah travel mengantar langsung sampai ke gerbang fakultas UNSRI?"
+    a: "Ya, sopir kami melayani antar-jemput langsung sampai ke gerbang fakultas di kampus UNSRI Indralaya, perpustakaan, asrama, maupun kos mahasiswa di sekitar Indralaya."
+  - q: "Jam berapa saja jadwal keberangkatan travel Palembang Indralaya?"
+    a: "Keberangkatan tersedia fleksibel mulai pukul 06.00 hingga 20.00 WIB setiap hari, mencakup jam kuliah pagi, siang, dan kepulangan sore."
+  - q: "Apa saja armada yang beroperasi untuk rute Palembang Indralaya?"
+    a: "Kami mengoperasikan unit Toyota Avanza/Veloz, Toyota Innova Reborn, dan Toyota Hiace Premio ber-AC dingin dengan ruang bagasi untuk tas dan laptop."
+  - q: "Bagaimana cara booking travel Palembang Indralaya?"
+    a: "Pemesanan praktis via WhatsApp ke 0813-6923-1893 dengan menyebutkan nama, jadwal, titik jemput di Palembang, dan fakultas atau lokasi tujuan di Indralaya."
 ---
 
 Jarak Palembang ke kampus UNSRI Indralaya hanya sekitar 35 km. Dengan mobil pribadi, waktu tempuhnya bisa lebih dari satu jam ketika jalan ramai. Mahasiswa yang pulang-pergi setiap hari kerap kehilangan banyak waktu di perjalanan.

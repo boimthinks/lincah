@@ -10,6 +10,19 @@ kategori: "tips"
 pengantar: "Mengirim barang ke kawasan perkebunan di Musi Banyuasin sering terkendala waktu. Paket lewat ekspedisi reguler butuh dua sampai tiga hari, sementara dokumen atau suku cadang harus tiba hari ini. Lincah Travel punya solusi: kiriman ikut armada travel yang berangkat setiap hari dari Palembang ke Sungai Lilin, langsung sampai alamat penerima."
 kesimpulan: "Kirim paket ke Sungai Lilin tidak perlu menunggu berhari-hari. Cukup hubungi Lincah Travel via WhatsApp di 0813-6923-1893, tuliskan isi, ukuran, dan alamat tujuan, admin langsung memberikan estimasi biaya dan jadwal keberangkatan yang paling pas."
 tags: ["kirim paket palembang sungai lilin", "kirim barang ke muba", "travel executive", "kirim dokumen kilat", "door to door"]
+faq:
+  - q: "Berapa lama paket dari Palembang sampai ke Sungai Lilin via travel?"
+    a: "Paket tiba dalam waktu sekitar 3 jam di hari yang sama (same-day delivery) karena armada berangkat langsung tanpa transit gudang sortir."
+  - q: "Jam berapa saja jadwal kirim paket ke Sungai Lilin?"
+    a: "Tersedia tiga trip harian: Pagi pukul 08.00 WIB (tiba pukul 11.00 WIB), Siang pukul 14.00 WIB (tiba pukul 17.00 WIB), dan Sore pukul 18.00 WIB (tiba pukul 21.00 WIB)."
+  - q: "Jenis barang apa saja yang bisa dikirim ke Sungai Lilin?"
+    a: "Dokumen kontrak atau surat jalan, berkas instansi, suku cadang mesin perkebunan kelapa sawit, makanan kemasan/pempek, obat-obatan, dan elektronik portabel."
+  - q: "Apakah paket bisa diantar sampai ke mess kebun atau pabrik kelapa sawit?"
+    a: "Ya, sopir kami dapat mengantarkan paket langsung ke alamat penerima, baik rumah warga, perkantoran, maupun kawasan pabrik/mess perkebunan sawit di Sungai Lilin dan sekitarnya."
+  - q: "Berapa ongkos kirim paket ke Sungai Lilin via travel?"
+    a: "Biaya dihitung adil berdasarkan ukuran dimensi dan berat paket mulai dari puluhan ribu rupiah untuk dokumen/koli kecil tanpa biaya tersembunyi."
+  - q: "Bagaimana cara titip paket kilat Palembang ke Sungai Lilin?"
+    a: "Kirim foto barang, perkiraan ukuran, alamat penjemputan di Palembang, serta nomor penerima di Sungai Lilin ke WhatsApp admin di 0813-6923-1893."
 ---
 
 Banyak urusan bisnis di kawasan perkebunan berhenti di persoalan sederhana: barang harus tiba di Sungai Lilin hari ini, tapi tidak ada yang siap mengantar. Kurir reguler melewati jalur yang berbelit lewat gudang sortir, sementara dokumen tender atau suku cadang mesin tidak bisa menunggu dua atau tiga hari.

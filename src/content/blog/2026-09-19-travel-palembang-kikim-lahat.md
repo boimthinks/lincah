@@ -12,6 +12,19 @@ kesimpulan: "Rencana perjalanan ke wilayah Kikim kini jauh lebih praktis tanpa p
 tags: ["travel palembang kikim", "travel palembang lahat", "ongkos travel kikim"]
 from: palembang
 to: kikim
+faq:
+  - q: "Berapa ongkos travel Palembang ke Kikim Lahat?"
+    a: "Ongkos perjalanan flat Rp 200.000 per orang per kursi sekali jalan door-to-door, berlaku untuk wilayah Kikim Timur, Kikim Tengah, Kikim Barat, maupun Kikim Selatan."
+  - q: "Berapa jam perjalanan travel dari Palembang menuju Kikim?"
+    a: "Perjalanan menempuh jarak sekitar 280 km melintasi Jalur Lintas Tengah Sumatera dengan durasi sekitar 7 hingga 8 jam."
+  - q: "Jam berapa saja jadwal keberangkatan travel rute Kikim Lahat?"
+    a: "Tersedia tiga jadwal keberangkatan setiap hari: Pagi pukul 08.00 WIB, Siang pukul 14.00 WIB, dan Malam pukul 20.00 WIB."
+  - q: "Daerah mana saja di Kikim yang dijangkau pengantaran alamat?"
+    a: "Pengantaran mencakup pemukiman utama di Kikim Timur (Bungamas dan sekitarnya), Kikim Tengah, Kikim Barat (Saung Naga), hingga jalan poros pemukiman di Kikim Selatan."
+  - q: "Apakah rute travel Palembang ke Kikim melewati jalan tol?"
+    a: "Armada memanfaatkan ruas Tol Palembang-Indralaya atau tol Prabumulih untuk mempersingkat waktu keluar Palembang, sebelum melanjutkan via jalan arteri Lintas Tengah Sumatera."
+  - q: "Bagaimana cara booking dan pembayaran travel Palembang Kikim?"
+    a: "Pesan praktis via WhatsApp ke 0813-6923-1893. Pembayaran dapat dilakukan tunai kepada sopir saat penjemputan atau transfer bank resmi tanpa wajib uang muka (DP)."
 ---
 
 Menempuh perjalanan darat sejauh 280 kilometer dari Palembang menuju kawasan Kikim kerap terasa melelahkan bila Anda menyetir mobil pribadi. Kawasan Kikim yang terbagi atas Kikim Timur, Kikim Tengah, Kikim Barat, hingga Kikim Selatan berada di sebelah barat Lahat Kota menuju perbatasan Empat Lawang. Memilih layanan travel palembang dengan sistem jemput antar alamat membuat tubuh tetap segar setibanya di tujuan.

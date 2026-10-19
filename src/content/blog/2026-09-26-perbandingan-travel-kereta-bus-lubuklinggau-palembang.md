@@ -12,6 +12,19 @@ kesimpulan: "Kalau Anda butuh harga jelas, jam bisa diatur, dan dijemput dari de
 tags: ["travel lubuklinggau palembang", "kereta api lubuklinggau palembang", "bus lubuklinggau palembang"]
 from: lubuklinggau
 to: palembang
+faq:
+  - q: "Berapa harga tiket travel Lubuklinggau Palembang di Lincah Travel?"
+    a: "Tarif resmi adalah Rp 200.000 per orang untuk sekali jalan door-to-door, sudah termasuk layanan antar-jemput alamat tanpa biaya tersembunyi."
+  - q: "Apa moda transportasi paling murah antara Lubuklinggau dan Palembang?"
+    a: "Moda termurah adalah Kereta Api Ekonomi Bukit Serelo (sekitar Rp 32.000), namun penumpang harus datang ke stasiun dan mengurus transportasi lanjutan sendiri tanpa antar-jemput rumah."
+  - q: "Berapa lama durasi perjalanan travel dibanding kereta api dari Lubuklinggau ke Palembang?"
+    a: "Kereta api menempuh waktu sekitar 6 jam 15 menit antardua stasiun, sedangkan travel door-to-door membutuhkan waktu 7-8 jam karena menjemput dan mengantar penumpang langsung di depan pintu."
+  - q: "Jam berapa saja jadwal keberangkatan travel rute Lubuklinggau Palembang?"
+    a: "Jadwal reguler beroperasi pukul 09.00 WIB, 16.00 WIB, dan 20.00 WIB, dengan waktu yang fleksibel disesuaikan untuk kebutuhan rombongan."
+  - q: "Mengapa travel door-to-door lebih praktis dibanding bus atau kereta api?"
+    a: "Karena Anda tidak perlu mengeluarkan biaya taksi/ojek ke terminal atau stasiun dan tidak perlu repot mengangkat koper atau barang bawaan berat saat transit."
+  - q: "Bagaimana cara booking travel Lubuklinggau Palembang?"
+    a: "Pemesanan via WhatsApp di 0813-6923-1893 dengan mengirimkan nama penumpang, tanggal perjalanan, jam keberangkatan, serta alamat jemput dan antar."
 ---
 
 Pilih moda dari Lubuklinggau ke Palembang sering jadi tarik-ulur antara harga murah dan kepraktisan. Travel lubuklinggau palembang lewat Lincah Travel mematok Rp 200.000 dengan jam keberangkatan yang bisa disesuaikan, sementara kereta punya kelas mulai Rp 32.000. Artikel ini membandingkan angka ril ketiga moda supaya Anda tidak perlu menebak.
@@ -69,24 +82,6 @@ Pilihan bergantung pada prioritas, bukan cuma harga terendah:
 - **Butuh sampai cepat dan tak peduli cek harga:** bus SAN Executive, dengan catatan Anda harus datang ke loket untuk pastikan tarif.
 
 Selain rute ini, kami juga melayani travel palembang ke banyak kota di Sumatera Selatan, Lampung, dan Jambi. Satu nomor WhatsApp cukup untuk cek semua jadwal.
-
-## Pertanyaan yang Sering Ditanyakan
-
-### Berapa harga travel Lubuklinggau Palembang paling murah?
-
-Rp 200.000 per orang, already termasuk penjemputan dan pengantaran door-to-door. Tidak ada biaya tersembunyi untuk bagasi.
-
-### Kereta mana yang paling ekonomis?
-
-Kereta ekonomi Bukit Serelo dengan tarif sekitar Rp 32.000, berangkat 10.30 dan tiba 16.45 di Stasiun Kertapati.
-
-### Apakah harga bus SAN Executive resmi diumumkan?
-
-Kami tidak menemukan harga valid saat riset, dan tidak ada nomor telepon agen resmi. Lebih baik datang langsung ke pool bus atau tanya loket sebelum berangkat.
-
-### Bisakah jam travel disesuaikan dengan jadwal saya?
-
-Bisa. Kami punya mitra sopir dan travel di Lubuklinggau serta Palembang, sehingga jadwal keberangkatan bisa digeser dari opsi standar 09.00, 16.00, dan 20.00 WIB.
 
 ## Bandingkan Sekaligus, Lalu Pilih yang Praktis
 

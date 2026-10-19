@@ -12,6 +12,19 @@ kesimpulan: "Perjalanan Jambi-Bangko bukan lagi soal melelahkan di terminal. Den
 tags: ["travel jambi bangko", "travel door to door", "travel merangin", "bangko jambi", "lintas sumatera"]
 from: jambi
 to: bangko
+faq:
+  - q: "Berapa harga tiket travel Jambi Bangko?"
+    a: "Tarif resmi adalah Rp 200.000 per orang untuk sekali jalan door-to-door tanpa biaya tersembunyi."
+  - q: "Berapa jam perjalanan travel dari Kota Jambi ke Bangko?"
+    a: "Jarak tempuh sekitar 126 km via Jalan Lintas Sumatera memakan waktu rata-rata 2 hingga 3 jam perjalanan darat."
+  - q: "Jam berapa saja jadwal keberangkatan travel Jambi ke Bangko?"
+    a: "Keberangkatan beroperasi tiga kali sehari: Pagi pukul 08.00 WIB, Siang pukul 14.00 WIB, dan Malam pukul 20.00 WIB."
+  - q: "Apakah layanan jemput alamat menjangkau seluruh area Kota Jambi?"
+    a: "Ya, sopir kami menjemput langsung dari alamat rumah atau kantor di Telanaipura, Kotabaru, Jambi Selatan, Danau Sipin, dan kecamatan lain di Kota Jambi."
+  - q: "Apakah travel bisa mengantar sampai ke kantor Pemkab Merangin atau hotel di Bangko?"
+    a: "Ya, pengantaran door-to-door menjangkau area Pematang Kandis, kantor bupati Merangin, hotel lokal seperti Family Inn, hingga perumahan warga di Bangko."
+  - q: "Bagaimana cara pesan travel Jambi Bangko?"
+    a: "Pemesanan via WhatsApp ke admin 0813-6923-1893 dengan format nama, jadwal keberangkatan, dan detail alamat jemput di Jambi serta tujuan di Bangko."
 ---
 
 Menempuh jarak sekitar 126 kilometer via Lintas Sumatera dari Jambi menuju Bangko memang tidak terlalu jauh. Namun, kondisi jalan yang ramai kendaraan berat dan kebutuhan akan ketepatan waktu membuat pilihan armada sangat menentukan. Banyak yang memilih menggunakan layanan travel dibanding angkutan umum lainnya karena faktor fleksibilitas jemputan dan kenyamanan kabin.

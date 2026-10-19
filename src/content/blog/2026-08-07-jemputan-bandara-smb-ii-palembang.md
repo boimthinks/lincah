@@ -11,6 +11,19 @@ pengantar: "Pesawat baru saja menyentuh landasan, dan yang terlintas di kepala c
 kesimpulan: "Mendarat di Palembang tidak perlu diiringi kebingungan mencari kendaraan. Pesan jemputan pas mendarat sejak dari rumah, lalu cukup kabari admin waktu pesawat tiba. Hubungi Lincah Travel via WhatsApp di **0813-6923-1893** untuk koordinasi jemput langsung di bandara."
 tags: ["jemputan bandara smb ii", "travel door-to-door palembang", "antar jemput bandara"]
 from: palembang
+faq:
+  - q: "Di mana titik penjemputan penumpang di Bandara SMB II Palembang?"
+    a: "Sopir kami menunggu di lobi pintu kedatangan domestik atau internasional Terminal Bandara SMB II Palembang sesuai maskapai dan koordinasi via WhatsApp."
+  - q: "Apakah travel bisa menjemput langsung dari Bandara SMB II menuju luar kota?"
+    a: "Ya, kami melayani jemputan bandara langsung menuju kota-kota di Sumsel seperti Baturaja, Muara Enim, Lahat, Lubuklinggau, Prabumulih, Sekayu, hingga Jambi dan Lampung."
+  - q: "Bagaimana jika pesawat mengalami keterlambatan (delay)?"
+    a: "Admin kami memantau jadwal kedatangan menggunakan nomor penerbangan (flight number) Anda, sehingga kedatangan sopir di bandara akan langsung disesuaikan dengan jam landing terbaru."
+  - q: "Berapa kapasitas bagasi koper yang bisa dibawa dari bandara?"
+    a: "Setiap penumpang mendapatkan jatah bagasi standar untuk satu koper dan satu tas kabin. Untuk rombongan dengan banyak koper, tersedia armada Toyota Hiace Premio atau Innova Reborn."
+  - q: "Apa keunggulan layanan jemputan travel dibanding taksi bandara atau LRT?"
+    a: "Dengan travel door-to-door, Anda tidak perlu antre taksi atau transit berganti kendaraan umum lagi saat membawa banyak barang bawaan, melainkan langsung diantar sampai depan pintu rumah atau hotel."
+  - q: "Bagaimana cara booking penjemputan Bandara SMB II Palembang?"
+    a: "Cukup kirim pesan WhatsApp ke nomor 0813-6923-1893 dengan mengirimkan nama, nomor penerbangan, estimasi jam mendarat, jumlah penumpang/koper, dan alamat tujuan."
 ---
 
 Hal pertama yang terasa setelah lama terbang adalah badan pegal dan koper yang menekan tangan kiri kanan. Saat itulah letak perbedaan antara sekadar sampai di pintu bandara dan sampai di depan pintu rumah. Kalau Anda menumpang travel, pintu itu langsung terbuka, tanpa menunggu kendaraan berikutnya di terminal lain.

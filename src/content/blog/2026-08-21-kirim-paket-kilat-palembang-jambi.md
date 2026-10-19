@@ -10,6 +10,19 @@ kategori: "tips"
 pengantar: "Titip dokumen atau paket bisnis ke Jambi tanpa nunggu kurir berhari-hari. Lincah Travel antar paket Palembang Jambi dalam sehari, langsung sampai alamat di kota atau kabupaten tujuan."
 kesimpulan: "Kirim paket ke Jambi tidak perlu menunggu berhari-hari. Cukup layangkan WhatsApp ke Lincah Travel, tuliskan isi, ukuran, dan alamat tujuan, admin langsung kasih estimasi biaya dan jadwal keberangkatan harian."
 tags: ["kirim paket palembang jambi", "titip barang ke jambi", "travel executive", "kirim dokumen kilat", "door to door"]
+faq:
+  - q: "Berapa lama paket dari Palembang sampai ke Jambi via travel?"
+    a: "Estimasi pengiriman sekitar 6 hingga 7 jam di hari yang sama (same-day service). Paket yang berangkat pada trip pagi (08.00 WIB) tiba di Kota Jambi sekitar pukul 14.00-15.00 WIB."
+  - q: "Barang apa saja yang dapat dikirim ke Jambi via travel?"
+    a: "Dokumen kedinasan/tender kantor, barang komersial dagang, suku cadang mesin atau otomotif, pakaian konveksi, hingga paket makanan khas seperti pempek Palembang."
+  - q: "Apakah paket diantar langsung sampai ke alamat penerima di Jambi?"
+    a: "Ya, pengiriman menggunakan sistem door-to-door di mana kurir/sopir menjemput paket di Palembang dan mengantarkannya langsung ke rumah, toko, atau kantor di Kota Jambi dan sekitarnya."
+  - q: "Wilayah mana saja di Provinsi Jambi yang dijangkau pengiriman paket?"
+    a: "Selain Kota Jambi, pengantaran mencakup Muaro Jambi, Batanghari (Muara Bulian), Muara Bungo, Tebo, Merangin (Bangko), Sarolangun, dan Tanjung Jabung Barat (Kuala Tungkal)."
+  - q: "Berapa ongkos kirim paket Palembang ke Jambi via travel?"
+    a: "Tarif dihitung fleksibel dan transparan berdasarkan dimensi ukuran (P x L x T), bobot aktual, dan alamat tujuan, mulai dari puluhan ribu rupiah untuk amplop berkas."
+  - q: "Bagaimana cara memesan jasa kirim paket kilat Palembang ke Jambi?"
+    a: "Hubungi WhatsApp admin di 0813-6923-1893 dengan mengirimkan foto dan ukuran paket, alamat penjemputan di Palembang, serta nomor kontak penerima di Jambi."
 ---
 
 Kesibukan bisnis dan keluarga kerap berhenti di persoalan yang sederhana: barang harus tiba di Jambi besok, tapi belum ada yang siap mengantar. Kurir reguler kadang melewati jalur yang berbelit, sementara dokumen tender tidak bisa menunggu lebih dari sehari.

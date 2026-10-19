@@ -12,6 +12,19 @@ kesimpulan: "Siap kirim paket ke Baturaja hari ini? Hubungi Lincah Travel via Wh
 tags: ["kirim paket palembang baturaja", "jasa pengiriman palembang baturaja", "travel palembang baturaja"]
 from: palembang
 to: baturaja
+faq:
+  - q: "Berapa lama waktu pengiriman paket dari Palembang ke Baturaja via travel?"
+    a: "Paket tiba dalam 4 hingga 6 jam di hari yang sama (same-day delivery) mengikuti jadwal harian keberangkatan armada Lincah Travel."
+  - q: "Jenis paket apa saja yang bisa dititipkan ke Baturaja?"
+    a: "Dokumen kedinasan/kantor, makanan basah khas Palembang seperti pempek vakum beku, sparepart mesin industri/kendaraan, dan barang elektronik."
+  - q: "Berapa ongkos kirim paket Palembang ke Baturaja via travel?"
+    a: "Tarif titip mulai dari Rp 50.000 untuk dokumen/amplop dan kardus kecil, sudah termasuk layanan jemput antar alamat."
+  - q: "Apakah paket dijemput langsung ke rumah di Palembang?"
+    a: "Ya, sopir kami dapat menjemput paket langsung di rumah atau kantor pengirim di Palembang dan menyerahkannya langsung ke tangan penerima di Baturaja."
+  - q: "Bagaimana cara agar kiriman pempek ke Baturaja tidak basi?"
+    a: "Pastikan pempek divakum kedap udara dan dibekukan. Paket makanan disimpan di kabin penumpang yang sejuk ber-AC agar terlindung dari suhu panas."
+  - q: "Bagaimana cara memesan jasa pengiriman paket Palembang Baturaja?"
+    a: "Hubungi WhatsApp admin di 0813-6923-1893, sertakan foto dan dimensi paket, serta alamat penjemputan dan kontak penerima di Baturaja."
 ---
 
 Logistik antara Palembang dan Baturaja hidup setiap hari. Ada pempek vakum yang harus sampai segar, berkas lelang yang tidak boleh terlambat, suku cadang mesin pabrik yang perlu segera dipasang. Rute sejauh 200 kilometer ini bukan hanya tentang orang bepergian, tapi juga tentang barang yang harus bergerak tepat waktu.
