@@ -4,7 +4,7 @@ Berikut adalah daftar rute resmi yang dilayani oleh Lincah Travel (door-to-door)
 
 | No | Rute Asal - Tujuan | Harga | Estimasi Waktu | Jarak |
 |---|---|---|---|---|
-| 1 | **Batu Marta - Palembang** | Rp 170.000 | 5 - 6 Jam | 230 km |
+| 1 | **Batu Marta - Palembang** | Rp 250.000 | 5 - 6 Jam | 230 km |
 | 2 | **Baturaja - Palembang** | Rp 120.000 | 4 - 5 Jam | 200 km |
 | 3 | **Bayung Lencir - Palembang** | Rp 200.000 | 4 - 5 Jam | 180 km |
 | 4 | **Belitang - Palembang** | Rp 150.000 | 5 - 6 Jam | 240 km |
@@ -19,12 +19,12 @@ Berikut adalah daftar rute resmi yang dilayani oleh Lincah Travel (door-to-door)
 | 13 | **Lahat - Palembang** | Rp 150.000 | 5 - 6 Jam | 220 km |
 | 14 | **Lampung - Palembang** | Rp 300.000 | 4 - 5 Jam (Via Tol) | 350 km |
 | 15 | **Lubuklinggau - Palembang** | Rp 200.000 | 7 - 8 Jam | 320 km |
-| 16 | **Martapura - Palembang** | Rp 160.000 | 5 Jam | 220 km |
+| 16 | **Martapura - Palembang** | Rp 220.000 | 5 Jam | 220 km |
 | 17 | **Muara Bulian Jambi - Palembang** | Rp 400.000 | 7 Jam | 299 km |
 | 18 | **Muara Dua - Palembang** | Rp 220.000 | 7 - 8 Jam | 290 km |
 | 19 | **Muara Enim - Palembang** | Rp 180.000 | 4 - 5 Jam | 180 km |
 | 20 | **Pagaralam - Palembang** | Rp 250.000 | 7 - 8 Jam | 290 km |
-| 21 | **Palembang - Batu Marta** | Rp 170.000 | 5 - 6 Jam | 230 km |
+| 21 | **Palembang - Batu Marta** | Rp 250.000 | 5 - 6 Jam | 230 km |
 | 22 | **Palembang - Baturaja** | Rp 120.000 | 4 - 5 Jam | 200 km |
 | 23 | **Palembang - Bayung Lencir** | Rp 200.000 | 4 - 5 Jam | 180 km |
 | 24 | **Palembang - Belitang** | Rp 150.000 | 5 - 6 Jam | 240 km |
@@ -38,7 +38,7 @@ Berikut adalah daftar rute resmi yang dilayani oleh Lincah Travel (door-to-door)
 | 32 | **Palembang - Lahat** | Rp 150.000 | 5 - 6 Jam | 220 km |
 | 33 | **Palembang - Lampung** | Rp 300.000 | 4 - 5 Jam (Via Tol) | 350 km |
 | 34 | **Palembang - Lubuklinggau** | Rp 200.000 | 7 - 8 Jam | 320 km |
-| 35 | **Palembang - Martapura** | Rp 160.000 | 5 Jam | 220 km |
+| 35 | **Palembang - Martapura** | Rp 220.000 | 5 Jam | 220 km |
 | 36 | **Palembang - Muara Bulian** | Rp 400.000 | 7 Jam | 299 km |
 | 37 | **Palembang - Muara Dua** | Rp 220.000 | 7 - 8 Jam | 290 km |
 | 38 | **Palembang - Muara Enim** | Rp 180.000 | 4 - 5 Jam | 180 km |

@@ -2,12 +2,12 @@
 title: "Travel Palembang Batu Marta"
 judul_seo: "Travel Palembang Batu Marta OKU Timur Jadwal dan Harga Tiket"
 slug: "travel-palembang-batu-marta-oku-timur"
-description: "Travel Palembang Batu Marta OKU Timur door to door Rp 170.000. Jadwal 08.00/15.00/20.00 WIB. Booking WhatsApp 0813-6923-1893."
+description: "Travel Palembang Batu Marta OKU Timur Rp 250.000. Jadwal 08.00/15.00/20.00 WIB, batas antar Unit 2. Booking WhatsApp 0813-6923-1893."
 pubDate: "2026-09-16"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMIcxeA_nSvubDxw-kaZ-DOGzTWt8XTkP3I7tPb15LheTp_0HreA1aHrt-Gz7z27tJpP9IIiDebrjDj12mRg-rpKnNPhLVHw_Rf0horGnIoD6MyXIVSLrQ0FTB0vkR_uCjx21e1m6rCQimHrlexWOv_R_r9FuEcSAyzvODKKYkPj_3f8L3xk8hyphenhyphenP-F8ndU/s600/travel-palembang-batu-marta-oku-timur_poco.webp"
 kategori: "rute"
-pengantar: "Warga Batumarta dan sekitarnya sering bolak-balik Palembang untuk berobat, kuliah, atau urusan dinas. Layanan travel door-to-door menjemput dari alamat Anda di Palembang dan mengantar langsung ke depan rumah di kawasan unit Batumarta tanpa transit di terminal."
+pengantar: "Warga Batumarta dan sekitarnya sering bolak-balik Palembang untuk berobat, kuliah, atau urusan dinas. Layanan travel door-to-door menjemput dari alamat Anda di Palembang dan mengantar hingga batas akhir Batumarta Unit 2 tanpa transit di terminal."
 kesimpulan: "Perjalanan Palembang-Batumarta jadi lebih ringkas dengan layanan door-to-door Lincah Travel. Pesan kursi Anda hari ini melalui WhatsApp 0813-6923-1893 agar keberangkatan sesuai jadwal."
 tags: ["travel palembang batu marta", "travel oku timur", "travel door to door"]
 from: "palembang"
@@ -34,9 +34,11 @@ Total jarak tempuh Palembang menuju Batumarta sekitar 230 km. Koridor utamanya m
 
 Durasi perjalanan berkisar 5 hingga 6 jam tergantung titik tujuan akhir di Batumarta dan kondisi lalu lintas. Akses tol memangkas waktu dibanding harus menembus jalur arteri penuh truk dan pasar tumpah.
 
-### Kondisi Jalan Menuju Kawasan Batumarta
+### Kondisi Jalan dan Batas Pengantaran Travel (Penting Diketahui)
 
-Jalur penghubung antarunit sebagian besar beraspal jalan kabupaten, dengan titik cor beton dan hamparan perkebunan karet serta kelapa sawit. Driver kami hafal simpang masuk ke tiap unit, sehingga pengantaran ke alamat tujuan tetap presisi meski medannya tidak sepenuhnya mulus.
+Satu hal mendasar yang wajib dipahami oleh seluruh calon penumpang: **semua penyedia travel tanpa terkecuali untuk tujuan Batumarta memberlakukan batas pengantaran hanya sampai Batumarta Unit 2**. 
+
+Kebijakan ini berlaku secara umum di dunia transportasi travel karena kondisi akses jalan di Batumarta menuju unit-unit di bagian dalam—seperti ke arah Unit 6 dan unit sekitarnya—tergolong kurang baik dan jalannya rusak/jelek. Lubang jalanan yang dalam serta struktur tanah yang tidak rata sangat berisiko terhadap kendaraan minibus berpenumpang. Demi keselamatan armada serta kenyamanan dan ketepatan waktu seluruh penumpang, armada travel hanya melakukan *drop* (penurunan penumpang) sampai di Batumarta Unit 2 saja. Bagi warga yang hendak melanjutkan ke unit yang lebih dalam, biasanya menyambung perjalanan menggunakan ojek lokal atau dijemput oleh pihak keluarga di Unit 2.
 
 ## Jadwal Keberangkatan Armada
 
@@ -56,11 +58,11 @@ Pengemudi melakukan penyisiran alamat penumpang 1 hingga 1,5 jam sebelum jadwal 
 
 ### Tarif Tiket Per Orang
 
-Tarif travel Palembang Batu Marta ditetapkan Rp 170.000 per kursi secara flat untuk sekali jalan. Harga tersebut sudah mencakup layanan door-to-door tanpa biaya tambahan di perjalanan.
+Tarif travel Palembang Batu Marta ditetapkan Rp 250.000 per kursi secara flat untuk sekali jalan (pengantaran hingga batas akhir Batumarta Unit 2). Harga tersebut sudah mencakup layanan penjemputan alamat di Palembang tanpa biaya tambahan tersembunyi di perjalanan.
 
 | Rute | Tarif |
 |---|---|
-| Palembang - Batumarta | Rp 170.000 / kursi |
+| Palembang - Batumarta (Maks. Unit 2) | Rp 250.000 / kursi |
 
 ### Ketentuan Tambahan dan Bagasi
 
@@ -82,7 +84,7 @@ Seluruh armada dilengkapi full AC dingin hingga baris belakang dan port pengisia
 
 Di Palembang, titik jemput yang sering digunakan penumpang Batumarta antara lain Bandara Internasional Sultan Mahmud Badaruddin II, Stasiun Kereta Api Kertapati, sentra medis RSMH, RS Hermina, RS Siti Khadijah, kampus Unsri Bukit Besar dan gerbang Unsri Indralaya, serta loket di sekitar Kertapati, Jakabaring, dan Jl. Kolonel Atmo.
 
-Di sisi Batumarta, layanan mencakup sebaran unit di Kecamatan Lubuk Raja, mulai Unit I, II, hingga Unit VI dan VII, serta kecamatan pemekaran sekitar seperti Madang Suku. Sebutkan nomor unit atau patokan lokasi saat pesan agar driver mengantar presisi.
+Di sisi Batumarta, pengantaran dan penjemputan difokuskan pada poros Batumarta Unit 1 dan batas akhir Batumarta Unit 2 di Kecamatan Lubuk Raja. Sebagaimana dijelaskan, penurunan penumpang travel dibatasi sampai Unit 2 karena kendala infrastruktur jalan unit pedalaman. Konfirmasikan titik patokan turun di Unit 1 atau Unit 2 saat pemesanan agar pengemudi mengantar dengan tepat.
 
 ## Layanan Titipan Paket Kilat
 

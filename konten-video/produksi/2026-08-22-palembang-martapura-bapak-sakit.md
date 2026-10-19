@@ -2,7 +2,7 @@
 
 ## Meta
 - **Angle Drama**: Drama Orang Tua Sakit / Kebutuhan Darurat Perantau (Kecepatan & Kenyamanan Single Passenger)
-- **Rute**: Palembang - Martapura | Harga Rp 160.000 | 5 Jam | 220 km
+- **Rute**: Palembang - Martapura | Harga Rp 220.000 | 5 Jam | 220 km
 - **Format**: Vertical 9:16 (Shorts / Reels / TikTok)
 - **Durasi**: 70 detik
 

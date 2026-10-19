@@ -78,8 +78,8 @@ Selain 10 rute di atas, masih ada tujuan lain yang tarifnya perlu Anda tahu. Rin
 | Sungai Lilin | Rp 180.000 | 3 jam |
 | Betung | Rp 180.000 | 3-4 jam |
 | Belitang | Rp 150.000 | 5-6 jam |
-| Martapura | Rp 160.000 | 5 jam |
-| Batu Marta | Rp 170.000 | 5-6 jam |
+| Martapura | Rp 220.000 | 5 jam |
+| Batu Marta | Rp 250.000 | 5-6 jam |
 | Muara Dua | Rp 220.000 | 7-8 jam |
 | Tugumulyo | Rp 180.000 | 7-8 jam |
 | Bayung Lencir | Rp 200.000 | 4-5 jam |

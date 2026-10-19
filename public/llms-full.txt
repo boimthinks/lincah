@@ -84,8 +84,8 @@ Dokumen ini berisi informasi menyeluruh tentang Lincah Travel: profil bisnis, at
 
 ### Koridor Selatan & OKU Raya
 - **Palembang – Baturaja**: Tarif Rp 200.000 | Durasi 4 - 5 jam | Jadwal 08.00, 14.00, 17.00, 20.00 WIB via Prabumulih.
-- **Palembang – Batu Marta**: Tarif Rp 170.000 | Durasi 5 - 6 jam | Jadwal 08.00, 15.00, 20.00 WIB.
-- **Palembang – Martapura (OKU Timur)**: Tarif Rp 160.000 | Durasi 5 jam | Jadwal 08.00, 14.00, 20.00 WIB.
+- **Palembang – Batu Marta**: Tarif Rp 250.000 | Durasi 5 - 6 jam | Jadwal 08.00, 15.00, 20.00 WIB (Batas antar maksimal sampai Unit 2 karena jalan unit dalam rusak).
+- **Palembang – Martapura (OKU Timur)**: Tarif Rp 220.000 | Durasi 5 jam | Jadwal 08.00, 14.00, 20.00 WIB.
 - **Palembang – Belitang**: Tarif Rp 150.000 | Durasi 5 - 6 jam | Jadwal 08.00, 15.00, 19.00 WIB.
 - **Palembang – Tugumulyo**: Tarif Rp 180.000 | Durasi 7 - 8 jam | Jadwal 09.00, 16.00, 20.00 WIB.
 - **Palembang – Muara Dua (OKU Selatan)**: Tarif Rp 220.000 | Durasi 7 - 8 jam | Jadwal 09.00, 15.00, 21.00 WIB.
@@ -163,7 +163,7 @@ Berikut adalah daftar artikel panduan perjalanan, komparasi rute, dan jadwal yan
 22. `travel-palembang-sekernan`: Panduan Travel Palembang Sekernan Muaro Jambi Rp220.000.
 23. `travel-palembang-muara-dua-door-to-door`: Panduan Travel Palembang Muara Dua OKU Selatan Rp220.000.
 24. `travel-palembang-belitang-oku-timur`: Panduan Travel Palembang Belitang OKU Timur Rp150.000.
-25. `travel-palembang-martapura-oku-timur`: Panduan Travel Palembang Martapura OKU Timur Rp160.000.
+25. `travel-palembang-martapura-oku-timur`: Panduan Travel Palembang Martapura OKU Timur Rp220.000.
 26. `travel-palembang-prabumulih-jadwal-malam`: Panduan Travel Palembang Prabumulih jadwal malam via Tol Indraprabu.
 27. `rekap-harga-travel-sumatera-selatan-2026`: Rekapitulasi daftar tarif ongkos tiket travel seluruh Sumatera Selatan.
 28. `cara-booking-tiket-travel-lincah-whatsapp`: Prosedur pemesanan tiket travel via WhatsApp admin 0813-6923-1893.

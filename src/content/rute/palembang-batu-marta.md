@@ -1,12 +1,12 @@
 ---
 from: palembang
 to: batu marta
-price: 170000
+price: 250000
 duration: 5 - 6 Jam
 departureTimes: ["08:00 WIB", "15:00 WIB", "20:00 WIB"]
 type: sumatera selatan
 distance: 230 km
-description: Travel Palembang ke Batu Marta (OKU Timur) — 5-6 jam, Rp 170.000. Door-to-door, armada AC, jadwal fleksibel. Booking sekarang!
+description: Travel Palembang ke Batu Marta (OKU Timur) — 5-6 jam, Rp 250.000. Door-to-door, batas antar sampai Unit 2, armada AC. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -20,7 +20,9 @@ Perjalanan jauh biasanya menguras tenaga. Sebagian besar kelelahan itu lahir dar
 
 **Driver Paham Jalan.** Sopir kami hafal rute Lintas Timur Palembang-Batu Marta dan tahu di mana harus berhenti untuk istirahat.
 
-**Harga Jelas.** Rp 170.000 flat, tidak ada tambahan di perjalanan.
+**Harga Jelas.** Rp 250.000 flat untuk perjalanan hingga titik batas antar.
+
+> **Penting Diketahui Penumpang:** Untuk tujuan Batumarta, semua layanan travel tanpa terkecuali menerapkan batas pengantaran hanya sampai **Batumarta Unit 2**. Hal ini dikarenakan kondisi akses jalan di Batumarta menuju unit-unit di bagian dalam (seperti ke arah Unit 6 dan seterusnya) kurang baik dan jalannya jelek/rusak. Oleh karena itu, secara umum penumpang travel hanya di-drop sampai Unit 2 saja demi keamanan kendaraan dan kenyamanan bersama.
 
 ## Jadwal Keberangkatan Palembang ke Batu Marta
 
@@ -54,13 +56,9 @@ Lincah Travel menjemput penumpang rute Palembang–Batu Marta dari seluruh area 
 
 ## Tujuan & Objek di Batu Marta
 
-Titik turun umum untuk rute Palembang–Batu Marta di antaranya:
+Titik turun umum untuk rute Palembang–Batu Marta (maksimal batas antar sampai Unit 2) di antaranya:
 
-*   **Bunga Mayang (area/kecamatan)**
-*   **Madang Suku III (area/kecamatan)**
-*   **Belitang (area/kecamatan)**
-*   **Belitang II (area/kecamatan)**
-*   **Madang Suku I (area/kecamatan)**
+*   **Batumarta Unit 1 & Unit 2 (Batas Akhir Drop Travel)**
 *   **Penginapan Area Batu Marta (penginapan)**
 *   **Terminal Batu Marta**
 

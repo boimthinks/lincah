@@ -2,12 +2,12 @@
 title: "Travel Palembang Martapura"
 judul_seo: "Travel Palembang Martapura OKU Timur Door to Door: Jadwal, Harga & Tips 2026"
 slug: "travel-palembang-martapura-oku-timur"
-description: "Travel Palembang ke Martapura door-to-door Rp160.000. Jadwal 09.00/14.00/20.00 WIB, armada prima ber-AC, pesan via WhatsApp 0813-6923-1893."
+description: "Travel Palembang ke Martapura door-to-door Rp220.000. Jadwal 09.00/14.00/20.00 WIB, armada prima ber-AC, pesan via WhatsApp 0813-6923-1893."
 pubDate: "2026-08-13"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj9sPB-K7UzN4JtopQz0NVYuAjq-qimyOxApOrtUtW0gn1JVcY4II1frZ91ibUr4aRi-ljYcymqwnONPS2vwPuHmSDNjq1QY_BxfLEo71VR8sCFM9W6t3BSX7SLmbARFNesRT3HL8p3oGyiiMB4p_bcrrojyWIoEeuZJg8zIq9T01qT81fXjbeU-2HWhdM/s600/travel-palembang-martapura-oku-timur.webp"
 kategori: "rute"
-pengantar: "Travel Palembang ke Martapura, OKU Timur kini makin mudah dengan layanan door-to-door Lincah Travel. Mulai Rp160.000 per orang, Anda dijemput langsung dari alamat rumah di Palembang dan diantar sampai tujuan di Martapura."
+pengantar: "Travel Palembang ke Martapura, OKU Timur kini makin mudah dengan layanan door-to-door Lincah Travel. Mulai Rp220.000 per orang, Anda dijemput langsung dari alamat rumah di Palembang dan diantar sampai tujuan di Martapura."
 kesimpulan: "Perjalanan dari Palembang ke Martapura tidak perlu bikin repot. Pesan tiket Anda sekarang via WhatsApp 0813-6923-1893 dan nikmati layanan travel door-to-door yang praktis, aman, dan tepat waktu."
 tags: ["travel palembang martapura", "travel door to door", "travel oku timur"]
 from: palembang
@@ -30,11 +30,11 @@ Lincah Travel menyediakan tiga pilihan jadwal keberangkatan setiap hari agar ses
 
 | Keberangkatan | Tarif per Kursi | Estimasi Durasi | Keterangan |
 |---|---|---|---|
-| 09:00 WIB | Rp 160.000 | 4-5 Jam | Cocok untuk tiba sebelum sore |
-| 14:00 WIB | Rp 160.000 | 4-5 Jam | Pilihan favorit perjalanan siang |
-| 20:00 WIB | Rp 160.000 | 4-5 Jam | Perjalanan malam yang tenang |
+| 09:00 WIB | Rp 220.000 | 4-5 Jam | Cocok untuk tiba sebelum sore |
+| 14:00 WIB | Rp 220.000 | 4-5 Jam | Pilihan favorit perjalanan siang |
+| 20:00 WIB | Rp 220.000 | 4-5 Jam | Perjalanan malam yang tenang |
 
-Tarif Rp 160.000 per kursi sudah all-in untuk area penjemputan kota Palembang dan pengantaran dalam area Martapura, tanpa biaya tersembunyi.
+Tarif Rp 220.000 per kursi sudah all-in untuk area penjemputan kota Palembang dan pengantaran dalam area Martapura, tanpa biaya tersembunyi.
 
 ## Pilihan Armada Lincah Travel
 

@@ -67,6 +67,8 @@ Gunakan data ini sebagai social proof dalam artikel:
 | **Palembang-Tugumulyo** | 7-8 jam | Tol Indraprabu - Lintas OKU Timur | Rp 180.000 | Sentra pangan OKU Timur, transmigrasi |
 | **Palembang-Pelabuhan Tanjung Api-api** | 1 jam 55 menit | Jl. Akses TAA (koridor Gasing) | Rp 150.000 | Gerbang feri ke Bangka (Tanjung Kalian/Muntok) |
 | **Palembang-Muara Lakitan** | 5-6 jam | Sekayu / PALI | Rp 200.000 | 20 desa di Musi Rawas, door-to-door |
+| **Palembang-Martapura** | 5 jam | Lintas Tengah | Rp 220.000 | OKU Timur, perbatasan Lampung |
+| **Palembang-Batu Marta** | 5-6 jam | Lintas Tengah / OKU Timur | Rp 250.000 | Batas antar maks. Unit 2 (jalan unit dalam rusak) |
 
 **Sumber data:** `src/content/rute/*.md`
 
@@ -179,6 +181,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Jambi-Bangko | `2026-08-08-travel-jambi-bangko-door-to-door.md` |
 | Rute Utama (artikel pilar, 6 koridor) | `2026-08-26-rute-utama-lincah-travel.md` |
 | Palembang-Kikim | `2026-09-19-travel-palembang-kikim-lahat.md` |
+| Palembang-Batu Marta (OKU Timur) | `2026-09-16-travel-palembang-batu-marta-oku-timur.md` |
 | Palembang-Muara Beliti | `2026-09-27-travel-palembang-muara-beliti.md` |
 | Palembang-Talang Padang (Lampung Barat) | `2026-09-27-travel-palembang-talang-padang.md` |
 | Palembang-Tugumulyo (OKU Timur) | `2026-09-27-travel-palembang-tugumulyo.md` |
@@ -192,6 +195,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Prabumulih (Pilar Utama Revamp) | `2026-10-15-travel-palembang-prabumulih.md` |
 | Palembang-Martapura (Kirim Paket Kilat) | `2026-10-16-kirim-paket-palembang-martapura.md` |
 | Palembang-Lubuklinggau (Kirim Paket Kilat) | `2026-10-17-kirim-paket-palembang-lubuklinggau.md` |
+| Palembang-Batu Marta (Support: Rute & Drop Unit 2) | `2026-10-19-rute-travel-palembang-ke-batumarta-unit-2.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
