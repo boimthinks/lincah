@@ -9,6 +9,14 @@
 - **Tagline**: "Cepat . Aman . Nyaman"
 
 ## Pengingat Penting
+- **PRIORITAS UTAMA: Rencana Konten Blog 30 Hari (Optimasi AI Generatif)**:
+  - Seluruh produksi artikel blog baru **WAJIB memprioritaskan dan mengacu pada file `RENCANA-KONTEN-AI-30-HARI.md`** di root project.
+  - Kalender 30 hari ini disusun secara terukur dari hasil data riil AI Overviews Google Search Console (klaster durasi perjalanan "berapa jam", layanan kirim paket same-day, jemputan bandara direct ke daerah, dan komparasi moda/jalur).
+  - **Peringatan Proaktif Bila Pengguna Mengubah/Menyimpang dari Plan**: Jika di sesi mana pun pengguna meminta membuat topik/ide baru di luar rencana, melompat urutan, atau mengubah arah topik, Agent **WAJIB secara tegas dan proaktif mengingatkan pengguna**:
+    1. Tunjukkan nomor urut dan judul artikel yang seharusnya dikerjakan sesuai antrean di `RENCANA-KONTEN-AI-30-HARI.md`.
+    2. Ingatkan tujuan optimasi AI Generatif Google dan pencegahan kanibalisasi kata kunci yang sudah dirancang di plan tersebut.
+    3. Minta konfirmasi eksplisit pengguna: apakah ingin melanjutkan antrean artikel sesuai plan (rekomendasi), atau memang ada keputusan bisnis untuk merevisi/menggeser isi file `RENCANA-KONTEN-AI-30-HARI.md`.
+  - Setiap artikel yang selesai dikerjakan wajib dipastikan kualitasnya (FAQ 6 butir di frontmatter, skema FAQPage, 2 internal link wajib, lolos 2 tahap `pakar-entity-seo` -> `penulis-ahli`).
 - **Aturan Wajib Anti-Duplikasi Artikel**: Sebelum memberi saran judul, ide topik, atau menulis artikel blog baru, Agent **WAJIB membaca/memindai daftar file nyata di `src/content/blog/`** secara langsung (bukan hanya mengandalkan catatan di markdown).
 - **Peringatan Proaktif & Pencegahan Kanibalisasi Kata Kunci (Keyword Cannibalization)**:
   - Agent **WAJIB secara tegas dan proaktif mengingatkan pengguna** jika ide, outline, atau permintaan artikel baru berisiko memicu kanibalisasi kata kunci dengan artikel yang sudah ada.
