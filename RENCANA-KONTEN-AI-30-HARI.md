@@ -15,7 +15,7 @@ Setiap artikel dirancang dengan standar E-E-A-T, anti-kanibalisasi kata kunci, j
 | No | Tanggal Rencana | Judul Artikel (H1) | Judul SEO (Meta Title, Maks 12 Kata) | Slug File Rekomendasi | Klaster & Search Intent AI | Status |
 |---|---|---|---|---|---|---|
 | 01 | 2026-10-20 | Palembang ke Muara Enim Berapa Jam Naik Travel | Palembang ke Muara Enim Berapa Jam Waktu Tempuh via Tol | `palembang-ke-muara-enim-berapa-jam-estimasi-waktu` | Durasi / Tol Indraprabu & Arteri | ✅ Selesai (2026-10-20) |
-| 02 | 2026-10-21 | Palembang ke Lahat Berapa Jam Perjalanan Darat | Palembang ke Lahat Berapa Jam Waktu Tempuh Travel via Tol | `palembang-ke-lahat-berapa-jam-waktu-tempuh-travel` | Durasi / Lintas Tengah & Rest Area | Menunggu |
+| 02 | 2026-10-21 | Palembang ke Lahat Berapa Jam Perjalanan Darat | Palembang ke Lahat Berapa Jam Waktu Tempuh Travel via Tol | `palembang-ke-lahat-berapa-jam-waktu-tempuh-travel` | Durasi / Lintas Tengah & Rest Area | ✅ Selesai (2026-10-21) |
 | 03 | 2026-10-22 | Palembang ke Pagaralam Berapa Jam Waktu Tempuh | Palembang ke Pagaralam Berapa Jam Estimasi Durasi Perjalanan Travel 2026 | `palembang-ke-pagaralam-berapa-jam-estimasi-durasi` | Durasi / Jalur Perbukitan Gunung Dempo | Menunggu |
 | 04 | 2026-10-23 | Palembang ke Lubuklinggau Berapa Jam Lewat Jalur Darat | Palembang ke Lubuklinggau Berapa Jam Perjalanan Travel Lintas Tengah | `palembang-ke-lubuklinggau-berapa-jam-perjalanan-travel` | Durasi / Jarak 320 km Lintas Sumatera | Menunggu |
 | 05 | 2026-10-24 | Palembang ke Jambi Berapa Jam Lewat Lintas Timur | Palembang ke Jambi Berapa Jam Estimasi Perjalanan Travel Lintas Timur | `palembang-ke-jambi-berapa-jam-estimasi-perjalanan-travel` | Durasi / Koridor Betung & Bayung Lencir | Menunggu |

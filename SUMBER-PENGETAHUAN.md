@@ -196,6 +196,8 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Martapura (Kirim Paket Kilat) | `2026-10-16-kirim-paket-palembang-martapura.md` |
 | Palembang-Lubuklinggau (Kirim Paket Kilat) | `2026-10-17-kirim-paket-palembang-lubuklinggau.md` |
 | Palembang-Batu Marta (Support: Rute & Drop Unit 2) | `2026-10-19-rute-travel-palembang-ke-batumarta-unit-2.md` |
+| Palembang-Muara Enim (AI Cluster: Estimasi Durasi Jam) | `2026-10-20-palembang-ke-muara-enim-berapa-jam-estimasi-waktu.md` |
+| Palembang-Lahat (AI Cluster: Estimasi Durasi Tol vs Non-Tol) | `2026-10-21-palembang-ke-lahat-berapa-jam-waktu-tempuh-travel.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
