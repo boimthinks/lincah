@@ -198,6 +198,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Batu Marta (Support: Rute & Drop Unit 2) | `2026-10-19-rute-travel-palembang-ke-batumarta-unit-2.md` |
 | Palembang-Muara Enim (AI Cluster: Estimasi Durasi Jam) | `2026-10-20-palembang-ke-muara-enim-berapa-jam-estimasi-waktu.md` |
 | Palembang-Lahat (AI Cluster: Estimasi Durasi Tol vs Non-Tol) | `2026-10-21-palembang-ke-lahat-berapa-jam-waktu-tempuh-travel.md` |
+| Palembang-Pagaralam (AI Cluster: Estimasi Durasi & Liku Endikat) | `2026-10-22-palembang-ke-pagaralam-berapa-jam-estimasi-durasi.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
