@@ -1,5 +1,6 @@
 ---
 cities:
+  babat-supat: "/img/tugu-pisang-babat-supat_poco.webp"
   batu-marta: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcTbIInPqoV-IZpXUU75l6K83utWMiXNntUh2MMBdFiv9XoVH0KqlY-rYgNt4r1fACF4TxuLlHasOz9nmPGcr-eAefMTD7K_6lrN7UDo_IkC7jn41lHZTg49i01o13wjti2UDDdzI2TLEbbe3JJIs-oTl38Su-KUvCt5kbDJksM95YgQ2TJvVJd5rGU34r/s600/batumarta.webp"
   baturaja: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw8kYtEzjovzjHt70gWopSK7jpyEW2_z5lZ-d_hdhkTRIJAOM5Po-B6oeC_ayOpv_ATbtE73F0LgoXSXhHRv-ex6XwXcACDT_U02NRwXNLzkpzOw0yI8OFxLjcZPNFkDjP7VrfjAW31QCtGGt1t02S3XJHTJQ9AR-XXPUZlNMbiL08zQeEV_UnJBTg_sQh/s600/travel-palembang-baturaja.webp"
   bayung-lencir: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrdgxaYGc8jYt1d0nrWliLfBiDlD53R2WAIM7PTOwGAj_hzQQjaLxh9985NwRce8bGvGJEw_1wIg_2geJrK8Ji_TzoPHE_orN_g-RhWVktoFrWMRgWsHifgQxGYVsEuwYgXdR8Ka1rPrc13ZlKnNVswJY8tAQ6ApOtQrxpfg-5A4kHhw4A4k9rZw9pBjna/s600/bayung-lencir.webp"

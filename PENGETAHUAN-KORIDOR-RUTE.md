@@ -10,7 +10,7 @@ File ini adalah **pengetahuan geografi rute** hasil distilasi dari `analisis-rut
 
 | Koridor | Arah | Urutan Daerah Kunci | Karakteristik Travel |
 |---|---|---|---|
-| **Utara** | Jambi | Talang Kelapa/Sembawa → Pangkalan Balai → Betung → Sungai Lilin → Bayung Lencir → Tempino → Jambi | Lintas Timur Sumatera, logistik & penumpang antarprovinsi |
+| **Utara** | Jambi | Talang Kelapa/Sembawa → Pangkalan Balai → Betung → Babat Supat → Sungai Lilin → Bayung Lencir → Tempino → Jambi | Lintas Timur Sumatera, logistik & penumpang antarprovinsi |
 | **Barat Laut** | Sekayu (Muba) | Ikut koridor Utara sampai Simpang Betung → Lais → Sekayu → Babat Toman → Sanga Desa → Mangunjaya | PNS Pemkab Muba, pekerja migas/tambang |
 | **Barat / Tengah** | Muara Enim – Lahat – Lubuklinggau | Indralaya → Gelumbang → Prabumulih → Muara Enim → Tanjung Enim → Merapi → Lahat → Tebing Tinggi (Empat Lawang) → Lubuklinggau | Volume tertinggi: bisnis, tambang batu bara/migas, mahasiswa, lanjut Bengkulu |
 | **Barat Daya** | Pagaralam | Ikut koridor Barat sampai Lahat → Pulau Pinang/Gumay Ulu → Kota Agung → Pagaralam | Wisata weekend, libur sekolah, keluarga (perkebunan teh Dempo) |
@@ -39,7 +39,7 @@ Struktur percabangan presisi dari Palembang: **satu** Simpang Indralaya saja (bu
 ## 3. Detail Titik per Koridor (Referensi Menulis)
 
 ### Koridor Utara (Palembang–Jambi)
-Palembang (KM12/Alang-Alang Lebar) → Banyuasin: Talang Kelapa (Sembawa), Pangkalan Balai (ibukota Banyuasin), Suak Bara, Betung → Muba: Sungai Lilin, Tungkal Jaya, Bayung Lencir (batas Sumsel-Jambi) → Jambi: Tempino (Muaro Jambi), Kota Jambi.
+Palembang (KM12/Alang-Alang Lebar) → Banyuasin: Talang Kelapa (Sembawa), Pangkalan Balai (ibukota Banyuasin), Suak Bara, Betung → Muba: Babat Supat, Sungai Lilin, Tungkal Jaya, Bayung Lencir (batas Sumsel-Jambi) → Jambi: Tempino (Muaro Jambi), Kota Jambi.
 
 ### Koridor Barat Laut (Palembang–Sekayu)
 Mengikuti Utara sampai Simpang Betung → Muba: Lais → Sekayu (ibukota Muba) → Babat Toman → Sanga Desa → Mangunjaya (dapat lanjut Lubuklinggau via Jalur Tengah).
