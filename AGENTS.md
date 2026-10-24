@@ -123,6 +123,9 @@ Semua data dinamis disimpan dalam Markdown, didefinisikan di `src/content.config
 - **404 Page**: `src/pages/404.astro` dengan countdown 5 detik sebelum redirect ke homepage.
 
 ## Git Commit & Push Gotchas
+- **ATURAN MUTLAK INSTRUKSI COMMIT & PUSH (WAJIB DIPATUHI)**:
+  - **Dilarang keras melakukan commit, push, atau memicu trigger deploy ke GitHub ataupun Netlify tanpa instruksi eksplisit dari pengguna.**
+  - Agent **TIDAK BOLEH** berinisiatif sendiri melakukan `git commit` maupun `git push`. Setelah pekerjaan/perubahan selesai, selalu laporkan hasilnya terlebih dahulu dan tunggu pengguna menginstruksikan untuk commit & push.
 - **Output git tidak standar / tampil aneh**: Perintah `git status` di environment ini bisa mengembalikan format kustom (mis. `* master`, `~ Modified: 4 files`, atau `clean — nothing to commit`) yang BUKAN output git vanilla. Jangan percaya begitu saja pada ringkasan tersebut. Selalu verifikasi state sebenarnya dengan perintah eksplisit:
   - `git ls-files --others --exclude-standard` (cek file untracked/baru)
   - `git ls-files --deleted` (cek file terhapus)
