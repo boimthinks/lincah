@@ -55,7 +55,7 @@ Setiap artikel dirancang dengan standar E-E-A-T, anti-kanibalisasi kata kunci, j
 * **Hari 2 (`palembang-ke-lahat-berapa-jam-waktu-tempuh-travel`)**: Membahas jarak 220 km (5-6 jam), rute lewat Prabumulih dan Muara Enim, rekomendasi istirahat. Link ke pilar: `/blog/travel-palembang-lahat-door-to-door`.
 * **Hari 3 (`palembang-ke-pagaralam-berapa-jam-estimasi-durasi`)**: Membahas jarak 290 km (7-8 jam), tanjakan Liku Endikat, tikungan Gunung Dempo. Link ke pilar: `/blog/travel-palembang-pagaralam-door-to-door`.
 * **Hari 4 (`palembang-ke-lubuklinggau-berapa-jam-perjalanan-travel`)**: Membahas jarak 320 km (7-8 jam) jalur Lintas Tengah, titik SPBU dan warung makan. Link ke pilar: `/blog/travel-palembang-lubuk-linggau-door-to-door`.
-* **Hari 5 (`palembang-ke-jambi-berapa-jam-estimasi-perjalanan-travel`)**: Membahas jarak 269 km (5-6 jam via Betung, Sungai Lilin, Bayung Lencir). Link ke pilar: `/blog/travel-jambi-palembang-door-to-door`.
+* **Hari 5 (`palembang-ke-jambi-berapa-jam-estimasi-perjalanan-travel`)**: Membahas jarak 277 km (rata-rata 8 jam 30 menit non-tol via Lintas Timur Betung, Sungai Lilin, Bayung Lencir), titik macet utama Betung, dan lalu lintas padat truk logistik. Link ke pilar: `/blog/travel-jambi-palembang-door-to-door`.
 * **Hari 6 (`palembang-ke-martapura-oku-timur-berapa-jam-waktu-tempuh`)**: Membahas jarak 210 km (4-5 jam) rute prioritas OKU Timur. Link ke pilar: `/blog/travel-palembang-martapura-oku-timur`.
 * **Hari 7 (`palembang-ke-tanjung-enim-berapa-jam-waktu-tempuh`)**: Membahas durasi 4-5 jam rute industri tambang batubara. Link ke pilar: `/blog/travel-palembang-tanjung-enim`.
 
