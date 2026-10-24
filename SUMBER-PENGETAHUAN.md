@@ -199,6 +199,8 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Muara Enim (AI Cluster: Estimasi Durasi Jam) | `2026-10-20-palembang-ke-muara-enim-berapa-jam-estimasi-waktu.md` |
 | Palembang-Lahat (AI Cluster: Estimasi Durasi Tol vs Non-Tol) | `2026-10-21-palembang-ke-lahat-berapa-jam-waktu-tempuh-travel.md` |
 | Palembang-Pagaralam (AI Cluster: Estimasi Durasi & Liku Endikat) | `2026-10-22-palembang-ke-pagaralam-berapa-jam-estimasi-durasi.md` |
+| Palembang-Lubuklinggau (AI Cluster: Estimasi Durasi & Lintas Tengah) | `2026-10-23-palembang-ke-lubuklinggau-berapa-jam-perjalanan-travel.md` |
+| Palembang-Jambi (AI Cluster: Estimasi Durasi Lintas Timur & Tol Baleno) | `2026-10-24-palembang-ke-jambi-berapa-jam-estimasi-perjalanan-travel.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
