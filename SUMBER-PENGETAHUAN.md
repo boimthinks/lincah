@@ -203,6 +203,8 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Lubuklinggau (AI Cluster: Estimasi Durasi & Lintas Tengah) | `2026-10-23-palembang-ke-lubuklinggau-berapa-jam-perjalanan-travel.md` |
 | Palembang-Jambi (AI Cluster: Estimasi Durasi 8,5 Jam Jalintim Non-Tol & Macet Betung) | `2026-10-24-palembang-ke-jambi-berapa-jam-estimasi-perjalanan-travel.md` |
 | Palembang-Martapura OKU Timur (AI Cluster: Estimasi Durasi Tol 4,5-5 Jam 220 km vs Non-Tol 5,5 Jam 246 km via Indralaya-Prabumulih-Baturaja) | `2026-10-25-palembang-ke-martapura-oku-timur-berapa-jam-waktu-tempuh.md` |
+| Palembang-Tanjung Enim (AI Cluster: Estimasi Durasi Tol & Akses PTBA) | `2026-10-26-palembang-ke-tanjung-enim-berapa-jam-waktu-tempuh.md` |
+| Palembang-Muara Enim (AI Cluster: Kirim Paket Same Day Dokumen & APD Tambang) | `2026-10-27-kirim-paket-palembang-muara-enim-same-day.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
