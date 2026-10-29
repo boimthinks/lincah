@@ -205,6 +205,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Martapura OKU Timur (AI Cluster: Estimasi Durasi Tol 4,5-5 Jam 220 km vs Non-Tol 5,5 Jam 246 km via Indralaya-Prabumulih-Baturaja) | `2026-10-25-palembang-ke-martapura-oku-timur-berapa-jam-waktu-tempuh.md` |
 | Palembang-Tanjung Enim (AI Cluster: Estimasi Durasi Tol & Akses PTBA) | `2026-10-26-palembang-ke-tanjung-enim-berapa-jam-waktu-tempuh.md` |
 | Palembang-Muara Enim (AI Cluster: Kirim Paket Same Day Dokumen & APD Tambang) | `2026-10-27-kirim-paket-palembang-muara-enim-same-day.md` |
+| Palembang-Sekayu (AI Cluster: Kirim Paket Same Day Berkas Pemkab Muba) | `2026-10-28-kirim-paket-kilat-palembang-sekayu-same-day.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
