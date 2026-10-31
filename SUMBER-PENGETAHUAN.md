@@ -207,6 +207,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Muara Enim (AI Cluster: Kirim Paket Same Day Dokumen & APD Tambang) | `2026-10-27-kirim-paket-palembang-muara-enim-same-day.md` |
 | Palembang-Sekayu (AI Cluster: Kirim Paket Same Day Berkas Pemkab Muba) | `2026-10-28-kirim-paket-kilat-palembang-sekayu-same-day.md` |
 | Palembang-Bayung Lencir (AI Cluster: Kirim Paket Same Day Sparepart Kebun Sawit) | `2026-10-29-kirim-paket-palembang-bayung-lencir-same-day.md` |
+| Palembang-Pagaralam (AI Cluster: Kirim Paket Same Day Pempek Beku & Paket Warga Dempo) | `2026-10-30-kirim-paket-palembang-pagaralam-kilat-sehari-sampai.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
