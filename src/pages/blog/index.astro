@@ -30,10 +30,51 @@ const description = "Baca artikel dan panduan perjalanan Lincah Travel: tips boo
         
         {/* Grid Artikel */}
         {posts.length > 0 ? (
-          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {posts.map(post => (
-              <BlogCard post={post} />
-            ))}
+          <div>
+            <div id="blog-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              {posts.map((post, index) => (
+                <div 
+                  class={`blog-card-item transition-all duration-300 ${index >= 9 ? 'hidden opacity-0' : 'opacity-100'}`}
+                  data-card-index={index}
+                >
+                  <BlogCard post={post} />
+                </div>
+              ))}
+            </div>
+
+            {/* Kontrol Infinite Scroll & Status */}
+            <div id="infinite-scroll-container" class="mt-12 text-center">
+              {/* Indikator Loading saat Scroll */}
+              <div id="infinite-scroll-loading" class="hidden items-center justify-center gap-3 py-6 text-slate-600">
+                <svg class="animate-spin h-6 w-6 text-blue-700" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                  <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                  <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                </svg>
+                <span class="text-sm font-semibold tracking-wide text-slate-700">Memuat artikel berikutnya...</span>
+              </div>
+
+              {/* Tombol Manual & Penghitung */}
+              <div id="infinite-scroll-button-wrapper" class="flex flex-col items-center gap-3">
+                <button 
+                  id="btn-load-more"
+                  type="button"
+                  class="inline-flex items-center justify-center px-8 py-3 text-sm font-bold tracking-wider uppercase text-blue-700 bg-blue-50 hover:bg-blue-100 border border-blue-200 transition-colors shadow-sm cursor-pointer"
+                >
+                  Muat Lebih Banyak Artikel
+                </button>
+                <p id="posts-counter" class="text-xs text-slate-400">
+                  Menampilkan <span id="displayed-count">9</span> dari {posts.length} artikel
+                </p>
+              </div>
+
+              {/* Status Selesai */}
+              <div id="all-posts-loaded" class="hidden py-6 text-sm text-slate-500 font-medium">
+                ✓ Semua {posts.length} artikel telah ditampilkan
+              </div>
+
+              {/* Sentinel Trigger Element untuk IntersectionObserver */}
+              <div id="scroll-sentinel" class="w-full h-8 mt-4 pointer-events-none opacity-0"></div>
+            </div>
           </div>
         ) : (
           <div class="text-center py-20 bg-slate-50 border border-slate-200">
@@ -47,3 +88,100 @@ const description = "Baca artikel dan panduan perjalanan Lincah Travel: tips boo
   </main>
   <Footer />
 </Layout>
+
+<script>
+  function setupInfiniteScroll() {
+    const BATCH_SIZE = 9;
+    const cards = Array.from(document.querySelectorAll<HTMLElement>('.blog-card-item'));
+    const totalPosts = cards.length;
+    if (totalPosts === 0) return;
+
+    let displayedCount = Math.min(BATCH_SIZE, totalPosts);
+
+    const loadingEl = document.getElementById('infinite-scroll-loading');
+    const buttonWrapper = document.getElementById('infinite-scroll-button-wrapper');
+    const btnLoadMore = document.getElementById('btn-load-more');
+    const allLoadedEl = document.getElementById('all-posts-loaded');
+    const displayedCountEl = document.getElementById('displayed-count');
+    const sentinel = document.getElementById('scroll-sentinel');
+
+    let isLoading = false;
+    let observer: IntersectionObserver | null = null;
+
+    function updateCounter() {
+      if (displayedCountEl) {
+        displayedCountEl.textContent = displayedCount.toString();
+      }
+    }
+
+    function loadNextBatch() {
+      if (isLoading || displayedCount >= totalPosts) return;
+
+      isLoading = true;
+      if (loadingEl) {
+        loadingEl.classList.remove('hidden');
+        loadingEl.classList.add('flex');
+      }
+
+      setTimeout(() => {
+        const nextTarget = Math.min(displayedCount + BATCH_SIZE, totalPosts);
+        for (let i = displayedCount; i < nextTarget; i++) {
+          const card = cards[i];
+          if (card) {
+            card.classList.remove('hidden');
+            requestAnimationFrame(() => {
+              card.classList.remove('opacity-0');
+              card.classList.add('opacity-100');
+            });
+          }
+        }
+
+        displayedCount = nextTarget;
+        updateCounter();
+
+        if (loadingEl) {
+          loadingEl.classList.add('hidden');
+          loadingEl.classList.remove('flex');
+        }
+        isLoading = false;
+
+        if (displayedCount >= totalPosts) {
+          if (buttonWrapper) buttonWrapper.classList.add('hidden');
+          if (allLoadedEl) allLoadedEl.classList.remove('hidden');
+          if (observer && sentinel) {
+            observer.unobserve(sentinel);
+            observer.disconnect();
+          }
+        }
+      }, 150);
+    }
+
+    btnLoadMore?.addEventListener('click', () => {
+      loadNextBatch();
+    });
+
+    if ('IntersectionObserver' in window && sentinel && displayedCount < totalPosts) {
+      observer = new IntersectionObserver(
+        (entries) => {
+          const [entry] = entries;
+          if (entry.isIntersecting && !isLoading && displayedCount < totalPosts) {
+            loadNextBatch();
+          }
+        },
+        {
+          rootMargin: '300px 0px',
+          threshold: 0.05,
+        }
+      );
+      observer.observe(sentinel);
+    }
+
+    if (totalPosts <= BATCH_SIZE) {
+      if (buttonWrapper) buttonWrapper.classList.add('hidden');
+      if (allLoadedEl) allLoadedEl.classList.remove('hidden');
+    }
+  }
+
+  setupInfiniteScroll();
+  document.addEventListener('astro:page-load', setupInfiniteScroll);
+</script>
