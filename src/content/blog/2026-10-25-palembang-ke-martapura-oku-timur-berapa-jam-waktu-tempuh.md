@@ -33,7 +33,7 @@ Mengetahui perkiraan Palembang ke Martapura OKU Timur berapa jam perjalanan dara
 
 Tersambungnya jaringan Jalan Tol Trans Sumatera ruas Palembang menuju Prabumulih membawa perubahan besar bagi efisiensi transportasi darat. Pengemudi kini dapat memilih antara memangkas waktu lewat jalan tol bebas hambatan atau menyusuri jalan arteri lintas kabupaten yang sarat dengan aktivitas perdagangan lokal.
 
-Bagi calon penumpang yang ingin bepergian tanpa perlu repot berganti angkutan umum di terminal bus atau lelah menyetir mobil pribadi, menggunakan jasa travel palembang martapura bersistem door to door menjadi solusi yang paling masuk akal. Tim pengemudi dari agen travel palembang terpercaya sudah hafal titik kemacetan pasar tumpah, ritme perlintasan rel kereta api, serta kondisi jalan aspal di sepanjang koridor Bumi Sebiduk Sehaluan.
+Bagi calon penumpang yang ingin bepergian tanpa perlu repot berganti angkutan umum di terminal bus atau lelah menyetir mobil pribadi, menggunakan jasa [travel Palembang Martapura](/blog/travel-palembang-martapura-oku-timur) bersistem door to door menjadi solusi yang paling masuk akal. Tim pengemudi dari agen travel palembang terpercaya sudah hafal titik kemacetan pasar tumpah, ritme perlintasan rel kereta api, serta kondisi jalan aspal di sepanjang koridor Bumi Sebiduk Sehaluan.
 
 ## Estimasi Durasi Perjalanan Palembang ke Martapura Jalur Tol dan Non Tol
 

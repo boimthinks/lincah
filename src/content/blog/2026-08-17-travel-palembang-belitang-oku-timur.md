@@ -40,7 +40,7 @@ Kami menyediakan tiga pilihan jadwal keberangkatan setiap hari untuk menyesuaika
 | 14:00 WIB | Rp 150.000 |
 | 20:00 WIB | Rp 150.000 |
 
-Tarif tersebut sudah bersifat all-in. Tidak ada biaya tambahan tersembunyi untuk penjemputan dalam area kota Palembang atau pengantaran di titik utama Belitang.
+Tarif tersebut sudah bersifat all-in. Tidak ada biaya tambahan tersembunyi untuk penjemputan dalam area kota Palembang atau pengantaran di titik utama Belitang. Jika agenda dinas Anda memerlukan kunjungan ke pusat pemerintahan daerah terlebih dahulu sebelum ke lumbung tani, manfaatkan juga rute [travel Palembang Martapura](/blog/travel-palembang-martapura-oku-timur) yang melayani drop off kompleks Pemkab.
 
 ## Pilihan Armada Sesuai Kebutuhan
 

@@ -1,84 +1,108 @@
 ---
 title: "Travel Palembang Martapura"
-judul_seo: "Travel Palembang Martapura OKU Timur Door to Door: Jadwal, Harga & Tips 2026"
+judul_seo: "Travel Palembang Martapura OKU Timur Door to Door 2026"
 slug: "travel-palembang-martapura-oku-timur"
-description: "Travel Palembang ke Martapura door-to-door Rp220.000. Jadwal 09.00/14.00/20.00 WIB, armada prima ber-AC, pesan via WhatsApp 0813-6923-1893."
+description: "Travel Palembang ke Martapura door to door Rp220.000. Jadwal pagi siang malam, armada prima ber-AC, via Tol Indraprabu. Pesan via WA 081369231893."
 pubDate: "2026-08-13"
+updatedDate: "2026-11-02"
 author: "Tim Konten Lincah Travel"
-image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj9sPB-K7UzN4JtopQz0NVYuAjq-qimyOxApOrtUtW0gn1JVcY4II1frZ91ibUr4aRi-ljYcymqwnONPS2vwPuHmSDNjq1QY_BxfLEo71VR8sCFM9W6t3BSX7SLmbARFNesRT3HL8p3oGyiiMB4p_bcrrojyWIoEeuZJg8zIq9T01qT81fXjbeU-2HWhdM/s600/travel-palembang-martapura-oku-timur.webp"
+image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbSeBSKCSjCu6psD20Tne-o6qnHfbHAAC_14vCgBwRXLGPXBX2JVjGJItIvEM7Rni1hp6O3tYdwUg5zen12b-y-Cn1n5tTjsBbctcL0joFt2TSBH_VVGtfRdW0vDz7jnpKborYob_Qy4Dk4tlklhp1E5KIU78u6Z3Ro_AibXOyc6As16GCe-4H8fgzR-fy/s600/travel-palembang-martapura-oku-timur_poco.webp"
 kategori: "rute"
-pengantar: "Travel Palembang ke Martapura, OKU Timur kini makin mudah dengan layanan door-to-door Lincah Travel. Mulai Rp220.000 per orang, Anda dijemput langsung dari alamat rumah di Palembang dan diantar sampai tujuan di Martapura."
-kesimpulan: "Perjalanan dari Palembang ke Martapura tidak perlu bikin repot. Pesan tiket Anda sekarang via WhatsApp 0813-6923-1893 dan nikmati layanan travel door-to-door yang praktis, aman, dan tepat waktu."
-tags: ["travel palembang martapura", "travel door to door", "travel oku timur"]
-from: palembang
-to: martapura
+from: "palembang"
+to: "martapura"
+pengantar: "Perjalanan dari Palembang menuju Martapura di Kabupaten OKU Timur kini semakin mudah dengan sistem antar jemput door to door dari Lincah Travel. Mulai tarif Rp220.000 per orang, Anda dijemput langsung dari alamat rumah atau Bandara SMB II Palembang dan diantar sampai depan pintu tujuan di Martapura."
+kesimpulan: "Perjalanan darat melintasi Lintas Tengah Sumatera menuju Bumi Sebiduk Sehaluan tidak lagi melelahkan berkat armada ber-AC dan sopir berpengalaman. Segera pesan tiket Anda via WhatsApp resmi di nomor 0813-6923-1893 untuk mendapatkan kursi terbaik hari ini."
+tags: ["travel palembang martapura", "travel door to door", "travel oku timur", "travel palembang"]
 faq:
   - q: "Berapa harga tiket travel Palembang Martapura OKU Timur?"
-    a: "Tarif resmi adalah Rp 220.000 per orang untuk sekali jalan door-to-door, sudah mencakup antar-jemput alamat tanpa biaya tersembunyi."
-  - q: "Berapa jam perjalanan travel dari Palembang ke Martapura?"
-    a: "Waktu tempuh sekitar 4 hingga 5 jam melintasi jarak 210 km via Tol Indraprabu, Prabumulih, dan Baturaja di Jalur Lintas Tengah."
+    a: "Tarif resmi Lincah Travel adalah Rp220.000 per penumpang untuk sekali jalan. Biaya ini bersifat flat door to door mencakup penjemputan alamat di Palembang dan pengantaran dalam kota Martapura tanpa biaya tambahan."
+  - q: "Berapa jam perjalanan dari Palembang ke Martapura?"
+    a: "Waktu tempuh normal rata-rata berkisar 4 jam 30 menit hingga 5 jam melintasi jarak 210 sampai 220 km via Tol Palindra, Tol Indraprabu, Prabumulih, dan Baturaja."
   - q: "Jam berapa saja jadwal keberangkatan travel Palembang ke Martapura?"
-    a: "Keberangkatan beroperasi tiga kali sehari: Pagi pukul 09.00 WIB, Siang pukul 14.00 WIB, dan Malam pukul 20.00 WIB."
-  - q: "Apakah travel mengantar langsung ke pusat perkantoran Pemkab atau rumah warga di Martapura?"
-    a: "Ya, layanan door-to-door menjemput di alamat Anda di Palembang dan mengantar langsung ke kompleks perkantoran Pemkab OKU Timur maupun rumah warga di Martapura."
-  - q: "Armada apa saja yang digunakan untuk rute Palembang Martapura?"
-    a: "Armada yang tersedia mencakup Toyota Avanza/Veloz, Toyota Innova Reborn, dan Toyota Hiace Premio ber-AC double blower dengan kursi reclining empuk."
-  - q: "Bagaimana cara pesan tiket travel Palembang Martapura?"
-    a: "Kirim pesan WhatsApp ke 0813-6923-1893 dengan format nama, tanggal dan jam berangkat, jumlah penumpang, serta alamat penjemputan dan tujuan."
+    a: "Keberangkatan beroperasi rutin tiga kali sehari, yaitu Trip Pagi pukul 08.00 hingga 09.00 WIB, Trip Siang pukul 14.00 WIB, dan Trip Malam pukul 20.00 WIB."
+  - q: "Apakah mobil travel menjemput dari Bandara SMB II Palembang?"
+    a: "Ya, sopir kami dapat menjemput langsung di area kedatangan Bandara Sultan Mahmud Badaruddin II Palembang dan mengantarkan penumpang langsung ke alamat di Martapura."
+  - q: "Apakah travel mengantar sampai kompleks Pemkab OKU Timur?"
+    a: "Benar, pengantaran mencakup kompleks perkantoran Pemkab OKU Timur, RSUD Martapura, Pasar Martapura, Paku Sengkunyit, Terukis Rahayu, hingga perbatasan Way Kanan."
+  - q: "Armada jenis apa yang digunakan untuk rute ini?"
+    a: "Armada yang beroperasi meliputi Toyota Innova Reborn, Toyota Hiace Premio, dan Toyota Avanza Veloz dengan kabin ber-AC dingin dan kursi reclining empuk."
 ---
 
-Martapura merupakan pusat pemerintahan sekaligus pusat perekonomian Kabupaten Ogan Komering Ulu (OKU) Timur. Setiap harinya, pergerakan masyarakat dari Palembang menuju Martapura cukup tinggi, baik untuk urusan dinas pemerintahan, bisnis komoditas pertanian dan beras, kunjungan keluarga, hingga aktivitas perkuliahan.
+Layanan [travel Palembang Martapura](/blog/travel-palembang-martapura-oku-timur) menjadi urat nadi mobilitas penting bagi masyarakat Sumatera Selatan. Kota Martapura yang berperan sebagai ibukota Kabupaten Ogan Komering Ulu Timur merupakan simpul administrasi pemerintahan, perdagangan beras, dan perkebunan lumbung pangan. Arus perjalanan dari Palembang menuju Martapura sangat padat setiap hari, didominasi oleh pegawai dinas daerah, pebisnis komoditas agribisnis, akademisi, hingga keluarga yang mudik.
 
-Bagi Anda yang sering bepergian di rute ini, beralih ke travel door-to-door adalah keputusan yang praktis. Anda tidak perlu menyisihkan waktu ekstra untuk pergi ke stasiun atau terminal, lalu berdesakan mencari angkutan lanjutan saat tiba di Martapura.
+Menempuh rute darat sejauh 210 hingga 220 kilometer membutuhkan moda transportasi yang andal. Calon penumpang yang memilih sistem door to door tidak perlu repot datang ke terminal antarkota atau memesan ojek tambahan saat tiba di tujuan. Sopir menjemput langsung di depan pintu rumah atau kantor Anda di Palembang, kemudian meluncur membawa Anda hingga ke alamat tujuan di Martapura dengan aman.
 
-## Kenapa Memilih Travel Door-to-Door Palembang-Martapura?
+Untuk pelanggan yang membutuhkan pengiriman dokumen lelang atau suku cadang mesin pertanian di hari yang sama, kami juga menyediakan layanan khusus [kirim paket Palembang Martapura](/blog/kirim-paket-palembang-martapura) via bagasi mobil travel reguler.
 
-Jarak Palembang menuju Martapura berkisar 210 km melalui jalur Lintas Tengah Sumatera (melewati Prabumulih dan Baturaja). Perjalanan ini memakan waktu rata-rata 4 hingga 5 jam. 
+## Keunggulan Travel Door to Door Dibanding Kereta Api dan Bus
 
-Dengan layanan door-to-door dari Lincah Travel, driver kami akan menjemput Anda langsung di lokasi yang disepakati—baik rumah, kos, hotel, maupun lokasi sekitar Bandara SMB II Palembang—kemudian mengantarkan Anda hingga tepat di depan pintu rumah atau kantor tujuan di Martapura.
+Sebagian masyarakat kerap menimbang pilihan antara naik kereta api, bus antarkota, atau mobil travel ke Martapura. Jalur kereta api memang melayani Stasiun Kertapati menuju Stasiun Martapura lewat kereta ekonomi Rajabasa atau komersial Kuala Stabas. Kendati demikian, stasiun keberangkatan di Kertapati berada di ujung selatan Palembang, sehingga warga dari kawasan Sukarami, Kenten, atau Bandara SMB II butuh waktu perjalanan tambahan menembus kemacetan kota hanya untuk tiba di stasiun.
 
-## Jadwal Keberangkatan dan Harga Tiket 2026
+Setibanya di Stasiun Martapura, penumpang kereta masih harus mencari angkutan lokal atau ojek untuk mencapai kawasan perkantoran Pemkab OKU Timur atau rumah di perkampungan. Biaya sambungan ojek dan tenaga ekstra tersebut sering kali membuat total pengeluaran menjadi lebih besar dan menguras fisik.
 
-Lincah Travel menyediakan tiga pilihan jadwal keberangkatan setiap hari agar sesuai dengan agenda perjalanan Anda:
+Sebaliknya, layanan travel palembang door to door menawarkan kepraktisan penuh dari awal hingga akhir perjalanan:
 
-| Keberangkatan | Tarif per Kursi | Estimasi Durasi | Keterangan |
+* Penjemputan alamat fleksibel: Anda cukup menunggu di rumah, hotel, indekos, maupun terminal bandara di Palembang tanpa perlu berpanas-panasan membawa koper di jalan umum.
+* Jalur cepat kombinasi jalan tol: Armada dapat melintasi ruas Tol Palindra dan Tol Indralaya Prabumulih sehingga memotong kemacetan arteri di kawasan Pasar Indralaya dan Gelumbang.
+* Pengantaran tepat di depan pintu: Mobil mengantar Anda langsung ke gerbang kantor instansi, mess perusahaan, toko dagang, maupun rumah warga di seluruh penjuru Martapura.
+* Privasi dan kenyamanan kabin: Jumlah penumpang di dalam satu unit kendaraan dibatasi sesuai kapasitas legal kursi, didukung pendingin udara yang sejuk dan jok reclining ergonomis.
+
+## Rute Jalan Tol dan Karakteristik Lintas Tengah Sumatera
+
+Perjalanan darat menuju Martapura melintasi koridor utama bagian selatan Sumatera Selatan. Dari pusat Kota Palembang, mobil masuk menuju Gerbang Tol Kramasan, melaju di Tol Palembang Indralaya, lalu berlanjut ke Tol Indraprabu hingga keluar di Gerbang Tol Cambai Kota Prabumulih.
+
+Dari Prabumulih, mobil melanjutkan perjalanan di jalan arteri Lintas Tengah Sumatera menuju Kota Baturaja, ibukota Kabupaten OKU. Selepas Baturaja, perjalanan berlanjut di jalur aspal lebar yang menghubungkan Baturaja dan Martapura. Kontur jalan di ruas ini tergolong rata dengan suasana pemukiman warga yang mulai berganti dengan pusat pertokoan dan kawasan perkantoran menjelang gerbang masuk Martapura.
+
+Untuk gambaran detail mengenai perbandingan jalur bebas hambatan dan jalan arteri nasional pada rute ini, Anda bisa menyimak rincian analisa [estimasi waktu tempuh Palembang ke Martapura](/blog/palembang-ke-martapura-oku-timur-berapa-jam-waktu-tempuh) yang mengupas titik perlintasan rel batubara dan waktu tempuh rata-rata.
+
+## Jadwal Keberangkatan Harian dan Tarif Resmi 2026
+
+Lincah Travel mengoperasikan tiga jadwal keberangkatan tetap setiap hari. Jadwal ini dirancang agar mampu mengakomodasi berbagai kebutuhan perjalanan dinas kantor, penjemputan tamu luar kota, maupun silaturahmi keluarga santai.
+
+Tabel di bawah merangkum jadwal trip reguler beserta peruntukan perjalanannya:
+
+| Jadwal Keberangkatan | Tarif per Kursi | Rata-Rata Waktu Tempuh | Rekomendasi Kebutuhan Perjalanan |
 |---|---|---|---|
-| 09:00 WIB | Rp 220.000 | 4-5 Jam | Cocok untuk tiba sebelum sore |
-| 14:00 WIB | Rp 220.000 | 4-5 Jam | Pilihan favorit perjalanan siang |
-| 20:00 WIB | Rp 220.000 | 4-5 Jam | Perjalanan malam yang tenang |
+| Trip Pagi (08.00 - 09.00 WIB) | Rp 220.000 | 4,5 hingga 5 Jam | Perjalanan dinas kantor, rapat siang, urusan perbankan di Martapura |
+| Trip Siang (14.00 - 15.00 WIB) | Rp 220.000 | 4,5 hingga 5 Jam | Penjemputan penumpang pesawat siang, tiba sebelum malam hari |
+| Trip Malam (20.00 - 21.00 WIB) | Rp 220.000 | 4,5 hingga 5 Jam | Perjalanan malam bebas macet, tiba subuh untuk agenda pagi hari |
 
-Tarif Rp 220.000 per kursi sudah all-in untuk area penjemputan kota Palembang dan pengantaran dalam area Martapura, tanpa biaya tersembunyi.
+Besaran tarif Rp220.000 per kursi berlaku flat all-in untuk penjemputan dalam area Kota Palembang dan pengantaran dalam kota Martapura. Tidak ada biaya tambahan bagasi standar untuk satu koper dan satu tas ransel penumpang.
 
-## Pilihan Armada Lincah Travel
+## Area Jangkauan Antar Jemput di Palembang dan Martapura
 
-Semua armada kami selalu dalam kondisi bersih, sejuk, dan rutin mendapatkan perawatan berkala demi keselamatan dan kenyamanan penumpang.
+Sistem door to door kami menjangkau seluruh kecamatan strategis di Kota Palembang. Titik penjemputan meliputi kawasan Ilir Barat, Ilir Timur, Alang-Alang Lebar, Sukarami, Kemuning, Kalidoni, Sako, Plaju, Seberang Ulu, Jakabaring, hingga penjemputan khusus di terminal kedatangan Bandara SMB II.
 
-- **Toyota Hiace Premio**: Kapasitas 11 penumpang, full AC double blower, reclining seat, dan ruang kaki yang lapang. Sangat cocok untuk rombongan dinas maupun keluarga.
-- **Toyota Innova Reborn**: Kapasitas 7 penumpang dengan captain seat. Menawarkan kenyamanan ekstra dan privasi lebih untuk perjalanan bisnis.
-- **Toyota Avanza / Veloz**: Kapasitas 6 penumpang. Pilihan ekonomis yang tetap mengutamakan AC dingin dan keamanan berkendara.
+Sementara itu di wilayah tujuan, sopir kami siap mengantarkan penumpang ke berbagai titik penting di Martapura dan sekitarnya:
 
-## Tips Perjalanan Palembang ke Martapura
+* Kawasan Perkantoran Pemerintah Daerah: Kompleks Perkantoran Pemkab OKU Timur, Kantor DPRD OKU Timur, Kejaksaan Negeri Martapura, dan Pengadilan Agama Martapura.
+* Fasilitas Layanan Publik dan Kesehatan: RSUD Martapura, puskesmas kota, institusi pendidikan, dan perbankan BUMN maupun daerah.
+* Kawasan Pemukiman dan Niaga: Pasar Tradisional Martapura, Paku Sengkunyit, Terukis Rahayu, Kota Baru Selatan, Tebat Sari, hingga koridor perbatasan Way Kanan Lampung.
 
-Agar perjalanan Anda berjalan lancar, ikuti beberapa saran sederhana berikut:
+Bagi calon penumpang yang hendak bepergian ke luar titik batas kota Martapura menuju pelosok desa pemekaran, pihak operasional kami akan memberikan penyesuaian ongkos bahan bakar secara terbuka sebelum jadwal penjemputan disepakati.
 
-1. **Booking H-1**: Keberangkatan pagi (09:00 WIB) dan akhir pekan cepat terisi. Lakukan pemesanan minimal sehari sebelum jadwal keberangkatan.
-2. **Berikan Alamat Jemput yang Jelas**: Sertakan patokan lokasi jemput di Palembang dan alamat antar di Martapura agar penjemputan lebih cepat.
-3. **Konfirmasi Bagasi**: Jika membawa barang bawaan berukuran besar atau lebih dari satu koper, beri tahu admin saat pemesanan agar kapasitas bagasi dapat disesuaikan.
+## Pilihan Armada Minibus Terawat
 
-## Cara Pemesanan Tiket via WhatsApp 24 Jam
+Demi menjaga keselamatan dan kebugaran penumpang selama menempuh perjalanan darat lintas kabupaten, armada operasional Lincah Travel selalu menjalani servis berkala dan pembersihan kabin secara rutin.
 
-Pemesanan tiket dapat dilakukan dengan mudah melalui layanan admin WhatsApp 24 jam di **0813-6923-1893**.
+Beberapa jenis kendaraan yang kami sediakan untuk rute ini meliputi:
 
-Format pemesanan cukup kirimkan detail berikut:
-- Nama Penumpang:
-- Rute: Palembang - Martapura
-- Tanggal & Jam Keberangkatan:
-- Jumlah Kursi:
-- Alamat Penjemputan (Palembang):
-- Alamat Tujuan (Martapura):
+* Toyota Hiace Premio: Kendaraan berkapasitas lega hingga 11 tempat duduk, dilengkapi ruang kaki lebar, AC double blower, dan suspensi lembut yang sangat cocok bagi rombongan instansi atau keluarga besar.
+* Toyota Innova Reborn: Kendaraan berkapasitas 7 tempat duduk dengan bantalan kursi empuk dan kesenyapan kabin tinggi, menjadi pilihan utama para eksekutif yang menginginkan kenyamanan ekstra.
+* Toyota Avanza Veloz: Kendaraan tangguh berkapasitas 6 tempat duduk yang lincah di jalur perkotaan dengan pendingin kabin yang stabil dan konsumsi energi efisien.
 
-Admin kami akan segera mengonfirmasi ketersediaan kursi, detail kendaraan, dan nomor kontak driver yang akan menjemput Anda.
+## Panduan dan Format Reservasi Tiket via WhatsApp
 
----
+Pemesanan tiket dapat dilakukan setiap hari melalui pusat layanan WhatsApp resmi Lincah Travel di nomor 0813-6923-1893. Calon penumpang disarankan memesan kursi satu hari sebelum keberangkatan (H-1), terutama pada jadwal pagi hari atau akhir pekan saat volume perjalanan meningkat.
 
-Butuh perjalanan cepat dan bebas repot ke Martapura? Hubungi Lincah Travel melalui WhatsApp **0813-6923-1893** sekarang untuk amankan kursi Anda.
+Untuk mempercepat konfirmasi pemesanan, silakan kirimkan data perjalanan dengan format berikut:
+
+* Nama Lengkap Penumpang:
+* Tanggal Keberangkatan:
+* Pilihan Jam Trip (Pagi / Siang / Malam):
+* Jumlah Kursi yang Dipesan:
+* Alamat Lengkap Penjemputan di Palembang:
+* Alamat Lengkap Tujuan di Martapura:
+* Nomor Telepon Alternatif:
+
+Petugas admin kami akan segera memeriksa ketersediaan kursi, memberikan rincian kendaraan, serta membagikan nomor kontak pengemudi yang bertugas menjemput Anda tepat waktu di lokasi.

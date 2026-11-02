@@ -43,7 +43,7 @@ Panduan ini merangkum jadwal harian, struktur tarif, rute yang dilalui, dan cara
 
 ### Panjang Rute dan Jalur yang Dilalui
 
-Total jarak tempuh Palembang menuju Batumarta sekitar 230 km. Koridor utamanya melewati ruas Tol Palindra (Palembang-Indralaya), dilanjut Tol Indralaya-Prabumulih, lalu menyusuri Kota Prabumulih, Baturaja, dan Martapura sebelum tiba di kawasan Batumarta.
+Total jarak tempuh Palembang menuju Batumarta sekitar 230 km. Koridor utamanya melewati ruas Tol Palindra (Palembang-Indralaya), dilanjut Tol Indralaya-Prabumulih, lalu menyusuri Kota Prabumulih, Baturaja, dan Martapura sebelum tiba di kawasan Batumarta. Bagi Anda yang memiliki keperluan menuju ibukota OKU Timur, kami juga menyediakan layanan [travel Palembang Martapura](/blog/travel-palembang-martapura-oku-timur) door to door langsung ke perkantoran dinas dan permukiman warga.
 
 Durasi perjalanan berkisar 5 hingga 6 jam tergantung titik tujuan akhir di Batumarta dan kondisi lalu lintas. Akses tol memangkas waktu dibanding harus menembus jalur arteri penuh truk dan pasar tumpah.
 

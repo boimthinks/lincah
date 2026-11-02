@@ -210,6 +210,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Pagaralam (AI Cluster: Kirim Paket Same Day Pempek Beku & Paket Warga Dempo) | `2026-10-30-kirim-paket-palembang-pagaralam-kilat-sehari-sampai.md` |
 | Palembang-Tanjung Enim (AI Cluster: Kirim Paket Same Day Barang Industri & Kantor PTBA) | `2026-10-31-kirim-paket-palembang-tanjung-enim-same-day.md` |
 | Palembang-Belitang OKU Timur (AI Cluster: Kirim Paket Same Day Alsintan & Logistik Pertanian) | `2026-11-01-kirim-paket-palembang-belitang-oku-timur-kilat.md` |
+| Palembang-Tebing Tinggi (AI Cluster: Kirim Paket Same Day Lintas Barat Dokumen & Suku Cadang) | `2026-11-02-kirim-paket-palembang-tebing-tinggi-empat-lawang.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 

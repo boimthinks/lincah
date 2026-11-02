@@ -27,7 +27,7 @@ faq:
 
 Aktivitas niaga dan administrasi antara Kota Palembang dan Martapura memiliki perputaran yang dinamis. Martapura sebagai pusat pemerintahan Kabupaten Ogan Komering Ulu Timur sekaligus gerbang perbatasan Sumatera Selatan dengan Lampung membutuhkan pasokan logistik yang cepat. Dokumen lelang, berkas perkara hukum, hingga suku cadang alat pertanian sering kali tidak dapat menunggu waktu pengiriman ekspedisi reguler.
 
-Jasa titipan bagasi kendaraan penumpang menjadi solusi andalan bagi masyarakat yang membutuhkan kepastian kiriman same day. Bila Anda terbiasa bepergian menggunakan layanan travel palembang martapura untuk urusan perjalanan dinas, ruang bagasi armada tersebut juga dapat difungsikan untuk membawa paket penting Anda hingga tiba di tempat tujuan pada hari yang sama.
+Jasa titipan bagasi kendaraan penumpang menjadi solusi andalan bagi masyarakat yang membutuhkan kepastian kiriman same day. Bila Anda terbiasa bepergian menggunakan layanan [travel Palembang Martapura](/blog/travel-palembang-martapura-oku-timur) untuk urusan dinas maupun keluarga, ruang bagasi armada tersebut juga dapat difungsikan untuk membawa paket penting Anda hingga tiba di tempat tujuan pada hari yang sama.
 
 ## Urgensi Pengiriman Paket Jalur Palembang ke Martapura
 

@@ -59,7 +59,7 @@ Kami menyiapkan armada terbaik yang dirancang untuk kenyamanan perjalanan jauh:
 
 ## Apa yang Membuat Perjalanan Ini Istimewa?
 
-Rute Palembang-Muara Dua adalah salah satu jalur paling menarik di Sumatera Selatan. Sepanjang perjalanan, Anda akan melihat perubahan lanskap yang drastis. Dari Palembang yang datar, Anda akan melewati Baturaja, lalu memasuki wilayah OKU Selatan yang berbukit-bukit.
+Rute Palembang-Muara Dua adalah salah satu jalur paling menarik di Sumatera Selatan. Sepanjang perjalanan, Anda akan melihat perubahan lanskap yang drastis. Dari Palembang yang datar, Anda akan melewati Baturaja, lalu melintasi koridor perkantoran dan perdagangan Martapura, hingga memasuki wilayah OKU Selatan yang berbukit-bukit. Bagi yang ingin singgah atau mengakhiri perjalanan di ibukota OKU Timur, tersedia opsi [travel Palembang Martapura](/blog/travel-palembang-martapura-oku-timur) door to door.
 
 Udara di wilayah OKU Selatan juga terasa lebih sejuk dibanding Palembang. Banyak penumpang kami yang bekerja di Muara Dua sering bercerita bahwa perjalanan ini justru menjadi waktu istirahat terbaik sebelum mulai bekerja kembali.
 

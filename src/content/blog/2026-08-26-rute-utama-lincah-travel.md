@@ -75,7 +75,7 @@ Wisatawan umumnya memesan travel Palembang ke Pagaralam untuk perjalanan 7-8 jam
 
 ## OKU Raya Menuju Muara Dua
 
-Arah selatan membentang dari Prabumulih ke jantung Ogan Komering Ulu. Urutan kotanya Rambang Dangku, Peninjauan, Baturaja, Martapura, lalu mendaki ke Muaradua. Kawasan ini penghasil kopi dan karet, dan jalurnya menyambung ke Banding Agung dekat Danau Ranau.
+Arah selatan membentang dari Prabumulih ke jantung Ogan Komering Ulu. Urutan kotanya Rambang Dangku, Peninjauan, Baturaja, Martapura, lalu mendaki ke Muaradua. Kawasan ini penghasil kopi dan karet, dan jalurnya menyambung ke Banding Agung dekat Danau Ranau. Untuk kebutuhan dinas dan niaga ke ibukota OKU Timur, kami melayani rute khusus [travel Palembang Martapura](/blog/travel-palembang-martapura-oku-timur) door to door.
 
 Pedagang hasil bumi dan wisatawan Danau Ranau jadi penumpang tetap koridor ini. Layanan travel Palembang Muara Dua dibanderol Rp220.000 untuk perjalanan 7-8 jam dengan penjemputan door-to-door. Bagi wisatawan yang melanjutkan perjalanan ke Danau Ranau, armada dapat mengantar sampai Banding Agung karena jalurnya satu garis. Diskusikan titik antarnya saat memesan supaya durasi dan tarifnya dihitung jelas sejak awal.
 

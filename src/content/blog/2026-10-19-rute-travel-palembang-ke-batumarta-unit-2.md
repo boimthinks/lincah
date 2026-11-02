@@ -45,7 +45,7 @@ Kondisi kedua berlaku jika penumpang memesan perjalanan reguler standar non-tol.
 
 Kondisi ketiga sering terjadi di tengah perjalanan saat situasi lalu lintas jalan arteri padat. Jika awalnya rombongan di dalam satu mobil memesan rute non-tol, seluruh penumpang bersama sopir dapat bermusyawarah. Apabila semua penumpang di dalam mobil sepakat untuk mempercepat perjalanan lewat tol, armada akan berbelok masuk gerbang tol terdekat. Penumpang cukup patungan bersama secara merata untuk menanggung biaya kartu tol tambahan tersebut.
 
-Selepas melintasi kawasan Prabumulih, kedua opsi rute tersebut kembali menyatu di jalan arteri Lintas Tengah Sumatera menuju Baturaja, ibukota Kabupaten OKU. Perjalanan berlanjut menyusuri poros penghubung antara Baturaja dan Martapura.
+Selepas melintasi kawasan Prabumulih, kedua opsi rute tersebut kembali menyatu di jalan arteri Lintas Tengah Sumatera menuju Baturaja, ibukota Kabupaten OKU. Perjalanan berlanjut menyusuri poros penghubung antara Baturaja dan Martapura. Bagi penumpang yang tidak berbelok ke unit perkebunan melainkan ingin menuju ibukota kabupaten secara langsung, silakan merujuk pada informasi armada [travel Palembang Martapura](/blog/travel-palembang-martapura-oku-timur) yang melayani drop off door to door.
 
 Titik penting peralihan rute berada di Simpang Batumarta. Simpang ini berada tepat di pertengahan jalur poros utama Baturaja ke Martapura. Saat kendaraan menempuh sekitar 30 sampai 40 menit perjalanan dari pusat Baturaja ke arah Martapura, sopir akan mengambil belokan ke arah kiri. Jalur masuk dari Simpang Batumarta inilah yang membawa penumpang memasuki kawasan perkebunan dan permukiman unit Batumarta.
 

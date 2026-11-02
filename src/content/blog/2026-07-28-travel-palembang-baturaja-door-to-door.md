@@ -56,7 +56,7 @@ Berikut adalah jadwal keberangkatan dan tarif terkini untuk rute Palembang-Batur
 | 17:00 WIB | Rp 200.000 | 4-5 Jam |
 | 20:00 WIB | Rp 200.000 | 4-5 Jam |
 
-Perlu dicatat, tarif Rp 200.000 ini sudah termasuk layanan door-to-door. Tidak ada biaya tambahan untuk penjemputan di lokasi yang masih dalam area kota Palembang. Harga ini juga sudah all-in — tanpa biaya tersembunyi untuk bagasi atau pemberhentian di jalan.
+Perlu dicatat, tarif Rp 200.000 ini sudah termasuk layanan door-to-door. Tidak ada biaya tambahan untuk penjemputan di lokasi yang masih dalam area kota Palembang. Harga ini juga sudah all-in — tanpa biaya tersembunyi untuk bagasi atau pemberhentian di jalan. Untuk rute lanjutan menuju ujung selatan OKU Timur, kami juga melayani armada [travel Palembang Martapura](/blog/travel-palembang-martapura-oku-timur) dengan jadwal rutin setiap hari.
 
 ### Catatan Penting soal Jadwal
 Jadwal pagi (08:00 WIB) paling laris karena banyak penumpang yang ingin sampai di Baturaja sebelum jam makan siang. Sementara jadwal sore dan malam lebih diminati oleh pekerja yang baru selesai tugas di Palembang. Kami sarankan booking minimal H-1 untuk mengamankan kursi, terutama di akhir pekan.
