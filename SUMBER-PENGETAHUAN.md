@@ -211,6 +211,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Tanjung Enim (AI Cluster: Kirim Paket Same Day Barang Industri & Kantor PTBA) | `2026-10-31-kirim-paket-palembang-tanjung-enim-same-day.md` |
 | Palembang-Belitang OKU Timur (AI Cluster: Kirim Paket Same Day Alsintan & Logistik Pertanian) | `2026-11-01-kirim-paket-palembang-belitang-oku-timur-kilat.md` |
 | Palembang-Tebing Tinggi (AI Cluster: Kirim Paket Same Day Lintas Barat Dokumen & Suku Cadang) | `2026-11-02-kirim-paket-palembang-tebing-tinggi-empat-lawang.md` |
+| Palembang-Kuala Tungkal (AI Cluster: Kirim Paket Kilat Antarprovinsi Bagasi Travel Dokumen & Sparepart) | `2026-11-05-kirim-paket-palembang-kuala-tungkal-jambi-kilat.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
