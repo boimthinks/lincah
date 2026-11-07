@@ -11,12 +11,12 @@ pengantar: "Mengetahui durasi waktu tempuh dari Palembang ke berbagai kota kabup
 kesimpulan: "Merencanakan perjalanan darat keluar kota kini lebih mudah dengan kepastian durasi dan kenyamanan layanan door-to-door. Hubungi admin Lincah Travel via WhatsApp di 0813-6923-1893 untuk memesan kursi sesuai jadwal perjalanan Anda."
 tags: ["travel palembang", "travel palembang sekayu", "travel palembang sungai lilin", "travel palembang danau ranau", "waktu tempuh travel"]
 faq:
-  - q: "Sungai Lilin ke Palembang berapa jam naik travel?"
-    a: "Perjalanan dari Sungai Lilin ke Palembang (atau sebaliknya dari Palembang ke Sungai Lilin) memakan waktu normal 2,5 hingga 3 jam dengan jarak tempuh sekitar 110 km melalui Jalur Lintas Timur Sumatera."
   - q: "Sekayu ke Palembang berapa jam perjalanannya?"
     a: "Waktu tempuh dari Sekayu ke Palembang maupun sebaliknya adalah sekitar 2,5 sampai 3 jam perjalanan darat menempuh jarak sekitar 120 km via Lais dan Simpang Betung."
   - q: "Palembang ke Danau Ranau berapa jam perjalanannya?"
     a: "Rute Palembang ke Danau Ranau menempuh jarak sekitar 330 km dengan waktu tempuh rata-rata 8 hingga 9 jam melalui jalur Baturaja dan Muaradua."
+  - q: "Berapa jarak dari Palembang ke Sungai Lilin?"
+    a: "Jarak tempuh dari Kota Palembang menuju Kecamatan Sungai Lilin sekitar 110 km melintasi Pangkalan Balai dan Simpang Betung."
   - q: "Berapa ongkos travel ke Sekayu, Sungai Lilin, dan Danau Ranau?"
     a: "Tarif resmi Lincah Travel adalah Rp180.000 untuk tujuan Sekayu dan Sungai Lilin, serta Rp240.000 per orang untuk rute Danau Ranau."
   - q: "Kapan jam keberangkatan terbaik agar tidak terjebak macet?"
@@ -39,13 +39,11 @@ Rute ini bergerak ke arah barat laut meninggalkan Kota Palembang melewati Talang
 
 Waktu tempuh rata-rata 3 jam ini sangat stabil karena badan jalan di koridor Musi Banyuasin mayoritas sudah beraspal mulus. Calon penumpang yang memiliki agenda rapat di kantor dinas instansi atau Pemkab Muba biasanya memilih keberangkatan pagi pukul 08.00 WIB agar tiba sebelum jam makan siang. Untuk informasi lengkap harga tiket dan armada, simak ulasan kami tentang [Travel Palembang Sekayu](/blog/travel-palembang-sekayu) dan panduan rincian [Ongkos Travel Palembang Sekayu](/blog/ongkos-travel-palembang-sekayu).
 
-## Sungai Lilin ke Palembang Berapa Jam (dan Palembang ke Sungai Lilin)
+## Sungai Lilin Musi Banyuasin
 
-**Waktu tempuh perjalanan dari Sungai Lilin ke Palembang maupun sebaliknya dari Palembang ke Sungai Lilin rata-rata berkisar 2,5 hingga 3 jam dengan jarak tempuh sekitar 110 km.**
+Untuk perjalanan menuju Sungai Lilin, rute mengikuti Jalur Lintas Timur Sumatera lurus ke arah utara melewati Betung dan Babat Supat. Durasi perjalanan normal berkisar 2,5 sampai 3 jam berkendara dengan jarak tempuh sekitar 110 km.
 
-Berbeda dengan arah Sekayu, perjalanan ke Sungai Lilin tetap menyusuri Jalur Lintas Timur (Jalintim) Sumatera lurus ke arah utara setelah melewati Betung. Jalur ini merupakan urat nadi logistik antarprovinsi yang menghubungkan Sumatera Selatan dengan Jambi, sehingga banyak dilintasi pekerja industri kelapa sawit dan pengusaha lokal.
-
-Potensi perlambatan waktu biasanya terjadi di sekitar pasar tumpah Betung atau saat berpapasan dengan konvoi truk angkutan berat. Namun bersama pengemudi kami yang menguasai jam senggang jalur lintas, perjalanan tetap dapat selesai tepat waktu dalam batas 2,5 hingga 3 jam langsung sampai depan pintu rumah. Simak juga detail layanan lengkapnya di artikel [Travel Palembang Sungai Lilin](/blog/travel-palembang-sungai-lilin-door-to-door).
+Jalur ini merupakan urat nadi logistik antarprovinsi yang menghubungkan Sumatera Selatan dengan Jambi. Informasi lengkap mengenai titik jemput kebun, jadwal harian pagi, siang, malam, serta tarif tiket door to door dapat Anda temukan di ulasan utama kami tentang [Travel Palembang Sungai Lilin](/blog/travel-palembang-sungai-lilin-door-to-door).
 
 ## Travel Palembang Danau Ranau Berapa Jam untuk Perjalanan Wisata
 

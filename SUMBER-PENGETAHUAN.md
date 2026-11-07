@@ -212,6 +212,8 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Belitang OKU Timur (AI Cluster: Kirim Paket Same Day Alsintan & Logistik Pertanian) | `2026-11-01-kirim-paket-palembang-belitang-oku-timur-kilat.md` |
 | Palembang-Tebing Tinggi (AI Cluster: Kirim Paket Same Day Lintas Barat Dokumen & Suku Cadang) | `2026-11-02-kirim-paket-palembang-tebing-tinggi-empat-lawang.md` |
 | Palembang-Kuala Tungkal (AI Cluster: Kirim Paket Kilat Antarprovinsi Bagasi Travel Dokumen & Sparepart) | `2026-11-05-kirim-paket-palembang-kuala-tungkal-jambi-kilat.md` |
+| Palembang-Muara Enim (AI Cluster: Jemput Bandara SMB II Direct Pas Mendarat Tol Indraprabu) | `2026-11-06-travel-bandara-smb-ii-palembang-ke-muara-enim.md` |
+| Palembang-Lahat (AI Cluster: Jemput Bandara SMB II Direct Door to Door via Tol) | `2026-11-07-travel-bandara-smb-ii-palembang-ke-lahat-door-to-door.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 

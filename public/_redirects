@@ -67,6 +67,10 @@
 # Redirect blog lama ke artikel pilar utama (301)
 /blog/travel-palembang-prabumulih-jadwal-malam  /blog/travel-palembang-prabumulih  301
 /blog/travel-palembang-prabumulih-jadwal-malam/  /blog/travel-palembang-prabumulih  301
+/blog/travel-palembang-baturaja-2002-bhw-lincah  /blog/travel-palembang-baturaja-door-to-door  301
+/blog/travel-palembang-baturaja-2002-bhw-lincah/  /blog/travel-palembang-baturaja-door-to-door  301
+/blog/travel-palembang-baturaja-jemput-bandara  /blog/travel-palembang-baturaja-door-to-door  301
+/blog/travel-palembang-baturaja-jemput-bandara/  /blog/travel-palembang-baturaja-door-to-door  301
 
 # Serve .html files at extensionless URLs (build.format: 'file') - must run last
 /*  /:splat.html  200

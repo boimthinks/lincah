@@ -1,35 +1,40 @@
 ---
 title: "Travel Palembang Baturaja Door to Door"
-judul_seo: "Travel Palembang Baturaja Door to Door Terbaik 2026: Jadwal, Harga Tiket & Rute"
+judul_seo: "Travel Palembang Baturaja Door to Door Jadwal Tiket dan Jemput Bandara"
 slug: "travel-palembang-baturaja-door-to-door"
-description: "Travel Palembang Baturaja door-to-door mulai Rp200.000. Cek jadwal keberangkatan, pilihan armada Hiace/Innova/Avanza, dan cara booking via WhatsApp 24 jam."
+description: "Travel Palembang Baturaja door to door Rp200.000. Jadwal 4x sehari, jemput Bandara SMB II, Innova dan Hiace sampai pelosok OKU. WA 0813-6923-1893."
 pubDate: "2026-07-28"
+updatedDate: "2026-11-06"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRrTckT_NTxuf8bZtOnqWwcGmopI7J1ftg_5skvzhGqXKkm38gKtM92z4ElIcsTACEDHp0S2WsSRbcr_-5cxbg8a3EAW2VNmhGA8JvPdjkTOCm9xRXZQ-J34Vm_zm3RdCNMAwhGcwRYhPCDQlDFrRzfk5CugjKBbIzJO2DWqsn6hsaw8fUUanalYfVz1w0/s600/travel-palembang-baturaja.webp"
 kategori: "rute"
-pengantar: "Travel Palembang Baturaja door-to-door adalah salah satu rute andalan Lincah Travel dengan tarif paling terjangkau. Dengan harga mulai Rp200.000, Anda bisa menikmati perjalanan 4-5 jam langsung dari depan rumah."
-kesimpulan: "Jangan tunda lagi perjalanan Anda ke Baturaja. Hubungi Lincah Travel via WhatsApp di 0813-6923-1893 untuk booking kursi dan konsultasi jadwal keberangkatan terbaru."
-tags: ["travel palembang baturaja", "travel door-to-door", "harga travel palembang baturaja"]
+pengantar: "Perjalanan dari Palembang ke Baturaja kini semakin praktis tanpa perlu datang ke loket atau stasiun. Lincah Travel menghadirkan layanan door-to-door dengan tarif flat Rp200.000 per orang, menjemput langsung dari rumah atau lobi Bandara SMB II hingga ke depan pintu tujuan Anda di Baturaja."
+kesimpulan: "Perjalanan ke Kabupaten Ogan Komering Ulu kini bebas repot. Hubungi admin WhatsApp Lincah Travel di 0813-6923-1893 untuk booking tiket keberangkatan dan penjemputan alamat."
+tags: ["travel palembang baturaja", "travel door to door", "harga travel palembang baturaja", "jadwal travel baturaja"]
 to: baturaja
 from: palembang
 faq:
   - q: "Berapa tarif travel Palembang Baturaja door-to-door?"
-    a: "Tarif reguler adalah Rp200.000 per orang sekali jalan. Harga ini sudah all-in termasuk fasilitas penjemputan alamat di Palembang, pengantaran door-to-door sampai Baturaja, serta bagasi reguler tanpa biaya tersembunyi."
-  - q: "Apakah dijemput langsung ke alamat rumah di Palembang?"
-    a: "Ya, driver kami menjemput langsung ke alamat rumah, kos, hotel, kantor, maupun titik penjemputan lain di seluruh wilayah Kota Palembang sesuai jadwal yang dipesan."
-  - q: "Apakah layanan travel melayani rute ke kecamatan luar seperti Lengkiti atau Batumarta?"
-    a: "Tentu bisa. Kami melayani pengantaran hingga ke berbagai kecamatan di Ogan Komering Ulu seperti Lengkiti (Lengketi), Sosoh Buay Rayap, kawasan Batumarta (Lubuk Raja), Semidang Aji, hingga Peninjauan."
+    a: "Tarif tiket resmi adalah Rp200.000 per orang sekali jalan. Harga flat ini sudah mencakup penjemputan alamat di Kota Palembang, pengantaran sampai tujuan di Baturaja, dan bagasi reguler."
+  - q: "Apakah melayani penjemputan langsung di Bandara SMB II Palembang?"
+    a: "Ya, kami melayani penjemputan langsung di Bandara Sultan Mahmud Badaruddin II. Penumpang cukup mengabarkan kode penerbangan dan jam mendarat saat pemesanan."
+  - q: "Apa keunggulan Lincah Travel dibanding travel loket seperti 2002 atau BHW?"
+    a: "Lincah Travel menjemput Anda langsung di rumah, hotel, atau bandara tanpa Anda perlu datang ke loket di kawasan 17 Ilir, dengan armada modern ber-AC dan jadwal fleksibel."
   - q: "Berapa jam estimasi perjalanan dari Palembang ke Baturaja?"
-    a: "Durasi rata-rata berkisar 4 hingga 5 jam melewati koridor Prabumulih dengan jarak sekitar 200 km, menyesuaikan kondisi lalu lintas harian."
-  - q: "Pilihan armada apa saja yang tersedia untuk rute ini?"
-    a: "Kami menyediakan Toyota Hiace Premio berkapasitas lega, Toyota Innova Reborn untuk kenyamanan ekstra, serta Toyota Avanza/Veloz yang lincah dan ekonomis."
-  - q: "Bagaimana cara booking travel Palembang Baturaja?"
-    a: "Cukup hubungi WhatsApp resmi Lincah Travel di 0813-6923-1893. Informasikan tanggal, pilihan jam berangkat (08.00, 14.00, 17.00, atau 20.00 WIB), alamat jemput, dan alamat tujuan."
+    a: "Waktu tempuh normal berkisar 4 hingga 5 jam melintasi koridor Indralaya dan Prabumulih dengan jarak sekitar 200 km."
+  - q: "Apakah melayani pengantaran hingga pelosok kecamatan di OKU?"
+    a: "Ya, kami mengantar hingga Baturaja Timur, Baturaja Barat, Lubuk Raja (Batumarta), Lengkiti, Sosoh Buay Rayap, Semidang Aji, hingga Peninjauan."
+  - q: "Kapan saja jadwal keberangkatan harian rute Palembang Baturaja?"
+    a: "Keberangkatan tersedia empat kali sehari, yaitu pukul 08.00 WIB pagi, 14.00 WIB siang, 17.00 WIB sore, dan 20.00 WIB malam."
 ---
 
-Pernahkah Anda merasa repot harus ke terminal atau stasiun hanya untuk naik travel ke luar kota? Atau mungkin Anda sudah bosan dengan bus yang jam keberangkatannya suka molor? Nah, kabar baiknya, perjalanan dari Palembang ke Baturaja kini bisa jauh lebih praktis.
+Perjalanan darat dari Palembang menuju Baturaja merupakan salah satu koridor dengan arus penumpang tertinggi di Sumatera Selatan. Sebagai pusat pemerintahan dan aktivitas niaga di Kabupaten Ogan Komering Ulu (OKU), kota ini rutin dikunjungi oleh pegawai dinas, pebisnis hasil bumi, mahasiswa, hingga keluarga yang pulang kampung.
 
-Bayangkan Anda dijemput tepat di depan rumah, kantor, atau kos-kosan. Tanpa perlu angkutan tambahan, tanpa perlu menunggu lama. Duduk manis di kursi ber-AC, dan dalam 4-5 jam Anda sudah sampai di kota Baturaja. Inilah kenyamanan yang kami tawarkan setiap hari bersama layanan travel Palembang dari Lincah Travel.
+Jarak tempuh sejauh 200 km melalui koridor Prabumulih membutuhkan kendaraan yang nyaman agar stamina tetap terjaga. Naik angkutan umum biasa sering kali merepotkan karena Anda harus membawa koper ke pangkalan atau terminal terlebih dahulu.
+
+Layanan travel palembang baturaja dari Lincah Travel menghadirkan kenyamanan penuh dengan sistem antar jemput door to door. Pengemudi kami siap menjemput Anda langsung dari alamat rumah, kos, kantor, hingga gerbang kedatangan bandara, lalu melaju langsung menuju Baturaja dengan tarif flat Rp200.000 per orang.
+
+Bagi calon penumpang yang membutuhkan mobilitas antar kota yang terorganisasi, operator travel palembang siap melayani jadwal harian dengan pilihan armada terbaik.
 
 ## Tonton: Perjalanan Travel Palembang – Baturaja
 
@@ -39,90 +44,71 @@ Berikut video ringkas layanan travel door-to-door Lincah Travel rute Palembang k
   <iframe src="https://www.youtube.com/embed/_Ky2HYwNfFM" title="Travel Palembang Baturaja Door to Door - Lincah Travel" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Kenapa Rute Palembang-Baturaja Layak Dilirik?
+## Jadwal Keberangkatan dan Ongkos Tiket Flat
 
-Baturaja bukan sekadar kota kecil — ini adalah pusat perdagangan dan pendidikan di Kabupaten Ogan Komering Ulu. Setiap hari, puluhan penumpang bolak-balik dari Palembang untuk urusan dinas, kuliah, atau pulang kampung. Jarak tempuh sekitar 200 km via jalur Prabumulih memang tidak terlalu jauh, tapi perjalanan ini bisa terasa melelahkan kalau kendaraannya tidak nyaman.
+Lincah Travel mengoperasikan empat kali keberangkatan setiap hari agar penumpang leluasa menyesuaikan waktu dengan agenda masing-masing:
 
-Dari pengalaman kami melayani rute ini, sebagian besar penumpang memilih travel door-to-door karena satu alasan utama: efisiensi waktu. Anda tidak perlu menyisihkan 1-2 jam hanya untuk perjalanan menuju terminal. Cukup siap-siap di rumah, driver kami jemput, dan langsung berangkat.
-
-## Jadwal Keberangkatan dan Harga Tiket 2026
-
-Berikut adalah jadwal keberangkatan dan tarif terkini untuk rute Palembang-Baturaja:
-
-| Keberangkatan | Harga Tiket | Durasi |
+| Jadwal Berangkat | Estimasi Tiba di Baturaja | Rekomendasi Waktu Perjalanan |
 |---|---|---|
-| 08:00 WIB | Rp 200.000 | 4-5 Jam |
-| 14:00 WIB | Rp 200.000 | 4-5 Jam |
-| 17:00 WIB | Rp 200.000 | 4-5 Jam |
-| 20:00 WIB | Rp 200.000 | 4-5 Jam |
+| 08.00 WIB (Pagi) | 12.00 - 13.00 WIB | Tiba sebelum jam kantor selesai atau waktu check-in hotel |
+| 14.00 WIB (Siang) | 18.00 - 19.00 WIB | Pilihan santai sehabis agenda kerja setengah hari di Palembang |
+| 17.00 WIB (Sore) | 21.00 - 22.00 WIB | Berangkat setelah jam kantor Palembang usai |
+| 20.00 WIB (Malam) | 00.00 - 01.00 WIB | Perjalanan malam yang lengang dan bebas macet jalanan |
 
-Perlu dicatat, tarif Rp 200.000 ini sudah termasuk layanan door-to-door. Tidak ada biaya tambahan untuk penjemputan di lokasi yang masih dalam area kota Palembang. Harga ini juga sudah all-in — tanpa biaya tersembunyi untuk bagasi atau pemberhentian di jalan. Untuk rute lanjutan menuju ujung selatan OKU Timur, kami juga melayani armada [travel Palembang Martapura](/blog/travel-palembang-martapura-oku-timur) dengan jadwal rutin setiap hari.
+Tarif tiket travel Palembang Baturaja adalah Rp200.000 flat per orang. Ongkos ini sudah mencakup penjemputan di wilayah Kota Palembang serta pengantaran alamat di Baturaja tanpa ada biaya tersembunyi untuk bagasi standar.
 
-### Catatan Penting soal Jadwal
-Jadwal pagi (08:00 WIB) paling laris karena banyak penumpang yang ingin sampai di Baturaja sebelum jam makan siang. Sementara jadwal sore dan malam lebih diminati oleh pekerja yang baru selesai tugas di Palembang. Kami sarankan booking minimal H-1 untuk mengamankan kursi, terutama di akhir pekan.
+Jika Anda berencana melanjutkan perjalanan lebih jauh ke arah selatan OKU Timur, kami juga menyediakan layanan rutin [travel Palembang Martapura](/blog/travel-palembang-martapura-oku-timur) setiap harinya.
 
-Ingin melihat rincian dan panduan memilih tiap slot waktu? Simak juga artikel **[Jadwal Travel Palembang Baturaja Terbaru](/blog/jadwal-travel-palembang-baturaja-terbaru)** untuk penjelasan lengkap jadwal pagi, siang, sore, dan malam.
+## Keunggulan Jemput Alamat Dibanding Datang ke Loket
 
-## Pilihan Armada untuk Rute Baturaja
+Sebagian masyarakat mungkin sudah mengenal operator konvensional seperti Travel 2002 atau Travel BHW yang memiliki loket di Jalan Sayangan dan Jalan TP Rustam Effendi kawasan 17 Ilir. Begitu pula kereta api rute Stasiun Kertapati menuju Baturaja.
 
-Kami tidak menggunakan kendaraan sembarangan. Setiap armada Lincah Travel melewati pemeriksaan rutin sebelum berangkat. Untuk rute Palembang-Baturaja, ada tiga pilihan yang bisa Anda sesuaikan dengan kebutuhan.
+Meskipun pilihan tersebut sudah lama beroperasi, ada sejumlah kendala umum yang sering dihadapi penumpang:
 
-### Toyota Hiace Premio — Untuk Rombongan
-Kapasitas 11 penumpang dengan full AC double blower, reclining premium seats, dan USB charger di setiap baris. Cocok untuk perjalanan bersama keluarga besar atau rombongan kantor. Suspensinya yang empuk membuat perjalanan 4-5 jam terasa lebih singkat.
+- **Harus Datang Sendiri ke Loket**: Penumpang wajib mengeluarkan ongkos taksi atau ojek daring tambahan untuk menuju loket di pusat kota yang sering padat lalu lintas.
+- **Jadwal Kereta Terbatas**: Kereta api hanya melayani keberangkatan pada jam tertentu, sehingga tiket cepat habis dan waktu tidak fleksibel.
+- **Bawaan Barang Berat**: Memindahkan barang bawaan dari rumah ke stasiun atau loket sangat menguras tenaga, terutama bagi keluarga yang membawa anak kecil.
 
-Salah satu penumpang setia kami, **Rian Hidayat**, pengusaha asal Palembang, pernah bercerita: *"Penjemputan tepat waktu, dapet Hiace Premio lagi. Kursinyo lapan, dingin, dapet free charge hp. Terbaik pokoknyo!"*
+Lincah Travel mengisi celah tersebut. Pengemudi kami datang langsung ke depan pintu Anda di seluruh penjuru Kota Palembang, baik di kawasan Ilir Barat, Alang-Alang Lebar, Sukarami, Plaju, hingga Jakabaring. Anda cukup bersiap di rumah tanpa perlu repot keluar mencari kendaraan sambungan.
 
-### Toyota Innova Reborn — Privasi Eksklusif
-Dengan kapasitas 7 penumpang dan captain seats, armada ini cocok untuk perjalanan dinas yang membutuhkan privasi lebih. Ruang kaki yang lapang dan AC yang dingin membuat perjalanan terasa seperti naik mobil pribadi.
+## Layanan Khusus Penjemputan Bandara SMB II
 
-### Toyota Avanza/Veloz — Ekonomis dan Andal
-Pilihan paling ekonomis untuk perjalanan 1-4 orang. Dengan tarif yang sama Rp 200.000, Anda tetap mendapatkan kenyamanan AC double blower dan driver profesional.
+Bagi Anda yang baru tiba dari Jakarta, Batam, atau kota lain melalui Bandara Internasional Sultan Mahmud Badaruddin II (SMB II), Lincah Travel melayani penjemputan direct langsung ke Baturaja.
 
-## Apa Kata Pelanggan Lincah Travel?
+Alur pemesanan jemputan bandara:
+1. Cantumkan maskapai penerbangan, nomor penerbangan, dan estimasi jam mendarat saat memesan melalui WhatsApp.
+2. Tim admin mencocokkan jadwal mendarat Anda dengan jadwal keberangkatan armada terdekat.
+3. Begitu pesawat Anda mendarat dan bagasi diambil, pengemudi kami telah siap berkoordinasi di area penjemputan terminal bandara.
+4. Anda langsung berangkat menuju Baturaja tanpa perlu memesan taksi bandara menuju pusat kota Palembang terlebih dahulu.
 
-Meski rute Baturaja termasuk jarak pendek, kami selalu berusaha memberikan pelayanan terbaik. Kepuasan penumpang adalah prioritas nomor satu. Tim admin kami juga terkenal fast response — rata-rata menjawab pertanyaan booking dalam waktu kurang dari 5 menit.
+Untuk memastikan keteraturan jadwal bagi seluruh penumpang dalam armada, pemesanan rute jemputan bandara disarankan dilakukan minimal H-1 sebelum keberangkatan.
 
-Seperti yang dirasakan Rian Hidayat tadi, ketepatan waktu jemput menjadi nilai plus yang sering disebut pelanggan. Bayangkan, Anda punya rapat penting di Baturaja jam 9 pagi. Dengan jadwal berangkat 08:00 WIB, Anda akan tiba sekitar jam 12 siang — masih cukup untuk istirahat sebentar sebelum mulai aktivitas.
+## Jangkauan Area Antar Door to Door hingga Pelosok OKU
 
-## Cara Pesan Travel Palembang-Baturaja
+Layanan antar jemput Lincah Travel menjangkau area permukiman, sentra niaga, perkantoran, dan kawasan transmigrasi di seluruh wilayah Kabupaten Ogan Komering Ulu:
 
-Proses pemesanannya sederhana dan cepat. Pertama, siapkan detail penjemputan: alamat lengkap, nomor telepon yang bisa dihubungi, dan jadwal keberangkatan yang diinginkan.
+- **Baturaja Timur**: Meliputi kelurahan Kemalaraja, Pasar Lama, Pasar Atas, Sukaraya, Sekarjaya, hingga kawasan perumahan Baturaja Permai dan RSUD Ibnu Sutowo.
+- **Baturaja Barat**: Area Tanjung Agung, Talang Jawa, Air Gading, dan Saung Naga.
+- **Kawasan Perkebunan dan Transmigrasi Lubuk Raja**: Area Batumarta unit 1 hingga unit sekitarnya siap kami antarkan langsung ke depan pagar rumah warga.
+- **Kecamatan Koridor Sekitarnya**: Pengantaran meliputi rute Lengkiti, Sosoh Buay Rayap, Semidang Aji, Pengandonan, Muara Jaya, Ulu Ogan, serta jalur Peninjauan dan Kedaton Peninjauan Raya.
 
-Kedua, kirim pesan ke **0813-6923-1893** melalui WhatsApp. Tim admin kami akan merespon dan mengkonfirmasi ketersediaan kursi.
+Untuk mempermudah pengemudi, cukup cantumkan patokan lokasi seperti nama jalan, nomor rumah, masjid, atau kantor instansi terdekat saat reservasi.
 
-Ketiga, setelah booking dikonfirmasi, Anda tinggal menunggu driver kami menjemput di alamat yang didaftarkan. Pembayaran bisa dilakukan di tempat (transfer atau tunai).
+## Pilihan Armada Terawat untuk Koridor Selatan
 
-## Tips Perjalanan Nyaman ke Baturaja
+Kenyamanan selama 4 hingga 5 jam perjalanan didukung oleh kondisi armada yang selalu bersih dan berpendingin udara dingin:
 
-Ada beberapa hal yang bisa membuat perjalanan Palembang-Baturaja Anda semakin nyaman:
+- **Toyota Hiace Premio**: Kapasitas lega hingga 11 tempat duduk, peredaman kabin senyap, suspensi empuk, dan colokan charger di setiap baris kursi. Sangat cocok bagi rombongan keluarga atau dinas kantor.
+- **Toyota Innova Reborn**: Pilihan tepat untuk perjalanan dinas pribadi yang mendambakan ruang kaki lapang dan ketenangan selama perjalanan.
+- **Toyota Avanza dan Veloz**: Pilihan lincah dan ekonomis berkapasitas 5 sampai 6 orang untuk perjalanan keluarga kecil.
 
-### 1. Pilih Waktu yang Pas
-Jadwal 08:00 WIB cocok untuk Anda yang ingin tiba pagi. Tapi kalau tidak suka bangun pagi, jadwal 14:00 WIB atau 17:00 WIB bisa jadi alternatif. Perjalanan di sore hari biasanya lebih sejuk dan pemandangan jalur Prabumulih cukup indah.
+## Cara Booking Tiket Travel Palembang Baturaja
 
-### 2. Manfaatkan USB Charger
-Bawa kabel data Anda. Di armada Hiace Premio, ada USB charger di setiap baris kursi. Anda bisa mengisi daya ponsel selama perjalanan. Cocok untuk yang suka nonton atau kerja di jalan.
+Pemesanan tiket Lincah Travel berjalan praktis melalui komunikasi WhatsApp:
 
-### 3. Koordinasi Titik Jemput
-Pastikan Anda memberikan alamat dengan patokan yang jelas. Misalnya: "Depan Indomaret Jalan Merdeka No. 10" atau "Sebelah Masjid Agung Palembang". Ini membantu driver menemukan lokasi lebih cepat.
+1. Simpan dan hubungi nomor WhatsApp resmi **0813-6923-1893**.
+2. Tuliskan rute yang diinginkan (Palembang ke Baturaja atau sebaliknya), tanggal, pilihan jam berangkat, jumlah penumpang, serta alamat jemput dan antar.
+3. Admin mengonfirmasi ketersediaan kursi dan jadwal penjemputan.
+4. Pengemudi akan menghubungi Anda saat hendak menuju titik jemput. Pembayaran dapat dilakukan via transfer rekening resmi maupun tunai kepada pengemudi saat keberangkatan.
 
-### 4. Datang Tepat Waktu
-Layanan door-to-door berarti driver akan menjemput sesuai jadwal. Usahakan sudah siap 5-10 menit sebelum waktu jemput agar perjalanan tidak molor.
-
-## Jangkauan Area Antar Door-to-Door hingga Pelosok OKU
-
-Layanan *door-to-door* Lincah Travel tidak terbatas hanya pada kawasan protokol pusat Kota Baturaja saja. Mengingat luasnya wilayah Kabupaten Ogan Komering Ulu (OKU) dengan beragam sentra aktivitas perkebunan, pertanian, dan perdagangan, kami melayani titik antar langsung ke berbagai kecamatan:
-
-- **Pusat Bisnis & Pemerintahan Baturaja**: Meliputi kecamatan **Baturaja Timur** (seperti Kemalaraja, Pasar Lama, Pasar Atas, Sukaraya, Sekarjaya, Baturaja Permai) dan **Baturaja Barat** (Tanjung Agung, Talang Jawa, Air Gading, Saung Naga). Penumpang kami antarkan tepat ke alamat kantor instansi dinas, RSUD Ibnu Sutowo, hotel/penginapan, maupun perumahan warga.
-- **Kawasan Perkebunan & Permukiman Transmigrasi**: Untuk Anda yang memiliki keperluan atau perjalanan pulang kampung ke kawasan **Lengkiti** (biasa disebut warga lokal Lengketi), permukiman **Lubuk Raja** (kawasan Batumarta I hingga unit sekitarnya), serta wilayah **Sosoh Buay Rayap**, driver kami siap mengantar hingga depan gerbang rumah.
-- **Kecamatan Koridor & Jalur Poros Tengah**: Kami melayani titik turun di sepanjang jalan lintas **Lubuk Batang**, **Semidang Aji**, **Pengandonan**, **Muara Jaya**, hingga wilayah **Ulu Ogan**.
-- **Kawasan Jalur Lintas Timur OKU**: Meliputi area **Peninjauan**, **Kedaton Peninjauan Raya**, serta kawasan perkampungan **Sinar Peninjauan**.
-
-Untuk penjemputan di Palembang maupun pengantaran ke pelosok desa di Baturaja, cukup berikan patokan alamat yang jelas (seperti gang, nomor rumah, atau masjid terdekat) saat reservasi via WhatsApp agar pengemudi kami dapat mengatur rute perjalanan dengan lancar.
-
-## Solusi Tepat Perjalanan ke Baturaja
-
-Intinya, rute Palembang-Baturaja adalah salah satu yang paling sering kami layani. Dengan harga terjangkau, jadwal fleksibel, dan layanan door-to-door, Anda tidak perlu lagi repot mengurus transportasi sendiri.
-
-Jadi, kalau Anda ada rencana ke Baturaja dalam waktu dekat — entah untuk dinas, kuliah, atau silaturahmi keluarga — jangan ragu untuk menghubungi tim Lincah Travel. Tim admin kami siap membantu 24/7 untuk booking kursi dan konsultasi rute.
-
-Butuh bantuan memilih jadwal keberangkatan yang tepat? Langsung saja klik tombol WhatsApp di website ini atau hubungi **0813-6923-1893** untuk informasi lebih lanjut. Konsultasi GRATIS, booking mudah, perjalanan nyaman.
+Pesan tiket Anda sekarang juga untuk mendapatkan kepastian kursi dan perjalanan yang tenang, tepat waktu, serta nyaman bersama Lincah Travel.

@@ -20,8 +20,18 @@
 - **Aturan Wajib Anti-Duplikasi Artikel**: Sebelum memberi saran judul, ide topik, atau menulis artikel blog baru, Agent **WAJIB membaca/memindai daftar file nyata di `src/content/blog/`** secara langsung (bukan hanya mengandalkan catatan di markdown).
 - **Peringatan Proaktif & Pencegahan Kanibalisasi Kata Kunci (Keyword Cannibalization)**:
   - Agent **WAJIB secara tegas dan proaktif mengingatkan pengguna** jika ide, outline, atau permintaan artikel baru berisiko memicu kanibalisasi kata kunci dengan artikel yang sudah ada.
-  - Jika kata kunci target utama suatu rute sudah memiliki artikel pilar, **JANGAN membuat artikel baru** dengan target intent yang bersaing. Alih-alih membuat file baru, arahkan pengguna untuk melakukan **revamp/update konten mendalam** pada artikel pilar yang sudah ada.
-  - Bila artikel pendukung tetap dibuat, pastikan sudut pandang (*angle*) dan *search intent*-nya benar-benar spesifik/berbeda (misal: murni studi kasus musim hujan, panduan perjalanan dinas B2B, atau jasa titip paket kargo), dan wajib mengarahkan internal link ke artikel pilar utama sebagai pusat otoritas rute tersebut.
+  - **Prinsip Otoritas Tunggal (1 Rute = 1 Artikel Pilar Penumpang)**:
+    - Setiap rute travel penumpang hanya boleh memiliki **satu artikel pilar utama** yang mencakup: ongkos, jadwal, durasi (berapa jam), jemputan bandara, dan armada door-to-door.
+    - **DILARANG KERAS** membuat file artikel baru terpisah untuk hal-hal yang merupakan fitur/detail dari rute tersebut (misal: dilarang membuat artikel terpisah khusus "jadwal travel X", "travel X jemput bandara", "berapa jam ke X", atau "komparasi travel X vs kompetitor").
+    - Jika ada ide, sudut pandang baru, atau data operasional tambahan seputar rute tersebut, Agent **WAJIB MENOLAK** pembuatan file baru dan mengarahkan untuk melakukan **REVAMP / ENRICHMENT** pada artikel pilar yang sudah ada.
+  - **Protokol Pra-Penulisan (Gatekeeper Wajib Sebelum Menulis)**:
+    - Sebelum menulis artikel blog baru, Agent **WAJIB** mengecek daftar file nyata via grep di `src/content/blog/` untuk kota tujuan terkait.
+    - Jika sudah ada artikel pilar rute tersebut: **TOLAK** pembuatan artikel baru, tawarkan update artikel pilar.
+    - Satu-satunya artikel rute kedua yang diizinkan untuk kota yang sama adalah **Artikel Jasa Kirim Paket Barang (Same-Day Cargo)**, dengan syarat mutlak: artikel paket dilarang menargetkan kata kunci penumpang/tiket travel dan wajib memberi backlink ke artikel pilar travel penumpang.
+  - **Aturan Penulisan Artikel Komparasi Multi-Rute / Round-Up (Misal: "Berapa Jam Tempuhnya")**:
+    - Dilarang membuat heading H2 atau H3 yang menargetkan keyword komersial rute yang sudah punya artikel pilar.
+    - Dilarang menduplikasi pertanyaan FAQ rute lain di dalam artikel komparasi agar skema FAQPage tidak saling memakan di SERP Google.
+    - Pembahasan rute yang sudah memiliki artikel pilar cukup ditulis ringkas (1-2 paragraf) sebagai rujukan pengantar dan wajib memberikan tautan internal (*anchor text*) ke artikel pilar rute bersangkutan.
 - Saat diminta menulis, mengedit, atau memberi saran judul artikel blog, baca `src/content/blog/` and `SUMBER-PENGETAHUAN.md` (di root project) untuk data brand, rute, harga, armada, testimoni, frontmatter schema. Untuk detail geografi/koridor rute (daerah yang dilewati, junction, karakteristik jalur), baca juga `PENGETAHUAN-KORIDOR-RUTE.md` di root project.
 - **Alur Kerja Wajib Penulisan Artikel (Dua Tahap Berjenjang)**:
   1. **Tahap 1 (Riset Keyword & Entity Mapping)**: Agent **WAJIB** menjalankan skill **`pakar-entity-seo`** terlebih dahulu untuk mengekstraksi target keyword (LSI/long-tail), memetakan entitas semantik (Knowledge Graph/Schema.org), serta merancang outline berbasis E-E-A-T dan konteks lokal.
