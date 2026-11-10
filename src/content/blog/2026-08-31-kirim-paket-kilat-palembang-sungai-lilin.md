@@ -104,4 +104,4 @@ Kiriman yang dilengkapi informasi jelas jauh lebih kecil kemungkinannya tertukar
 
 Kirim paket ke Sungai Lilin tidak perlu menunggu berhari-hari. Hubungi Lincah Travel melalui WhatsApp di **0813-6923-1893**, tuliskan isi, ukuran, dan alamat tujuan. Admin akan memberikan estimasi biaya dan jadwal keberangkatan paling cepat dalam hitungan menit.
 
-Dokumen penting, suku cadang mesin, sampai kardus barang diantar langsung sampai pintu tujuan di Sungai Lilin dan kecamatan sekitarnya di Musi Banyuasin. Barang berangkat hari ini, tiba di hari yang sama. Untuk info jadwal dan harga penumpang, baca juga artikel [travel Palembang ke Sungai Lilin](https://lincahtravel.web.id/blog/travel-palembang-sungai-lilin-door-to-door).
+Dokumen penting, suku cadang mesin, sampai kardus barang diantar langsung sampai pintu tujuan di Sungai Lilin dan kecamatan sekitarnya di Musi Banyuasin. Barang berangkat hari ini, tiba di hari yang sama. Untuk info jadwal dan harga penumpang, baca juga artikel [travel Palembang ke Sungai Lilin](/blog/travel-palembang-sungai-lilin-door-to-door).

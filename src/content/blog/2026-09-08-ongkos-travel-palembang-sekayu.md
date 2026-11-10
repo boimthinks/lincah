@@ -78,7 +78,7 @@ Carter satu mobil penuh cocok untuk rombongan dinas pemerintahan, tim proyek, at
 
 Angka ini untuk rombongan delapan hingga sebelas orang. Semakin banyak penumpang, semakin murah biaya per orang karena tarif dihitung per armada, bukan per kepala.
 
-Carter Innova Reborn untuk tujuan sama diinformasikan via admin karena bergantung durasi dan jumlah titik antar. Penjelasan lengkap skema carter di koridor Musi Banyuasin bisa dibaca di artikel [carter travel HiAce rombongan Musi Banyuasin](https://lincahtravel.web.id/blog/carter-travel-hiace-rombongan-musi-banyuasin).
+Carter Innova Reborn untuk tujuan sama diinformasikan via admin karena bergantung durasi dan jumlah titik antar. Penjelasan lengkap skema carter di koridor Musi Banyuasin bisa dibaca di artikel [carter travel HiAce rombongan Musi Banyuasin](/blog/carter-travel-hiace-rombongan-musi-banyuasin).
 
 Keuntungan carter antara lain bebas menentukan jam jalan, tidak bergabung dengan penumpang lain, dan satu invoice untuk laporan dinas. Itu yang membuat instansi sering memilih carter daripada memesan tiket terpisah.
 
@@ -166,4 +166,4 @@ Rute sekoridor juga bisa dijadikan rujukan jika tujuan Anda melenceng sedikit da
 
 Pilih kelas layanan sesuai bujet dan kebutuhan agenda Anda. Untuk satu sampai tujuh orang, tiket reguler Rp180.000 per kepala sudah mencakup jemput-antar alamat. Untuk rombongan besar, carter HiAce Premio sekitar Rp1,8 juta lebih masuk akal per orang.
 
-Jasa travel door to door <a href="/palembang/sekayu">travel Palembang Sekayu</a> dari Lincah Travel memberi kepastian ongkos tanpa biaya tersembunyi. Hubungi WhatsApp 0813-6923-1893 untuk konfirmasi titik jemput, ketersediaan kursi, dan pemesanan di jadwal 08.00, 13.00, atau 16.00 WIB.
+Jasa travel door to door [travel Palembang Sekayu](/palembang/sekayu) dari Lincah Travel memberi kepastian ongkos tanpa biaya tersembunyi. Hubungi WhatsApp 0813-6923-1893 untuk konfirmasi titik jemput, ketersediaan kursi, dan pemesanan di jadwal 08.00, 13.00, atau 16.00 WIB.

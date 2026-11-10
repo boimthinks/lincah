@@ -8,7 +8,7 @@ author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgKBFBkG5scNpdFds9ZFqAQCaNiVzjs7LTvZu38OZBZEWI3AldCyUv40Z8v62HlYgBbKZlbT73fC3qP22LMeyY2SnVdXfQ616u6F1SK3Y4uKJkBig4O6jbM508GdBdc1_fKmibhy8PMX-Tlk2PYaVFIhg4XeUf0jv6fH2e0tJJf18Gqc59BgEfgkwBy-Ij/s600/travel-palembang-tanjung-enim.webp"
 kategori: "rute"
 pengantar: "Travel Palembang ke Tanjung Enim dekat Muara Enim akan lebih nyaman jika penjemputan mengarah ke alamat rumah atau kantor. Lincah Travel melayani rute ini dengan armada Hiace Premio full AC dan driver profesional yang hafal jalur tol maupun daerah."
-kesimpulan: "Booking travel ke Tanjung Enim berbasis Palembang kini lebih mudah melalui WhatsApp 6281369231893. Daftar rute lengkap yang tersedia di lincahtravel.web.id/muat lebih banyak pilihan perjalanan yang nyaman dan aman untuk Anda."
+kesimpulan: "Booking travel ke Tanjung Enim berbasis Palembang kini lebih mudah melalui WhatsApp 0813-6923-1893. Dapatkan layanan door to door yang aman, nyaman, dan tepat waktu untuk perjalanan dinas maupun keluarga Anda."
 tags: ["travel", "palembang", "tanjung-enim", "door-to-door"]
 ---
 
