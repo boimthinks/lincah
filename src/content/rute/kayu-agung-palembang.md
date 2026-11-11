@@ -1,29 +1,31 @@
 ---
 from: kayu agung
 to: palembang
-price: 100000
+price: 150000
 duration: 1.5 Jam
 departureTimes: ["Setiap Jam (07:00 - 18:00)"]
 type: sumatera selatan
 distance: 65 km
-description: Travel Kayu Agung ke Palembang — 1,5 jam, Rp 100.000 via tol. Setiap jam, armada AC, door-to-door. Booking sekarang!
+description: Travel Kayu Agung ke Palembang — 1,5 jam lewat jalur arteri, Rp 150.000. Setiap jam, armada AC, door-to-door. Booking sekarang!
 img: src\content\city-images.md
 ---
 
-Kayu Agung kini lebih dekat dengan Palembang berkat akses tol yang efisien. Hanya 1,5 jam perjalanan, Anda bisa berpindah antara kedua kota untuk keperluan bisnis, pekerjaan, atau keluarga. Lincah Travel menyediakan layanan yang cepat dengan jadwal yang sangat fleksibel.
+Kayu Agung kini lebih dekat dengan Palembang lewat jalur arteri sisi tenggara yang stabil. Hanya 1,5 jam perjalanan, Anda bisa berpindah antara kedua kota untuk keperluan bisnis, pekerjaan, atau keluarga. Lincah Travel menyediakan layanan yang cepat dengan jadwal yang sangat fleksibel.
+
+Armada berangkat dari Kayu Agung melewati Teluk Gelam, Tanjung Raja, Indralaya, dan Pemulutan sebelum masuk Palembang melalui Kertapati atau Jakabaring. Jalur ini tidak bergantung pada gerbang bebas hambatan, sehingga waktu jemput di titik mana pun sepanjang koridor tetap fleksibel.
 
 ## Mengapa Lincah Travel untuk Rute Kayu Agung-Palembang?
 
-*   **Efisiensi Waktu:** Memanfaatkan tol secara optimal, Anda sampai lebih cepat bebas dari macet.
+*   **Efisiensi Waktu:** Jalur arteri langsung sisi tenggara, waktu tempuh tetap sekitar 1,5 jam tanpa bergantung pada kondisi gerbang bebas hambatan.
 *   **Door-to-Door:** Penjemputan di alamat Anda di Kayu Agung dan pengantaran tepat di tujuan di Palembang.
 *   **Jadwal Rutin:** Keberangkatan setiap jam (07.00 - 18.00 WIB), praktis untuk mobilitas tinggi.
-*   **Harga Ekonomis:** Cukup Rp 100.000 untuk perjalanan cepat dan nyaman.
+*   **Harga Ekonomis:** Cukup Rp 150.000 untuk perjalanan cepat dan nyaman.
 
 ## Jadwal Keberangkatan
 
 | Waktu | Keterangan |
 |-------|-----------|
-| Setiap Jam (07.00 - 18.00 WIB) | Rutin setiap jam via tol |
+| Setiap Jam (07.00 - 18.00 WIB) | Rutin setiap jam lewat jalur arteri |
 
 ## Tips Perjalanan
 
@@ -52,7 +54,7 @@ Lincah Travel menjemput penumpang rute Kayu Agung–Palembang dari seluruh area 
 
 Titik turun umum untuk rute Kayu Agung–Palembang di antaranya:
 
-*   **Gerbang Exit Tol Kramasan & Tol Jakabaring**
+*   **Kawasan Jakabaring & Kertapati**
 *   **Aston Palembang Hotel & Conference Center**
 *   **Stasiun LRT Ampera & Kawasan Wisata BKB (Benteng Kuto Besak)**
 *   **Dermaga Point Ampera & Jembatan Ampera**

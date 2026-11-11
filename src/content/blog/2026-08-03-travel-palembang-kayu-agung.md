@@ -2,21 +2,21 @@
 title: "Travel Palembang Kayu Agung"
 judul_seo: "Travel Palembang Kayu Agung: Harga, Jadwal & Nomor WA"
 slug: "travel-palembang-kayu-agung-door-to-door"
-description: "Travel Palembang Kayu Agung Rp100.000 door-to-door. Jadwal harian 07-18 WIB. Perjalanan 1,5 jam via Tol Trans-Sumatera. Nomor WA 0813-6923-1893."
+description: "Travel Palembang Kayu Agung Rp150.000 door-to-door. Jadwal harian 07-18 WIB. Perjalanan 1,5 jam lewat jalur arteri. Nomor WA 0813-6923-1893."
 pubDate: "2026-08-03"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPzvPyzabaNHVDvA7nQ3o6OknNBiFaYR4jtNoOjk9Vgu1x98Hu2j_nx178a61N6f9IJhgTn2SQElizLpSnUhagWrxKPNVVRNiULHvluH1Unh6tRa54DmnB3Ud9Jx46-PcrJPUfOFpVu7BU4HKpO38bS666fP6g9Vzugi40ejv1yUvA_lQvoByUdkAQaxk/s600/travel-palembang-kayu-agung.webp"
 kategori: "rute"
-pengantar: "Hanya 1,5 jam via Tol Trans-Sumatera, Anda sudah bisa menjelajahi Kayu Agung dari Palembang. Kota ini menawarkan beragam destinasi wisata menarik, dari taman rekreasi terbesar di Sumsel hingga danau indah untuk memancing. Bersama Lincah Travel, perjalanan Anda akan lebih nyaman dan praktis."
+pengantar: "Hanya 1,5 jam lewat jalur arteri tenggara, Anda sudah bisa menjelajahi Kayu Agung dari Palembang. Kota ini menawarkan beragam destinasi wisata menarik, dari taman rekreasi terbesar di Sumsel hingga danau indah untuk memancing. Bersama Lincah Travel, perjalanan Anda akan lebih nyaman dan praktis."
 kesimpulan: "Siap mengeksplor kayu agung? Hubungi Lincah Travel via WhatsApp di 0813-6923-1893 untuk booking kursi dan konsultasi jadwal keberangkatan."
 tags: ["travel palembang kayu agung", "travel door-to-door", "wisata kayu agung", "dinesti land", "danau teloko"]
 from: palembang
 to: kayu agung
 faq:
   - q: "Berapa harga tiket travel Palembang Kayu Agung?"
-    a: "Tarif resmi adalah Rp 100.000 per orang untuk sekali jalan door-to-door, sudah termasuk tarif jalan tol Trans-Sumatera tanpa biaya tersembunyi."
+    a: "Tarif resmi adalah Rp 150.000 per orang untuk sekali jalan door-to-door, sudah termasuk seluruh biaya operasional armada dan bahan bakar tanpa pungutan tambahan."
   - q: "Berapa lama waktu tempuh travel Palembang ke Kayu Agung?"
-    a: "Waktu tempuh sekitar 1,5 jam menempuh jarak kurang lebih 65 km via Tol Kayu Agung-Palembang-Betung (Kapalbetung)."
+    a: "Waktu tempuh sekitar 1,5 jam untuk jarak kurang lebih 65 km melalui jalur arteri tenggara, melintasi Pemulutan, Indralaya, Tanjung Raja, dan Teluk Gelam."
   - q: "Jam berapa saja jadwal keberangkatan travel Palembang Kayu Agung?"
     a: "Keberangkatan tersedia fleksibel setiap jam mulai pukul 07.00 hingga 18.00 WIB setiap hari."
   - q: "Apakah travel mengantar langsung ke tempat wisata seperti Dinesti Land?"
@@ -33,7 +33,7 @@ Mungkin Anda sering melihat nama "Kayu Agung" di peta dengan warna hijau yang me
 
 ## Mengapa Rute Ini Begitu Menarik?
 
-Kayu Agung bukanlah kota padat. Anda tidak akan menemukan jalan berlubang atau kemacetan parah di jalan utamanya. Aksesnya pun sangat baik berkat keberadaan Tol Trans-Sumatera yang menghubungkannya dengan kota-kota lain di Sumatera Selatan.
+Kayu Agung bukanlah kota padat. Anda tidak akan menemukan jalan berlubang atau kemacetan parah di jalan utamanya. Aksesnya pun sangat baik karena jalur arteri sisi tenggara menghubungkannya langsung dengan Palembang lewat Indralaya dan Tanjung Raja.
 
 Dari pengalaman kami melayani rute ini, mayoritas penumpang yang menuju Kayu Agung biasanya memiliki tujuan kunjungan keluarga, sekolah, atau sekadar singgah sebentar dalam perjalanan. Kota ini punya caranya sendiri untuk membuat setiap perjalanan lebih berkesan.
 
@@ -43,13 +43,13 @@ Berikut adalah jadwal keberangkatan langsung dari Palembang ke Kayu Agung:
 
 | Keberangkatan | Harga Tiket | Durasi |
 |--------------|-------------|--------|
-| Setiap Jam (07:00 - 18:00 WIB) | Rp 100.000 | 1,5 Jam |
+| Setiap Jam (07:00 - 18:00 WIB) | Rp 150.000 | 1,5 Jam |
 
-Tarif Rp 100.000 sudah mencakup semua biaya operasional, termasuk tol dan penggunaan armada yang nyaman. Anda akan langsung diantar ke lokasi tujuan tanpa perlu repot ke terminal atau stasiun.
+Tarif Rp 150.000 sudah mencakup semua biaya operasional armada dan bahan bakar. Anda akan langsung diantar ke lokasi tujuan tanpa perlu repot ke terminal atau stasiun.
 
 ### Kenapa Harganya Terjangkau?
 
-Harga Rp 100.000 bukan karena kami mengorbankan kualitas. Ini adalah hasil dari optimasi rute langsung via tol dan penggunaan armada modern yang efisien. Kami juga tidak menambahkan pajak atau biaya tersembunyi, harga yang Anda lihat di situs kami adalah harga yang akan Anda bayar.
+Harga Rp 150.000 bukan karena kami mengorbankan kualitas. Ini adalah hasil dari optimasi rute langsung lewat jalur arteri tenggara dan penggunaan armada modern yang efisien. Kami juga tidak menambahkan pajak atau biaya tersembunyi, harga yang Anda lihat di situs kami adalah harga yang akan Anda bayar.
 
 ## Armada yang Tersedia untuk Rute Ini
 

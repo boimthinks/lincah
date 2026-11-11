@@ -62,6 +62,7 @@ Gunakan data ini sebagai social proof dalam artikel:
 | **Palembang-Pendopo Lintang** | 8-9 jam | - | Rp 230.000 | Empat Lawang |
 | **Palembang-Kikim** | 7-8 jam | - | Rp 200.000 | Lahat |
 | **Palembang-Indralaya** | 45 menit | Tol | Rp 100.000 | Akses Kampus UNSRI |
+| **Palembang-Kayu Agung** | 1,5 jam | Jalur arteri tenggara (Indralaya - Tanjung Raja - Teluk Gelam) | Rp 150.000 | Ibukota OKI, komuter harian, 65 km |
 | **Palembang-Muara Beliti** | 6 jam 40 menit | Lintas Tengah (tol Indraprabu) | Rp 250.000 | Ibukota Musi Rawas, urusan Pemkab & niaga |
 | **Palembang-Talang Padang** | 10-12 jam | Tol Trans-Sumatera (Terpeka) - Pringsewu | Rp 400.000 | Lampung Barat, perantau & pebisnis kopi |
 | **Palembang-Tugumulyo** | 7-8 jam | Tol Indraprabu - Lintas OKU Timur | Rp 180.000 | Sentra pangan OKU Timur, transmigrasi |
@@ -215,6 +216,8 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Muara Enim (AI Cluster: Jemput Bandara SMB II Direct Pas Mendarat Tol Indraprabu) | `2026-11-06-travel-bandara-smb-ii-palembang-ke-muara-enim.md` |
 | Palembang-Lahat (AI Cluster: Jemput Bandara SMB II Direct Door to Door via Tol) | `2026-11-07-travel-bandara-smb-ii-palembang-ke-lahat-door-to-door.md` |
 | Palembang-Sekayu (AI Cluster: Jemput Bandara SMB II Direct Door to Door Tamu Dinas Pemkab Muba) | `2026-11-09-travel-bandara-smb-ii-palembang-ke-sekayu-muba.md` |
+| Palembang-Lubuklinggau (AI Cluster: Jemput Bandara SMB II Direct Door to Door) | `2026-11-10-travel-bandara-smb-ii-palembang-ke-lubuklinggau.md` |
+| Palembang-Prabumulih (AI Cluster: Jemput Bandara SMB II Direct 2 Jam Door to Door) | `2026-11-11-travel-bandara-smb-ii-palembang-ke-prabumulih.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 

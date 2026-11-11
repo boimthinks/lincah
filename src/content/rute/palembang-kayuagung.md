@@ -1,12 +1,12 @@
 ---
 from: palembang
 to: kayu agung
-price: 100000
+price: 150000
 duration: 1.5 Jam
 departureTimes: ["Setiap Jam (07:00 - 18:00)"]
 type: sumatera selatan
 distance: 65 km
-description: Travel Palembang ke Kayu Agung — 1,5 jam via jalur arteri. Setiap jam berangkat, Rp 100.000, armada AC, door-to-door. Booking sekarang!
+description: Travel Palembang ke Kayu Agung — 1,5 jam via jalur arteri. Setiap jam berangkat, Rp 150.000, armada AC, door-to-door. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -24,7 +24,7 @@ Koridor Tenggara ini jadi urat nadi komuter harian Palembang-OKI. Kalau titik je
 *   **Layanan Door-to-Door.** Kami jemput di rumah atau kantor, lalu antar ke alamat tujuan di Kayu Agung.
 *   **Jadwal Luas.** Setiap jam mulai 07.00 sampai 18.00 WIB, sehingga Anda tidak menunggu lama.
 *   **Armada Terawat.** Innova Reborn dan Avanza/Veloz dalam kondisi bersih.
-*   **Harga Ekonomis.** Rp 100.000 flat.
+*   **Harga Ekonomis.** Rp 150.000 flat.
 
 ## Jadwal Keberangkatan Palembang ke Kayu Agung
 
@@ -52,7 +52,7 @@ Hubungi **0813-6923-1893** via WhatsApp, sebutkan rute Palembang-Kayu Agung, jam
 
 Lincah Travel menjemput penumpang rute Palembang–Kayu Agung dari seluruh area Palembang, meliputi:
 
-*   **Jakabaring & Akses Gerbang Tol Palindra / Kayu Agung**
+*   **Jakabaring & Kertapati**
 *   **Kertapati & Simpang Flyover Nilakandi**
 *   **Plaju & Seberang Ulu II**
 *   **Ilir Timur I & Koridor Jl. Jend. Sudirman**

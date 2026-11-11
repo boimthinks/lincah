@@ -33,7 +33,7 @@ Tiga simpul ini bukan sekadar catatan geografi. Bagi Anda yang rumah atau kantor
 | Palembang-Lubuklinggau | 320 km | 7-8 jam | Rp200.000 | Pekerja tambang, mahasiswa |
 | Palembang-Pagaralam | 290 km | 7-8 jam | Rp250.000 | Wisatawan akhir pekan |
 | Palembang-Muara Dua | 290 km | 7-8 jam | Rp220.000 | Pedagang hasil bumi |
-| Palembang-Kayu Agung | 65 km | 1,5 jam | Rp100.000 | Komuter harian |
+| Palembang-Kayu Agung | 65 km | 1,5 jam | Rp150.000 | Komuter harian |
 
 Semua tarif di atas bersifat flat dan sudah mencakup penjemputan di alamat serta pengantaran sampai alamat tujuan. Tidak ada biaya tambahan untuk bagasi standar.
 
@@ -85,7 +85,7 @@ Pedagang hasil bumi dan wisatawan Danau Ranau jadi penumpang tetap koridor ini. 
 
 Rute terpendek justru tidak menyentuh tol sama sekali. Armada lewat Jakabaring, Pemulutan, Indralaya, Tanjung Raja, dan Teluk Gelam sebelum tiba di Kayu Agung dalam 1,5 jam. Karena singkat, jadwalnya paling rapat, yaitu setiap jam mulai pukul 07.00 hingga 18.00 WIB.
 
-Komuter harian Palembang-OKI memanfaatkan travel Palembang Kayu Agung untuk pergi-pulang di hari yang sama. Tarif Rp100.000 menjadikannya pilihan ekonomis bagi pelajar maupun pekerja shift.
+Komuter harian Palembang-OKI memanfaatkan travel Palembang Kayu Agung untuk pergi-pulang di hari yang sama. Tarif Rp150.000 menjadikannya pilihan ekonomis bagi pelajar maupun pekerja shift.
 
 ## Armada yang Mengawal Enam Rute
 

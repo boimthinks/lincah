@@ -22,7 +22,7 @@ Berikut 10 rute yang paling sering kami layani, diurutkan dari yang termurah.
 
 | Tujuan | Harga | Durasi |
 |---|---|---|
-| Kayu Agung | Rp 100.000 | 1,5 jam |
+| Kayu Agung | Rp 150.000 | 1,5 jam |
 | Prabumulih | Rp 130.000 | 2 jam |
 | Sekayu | Rp 180.000 | 3 jam |
 | Baturaja | Rp 200.000 | 4-5 jam |
@@ -33,7 +33,7 @@ Berikut 10 rute yang paling sering kami layani, diurutkan dari yang termurah.
 | Lubuklinggau | Rp 200.000 | 7-8 jam |
 | Lampung | Rp 300.000 | 4-5 jam via tol |
 
-Harga di atas sudah termasuk penjemputan dari alamat Anda di Palembang dan pengantaran sampai tujuan. Biaya tol, bagasi, dan pemberhentian istirahat sudah dihitung di dalam tarif, jadi tidak ada biaya kejutan di tengah jalan.
+Harga di atas sudah termasuk penjemputan dari alamat Anda di Palembang dan pengantaran sampai tujuan. Untuk rute yang melewati jalan bebas hambatan, biaya gerbangnya sudah dihitung di dalam tarif. Bagasi dan pemberhentian istirahat juga tidak ditagih terpisah, jadi tidak ada biaya kejutan di tengah jalan.
 
 Catatan kecil untuk tabel di atas: ini semua tarif door-to-door. Kalau Anda hanya mau berangkat dari terminal atau pool, angkanya bisa berbeda karena layanannya memang tidak sama.
 
@@ -41,7 +41,7 @@ Catatan kecil untuk tabel di atas: ini semua tarif door-to-door. Kalau Anda hany
 
 Perjalanan yang masih satu kawasan Palembang adalah yang paling ringan.
 
-Kayu Agung bisa ditempuh 1,5 jam via tol dengan tarif Rp 100.000. Keberangkatan setiap jam mulai pukul 07.00 sampai 18.00 WIB. Rute ini dipakai banyak orang yang bekerja di Palembang tapi tinggal di OKI. Informasi lengkapnya ada di artikel [travel Palembang Kayu Agung](/blog/travel-palembang-kayu-agung-door-to-door).
+Kayu Agung bisa ditempuh 1,5 jam lewat jalur arteri tenggara dengan tarif Rp 150.000. Keberangkatan setiap jam mulai pukul 07.00 sampai 18.00 WIB. Rute ini dipakai banyak orang yang bekerja di Palembang tapi tinggal di OKI. Informasi lengkapnya ada di artikel [travel Palembang Kayu Agung](/blog/travel-palembang-kayu-agung-door-to-door).
 
 Prabumulih sedikit lebih jauh, Rp 130.000 untuk 2 jam, dengan jadwal setiap jam dari 07.00 sampai 21.00 WIB. Buat yang pulang kampung akhir pekan atau dinas ke lapangan, rute ini yang paling ramai.
 
@@ -129,7 +129,7 @@ Rp 300.000 dengan waktu tempuh 4-5 jam via Tol Trans Sumatera. Keberangkatan puk
 
 ### Rute mana yang paling murah?
 
-Kayu Agung Rp 100.000 dengan waktu tempuh 1,5 jam dan Prabumulih Rp 130.000 (2 jam). Rute dekat lainnya seperti Indralaya Rp 100.000 via tol.
+Kayu Agung Rp 150.000 dengan waktu tempuh 1,5 jam dan Prabumulih Rp 130.000 (2 jam). Rute dekat lainnya seperti Indralaya Rp 100.000 via tol.
 
 ### Bisakah berangkat malam untuk rute jauh?
 

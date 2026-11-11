@@ -33,7 +33,7 @@ Setiap artikel dirancang dengan standar E-E-A-T, anti-kanibalisasi kata kunci, j
 | 17 | 2026-11-07 | Travel Bandara SMB II Palembang ke Lahat Langsung | Travel Bandara SMB II Palembang ke Lahat Door to Door | `travel-bandara-smb-ii-palembang-ke-lahat-door-to-door` | Jemput Bandara / Urusan Dinas & Keluarga | ✅ Selesai (2026-11-07) |
 | 18 | 2026-11-08 | Travel Bandara SMB II Palembang ke Sekayu Muba | Travel Bandara SMB II Palembang ke Sekayu Musi Banyuasin | `travel-bandara-smb-ii-palembang-ke-sekayu-muba` | Jemput Bandara / Tamu Dinas Kantor Muba | ✅ Selesai (2026-11-09) |
 | 19 | 2026-11-09 | Travel Bandara SMB II Palembang ke Lubuklinggau | Travel Bandara SMB II Palembang ke Lubuklinggau Door to Door | `travel-bandara-smb-ii-palembang-ke-lubuklinggau` | Jemput Bandara / Koneksi Lintas Provinsi | ✅ Selesai (2026-11-10) |
-| 20 | 2026-11-10 | Travel Bandara SMB II Palembang ke Prabumulih Cepat | Travel Bandara SMB II Palembang ke Prabumulih via Tol Cepat | `travel-bandara-smb-ii-palembang-ke-prabumulih-via-tol` | Jemput Bandara / Komuter Migas via Tol | Menunggu |
+| 20 | 2026-11-10 | Travel Bandara SMB II Palembang ke Prabumulih 2 Jam | Travel Bandara SMB II Palembang ke Prabumulih 2 Jam | `travel-bandara-smb-ii-palembang-ke-prabumulih` | Jemput Bandara / Komuter Migas | ✅ Selesai (2026-11-11) |
 | 21 | 2026-11-11 | Travel Bandara SMB II Palembang ke Tanjung Enim | Travel Bandara SMB II Palembang ke Tanjung Enim Dinas Tambang | `travel-bandara-smb-ii-palembang-ke-tanjung-enim` | Jemput Bandara / Profesional B2B Batubara | Menunggu |
 | 22 | 2026-11-12 | Travel Bandara SMB II Palembang ke Martapura OKU Timur | Travel Bandara SMB II Palembang ke Martapura OKU Timur Langsung | `travel-bandara-smb-ii-palembang-ke-martapura-oku-timur` | Jemput Bandara / Akses Ibukota OKU Timur | Menunggu |
 | 23 | 2026-11-13 | Perbandingan Travel vs Kereta Api Palembang Lahat | Perbandingan Travel vs Kereta Api Palembang Lahat Ongkos dan Durasi | `perbandingan-travel-vs-kereta-api-palembang-lahat` | Komparasi Moda / Travel vs KA Serelo/Sindang | Menunggu |
@@ -76,7 +76,7 @@ Setiap artikel dirancang dengan standar E-E-A-T, anti-kanibalisasi kata kunci, j
 * **Hari 17 (`travel-bandara-smb-ii-palembang-ke-lahat-door-to-door`)**: Langsung meluncur ke Lahat pas landing tanpa nunggu di pool luar kota.
 * **Hari 18 (`travel-bandara-smb-ii-palembang-ke-sekayu-muba`)**: Layanan khusus tamu dinas pemkab dan konsultan proyek Musi Banyuasin.
 * **Hari 19 (`travel-bandara-smb-ii-palembang-ke-lubuklinggau`)**: Solusi perjalanan darat lanjutan bagi penumpang dari Jakarta/Surabaya tujuan Linggau.
-* **Hari 20 (`travel-bandara-smb-ii-palembang-ke-prabumulih-via-tol`)**: Waktu tempuh 2 jam langsung via tol Indraprabu, favorit eksekutif migas.
+* **Hari 20 (`travel-bandara-smb-ii-palembang-ke-prabumulih`)**: Waktu tempuh 2 jam langsung dari lobi kedatangan menuju alamat tujuan, favorit eksekutif migas dan pekerja Komperta. Terbit: 2026-11-11.
 * **Hari 21 (`travel-bandara-smb-ii-palembang-ke-tanjung-enim`)**: Direct service bandara untuk delegasi rapat dan kontraktor batubara Bukit Asam.
 * **Hari 22 (`travel-bandara-smb-ii-palembang-ke-martapura-oku-timur`)**: Jemputan bandara langsung menuju komplek perkantoran Pemkab OKU Timur.
 
