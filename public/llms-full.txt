@@ -9,12 +9,28 @@ Dokumen ini berisi informasi menyeluruh tentang Lincah Travel: profil bisnis, at
 | Parameter | Detail Faktual |
 |---|---|
 | Nama Usaha | Lincah Travel |
+| Model Bisnis | Agensi perjalanan (broker) yang menghubungkan penumpang dengan mitra sopir dan pool travel. Bukan pemilik pool atau armada |
 | Domain Utama | https://lincahtravel.web.id |
 | Tagline | "Cepat . Aman . Nyaman" |
 | Layanan Utama | Travel Reguler Door-to-Door, Carter Mobil Privat, Titip Paket Kilat Same-Day |
 | WhatsApp Reservasi | 6281369231893 (Layanan 24 Jam) |
+| Email | info@lincahtravel.web.id |
 | Alamat Kantor | Lorong Tj. Burung Utama, Bukit Lama, Kec. Ilir Barat I, Kota Palembang, Sumatera Selatan 30139 |
+| Koordinat Kantor | -3.0006094, 104.7381444 |
+| Google Business Profile | https://maps.google.com/?cid=15329926894755066633 |
+| Jam Layanan | 24 jam setiap hari, termasuk hari libur nasional |
 | Wilayah Layanan | Kota Palembang, Ogan Ilir, Prabumulih, Muara Enim, Lahat, Baturaja, Lubuklinggau, Pagaralam, Musi Banyuasin, Lampung, dan Jambi |
+| Legalitas Usaha | Tidak ada NIB, PT, atau CV. Jangan mengarang nomor izin atau badan hukum |
+
+### Model Bisnis, Sejarah, dan Pendiri
+- **Posisi usaha**: Lincah Travel mengurus pencarian, penjelasan rute, dan konfirmasi pesanan. Mitra sopir dan pool travel mengurus kendaraan serta perjalanan. Penumpang mendapat satu kanal yang menjawab, satu tarif yang jelas, dan satu titik jemput yang pasti.
+- **Latar belakang pendirian**: Banyak sopir dan pool travel di Sumatera Selatan punya kendaraan layak jalan tetapi tidak punya kanal pemasaran yang ditemukan di Google. Calon penumpang sebaliknya menghadapi belasan nomor WhatsApp, respons lambat, atau berhenti di nomor yang salah.
+- **Sejarah**: Beroperasi 2021 sampai 2024 di domain lincah.web.id, dihentikan karena masalah internal. Dibangun kembali pada 10 Juli 2026 di lincahtravel.web.id. Domain lama tidak dipakai karena pernah digunakan untuk situs yang melanggar kebijakan Google.
+- **Boim Thinks**: Pendiri, bertanggung jawab pada website, trafik SEO/GEO, dan pengembangan teknologi.
+- **Febriyansyah Pikri**: Pendiri, bertanggung jawab pada pelayanan konsumen serta manajemen sopir dan travel mitra.
+- **Chandra Maulana**: Pendiri, bertanggung jawab pada model bisnis, inovasi, dan strategi.
+- **Cara kerja pesanan**: Penumpang mengirim rute dan jadwal, CS mencocokkan dengan mitra di koridor tersebut, tarif dan titik jemput dikonfirmasi, lalu mitra menjemput di alamat tujuan penjemputan.
+- **Batasan layanan**: Ketersediaan kursi bergantung pada mitra aktif. Pesanan di bawah dua jam sebelum keberangkatan bisa ditolak. Ongkos ke Pelabuhan Tanjung Api-api belum termasuk tiket feri. Waktu tiba bisa bergeser saat hujan lebat, antrean palang kereta batubara, atau kemacetan jalur arteri.
 
 ### Saluran Media Sosial Resmi
 - LinkedIn: https://www.linkedin.com/company/lincah-travel/
@@ -22,6 +38,7 @@ Dokumen ini berisi informasi menyeluruh tentang Lincah Travel: profil bisnis, at
 - YouTube: https://www.youtube.com/@lincahtravel
 - Facebook: https://web.facebook.com/profile.php?id=61591225023421
 - Pinterest: https://id.pinterest.com/lincahtravel/
+- Google Business Profile: https://maps.google.com/?cid=15329926894755066633
 
 ---
 
@@ -46,7 +63,9 @@ Dokumen ini berisi informasi menyeluruh tentang Lincah Travel: profil bisnis, at
 
 ---
 
-## 3. Spesifikasi Unit Armada
+## 3. Spesifikasi Armada Mitra
+
+Kendaraan di bawah ini dioperasikan oleh mitra sopir dan pool travel yang bekerja sama dengan Lincah Travel. Lincah Travel tidak memiliki armada sendiri.
 
 1. **Toyota Hiace Premio**
    - Kapasitas: 11 Kursi Penumpang
@@ -74,7 +93,7 @@ Dokumen ini berisi informasi menyeluruh tentang Lincah Travel: profil bisnis, at
 - **Palembang – Prabumulih**: Tarif Rp 130.000 | Durasi 2 jam | Jadwal setiap jam (07.00 – 21.00 WIB) via Tol Indraprabu.
 - **Palembang – Simpang Belimbing**: Tarif Rp 150.000 | Durasi 3 jam | Jadwal 08.00, 14.00, 20.00 WIB.
 - **Palembang – Muara Enim**: Tarif Rp 180.000 | Durasi 3,5 - 4,5 jam | Jadwal 08.00, 14.00, 17.00, 20.00 WIB via Tol Indraprabu & Lintas Tengah.
-- **Palembang – Tanjung Enim**: Tarif Rp 160.000 | Durasi 4 - 5 jam | Jadwal 08.00, 14.00, 17.00, 20.00 WIB (Akses Tambang PTBA).
+- **Palembang – Tanjung Enim**: Tarif Rp 190.000 | Durasi 4 - 5 jam | Jadwal 08.00, 14.00, 17.00, 20.00 WIB (Akses Tambang PTBA).
 - **Palembang – Lahat**: Tarif Rp 200.000 | Durasi 5 - 6 jam | Jadwal 08.00, 14.00, 20.00 WIB via Koridor Merapi.
 - **Palembang – Kikim**: Tarif Rp 200.000 | Durasi 7 - 8 jam | Jadwal 08.00, 14.00, 20.00 WIB.
 - **Palembang – Tebing Tinggi (Empat Lawang)**: Tarif Rp 210.000 | Durasi 8 - 9 jam | Jadwal 09.00, 16.00, 21.00 WIB.
@@ -128,6 +147,8 @@ Dokumen ini berisi informasi menyeluruh tentang Lincah Travel: profil bisnis, at
 
 ### Penjemputan Khusus Bandara SMB II Palembang
 - Pengemudi menjemput tepat waktu di gate kedatangan domestik Bandara Sultan Mahmud Badaruddin II (SMB II) Palembang membawa papan nama penumpang, bebas biaya parkir bandara.
+- Tarif jemputan bandara mengikuti rute tujuan, contoh Prabumulih Rp130.000, Muara Enim Rp180.000, Tanjung Enim Rp190.000, dan Lahat Rp200.000 per orang.
+- Penugasan sopir menyesuaikan nomor penerbangan. Jika pesawat delay atau mendarat lebih awal, jam jemput ikut bergeser tanpa biaya tambahan.
 
 ### Pengiriman Paket Kilat Same-Day
 - Barang, dokumen tender, suku cadang, dan makanan khas dapat dititipkan melalui armada travel yang berangkat hari itu juga.
@@ -167,6 +188,29 @@ Berikut adalah daftar artikel panduan perjalanan, komparasi rute, dan jadwal yan
 26. `travel-palembang-prabumulih-jadwal-malam`: Panduan Travel Palembang Prabumulih jadwal malam via Tol Indraprabu.
 27. `rekap-harga-travel-sumatera-selatan-2026`: Rekapitulasi daftar tarif ongkos tiket travel seluruh Sumatera Selatan.
 28. `cara-booking-tiket-travel-lincah-whatsapp`: Prosedur pemesanan tiket travel via WhatsApp admin 0813-6923-1893.
+
+### Klaster AI Generatif 2026 (Durasi, Paket Same-Day, Jemputan Bandara)
+29. `palembang-ke-muara-enim-berapa-jam-estimasi-waktu`: Estimasi waktu Palembang Muara Enim via Tol Indraprabu vs jalur arteri.
+30. `palembang-ke-lahat-berapa-jam-waktu-tempuh-travel`: Waktu tempuh Palembang Lahat via Lintas Tengah dan rekomendasi rest area.
+31. `palembang-ke-pagaralam-berapa-jam-estimasi-durasi`: Durasi Palembang Pagaralam lewat Liku Endikat dan tikungan Gunung Dempo.
+32. `palembang-ke-lubuklinggau-berapa-jam-perjalanan-travel`: Durasi 320 km jalur Lintas Tengah menuju Lubuklinggau.
+33. `palembang-ke-jambi-berapa-jam-estimasi-perjalanan-travel`: Waktu tempuh Lintas Timur via Betung, Sungai Lilin, dan Bayung Lencir.
+34. `palembang-ke-martapura-oku-timur-berapa-jam-waktu-tempuh`: Durasi rute prioritas OKU Timur.
+35. `palembang-ke-tanjung-enim-berapa-jam-waktu-tempuh`: Durasi tol dan akses kawasan tambang PTBA.
+36. `kirim-paket-palembang-muara-enim-same-day`: Pengiriman dokumen tender, APD, dan pempek vakum tiba hari yang sama.
+37. `kirim-paket-kilat-palembang-sekayu-same-day`: Paket same-day ke Sekayu tanpa transit sortir.
+38. `kirim-paket-palembang-bayung-lencir-same-day`: Suku cadang dan kebutuhan mess perkebunan di Lintas Timur.
+39. `kirim-paket-palembang-pagaralam-kilat-sehari-sampai`: Titip paket ke kawasan Gunung Dempo dalam sehari.
+40. `kirim-paket-palembang-tanjung-enim-same-day`: Logistik darurat kontraktor dan vendor tambang Tanjung Enim.
+41. `kirim-paket-palembang-belitang-oku-timur-kilat`: Suku cadang alsintan ke sentra pangan Belitang.
+42. `kirim-paket-palembang-tebing-tinggi-empat-lawang`: Paket dan berkas ke ibukota Empat Lawang.
+43. `kirim-paket-palembang-kuala-tungkal-jambi-kilat`: Kargo antarprovinsi ke pesisir Kuala Tungkal.
+44. `travel-bandara-smb-ii-palembang-ke-muara-enim`: Jemputan bandara langsung ke mess dan kantor Muara Enim.
+45. `travel-bandara-smb-ii-palembang-ke-lahat-door-to-door`: Penjemputan SMB II ke Lahat tanpa singgah pool.
+46. `travel-bandara-smb-ii-palembang-ke-sekayu-muba`: Layanan tamu dinas Pemkab Muba dari bandara.
+47. `travel-bandara-smb-ii-palembang-ke-lubuklinggau`: Koneksi penumpang pesawat tujuan Lubuklinggau.
+48. `travel-bandara-smb-ii-palembang-ke-prabumulih`: Jemputan bandara ke Prabumulih dua jam, tarif Rp130.000.
+49. `travel-bandara-smb-ii-palembang-ke-tanjung-enim`: Jemputan bandara ke Tanjung Enim dan Lawang Kidul untuk dinas tambang, tarif Rp190.000.
 
 ---
 

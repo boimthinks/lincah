@@ -2,48 +2,450 @@
 import Layout from '../layouts/Layout.astro';
 import Navbar from '../components/NavbarInner.tsx';
 import Footer from '../components/Footer.astro';
-import Features from '../components/Features.astro';
+import { MapPin, Clock, MessageCircle, Mail, ShieldCheck, Route, Car, Headphones, FileText, ArrowRight, CheckCircle2, Linkedin, Youtube, Facebook, Pin } from 'lucide-react';
 
-const title = "Tentang Kami - Lincah Travel";
-const description = "Kenali Lincah Travel Palembang: penyedia layanan travel door-to-door Sumatera Selatan. Armada Hiace Premio, Innova Reborn, driver profesional, CS 24 jam.";
+const ADMIN_WA = '6281369231893';
+const title = "Tentang Lincah Travel, Agensi Travel Door to Door Palembang";
+const description = "Lincah Travel adalah agensi perjalanan Palembang yang menghubungkan penumpang dengan mitra sopir dan pool travel di 37 kota Sumatera. CS 24 jam.";
+
+const stats = [
+  { value: '68', label: 'Trayek terdaftar', icon: Route },
+  { value: '37', label: 'Kota dan kabupaten', icon: MapPin },
+  { value: '24 jam', label: 'Layanan WhatsApp', icon: Headphones },
+  { value: '< 2 menit', label: 'Rata-rata respons CS', icon: MessageCircle },
+];
+
+const founders = [
+  {
+    name: 'Boim Thinks',
+    role: 'Website, Trafik, dan Teknologi',
+    photo: '/img/boim-thinks_poco.webp',
+    duty: 'Mengelola situs, optimasi mesin pencari dan AI, serta pengembangan sistem pemesanan. Semua data tarif, jadwal, dan artikel di website ini melewati proses editorial di bagian ini.',
+  },
+  {
+    name: 'Febriyansyah Pikri',
+    role: 'Pelayanan Konsumen dan Manajemen Mitra',
+    photo: '/img/febriyansyah-pikri_poco.webp',
+    duty: 'Menangani percakapan dengan calon penumpang, mencocokkan rute dengan mitra sopir dan pool travel, serta mengawal konfirmasi jadwal dan titik jemput sebelum keberangkatan.',
+  },
+  {
+    name: 'Chandra Maulana',
+    role: 'Model Bisnis, Inovasi, dan Strategi',
+    photo: '/img/chandra-maulana_poco.webp',
+    duty: 'Merancang skema kerja sama dengan mitra, mengevaluasi trayek yang dibuka, dan menyusun arah pengembangan layanan di Sumatera Selatan.',
+  },
+];
+
+const steps = [
+  {
+    title: 'Sebutkan rute dan jadwal',
+    body: 'Hubungi CS lewat WhatsApp, lalu kirim kota asal, kota tujuan, tanggal, jumlah penumpang, dan alamat penjemputan.',
+  },
+  {
+    title: 'CS mencocokkan mitra',
+    body: 'Tim kami mencari sopir atau pool travel mitra yang beroperasi di koridor tersebut dan masih memiliki kursi pada jadwal yang Anda minta.',
+  },
+  {
+    title: 'Konfirmasi tarif dan titik jemput',
+    body: 'Tarif, jam penjemputan, dan alamat pengantaran disepakati sebelum berangkat. Tidak ada biaya yang muncul di tengah perjalanan.',
+  },
+  {
+    title: 'Mitra menjemput di alamat',
+    body: 'Sopir mitra datang ke alamat yang Anda tentukan, lalu mengantar sampai tujuan tanpa transit di pool.',
+  },
+];
+
+const mitraPoints = [
+  'Kendaraan dioperasikan oleh sopir dan pool travel mitra, bukan armada milik Lincah Travel.',
+  'Tarif yang tampil di website disepakati bersama mitra pada koridor yang sama, sehingga tidak berubah saat penjemputan.',
+  'Anda menerima data sopir dan titik jemput setelah pesanan dikonfirmasi, bukan setelah kendaraan tiba di depan rumah.',
+  'Pembayaran dilakukan sesuai kesepakatan saat konfirmasi, dengan rincian yang jelas sejak awal.',
+];
+
+const socials = [
+  { name: 'LinkedIn', url: 'https://www.linkedin.com/company/lincah-travel/', icon: Linkedin },
+  { name: 'TikTok', url: 'https://www.tiktok.com/@lincahtravelpalembang', icon: MessageCircle },
+  { name: 'YouTube', url: 'https://www.youtube.com/@lincahtravel', icon: Youtube },
+  { name: 'Facebook', url: 'https://web.facebook.com/profile.php?id=61591225023421', icon: Facebook },
+  { name: 'Pinterest', url: 'https://id.pinterest.com/lincahtravel/', icon: Pin },
+];
+
+const mapsProfile = 'https://maps.google.com/?cid=15329926894755066633';
+const mapsPlace = 'https://www.google.com/maps/place/Lincah+Travel+Palembang/@-3.0006094,104.7381444,17z/data=!4m2!3m1!1s0x2e3b9f8bdde97b05:0xd4bed74a12953309';
+const geoLat = -3.0006094;
+const geoLng = 104.7381444;
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Beranda", "item": "https://lincahtravel.web.id/" },
+    { "@type": "ListItem", "position": 2, "name": "Tentang Kami", "item": "https://lincahtravel.web.id/tentang-kami" }
+  ]
+};
+
+const aboutSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "AboutPage",
+      "@id": "https://lincahtravel.web.id/tentang-kami/#aboutpage",
+      "url": "https://lincahtravel.web.id/tentang-kami",
+      "name": "Tentang Lincah Travel",
+      "description": "Profil resmi Lincah Travel, agensi perjalanan Palembang yang menghubungkan penumpang dengan mitra sopir dan pool travel di Sumatera Selatan.",
+      "inLanguage": "id-ID",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://lincahtravel.web.id/#website",
+        "name": "Lincah Travel",
+        "url": "https://lincahtravel.web.id/"
+      },
+      "about": { "@id": "https://lincahtravel.web.id/#organization" },
+      "breadcrumb": { "@id": "https://lincahtravel.web.id/tentang-kami/#breadcrumb" }
+    },
+    {
+      "@type": "TravelAgency",
+      "@id": "https://lincahtravel.web.id/#organization",
+      "name": "Lincah Travel",
+      "alternateName": "Lincah Travel Palembang",
+      "url": "https://lincahtravel.web.id/",
+      "description": "Agensi perjalanan yang menghubungkan penumpang dengan mitra sopir dan pool travel untuk layanan door to door di Sumatera Selatan, Jambi, dan Lampung.",
+      "slogan": "Cepat, Aman, Nyaman",
+      "telephone": "+6281369231893",
+      "email": "info@lincahtravel.web.id",
+      "priceRange": "Rp100.000 - Rp400.000",
+      "foundingDate": "2021",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lorong Tj. Burung Utama, Bukit Lama, Kec. Ilir Bar. I",
+        "addressLocality": "Kota Palembang",
+        "addressRegion": "Sumatera Selatan",
+        "postalCode": "30139",
+        "addressCountry": "ID"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": geoLat,
+        "longitude": geoLng
+      },
+      "hasMap": mapsPlace,
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      ],
+      "areaServed": [
+        { "@type": "City", "name": "Palembang" },
+        { "@type": "AdministrativeArea", "name": "Sumatera Selatan" },
+        { "@type": "AdministrativeArea", "name": "Jambi" },
+        { "@type": "AdministrativeArea", "name": "Lampung" }
+      ],
+      "founder": [
+        { "@type": "Person", "name": "Boim Thinks", "jobTitle": "Pendiri, Website dan Teknologi", "image": "https://lincahtravel.web.id/img/boim-thinks_poco.webp" },
+        { "@type": "Person", "name": "Febriyansyah Pikri", "jobTitle": "Pendiri, Pelayanan Konsumen dan Manajemen Mitra", "image": "https://lincahtravel.web.id/img/febriyansyah-pikri_poco.webp" },
+        { "@type": "Person", "name": "Chandra Maulana", "jobTitle": "Pendiri, Model Bisnis dan Strategi", "image": "https://lincahtravel.web.id/img/chandra-maulana_poco.webp" }
+      ],
+      "knowsAbout": [
+        "Travel door to door",
+        "Transportasi antarkota Sumatera Selatan",
+        "Jemputan Bandara SMB II Palembang",
+        "Pengiriman paket same day via travel",
+        "Tol Trans Sumatera",
+        "Rute Lintas Tengah Sumatera"
+      ],
+      "sameAs": [...socials.map((s) => s.url), mapsProfile]
+    }
+  ]
+};
 ---
 
 <Layout title={title} description={description}>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(aboutSchema)} />
+
   <Navbar client:load />
   <main class="pt-24">
-    <section class="py-20 bg-white">
-      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h1 class="text-4xl sm:text-5xl font-black text-blue-900 uppercase mb-8">Tentang <span class="text-blue-600">Travel Palembang</span></h1>
-        <p class="text-xl text-slate-600 leading-relaxed mb-12">
-          Kami adalah penyedia layanan transportasi eksekutif yang berdedikasi untuk memberikan kenyamanan dan keamanan maksimal bagi setiap penumpang di wilayah Sumatera Selatan dan sekitarnya.
-        </p>
-        
-        <div class="prose prose-lg mx-auto text-left text-slate-600">
-          <p>Berawal dari komitmen untuk memperbaiki standar layanan travel di Palembang, kami menghadirkan sistem antar-jemput alamat (door-to-door) yang profesional dan tepat waktu.</p>
-          <p>Dengan armada terbaru seperti Toyota Hiace Premio dan Innova Reborn, kami memastikan setiap perjalanan Anda menjadi pengalaman yang menyenangkan, bukan sekadar perpindahan tempat.</p>
+    <section class="py-16 sm:py-20 bg-white border-b border-slate-100">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <nav aria-label="Breadcrumb" class="mb-8">
+          <ol class="flex items-center gap-2 text-xs sm:text-sm font-medium text-slate-500">
+            <li><a href="/" class="hover:text-blue-700">Beranda</a></li>
+            <li aria-hidden="true">/</li>
+            <li class="text-blue-900 font-bold" aria-current="page">Tentang Kami</li>
+          </ol>
+        </nav>
+
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 items-start">
+          <div class="lg:col-span-7">
+            <p class="text-xs font-black tracking-[0.2em] uppercase text-blue-700 mb-4">Profil Perusahaan</p>
+            <h1 class="text-4xl sm:text-5xl font-black text-blue-900 uppercase leading-tight mb-6">
+              Tentang <span class="text-blue-600">Lincah Travel</span>
+            </h1>
+            <p class="text-lg sm:text-xl text-slate-600 leading-relaxed mb-5">
+              Lincah Travel adalah agensi perjalanan berbasis di Palembang yang menghubungkan calon penumpang dengan sopir dan pool travel mitra. Kami tidak memiliki pool sendiri. Tugas kami memastikan Anda mendapat kendaraan yang tepat di koridor yang benar, dengan tarif yang sudah disepakati sejak awal.
+            </p>
+            <p class="text-base text-slate-600 leading-relaxed">
+              Jaringan kami mencakup 68 trayek terdaftar di 37 kota dan kabupaten, dari Palembang ke Baturaja, Lahat, Jambi, Lampung, hingga Kuala Tungkal. Layanan WhatsApp aktif 24 jam dengan rata-rata respons di bawah dua menit.
+            </p>
+          </div>
+
+          <div class="lg:col-span-5 bg-slate-50 border border-slate-200 p-8">
+            <h2 class="text-sm font-black uppercase tracking-widest text-blue-900 mb-6">Ringkasan Operasional</h2>
+            <dl class="space-y-4 text-sm">
+              <div class="flex justify-between gap-4 border-b border-slate-200 pb-3">
+                <dt class="text-slate-500">Model layanan</dt>
+                <dd class="font-bold text-slate-800 text-right">Agensi mitra</dd>
+              </div>
+              <div class="flex justify-between gap-4 border-b border-slate-200 pb-3">
+                <dt class="text-slate-500">Kantor</dt>
+                <dd class="font-bold text-slate-800 text-right">Bukit Lama, Palembang</dd>
+              </div>
+              <div class="flex justify-between gap-4 border-b border-slate-200 pb-3">
+                <dt class="text-slate-500">Jam layanan</dt>
+                <dd class="font-bold text-slate-800 text-right">24 jam</dd>
+              </div>
+              <div class="flex justify-between gap-4">
+                <dt class="text-slate-500">Kanal utama</dt>
+                <dd class="font-bold text-slate-800 text-right">WhatsApp</dd>
+              </div>
+            </dl>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 mt-12">
+          {stats.map((s) => (
+            <div class="bg-white border border-slate-200 p-6 text-center">
+              <s.icon className="w-6 h-6 text-blue-600 mx-auto mb-3" />
+              <p class="text-2xl sm:text-3xl font-black text-blue-900">{s.value}</p>
+              <p class="text-xs sm:text-sm text-slate-500 font-medium mt-1">{s.label}</p>
+            </div>
+          ))}
         </div>
       </div>
     </section>
 
-    <Features />
+    <section class="py-16 sm:py-20 bg-slate-50">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-3xl font-black text-blue-900 uppercase mb-8">Asal Mula dan Alasan Kami Berdiri</h2>
+        <div class="space-y-5 text-slate-600 leading-relaxed">
+          <p>
+            Lincah Travel pertama kali beroperasi pada 2021 lewat domain lincah.web.id. Layanan berjalan sampai 2024, lalu dihentikan karena persoalan internal. Pada 10 Juli 2026 layanan dibangun kembali di domain lincahtravel.web.id. Domain lama tidak dipakai lagi karena pernah digunakan untuk situs yang melanggar kebijakan Google.
+          </p>
+          <p>
+            Alasan kami memilih model agensi bukan tanpa dasar. Banyak sopir dan pool travel di Sumatera Selatan punya kendaraan yang layak jalan, tetapi tidak punya kanal pemasaran yang bisa ditemukan di Google. Di sisi lain, calon penumpang menemukan belasan nomor WhatsApp untuk rute yang sama, lalu menunggu balasan yang lama atau berhenti di nomor yang salah.
+          </p>
+          <p>
+            Lincah Travel berdiri di antara dua pihak itu. Kami mengurus pencarian, penjelasan rute, dan konfirmasi pesanan. Mitra mengurus kendaraan dan perjalanan. Penumpang mendapat satu nomor yang menjawab, satu tarif yang jelas, dan satu titik jemput yang pasti.
+          </p>
+        </div>
+      </div>
+    </section>
 
-    <section class="py-20 bg-slate-50">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl font-black text-blue-900 uppercase mb-12">Visi & Misi Kami</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-          <div class="bg-white p-8 border border-slate-200 text-left">
-            <h3 class="text-xl font-bold text-blue-700 uppercase mb-4">Visi</h3>
-            <p class="text-slate-600 italic">"Menjadi biro perjalanan travel nomor satu di Sumatera Selatan yang dikenal karena ketepatan waktu, kenyamanan armada, dan integritas pelayanan."</p>
+    <section class="py-16 sm:py-20 bg-white">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="max-w-3xl mb-12">
+          <h2 class="text-3xl font-black text-blue-900 uppercase mb-4">Cara Kami Bekerja</h2>
+          <p class="text-slate-600 leading-relaxed">
+            Empat langkah ini berlaku untuk semua pesanan, baik kursi reguler maupun carter kendaraan penuh.
+          </p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          {steps.map((s, i) => (
+            <div class="bg-slate-50 border border-slate-200 p-7">
+              <span class="inline-flex items-center justify-center w-10 h-10 bg-blue-900 text-white font-black mb-5">{i + 1}</span>
+              <h3 class="text-lg font-bold text-blue-900 mb-3">{s.title}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed">{s.body}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 sm:py-20 bg-slate-50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-12 gap-12">
+        <div class="lg:col-span-5">
+          <h2 class="text-3xl font-black text-blue-900 uppercase mb-5">Mitra Sopir dan Pool Travel</h2>
+          <p class="text-slate-600 leading-relaxed mb-5">
+            Kami menyebutnya mitra karena memang begitu posisinya. Lincah Travel tidak memiliki armada sendiri dan tidak mengelola pool. Kendaraan yang menjemput Anda dioperasikan oleh sopir atau pool travel yang bekerja sama dengan kami.
+          </p>
+          <p class="text-slate-600 leading-relaxed">
+            Model ini membuat kami bisa membuka banyak koridor tanpa harus menempatkan kendaraan di setiap kota. Anda tetap mendapat layanan door to door, sementara mitra mendapat pesanan dari kanal yang selama ini sulit mereka jangkau.
+          </p>
+        </div>
+        <div class="lg:col-span-7 space-y-4">
+          {mitraPoints.map((p) => (
+            <div class="flex gap-4 bg-white border border-slate-200 p-5">
+              <CheckCircle2 className="w-5 h-5 text-blue-600 shrink-0 mt-0.5" />
+              <p class="text-sm sm:text-base text-slate-600 leading-relaxed">{p}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 sm:py-20 bg-white">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="max-w-3xl mb-12">
+          <h2 class="text-3xl font-black text-blue-900 uppercase mb-4">Tiga Pendiri dan Tanggung Jawabnya</h2>
+          <p class="text-slate-600 leading-relaxed">
+            Lincah Travel dijalankan oleh tiga orang dengan pembagian kerja yang jelas. Nama mereka tercantum agar Anda tahu siapa yang menangani bagian mana.
+          </p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {founders.map((f) => (
+            <div class="border border-slate-200 bg-slate-50 p-6">
+              <div class="flex items-center gap-4 mb-4">
+                <img
+                  src={f.photo}
+                  alt={`Foto ${f.name}, pendiri Lincah Travel`}
+                  width="200"
+                  height="200"
+                  loading="lazy"
+                  class="w-14 h-14 shrink-0 rounded-full object-cover border border-slate-300"
+                />
+                <div class="min-w-0">
+                  <h3 class="text-lg font-bold text-blue-900 leading-tight">{f.name}</h3>
+                  <p class="text-[11px] font-black uppercase tracking-wider text-blue-600 leading-tight mt-1">{f.role}</p>
+                </div>
+              </div>
+              <p class="text-sm text-slate-600 leading-relaxed">{f.duty}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 sm:py-20 bg-slate-50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-2 gap-10">
+        <div class="bg-white border border-slate-200 p-8">
+          <div class="flex items-center gap-3 mb-5">
+            <FileText className="w-6 h-6 text-blue-600" />
+            <h2 class="text-2xl font-black text-blue-900 uppercase">Kebijakan Redaksi</h2>
           </div>
-          <div class="bg-white p-8 border border-slate-200 text-left">
-            <h3 class="text-xl font-bold text-blue-700 uppercase mb-4">Misi</h3>
-            <ul class="text-slate-600 space-y-2 list-disc pl-5">
-              <li>Memberikan pelayanan antar jemput alamat yang akurat.</li>
-              <li>Menyediakan armada dalam kondisi prima dan bersih.</li>
-              <li>Mengutamakan keselamatan penumpang di atas segalanya.</li>
-              <li>Membangun komunikasi yang ramah dan solutif melalui CS 24 jam.</li>
-            </ul>
+          <div class="space-y-4 text-slate-600 leading-relaxed text-sm sm:text-base">
+            <p>
+              Artikel di blog Lincah Travel ditulis oleh tim konten dengan data tarif, jarak, dan jadwal yang diambil dari catatan operasional. Setiap kali harga atau jadwal berubah, artikel terkait diperbarui, bukan dibiarkan menampilkan angka lama.
+            </p>
+            <p>
+              Kami tidak menulis ulasan palsu, tidak mencantumkan testimoni yang tidak pernah dikirim pelanggan, dan tidak mengarang pengalaman lapangan. Jika ada data yang belum terverifikasi, bagian itu tidak ditulis.
+            </p>
+            <p>
+              Menemukan kekeliruan di halaman ini atau di artikel blog? Kirim catatan ke <a href="mailto:info@lincahtravel.web.id" class="text-blue-700 font-bold hover:text-blue-900">info@lincahtravel.web.id</a> atau lewat WhatsApp. Koreksi yang valid kami terbitkan.
+            </p>
           </div>
+        </div>
+
+        <div class="bg-white border border-slate-200 p-8">
+          <div class="flex items-center gap-3 mb-5">
+            <ShieldCheck className="w-6 h-6 text-blue-600" />
+            <h2 class="text-2xl font-black text-blue-900 uppercase">Batasan Layanan</h2>
+          </div>
+          <ul class="space-y-3 text-sm sm:text-base text-slate-600 leading-relaxed">
+            <li class="flex gap-3"><span class="text-blue-600 font-black">-</span><span>Ketersediaan kursi bergantung pada mitra yang beroperasi di koridor tersebut, terutama pada musim liburan dan akhir bulan.</span></li>
+            <li class="flex gap-3"><span class="text-blue-600 font-black">-</span><span>Pesanan mendadak di bawah dua jam sebelum keberangkatan bisa ditolak jika tidak ada mitra yang masih memiliki kursi.</span></li>
+            <li class="flex gap-3"><span class="text-blue-600 font-black">-</span><span>Ongkos ke Pelabuhan Tanjung Api-api belum termasuk tiket kapal feri. Tiket penyeberangan dibeli terpisah.</span></li>
+            <li class="flex gap-3"><span class="text-blue-600 font-black">-</span><span>Waktu tiba bisa bergeser saat hujan lebat, antrean palang kereta batubara, atau kemacetan di jalur arteri.</span></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 sm:py-20 bg-white border-t border-slate-100">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-3xl font-black text-blue-900 uppercase mb-10">Kantor dan Wilayah Layanan</h2>
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-10">
+          <div class="lg:col-span-5 space-y-5">
+            <div class="flex gap-4">
+              <MapPin className="w-5 h-5 text-blue-600 shrink-0 mt-1" />
+              <div>
+                <p class="text-xs font-black uppercase tracking-wider text-slate-400 mb-1">Alamat Kantor</p>
+                <p class="text-slate-700 leading-relaxed">Lorong Tj. Burung Utama, Bukit Lama, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30139</p>
+              </div>
+            </div>
+            <div class="flex gap-4">
+              <Clock className="w-5 h-5 text-blue-600 shrink-0 mt-1" />
+              <div>
+                <p class="text-xs font-black uppercase tracking-wider text-slate-400 mb-1">Jam Layanan</p>
+                <p class="text-slate-700 leading-relaxed">24 jam setiap hari, termasuk hari libur nasional</p>
+              </div>
+            </div>
+            <div class="flex gap-4">
+              <MessageCircle className="w-5 h-5 text-blue-600 shrink-0 mt-1" />
+              <div>
+                <p class="text-xs font-black uppercase tracking-wider text-slate-400 mb-1">WhatsApp</p>
+                <a href={`https://wa.me/${ADMIN_WA}`} class="text-blue-700 font-bold hover:text-blue-900">0813-6923-1893</a>
+              </div>
+            </div>
+            <div class="flex gap-4">
+              <Mail className="w-5 h-5 text-blue-600 shrink-0 mt-1" />
+              <div>
+                <p class="text-xs font-black uppercase tracking-wider text-slate-400 mb-1">Email</p>
+                <a href="mailto:info@lincahtravel.web.id" class="text-blue-700 font-bold hover:text-blue-900">info@lincahtravel.web.id</a>
+              </div>
+            </div>
+            <div class="flex gap-4">
+              <Car className="w-5 h-5 text-blue-600 shrink-0 mt-1" />
+              <div>
+                <p class="text-xs font-black uppercase tracking-wider text-slate-400 mb-1">Area Layanan</p>
+                <p class="text-slate-700 leading-relaxed">Sumatera Selatan, Jambi, dan Lampung. Rute aktif bisa dilihat di halaman <a href="/travel" class="text-blue-700 font-bold hover:text-blue-900">harga dan rute</a>.</p>
+              </div>
+            </div>
+
+            <div class="pt-4">
+              <p class="text-xs font-black uppercase tracking-wider text-slate-400 mb-3">Kanal Resmi</p>
+              <div class="flex flex-wrap gap-3">
+                {socials.map((s) => (
+                  <a href={s.url} target="_blank" rel="noopener noreferrer" aria-label={s.name} class="inline-flex items-center gap-2 border border-slate-200 px-3 py-2 text-xs font-bold text-slate-600 hover:border-blue-600 hover:text-blue-700">
+                    <s.icon className="w-4 h-4" />
+                    {s.name}
+                  </a>
+                ))}
+              </div>
+            </div>
+          </div>
+
+          <div class="lg:col-span-7">
+            <div class="border border-slate-200 h-80 lg:h-full min-h-[320px] overflow-hidden">
+              <iframe
+                title="Lokasi kantor Lincah Travel di Bukit Lama Palembang"
+                src={`https://maps.google.com/maps?q=${geoLat},${geoLng}&z=17&hl=id&output=embed`}
+                class="w-full h-full border-0"
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div class="flex flex-wrap gap-3 mt-4">
+              <a href={mapsPlace} target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 border border-slate-300 px-4 py-2 text-xs font-bold uppercase tracking-wide text-slate-700 hover:border-blue-600 hover:text-blue-700">
+                <MapPin className="w-4 h-4" />
+                Buka di Google Maps
+              </a>
+              <a href={mapsProfile} target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 border border-slate-300 px-4 py-2 text-xs font-bold uppercase tracking-wide text-slate-700 hover:border-blue-600 hover:text-blue-700">
+                <CheckCircle2 className="w-4 h-4" />
+                Profil Google Business
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-16 sm:py-20 bg-blue-900">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <h2 class="text-3xl sm:text-4xl font-black text-white uppercase mb-5">Butuh rute yang belum ada di daftar</h2>
+        <p class="text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
+          Sebutkan kota asal dan tujuan Anda. Tim kami akan mengecek apakah ada mitra yang beroperasi di koridor tersebut, lengkap dengan estimasi tarif dan waktu tempuh.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href={`https://wa.me/${ADMIN_WA}?text=${encodeURIComponent('Halo Lincah Travel, saya ingin bertanya rute travel.')}`} class="inline-flex items-center justify-center gap-2 bg-white text-blue-900 font-black uppercase text-sm px-8 py-4 hover:bg-yellow-400 transition-colors">
+            <MessageCircle className="w-5 h-5" />
+            Chat WhatsApp
+          </a>
+          <a href="/kontak" class="inline-flex items-center justify-center gap-2 border border-blue-400 text-white font-black uppercase text-sm px-8 py-4 hover:bg-blue-800 transition-colors">
+            Halaman Kontak
+            <ArrowRight className="w-4 h-4" />
+          </a>
         </div>
       </div>
     </section>

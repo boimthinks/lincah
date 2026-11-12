@@ -9,6 +9,9 @@ File ini adalah **sumber kebenaran tunggal** untuk semua informasi faktual tenta
 | Atribut | Detail |
 |---|---|
 | **Brand** | Lincah Travel |
+| **Model Bisnis** | Agensi perjalanan (broker) yang menghubungkan penumpang dengan mitra sopir dan pool travel. Bukan pemilik pool atau armada sendiri |
+| **Pendiri** | Boim Thinks (website, trafik SEO/GEO, teknologi), Febriyansyah Pikri (pelayanan konsumen, manajemen sopir & travel), Chandra Maulana (model bisnis, inovasi, strategi) |
+| **Sejarah** | Beroperasi 2021-2024 di `lincah.web.id`, dihentikan karena masalah internal. Dibangun kembali 2026-07-10 di `lincahtravel.web.id` karena domain lama pernah dipakai situs yang melanggar kebijakan Google |
 | **Website Utama** | lincahtravel.web.id |
 | **Tagline Inti** | "Cepat . Aman . Nyaman" |
 | **Layanan Utama** | Travel door-to-door (antar-jemput alamat) di wilayah Sumatera Selatan dan sekitarnya |
@@ -16,6 +19,10 @@ File ini adalah **sumber kebenaran tunggal** untuk semua informasi faktual tenta
 | **WhatsApp Admin** | `6281369231893` |
 | **Social Media** | LinkedIn: https://www.linkedin.com/company/lincah-travel/ · TikTok: https://www.tiktok.com/@lincahtravelpalembang · YouTube: https://www.youtube.com/@lincahtravel · Facebook: https://web.facebook.com/profile.php?id=61591225023421 · Pinterest: https://id.pinterest.com/lincahtravel/ |
 | **Alamat Kantor** | Lorong Tj. Burung Utama, Bukit Lama, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30139 |
+| **Koordinat Kantor** | -3.0006094, 104.7381444 |
+| **Google Business Profile** | https://maps.google.com/?cid=15329926894755066633 |
+| **Legalitas Usaha** | Tidak ada NIB/PT/CV. Jangan mengarang nomor izin atau badan hukum |
+| **Foto Pendiri** | `public/img/boim-thinks_poco.webp`, `public/img/febriyansyah-pikri_poco.webp`, `public/img/chandra-maulana_poco.webp` |
 
 ---
 

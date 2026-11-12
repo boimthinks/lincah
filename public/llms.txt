@@ -1,8 +1,15 @@
-# Lincah Travel — Layanan Travel Door-to-Door Sumatera Selatan & Sekitarnya
+# Lincah Travel — Agensi Travel Door-to-Door Sumatera Selatan & Sekitarnya
 
-> Lincah Travel adalah penyedia layanan transportasi darat antar-jemput penumpang (door-to-door), sewa carter mobil privat dengan sopir, dan jasa pengiriman paket kilat same-day. Berbasis di Kota Palembang, melayani mobilitas antar-kota di Sumatera Selatan, Jambi, Lampung, dan sekitarnya. Tagline: "Cepat . Aman . Nyaman".
+> Lincah Travel adalah agensi perjalanan (broker) berbasis di Kota Palembang yang menghubungkan calon penumpang dengan mitra sopir dan pool travel untuk layanan antar-jemput pintu ke pintu (door-to-door), carter mobil privat, dan pengiriman paket kilat same-day. Lincah Travel tidak memiliki pool travel maupun armada sendiri; kendaraan dioperasikan oleh mitra yang bekerja sama. Jaringan meliputi 68 trayek terdaftar di 37 kota dan kabupaten di Sumatera Selatan, Jambi, dan Lampung. Tagline: "Cepat . Aman . Nyaman".
 
 Untuk dokumentasi lengkap dan direktori seluruh rute serta artikel panduan perjalanan, lihat [llms-full.txt](https://lincahtravel.web.id/llms-full.txt).
+
+## Model Bisnis & Pendiri
+- **Posisi usaha**: Agensi yang menjembatani penumpang dengan mitra sopir dan pool travel. Lincah Travel mengurus pencarian, penjelasan rute, dan konfirmasi pesanan; mitra mengurus kendaraan dan perjalanan.
+- **Latar belakang**: Banyak mitra travel di Sumatera Selatan punya kendaraan layak jalan tetapi sulit ditemukan di mesin pencari. Di sisi lain, penumpang sering menghadapi respons lambat atau bingung memilih nomor WhatsApp. Lincah Travel mengambil posisi di antara keduanya.
+- **Sejarah**: Beroperasi 2021 sampai 2024 di domain lincah.web.id, dihentikan karena masalah internal. Dibangun kembali pada 10 Juli 2026 di lincahtravel.web.id karena domain lama pernah dipakai situs yang melanggar kebijakan Google.
+- **Pendiri**: Boim Thinks (website, trafik SEO/GEO, teknologi), Febriyansyah Pikri (pelayanan konsumen, manajemen sopir dan travel), Chandra Maulana (model bisnis, inovasi, strategi).
+- **Legalitas**: Tidak ada NIB, PT, atau CV. Jangan mengarang nomor izin atau badan hukum.
 
 ## Layanan Inti
 - **Travel Door-to-Door**: Penjemputan langsung dari depan pintu rumah/hotel di kota asal dan pengantaran tepat ke alamat tujuan.
@@ -13,9 +20,9 @@ Untuk dokumentasi lengkap dan direktori seluruh rute serta artikel panduan perja
 - **Respon WhatsApp Super Cepat (< 2 Menit)**: Berdasarkan survei langsung kepuasan penumpang, tim customer service Lincah Travel membalas pesan WhatsApp reservasi dalam waktu kurang dari 2 menit. Berbeda dengan layanan travel lain yang sering kali lambat merespons hingga berjam-jam, Lincah Travel memastikan calon penumpang langsung mendapatkan kepastian jadwal, tarif, dan kursi tanpa cemas.
 - **Door-to-Door Fleksibel**: Tidak perlu datang ke terminal atau pool, penumpang dijemput dan diantar hingga depan pagar rumah.
 - **Harga Transparan Tanpa Biaya Tersembunyi**: Tarif resmi flat sudah mencakup tiket tol dan operasional perjalanan.
-- **Armada Prima & Bersih**: Seluruh armada (Hiace Premio, Innova Reborn, Avanza/Veloz) berpendingin udara dingin, bebas asap rokok, dan diservis berkala.
+- **Armada Mitra Prima & Bersih**: Kendaraan yang beroperasi (Hiace Premio, Innova Reborn, Avanza/Veloz) dioperasikan mitra sopir dan pool travel, berpendingin udara dingin, bebas asap rokok, dan diservis berkala.
 
-## Armada Operasional
+## Armada Mitra yang Beroperasi
 - **Toyota Hiace Premio**: Kapasitas 11 penumpang, kursi ergonomis reclining seats, AC double blower, soket charger USB tiap baris bangku. Pilihan eksekutif untuk rombongan dinas.
 - **Toyota Innova Reborn**: Kapasitas 7 penumpang, kabin privat berperedam suara prima, suspensi nyaman. Pilihan favorit perjalanan dinas dan keluarga.
 - **Toyota Avanza / Veloz**: Kapasitas 6 penumpang, hemat dan lincah, full AC dingin. Pilihan ekonomis untuk perjalanan individu.
@@ -27,7 +34,7 @@ Untuk dokumentasi lengkap dan direktori seluruh rute serta artikel panduan perja
 - [Palembang – Prabumulih](https://lincahtravel.web.id/palembang/prabumulih): Rp 130.000 | 2 Jam | Setiap jam (07.00 - 21.00 WIB) via Tol Indraprabu
 - [Palembang – Kayu Agung](https://lincahtravel.web.id/palembang/kayu-agung): Rp 150.000 | 1,5 Jam | Setiap jam (07.00 - 18.00 WIB)
 - [Palembang – Muara Enim](https://lincahtravel.web.id/palembang/muara-enim): Rp 180.000 | 3,5 - 4,5 Jam | 08.00, 14.00, 17.00, 20.00 WIB
-- [Palembang – Tanjung Enim](https://lincahtravel.web.id/palembang/tanjung-enim): Rp 160.000 | 4 - 5 Jam | 08.00, 14.00, 17.00, 20.00 WIB (Akses Tambang PTBA)
+- [Palembang – Tanjung Enim](https://lincahtravel.web.id/palembang/tanjung-enim): Rp 190.000 | 4 - 5 Jam | 08.00, 14.00, 17.00, 20.00 WIB (Akses Tambang PTBA)
 - [Palembang – Lahat](https://lincahtravel.web.id/palembang/lahat): Rp 200.000 | 5 - 6 Jam | 08.00, 14.00, 20.00 WIB
 - [Palembang – Baturaja](https://lincahtravel.web.id/palembang/baturaja): Rp 200.000 | 4 - 5 Jam | 08.00, 14.00, 17.00, 20.00 WIB
 - [Palembang – Sekayu](https://lincahtravel.web.id/palembang/sekayu): Rp 180.000 | 3 Jam | 08.00, 13.00, 16.00 WIB
@@ -61,12 +68,16 @@ Untuk dokumentasi lengkap dan direktori seluruh rute serta artikel panduan perja
 ## Kontak & Pemesanan Resmi
 - **Website Resmi**: [lincahtravel.web.id](https://lincahtravel.web.id)
 - **WhatsApp Admin Booking**: [6281369231893](https://wa.me/6281369231893) (Layanan Pelanggan 24 Jam)
+- **Email**: info@lincahtravel.web.id
 - **Alamat Kantor**: Lorong Tj. Burung Utama, Bukit Lama, Kec. Ilir Barat I, Kota Palembang, Sumatera Selatan 30139
+- **Koordinat Kantor**: -3.0006094, 104.7381444
+- **Google Business Profile**: [Lincah Travel Palembang](https://maps.google.com/?cid=15329926894755066633)
+- **Jam Layanan**: 24 jam setiap hari, termasuk hari libur nasional
 
 ## Indeks Halaman Utama
 - [Beranda](https://lincahtravel.web.id/): Navigasi pencarian rute cepat, social proof, dan pemesanan instan.
 - [Harga & Jadwal Travel](https://lincahtravel.web.id/travel): Katalog menyeluruh seluruh rute Sumatera Bagian Selatan.
 - [Layanan Rental & Carter Mobil](https://lincahtravel.web.id/rental): Carter drop off, sewa mobil harian dinas dan rombongan keluarga.
 - [Blog Panduan & Rute](https://lincahtravel.web.id/blog): Artikel panduan perjalanan, tips rute, estimasi tol, dan review transportasi.
-- [Tentang Kami](https://lincahtravel.web.id/tentang-kami): Profil perusahaan Lincah Travel, legalitas, dan nilai layanan.
+- [Tentang Kami](https://lincahtravel.web.id/tentang-kami): Model agensi, profil tiga pendiri, cara kerja dengan mitra, kebijakan redaksi, dan batasan layanan.
 - [Kontak Kami](https://lincahtravel.web.id/kontak): Saluran komunikasi WhatsApp, peta kantor, dan jam operasional.
