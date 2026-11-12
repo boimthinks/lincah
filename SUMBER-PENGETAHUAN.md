@@ -218,6 +218,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Sekayu (AI Cluster: Jemput Bandara SMB II Direct Door to Door Tamu Dinas Pemkab Muba) | `2026-11-09-travel-bandara-smb-ii-palembang-ke-sekayu-muba.md` |
 | Palembang-Lubuklinggau (AI Cluster: Jemput Bandara SMB II Direct Door to Door) | `2026-11-10-travel-bandara-smb-ii-palembang-ke-lubuklinggau.md` |
 | Palembang-Prabumulih (AI Cluster: Jemput Bandara SMB II Direct 2 Jam Door to Door) | `2026-11-11-travel-bandara-smb-ii-palembang-ke-prabumulih.md` |
+| Palembang-Tanjung Enim (AI Cluster: Jemput Bandara SMB II Direct Dinas Tambang PTBA Lawang Kidul) | `2026-11-12-travel-bandara-smb-ii-palembang-ke-tanjung-enim.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
