@@ -36,7 +36,7 @@ Setiap artikel dirancang dengan standar E-E-A-T, anti-kanibalisasi kata kunci, j
 | 20 | 2026-11-10 | Travel Bandara SMB II Palembang ke Prabumulih 2 Jam | Travel Bandara SMB II Palembang ke Prabumulih 2 Jam | `travel-bandara-smb-ii-palembang-ke-prabumulih` | Jemput Bandara / Komuter Migas | ✅ Selesai (2026-11-11) |
 | 21 | 2026-11-11 | Travel Bandara SMB II Palembang ke Tanjung Enim | Travel Bandara SMB II Palembang ke Tanjung Enim Dinas Tambang | `travel-bandara-smb-ii-palembang-ke-tanjung-enim` | Jemput Bandara / Profesional B2B Batubara | ✅ Selesai (2026-11-12) |
 | 22 | 2026-11-12 | Travel Bandara SMB II Palembang ke Martapura OKU Timur | Travel Bandara SMB II Palembang ke Martapura OKU Timur Langsung | `travel-bandara-smb-ii-palembang-ke-martapura-oku-timur` | Jemput Bandara / Akses Ibukota OKU Timur | ✅ Selesai (2026-11-14) |
-| 23 | 2026-11-13 | Perbandingan Travel vs Kereta Api Palembang Lahat | Perbandingan Travel vs Kereta Api Palembang Lahat Ongkos dan Durasi | `perbandingan-travel-vs-kereta-api-palembang-lahat` | Komparasi Moda / Travel vs KA Serelo/Sindang | Menunggu |
+| 23 | 2026-11-13 | Perbandingan Travel vs Kereta Api Palembang Lahat | Perbandingan Travel vs Kereta Api Palembang Lahat Ongkos dan Durasi | `perbandingan-travel-vs-kereta-api-palembang-lahat` | Komparasi Moda / Travel vs KA Serelo/Sindang | ✅ Selesai (2026-11-16) |
 | 24 | 2026-11-14 | Perbandingan Travel vs Kereta Api Palembang Muara Enim | Perbandingan Travel vs Kereta Api Palembang Muara Enim Paling Nyaman | `perbandingan-travel-vs-kereta-api-palembang-muara-enim` | Komparasi Moda / Door to door vs Stasiun | Menunggu |
 | 25 | 2026-11-15 | Titik Macet Jalur Palembang Betung dan Jalur Alternatif | Titik Macet Jalur Palembang Betung dan Waktu Terbaik Melintas 2026 | `titik-macet-jalur-palembang-betung-dan-solusinya` | Koridor Jalur / Jam Rawan Truk & Pasar Tumpah | Menunggu |
 | 26 | 2026-11-16 | Carter Mobil Palembang ke Sekayu untuk Perjalanan Dinas | Carter Mobil Palembang ke Sekayu untuk Perjalanan Dinas Kantor Muba | `carter-mobil-palembang-ke-sekayu-perjalanan-dinas` | Carter Privat / Drop-Off OPD & Vendor Muba | Menunggu |
@@ -82,7 +82,7 @@ Setiap artikel dirancang dengan standar E-E-A-T, anti-kanibalisasi kata kunci, j
 
 ### Klaster 4: Komparasi Transportasi, Koridor Jalur, dan Carter Privat
 *Tujuan: Menyajikan data otoritatif dan insight lokal otentik yang tidak dimiliki situs direktori generic (non-commodity content).*
-* **Hari 23 (`perbandingan-travel-vs-kereta-api-palembang-lahat`)**: Analisa tarif KA Serelo/Sindang Marga vs Travel door-to-door, selisih ongkos ojol dari Stasiun Lahat.
+* **Hari 23 (`perbandingan-travel-vs-kereta-api-palembang-lahat`)**: Analisa tarif KA Serelo/Sindang Marga vs Travel door-to-door, selisih ongkos ojol dari Stasiun Lahat. Terbit: 2026-11-16. Link ke pilar: `/blog/travel-palembang-lahat-door-to-door`.
 * **Hari 24 (`perbandingan-travel-vs-kereta-api-palembang-muara-enim`)**: Evaluasi kepraktisan travel jemput rumah vs jadwal tetap stasiun kereta.
 * **Hari 25 (`titik-macet-jalur-palembang-betung-dan-solusinya`)**: Mengupas bottleneck Simpang Betung, pasar tumpah, jam operasional truk CPO/kayu, dan rute alternatif.
 * **Hari 26 (`carter-mobil-palembang-ke-sekayu-perjalanan-dinas`)**: Opsi privat drop-off rombongan OPD dan vendor menggunakan Innova Reborn / Hiace Premio.
