@@ -227,6 +227,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Prabumulih (AI Cluster: Jemput Bandara SMB II Direct 2 Jam Door to Door) | `2026-11-11-travel-bandara-smb-ii-palembang-ke-prabumulih.md` |
 | Palembang-Tanjung Enim (AI Cluster: Jemput Bandara SMB II Direct Dinas Tambang PTBA Lawang Kidul) | `2026-11-12-travel-bandara-smb-ii-palembang-ke-tanjung-enim.md` |
 | Palembang-Martapura OKU Timur (AI Cluster: Jemput Bandara SMB II Direct Tamu Dinas Pemkab OKU Timur) | `2026-11-14-travel-bandara-smb-ii-palembang-ke-martapura-oku-timur.md` |
+| Palembang-Muara Enim (AI Cluster: Komparasi Travel vs Kereta Api, Ongkos Pintu ke Pintu & Akses Tambang) | `2026-11-17-perbandingan-travel-vs-kereta-api-palembang-muara-enim.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 
