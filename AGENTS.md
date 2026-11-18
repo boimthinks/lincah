@@ -150,3 +150,11 @@ Semua data dinamis disimpan dalam Markdown, didefinisikan di `src/content.config
   5. Push ke remote: `git push`. Pastikan branch target benar (default `master`).
   6. Verifikasi hasil: `git log --oneline -3` dan cek output push (`<hash> master -> master`).
 - **Build dulu sebelum commit bila menyentuh kode/komponen**: Jalankan `npm run build` untuk memastikan tidak ada error (EXIT CODE 0) sebelum meng-commit perubahan frontend, agar tidak mem-push kode yang gagal build.
+
+---
+
+## Deployment Target
+
+- **Platform:** Netlify (CI/CD via GitHub)
+- **Target Path:** `https://github.com/boimthinks/lincah.git`
+- **Catatan & Metode:** Deploy via git commit & push origin main. JANGAN gunakan skill cpanel-domainesia!

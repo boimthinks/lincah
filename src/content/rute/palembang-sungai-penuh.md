@@ -1,18 +1,18 @@
 ---
 from: palembang
 to: sungai penuh
-price: 320000
+price: 500000
 duration: 11 - 12 Jam
 departureTimes: ["07:00 WIB", "18:00 WIB"]
 type: jambi
 distance: 490 km
-description: Travel Palembang ke Sungai Penuh Kerinci 11-12 jam Rp 320.000 door-to-door. Rute pegunungan aman, armada Innova Reborn & Hiace. Booking WA 0813-6923-1893.
+description: Travel Palembang ke Sungai Penuh Kerinci 11-12 jam Rp 500.000 door-to-door. Rute pegunungan aman, armada Innova Reborn & Hiace. Booking WA 0813-6923-1893.
 img: src\content\city-images.md
 ---
 
 Kota Sungai Penuh di Lembah Kerinci, Jambi adalah pusat perdagangan dan jasa yang berada di kawasan dataran tinggi Taman Nasional Kerinci Seblat. Menempuh rute jarak jauh sejauh 490 km menuntut armada prima dan driver yang tangguh di jalan pegunungan.
 
-Lincah Travel menghadirkan layanan door-to-door Palembang ke Sungai Penuh dengan tarif flat Rp 320.000 per orang.
+Lincah Travel menghadirkan layanan door-to-door Palembang ke Sungai Penuh dengan tarif flat Rp 500.000 per orang.
 
 ## Keunggulan Travel Palembang Sungai Penuh
 

@@ -2,12 +2,12 @@
 title: "Travel Palembang Sungai Penuh"
 judul_seo: "Travel Palembang ke Sungai Penuh Ongkos Jadwal dan Rute Kerinci"
 slug: "travel-palembang-sungai-penuh"
-description: "Travel Palembang ke Sungai Penuh Kerinci Rp320.000 door-to-door. Durasi 11-12 jam via Lintas Barat. Jadwal 2x sehari. Booking WA 0813-6923-1893."
+description: "Travel Palembang ke Sungai Penuh Kerinci Rp500.000 door-to-door. Durasi 11-12 jam via Lintas Barat. Jadwal 2x sehari. Booking WA 0813-6923-1893."
 pubDate: "2026-10-09"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeTMm-v5BXlsyNZJtf053uzOIV13gshsMPthXgV7fnOJ_19quq93NXETiaAvXPjJmiv-L8JM6AyqfVrE-vMepCSc26ON0rpzHrgRXmcx14qjjypVj8SJdYOif9OlFzOtnRgMDVH_vSZ0J5dFUP5FrGR6RpHFJ67uBxG6TFVd2A5sR5UxTANlYbMxMR26x8/s600/travel-palembang-sungai-penuh-jambi_poco.webp"
 kategori: "rute"
-pengantar: "Perjalanan dari Palembang menuju Kota Sungai Penuh di Lembah Kerinci menempuh rute jarak jauh sepanjang 490 km melintasi perbukitan Bukit Barisan. Lincah Travel menghadirkan layanan door-to-door dengan tarif flat Rp320.000 per orang, menghubungkan pusat Sumatera Selatan dengan dataran tinggi barat Jambi secara aman dan nyaman."
+pengantar: "Perjalanan dari Palembang menuju Kota Sungai Penuh di Lembah Kerinci menempuh rute jarak jauh sepanjang 490 km melintasi perbukitan Bukit Barisan. Lincah Travel menghadirkan layanan door-to-door dengan tarif flat Rp500.000 per orang, menghubungkan pusat Sumatera Selatan dengan dataran tinggi barat Jambi secara aman dan nyaman."
 kesimpulan: "Menembus jalur dataran tinggi Kerinci kini lebih tenang bersama sopir berpengalaman dan armada prima dari Lincah Travel. Amankan kursi perjalanan Anda sekarang juga dengan menghubungi admin WhatsApp di 0813-6923-1893."
 tags: ["travel palembang sungai penuh", "travel palembang jambi", "sungai penuh", "kerinci", "travel sumatera selatan"]
 from: "palembang"
@@ -16,7 +16,7 @@ faq:
   - q: "Palembang ke Sungai Penuh berapa jam waktu tempuhnya?"
     a: "Perjalanan darat dari Palembang ke Kota Sungai Penuh membutuhkan waktu normal 11 hingga 12 jam dengan jarak tempuh sekitar 490 km melalui jalur Lubuklinggau, Bangko, dan Muara Emat."
   - q: "Berapa ongkos travel Palembang ke Sungai Penuh per orang?"
-    a: "Tarif resmi Lincah Travel adalah Rp320.000 flat per kursi, sudah termasuk fasilitas penjemputan dan pengantaran alamat door to door."
+    a: "Tarif resmi Lincah Travel adalah Rp500.000 flat per kursi, sudah termasuk fasilitas penjemputan dan pengantaran alamat door to door."
   - q: "Lewat mana rute perjalanan darat menuju Sungai Penuh Kerinci?"
     a: "Rute melewati Prabumulih, Muara Enim, Lahat, Lubuklinggau, Sarolangun, Bangko, lalu mendaki perbukitan Batang Merangin melewati kawasan Muara Emat dan Danau Kerinci."
   - q: "Kapan jadwal keberangkatan travel Palembang ke Sungai Penuh?"
@@ -52,7 +52,7 @@ Lincah Travel menyediakan dua pilihan jam keberangkatan setiap hari untuk menyes
 | 07.00 WIB | 11 - 12 jam | 19.00 WIB | Trip pagi, menikmati pemandangan alam Kerinci |
 | 18.00 WIB | 11 - 12 jam | 06.00 WIB | Trip malam, tidur selama jalan, tiba saat pagi |
 
-Ongkos tiket travel Palembang ke Sungai Penuh dipatok flat Rp320.000 per penumpang. Biaya ini sudah mencakup penjemputan di area Palembang dan pengantaran alamat di Sungai Penuh tanpa ada pungutan liar tambahan di jalan.
+Ongkos tiket travel Palembang ke Sungai Penuh dipatok flat Rp500.000 per penumpang. Biaya ini sudah mencakup penjemputan di area Palembang dan pengantaran alamat di Sungai Penuh tanpa ada pungutan liar tambahan di jalan.
 
 ## Armada Tangguh untuk Rute Pegunungan
 

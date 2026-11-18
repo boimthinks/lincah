@@ -35,4 +35,5 @@ cities:
   muara-beliti: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_TIcvMv8_EvB6vw3Mjy9Ov3WBeBSiQ4dMVEvfOGCLmVN9c1Fi3YypaPL9ztOoDf5TsN4SJOgwGJlhgA9LaROLmQtOkLTiovQFL2TuSfucZetTVr47sPMCEjK7AgYy7CAJcro91qvOVvHiY6AdCjTM7FP0lryPQgFj7uIFMG1DrfbEcHVJQgTiMcTGw5Ns/s600/muara-beliti_poco.webp"
   muara-lakitan: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-svq-IGZJwwvMP4kjg8_h03yFgnzpqGGAqVIiCjX2DsI26Ry4ocyWVpxjXw2E2CdEbupIZJLbCL08CXjAT0yHFYFWdu4sKdGDpQMTa3j9-Ps6tFPhKkBYeEzlI0F982sivprSetQC0jzroNfbj9MyUU8UlhCg0IXozYqDTFTBh-V2zUWNiH_aCtMDkeDB/s600/muara-lakitan_poco.webp"
   pelabuhan-tanjung-api-api: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2wBgSPbSsy0Brdbg_zZ89AWp-dbZmS_ZdeKhG5MoMon1tvrFstL2qKl6uWc8qq3QBbT5RMpa4ZRNwrTqbciRIPrP7jcz0k4TfvgPv9XpwMSzRxkzbF6bigvXy7jEhPfIBUgFRzXY2TELkIUE79BaFiuk88bGD1d692CNlpwECeEBrt2yiFaI5rWXqcNvr/s600/pelabuhan-tanjung-api-api_poco.webp"
+  sungai-penuh: "/img/travel-palembang-sungai-penuh_poco.webp"
 ---

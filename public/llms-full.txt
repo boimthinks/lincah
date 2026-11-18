@@ -133,7 +133,7 @@ Kendaraan di bawah ini dioperasikan oleh mitra sopir dan pool travel yang bekerj
 - **Palembang – Kuala Tungkal**: Tarif Rp 400.000 | Durasi 10 - 11 jam | Jadwal 07.00, 19.00 WIB (Pintu feri ke Kepulauan Riau / Batam).
 - **Palembang – Bangko (Merangin)**: Tarif Rp 250.000 | Durasi 8 - 9 jam | Jadwal 08.00, 15.00, 20.00 WIB.
 - **Palembang – Muara Bungo**: Tarif Rp 250.000 | Durasi 9 - 10 jam | Jadwal 08.00, 15.00, 20.00 WIB.
-- **Palembang – Sungai Penuh (Kerinci)**: Tarif Rp 350.000 | Durasi 12 - 14 jam | Jadwal 08.00, 15.00 WIB.
+- **Palembang – Sungai Penuh (Kerinci)**: Tarif Rp 500.000 | Durasi 12 - 14 jam | Jadwal 08.00, 15.00 WIB.
 
 ---
 
@@ -180,7 +180,7 @@ Berikut adalah daftar artikel panduan perjalanan, komparasi rute, dan jadwal yan
 18. `travel-palembang-tugumulyo`: Panduan Travel Palembang Tugumulyo OKU Timur Rp180.000.
 19. `travel-palembang-muara-beliti`: Panduan Travel Palembang Muara Beliti Musi Rawas Rp250.000.
 20. `travel-palembang-bangko-merangin`: Panduan Travel Palembang Bangko Merangin Rp250.000.
-21. `travel-palembang-sungai-penuh`: Panduan Travel Palembang Sungai Penuh Kerinci Rp350.000.
+21. `travel-palembang-sungai-penuh`: Panduan Travel Palembang Sungai Penuh Kerinci Rp500.000.
 22. `travel-palembang-sekernan`: Panduan Travel Palembang Sekernan Muaro Jambi Rp220.000.
 23. `travel-palembang-muara-dua-door-to-door`: Panduan Travel Palembang Muara Dua OKU Selatan Rp220.000.
 24. `travel-palembang-belitang-oku-timur`: Panduan Travel Palembang Belitang OKU Timur Rp150.000.

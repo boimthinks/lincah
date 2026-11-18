@@ -1,12 +1,12 @@
 ---
 from: sungai penuh
 to: palembang
-price: 320000
+price: 500000
 duration: 11 - 12 Jam
 departureTimes: ["07:00 WIB", "18:00 WIB"]
 type: jambi
 distance: 490 km
-description: Travel Sungai Penuh ke Palembang door-to-door Rp 320.000. Layanan jemput alamat, rute aman, armada AC terawat. Reservasi WhatsApp 0813-6923-1893.
+description: Travel Sungai Penuh ke Palembang door-to-door Rp 500.000. Layanan jemput alamat, rute aman, armada AC terawat. Reservasi WhatsApp 0813-6923-1893.
 img: src\content\city-images.md
 ---
 

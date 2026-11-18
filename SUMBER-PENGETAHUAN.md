@@ -78,6 +78,7 @@ Gunakan data ini sebagai social proof dalam artikel:
 | **Palembang-Martapura** | 5 jam | Lintas Tengah | Rp 220.000 | OKU Timur, perbatasan Lampung |
 | **Palembang-Batu Marta** | 5-6 jam | Lintas Tengah / OKU Timur | Rp 250.000 | Batas antar maks. Unit 2 (jalan unit dalam rusak) |
 | **Palembang-Babat Supat** | 3 jam 15 menit | Lintas Timur (Betung - Babat Supat) | Rp 160.000 | Jalintim Muba, door-to-door, 92 km |
+| **Palembang-Sungai Penuh** | 11-12 jam | Lintas Barat (Lubuklinggau - Bangko - Muara Emat) | Rp 500.000 | Lembah Kerinci, Jambi, 490 km, door-to-door |
 
 **Sumber data:** `src/content/rute/*.md`
 
