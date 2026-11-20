@@ -93,7 +93,26 @@ Setiap artikel dirancang dengan standar E-E-A-T, anti-kanibalisasi kata kunci, j
 
 ---
 
-## Alur Eksekusi Harian per Artikel
+## Fase 2: Antrean Artikel untuk 5 Rute Baru (Rute Sudah Live, Artikel Belum)
+
+Lima rute sudah punya halaman rute aktif (`/[from]/[to]`), namun belum punya artikel blog pilar. Tanpa artikel, autolink rute hanya jatuh ke landing page sehingga link equity tidak terbaca Google. Fokus fase ini: satu artikel pilar per rute, ditambah revamp satu artikel lama yang masih tipis.
+
+| No | Prioritas | Rute | Tarif | Rencana Artikel | Slug Rekomendasi | Angka Kunci & Angle |
+|---|---|---|---|---|---|---|
+| 31 | 1 | Palembang–Tanjung Enim | Rp 180.000 | **REVAMP** artikel pilar lama (bukan artikel baru) | `travel-palembang-tanjung-enim` (sudah ada, 2026-08-16) | Pilar lama tanpa tarif & tanpa FAQ. Angle: tarif resmi Rp 180.000, jemputan bandara Rp 230.000 (reguler + Rp 50.000), durasi 4-5 jam, 205 km |
+| 32 | 2 | Palembang–PALI (Talang Ubi) | Rp 160.000 | Artikel pilar baru | `travel-palembang-pali-talang-ubi` | Kabupaten termuda Sumsel, 3,5-4 jam, 165 km, cakupan 6 kecamatan (Talang Ubi, Pendopo, Pendopo Barat, Abab, Penukal, Penukal Utara) |
+| 33 | 3 | Palembang–Ujan Mas | Rp 140.000 | Artikel pilar baru | `travel-palembang-ujan-mas-muara-enim` | Kecamatan jalur Lintas Tengah, 3,5-4 jam, komuter pekerja tambang, antrean kereta babaranjang. Wajib backlink ke pilar Muara Enim agar tidak kanibal |
+| 34 | 4 | Palembang–Empat Lawang | Rp 220.000 | Artikel pilar baru | `travel-palembang-empat-lawang-door-to-door` | 8-9 jam, 330 km. Angle khusus: cakupan antar lintas kecamatan (Tebing Tinggi, Pendopo, Muara Pinang, Ulu Musi, Saling, Sikap Dalam). Wajib backlink ke artikel Tebing Tinggi & Pendopo Lintang |
+| 35 | 5 | Palembang–Lintang Kanan | Rp 260.000 | Artikel pilar baru | `travel-palembang-lintang-kanan` | 9-10 jam, 345 km, tarif tertinggi di Empat Lawang. Angle: akses jalur kabupaten barat daya via Muara Pinang, jemput di kebun |
+| 36 | Khusus | Pengumuman 5 rute baru (agensi) | - | **SELESAI** 2026-11-20 | `lincah-travel-buka-lima-rute-baru` | Artikel pengumuman resmi: lima koridor baru, alasan jaringan mitra bertambah, penegasan model agensi (bukan pemilik armada), dan penurunan tarif Simpang Belimbing ke Rp 120.000. Bukan artikel pilar rute, sehingga tidak menyerap keyword komersial rute mana pun |
+
+**Aturan anti-kanibalisasi fase ini:**
+* Tanjung Enim **tidak** dibuat artikel baru. Pilar lama di-revamp karena sudah ada 4 artikel pendukung (berapa jam, bandara, kirim paket, pilar).
+* Empat Lawang tidak boleh membuat artikel terpisah per kecamatan. Cukup satu pilar kabupaten, lalu perbarui artikel Tebing Tinggi dan Pendopo Lintang agar saling merujuk.
+* Ujan Mas tidak boleh menduplikasi FAQ Muara Enim (tarif, jadwal, titik antar) karena rute berbeda harga.
+* Kirim paket same-day hanya layak ditambahkan untuk PALI dan Ujan Mas bila pilar penumpangnya sudah terbit dan terindeks.
+
+
 
 Saat mengeksekusi 1 artikel per hari, ikuti alur wajib sesuai `AGENTS.md`:
 1. **Langkah 1**: Jalankan skill **`pakar-entity-seo`** untuk mengekstrak entity graph, Schema.org mapping, LSI, dan outline E-E-A-T.

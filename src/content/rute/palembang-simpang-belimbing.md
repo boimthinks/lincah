@@ -1,12 +1,12 @@
 ---
 from: palembang
 to: simpang belimbing
-price: 150000
+price: 120000
 duration: 3 Jam
 departureTimes: ["08:00 WIB", "13:00 WIB", "17:00 WIB"]
 type: sumatera selatan
 distance: 135 km
-description: Travel Palembang ke Simpang Belimbing — 3 jam, Rp 150.000. Door-to-door, armada AC, jalur Lintas Tengah. Booking sekarang!
+description: Travel Palembang ke Simpang Belimbing — 3 jam, Rp 120.000. Door-to-door, armada AC, jalur Lintas Tengah. Booking sekarang!
 img: src\content\city-images.md
 ---
 
@@ -18,7 +18,7 @@ Simpang Belimbing adalah kawasan strategis di Selatan Kabupaten Muara Enim, titi
 *   **Layanan Door-to-Door:** Jemput di alamat Anda di Palembang dan antar langsung ke lokasi di Simpang Belimbing.
 *   **Driver Berpengalaman:** Sopir kami paham setiap titik penting dan area tujuan.
 *   **Jadwal Rutin Tiga Kali Sehari:** Pilih waktu yang paling sesuai dengan kebutuhan Anda.
-*   **Harga Bersahabat:** Rp 150.000 flat tanpa biaya tersembunyi.
+*   **Harga Bersahabat:** Rp 120.000 flat tanpa biaya tersembunyi.
 
 ## Jadwal Keberangkatan Palembang ke Simpang Belimbing
 

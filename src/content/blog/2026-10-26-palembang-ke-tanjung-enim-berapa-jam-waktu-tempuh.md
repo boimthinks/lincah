@@ -20,7 +20,7 @@ faq:
   - q: "Berapa jarak berkendara dari Palembang ke Tanjung Enim?"
     a: "Total jarak tempuh berkendara melewati kombinasi jalan tol dan jalan arteri Lintas Tengah Sumatera adalah sekitar 205 kilometer."
   - q: "Berapa tarif tiket travel Palembang ke Tanjung Enim door to door?"
-    a: "Tarif resmi tiket travel reguler dipatok mulai dari Rp190.000 hingga Rp200.000 per kursi, sudah termasuk fasilitas antar jemput alamat depan rumah atau kantor."
+    a: "Tarif resmi tiket travel reguler Rp 180.000 per kursi, sudah termasuk fasilitas antar jemput alamat depan rumah atau kantor. Khusus penjemputan langsung di Bandara SMB II, tarif menjadi Rp 230.000 atau tarif reguler ditambah Rp 50.000 biaya jemput bandara."
   - q: "Di mana saja titik penurunan penumpang di kawasan Tanjung Enim?"
     a: "Driver melayani antar jemput langsung ke mess karyawan PTBA, kantor kontraktor tambang, perumahan warga, hingga hotel di seputaran Kecamatan Lawang Kidul."
   - q: "Apa kendala utama yang sering menambah durasi perjalanan di jalan arteri?"

@@ -2,7 +2,7 @@
 title: "Travel Palembang Simpang Belimbing"
 judul_seo: "Travel Palembang Simpang Belimbing untuk Pekerja Proyek dan Tambang"
 slug: "travel-palembang-simpang-belimbing"
-description: "Travel Palembang Simpang Belimbing door-to-door Rp150.000, 3 jam lewat Lintas Tengah. Cocok untuk pekerja tambang dan proyek. Pesan tiket via WhatsApp."
+description: "Travel Palembang Simpang Belimbing door-to-door Rp120.000, 3 jam lewat Lintas Tengah. Cocok untuk pekerja tambang dan proyek. Pesan tiket via WhatsApp."
 pubDate: "2026-08-26"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY32cNJzEsQITktDCniPwPChMonvvznVHFEjWma9zFBOx65VmJA6MnBIkelLg3m3U_J1DCfFCaOEvkFLAeMogyW3jF_kCN93dAQqkYYbObfPSuwVdB5LejJdStVjlRtOKomg4094ipLCNoDoXWkr7zWw257elEp4V3Cb9V7aUhNoReLasIVNpxUL7bCpIz/s600/travel-palembang-simpang-belimbing.webp"
@@ -44,7 +44,7 @@ Jadwal 17:00 paling banyak dipilih pekerja yang harus menyelesaikan dulu pekerja
 
 ## Tarif dan Pilihan Armada
 
-Tarif kursi Rp 150.000 sudah mencakup penjemputan dalam area kota Palembang serta pengantaran sampai titik tujuan di Simpang Belimbing. Tidak ada biaya tambahan yang muncul mendadak di tengah jalan.
+Tarif kursi Rp 120.000 sudah mencakup penjemputan dalam area kota Palembang serta pengantaran sampai titik tujuan di Simpang Belimbing. Tidak ada biaya tambahan yang muncul mendadak di tengah jalan.
 
 - **Toyota Hiace Premio**, 11 penumpang dengan reclining seat dan pengisi daya USB. Cocok untuk rombongan tim ganti shift.
 - **Toyota Innova Reborn**, 7 penumpang dengan captain seat. Biasanya dipilih supervisor atau tamu kantor yang butuh perjalanan tenang.

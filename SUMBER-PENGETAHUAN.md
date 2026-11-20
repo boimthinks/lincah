@@ -32,8 +32,9 @@ File ini adalah **sumber kebenaran tunggal** untuk semua informasi faktual tenta
 2. **Armada Terbaru** — Hiace Premio, Innova Reborn, Avanza/Veloz dalam kondisi prima.
 3. **Driver Profesional** — Sopir berpengalaman dengan gaya mengemudi aman, paham rute tol & jalur utama.
 4. **Respon CS Super Cepat (< 2 Menit)** — Berdasarkan survei kepuasan penumpang, tim CS WhatsApp merespons pesan calon penumpang rata-rata dalam waktu kurang dari 2 menit (jauh lebih cepat dibandingkan travel lain yang kerap lambat merespons), siaga 24/7 untuk konsultasi rute dan booking tiket.
-5. **Harga Transparan** — Tarif jelas tanpa biaya tersembunyi.
-6. **Rute Lengkap** — Melayani banyak kota di Sumatera Selatan, Lampung, dan Jambi.
+5. **Pencarian Unit Pengganti oleh Manajemen Mitra (< 30 Menit)** — Bila pesanan mendadak tidak bisa dipenuhi karena semua mitra di koridor tersebut penuh, bagian manajemen mitra langsung menghubungi beberapa sopir dan pool travel lain di koridor yang sama untuk mencarikan alternatif. Kabar hasil pencarian (ada unit pengganti atau tidak) biasanya keluar dalam waktu kurang dari 30 menit. Angka ini wajib disebut konsisten di halaman tentang kami dan artikel blog.
+6. **Harga Transparan** — Tarif jelas tanpa biaya tersembunyi.
+7. **Rute Lengkap** — Melayani banyak kota di Sumatera Selatan, Lampung, dan Jambi.
 
 ---
 
@@ -63,7 +64,7 @@ Gunakan data ini sebagai social proof dalam artikel:
 | **Palembang-Lubuklinggau** | 4 jam | - | Rp 200.000 | Akses ke Bengkulu |
 | **Palembang-Prabumulih** | 2 jam | - | Rp 130.000 | Ekonomis |
 | **Palembang-Muara Enim** | 4-5 jam | - | Rp 180.000 | Akses area industri & tambang |
-| **Palembang-Simpang Belimbing** | 3 jam | - | Rp 150.000 | Tambahan Rute |
+| **Palembang-Simpang Belimbing** | 3 jam | - | Rp 120.000 | Tambahan Rute |
 | **Palembang-Pagaralam** | 7-8 jam | - | Rp 250.000 | Dataran tinggi Gunung Dempo |
 | **Palembang-Tebing Tinggi** | 8-9 jam | - | Rp 210.000 | Empat Lawang |
 | **Palembang-Pendopo Lintang** | 8-9 jam | - | Rp 230.000 | Empat Lawang |
@@ -78,6 +79,11 @@ Gunakan data ini sebagai social proof dalam artikel:
 | **Palembang-Martapura** | 5 jam | Lintas Tengah | Rp 220.000 | OKU Timur, perbatasan Lampung |
 | **Palembang-Batu Marta** | 5-6 jam | Lintas Tengah / OKU Timur | Rp 250.000 | Batas antar maks. Unit 2 (jalan unit dalam rusak) |
 | **Palembang-Babat Supat** | 3 jam 15 menit | Lintas Timur (Betung - Babat Supat) | Rp 160.000 | Jalintim Muba, door-to-door, 92 km |
+| **Palembang-PALI (Talang Ubi)** | 3,5-4 jam | Tol Palindra / Lintas Tengah (Simpang Belimbing) | Rp 160.000 | Ibukota Kab. PALI, antar sampai desa |
+| **Palembang-Empat Lawang** | 8-9 jam | Lintas Tengah (Prabumulih - Muara Enim - Lahat) | Rp 220.000 | Door-to-door sampai desa, 330 km |
+| **Palembang-Lintang Kanan** | 9-10 jam | Lintas Tengah - Muara Pinang | Rp 260.000 | Barat daya Empat Lawang, 345 km |
+| **Palembang-Tanjung Enim** | 4-5 jam | Tol Indraprabu - Lintas Tengah | Rp 180.000 | Kawasan tambang PTBA & Lawang Kidul |
+| **Palembang-Ujan Mas** | 3,5-4 jam | Tol Indraprabu - Lintas Tengah | Rp 140.000 | Kecamatan Muara Enim, jalur Gunung Megang |
 | **Palembang-Sungai Penuh** | 11-12 jam | Lintas Barat (Lubuklinggau - Bangko - Muara Emat) | Rp 500.000 | Lembah Kerinci, Jambi, 490 km, door-to-door |
 
 **Sumber data:** `src/content/rute/*.md`

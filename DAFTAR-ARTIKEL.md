@@ -68,6 +68,7 @@ Tabel terbit (baris baru ditambahkan):
 | 32 | `2026-10-16-kirim-paket-palembang-martapura.md` | Kirim Paket Palembang Martapura Same Day 5 Jam Sampai | Kirim paket kilat Palembang Martapura sampai hari yang sama via travel door to door. Dokumen, pempek, sparepart aman. Hubungi WA 081369231893. |
 | 33 | `2026-10-17-kirim-paket-palembang-lubuklinggau.md` | Kirim Paket Kilat Palembang Lubuklinggau Tiba Hari Ini | Kirim paket kilat Palembang Lubuklinggau sampai di hari yang sama. Cocok untuk dokumen, pempek, dan sparepart darurat. Hubungi WhatsApp 0813-6923-1893 sekarang. |
 | 34 | `2026-10-19-rute-travel-palembang-ke-batumarta-unit-2.md` | Rute Travel Palembang ke Batumarta Drop Pasar Unit 2 | Rute travel Palembang ke Batumarta via Simpang Batumarta dengan titik antar Pasar Unit 2 Lubuk Raja. Simak info jalur dan alasan batas drop unit 2 di sini. |
+| 35 | `2026-11-20-lincah-travel-buka-lima-rute-baru.md` | Lima Rute Baru Lincah Travel untuk Koridor Sumatera Selatan | Lincah Travel membuka lima rute baru dari Palembang ke PALI, Empat Lawang, Lintang Kanan, Tanjung Enim, dan Ujan Mas. Cek tarif dan jam berangkatnya. |
 
 ---
 
@@ -85,10 +86,18 @@ Tabel terbit (baris baru ditambahkan):
   - Panduan lengkap travel Palembang ke Batumarta (Lubuk Raja, OKU Timur): jadwal 08.00/15.00/20.00 WIB, tarif Rp 250.000 flat door-to-door (batas drop hanya sampai Unit 2 karena jalan unit dalam rusak), koridor Tol Palindra + Indralaya-Prabumulih via Baturaja-Martapura, dan pilihan armada Hiace Premio/Innova Reborn/Avanza.
 - [x] ~~Travel Palembang Sekernan (Muaro Jambi): Jadwal, Harga Tiket & Rute via Jambi~~ → `2026-10-05-travel-palembang-sekernan.md`
   - Panduan rute travel Palembang menuju Sekernan (Kecamatan Sekernan, pusat pemerintahan Kabupaten Muaro Jambi di Sengeti). Tarif door-to-door Rp230.000 bersumber dari acuan Rp200.000 Palembang-Jambi + lanjutan ke Sengeti, durasi 7-8 jam via Jalintim.
-- [ ] **Travel Palembang Pendopo Pali: Solusi Transportasi Cepat dan Aman Sampai Tujuan**
-  - Panduan rute travel Palembang ke Pendopo (Kabupaten PALI) via perlintasan darat, harga tiket terjangkau, serta kemudahan antar-jemput hingga alamat rumah/lokasi kerja.
+- [ ] **Travel Palembang PALI (Talang Ubi): Rute Tercepat ke Ibukota Kabupaten Termuda Sumsel**
+  - Panduan rute travel Palembang ke PALI (Talang Ubi) via tol Palindra dan Lintas Tengah, tarif Rp 160.000, durasi 3,5-4 jam, cakupan antar 6 kecamatan (Talang Ubi, Pendopo, Pendopo Barat, Abab, Penukal, Penukal Utara). Slug target: `travel-palembang-pali-talang-ubi`.
 - [x] ~~Travel Palembang Indralaya (Ogan Ilir): Pilihan Efisien untuk Mahasiswa Unsri dan Pekerja~~ → `2026-08-11-travel-palembang-indralaya-unsri.md`
   - Menyoroti rute singkat Palembang–Indralaya, jadwal keberangkatan intensif harian, layanan khusus antar-jemput area kampus Unsri Indralaya, serta opsi armada Avanza/Innova.
+- [ ] **Travel Palembang Tanjung Enim: Revamp Pilar dengan Tarif Resmi Rp 180.000**
+  - Pilar lama (`2026-08-16-travel-palembang-tanjung-enim.md`) belum memuat tarif dan FAQ. Revamp dengan tarif reguler Rp 180.000, jemputan bandara Rp 230.000 (reguler + Rp 50.000), durasi 4-5 jam, jarak 205 km, titik antar mess PTBA dan Lawang Kidul. Tidak membuat artikel baru, cukup perbarui pilar.
+- [ ] **Travel Palembang Ujan Mas (Muara Enim): Rute Komuter Jalur Lintas Tengah**
+  - Rute 165 km, 3,5-4 jam, tarif Rp 140.000. Angle komuter pekerja tambang dan petani karet, hambatan palang kereta babaranjang di Ujan Mas. Slug target: `travel-palembang-ujan-mas-muara-enim`. Wajib backlink ke pilar Muara Enim.
+- [ ] **Travel Palembang Empat Lawang Door to Door: Cakupan Antar Lintas Kecamatan**
+  - Rute 330 km, 8-9 jam, tarif Rp 220.000. Fokus pada jangkauan antar sampai desa di Tebing Tinggi, Pendopo, Muara Pinang, Ulu Musi, Saling, dan Sikap Dalam. Slug target: `travel-palembang-empat-lawang-door-to-door`. Wajib merujuk artikel Tebing Tinggi dan Pendopo Lintang.
+- [ ] **Travel Palembang Lintang Kanan: Jalur Barat Daya Empat Lawang**
+  - Rute 345 km, 9-10 jam, tarif Rp 260.000 (tertinggi di Empat Lawang). Angle kondisi jalan kabupaten via Muara Pinang, jemput di kebun dan dusun. Slug target: `travel-palembang-lintang-kanan`.
 - [ ] **Travel Palembang Muara Rupit (Muratara): Jadwal Keberangkatan & Tarif Tiket Terbaru 2026**
   - Informasi perjalanan jarak jauh lintas kabupaten dari Palembang ke Muara Rupit, tips kenyamanan selama 8–9 jam perjalanan, dan kesiapan armada Hiace/Innova.
 - [ ] **Travel Palembang Pekanbaru Lintas Sumatera: Rute, Harga Tiket, dan Tips Perjalanan Jauh**

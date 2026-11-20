@@ -2,7 +2,7 @@
 title: "Travel Bandara SMB II ke Tanjung Enim untuk Dinas Tambang"
 judul_seo: "Travel Bandara SMB II Palembang ke Tanjung Enim Dinas PTBA"
 slug: "travel-bandara-smb-ii-palembang-ke-tanjung-enim"
-description: "Jemputan Bandara SMB II Palembang ke Tanjung Enim langsung setelah mendarat. Door to door 5 jam, tarif Rp190.000, cocok untuk dinas tambang PTBA."
+description: "Jemputan Bandara SMB II Palembang ke Tanjung Enim langsung setelah mendarat. Door to door 5 jam, tarif Rp230.000, cocok untuk dinas tambang PTBA."
 pubDate: "2026-11-12"
 author: "Tim Konten Lincah Travel"
 image_url: "/img/travel-bandara-smb-ii-palembang-ke-tanjung-enim_poco.webp"
@@ -14,7 +14,7 @@ faq:
   - q: "Berapa lama perjalanan dari Bandara SMB II ke Tanjung Enim?"
     a: "Rata-rata 4,5 sampai 5 jam dari lobi kedatangan sampai alamat tujuan. Jarak tempuhnya sekitar 210 kilometer, terdiri dari 40 sampai 60 menit keluar dari bandara menuju Gerbang Tol Kramasan, sekitar 75 menit di ruas tol, lalu 2,5 jam terakhir di jalur arteri Lintas Tengah lewat Muara Enim."
   - q: "Berapa tarif jemputan bandara ke Tanjung Enim?"
-    a: "Rp190.000 per orang untuk kursi reguler dengan layanan door to door. Tarif itu sudah mencakup penjemputan di terminal, biaya tol Palindra dan Indraprabu, serta pengantaran sampai depan mess, kantor, atau rumah di kawasan Tanjung Enim dan Lawang Kidul."
+    a: "Rp230.000 per orang untuk kursi reguler dengan layanan door to door. Nominal itu terdiri dari tarif reguler Palembang Tanjung Enim Rp 180.000 ditambah Rp 50.000 biaya penjemputan di bandara. Sudah mencakup penjemputan di terminal kedatangan, biaya tol Palindra dan Indraprabu, serta pengantaran sampai depan mess, kantor, atau rumah di kawasan Tanjung Enim dan Lawang Kidul."
   - q: "Apakah sopir bisa menjemput di terminal kedatangan, bukan di parkiran?"
     a: "Bisa. Sopir menunggu di area penjemputan depan lobi kedatangan domestik, lalu mengirim posisi parkir dan nomor pelat kendaraan lewat WhatsApp. Anda tidak perlu berkeliling parkiran dengan koper dan tas perlengkapan kerja."
   - q: "Bagaimana kalau penerbangan saya delay atau mendarat lebih awal?"
@@ -29,7 +29,7 @@ Mendarat di Bandara Sultan Mahmud Badaruddin II (SMB II) Palembang dengan agenda
 
 Yang sering terlewat justru bagian awal perjalanan. Bandara berada di sisi barat kota, sementara pool travel banyak berkumpul di dalam kota. Penumpang harus keluar terminal, memesan taksi, lalu menunggu armada reguler berangkat. Satu sampai dua jam bisa habis sebelum mobil benar-benar keluar dari Palembang.
 
-Jemputan bandara memotong bagian itu. Sopir menunggu di lobi kedatangan, koper dipindahkan ke bagasi, dan kendaraan langsung bergerak menuju gerbang tol. Layanan ini menyambung dengan trayek [travel Palembang Tanjung Enim](/blog/travel-palembang-tanjung-enim) yang berjalan tiap hari, sehingga tarif dan titik antar tetap sama seperti penumpang reguler.
+Jemputan bandara memotong bagian itu. Sopir menunggu di lobi kedatangan, koper dipindahkan ke bagasi, dan kendaraan langsung bergerak menuju gerbang tol. Layanan ini menyambung dengan trayek [travel Palembang Tanjung Enim](/blog/travel-palembang-tanjung-enim) yang berjalan tiap hari dengan tarif reguler Rp 180.000 per orang. Untuk penjemputan langsung di terminal kedatangan bandara, tarif menjadi Rp 230.000 per orang, yaitu tarif reguler ditambah Rp 50.000 biaya jemput bandara dan penanganan bagasi.
 
 ## Alur penjemputan di terminal kedatangan SMB II
 
@@ -72,14 +72,15 @@ Penumpang yang baru pertama kali ke Tanjung Enim sering membandingkan tarif trav
 
 | Komponen biaya | Sewa mobil sendiri | Travel jemputan bandara |
 |---|---|---|
-| Tarif | Sewa harian ditanggung sendiri | Rp190.000 all-in |
+| Tarif | Sewa harian ditanggung sendiri | Rp230.000 all-in |
+| Rincian tarif | Tidak ada komponen tetap | Rp180.000 reguler + Rp50.000 jemputan bandara |
 | Biaya tol Palindra dan Indraprabu | Sekitar Rp112.000 pulang pergi | Sudah termasuk |
 | Bahan bakar | Rp150.000 sampai Rp200.000 | Sudah termasuk |
 | Parkir bandara | Ditagih per jam | Tidak ada, sopir sudah standby |
 | Waktu tunggu pesawat | Ditagih tambahan oleh penyedia sewa | Menyesuaikan jam mendarat |
 | Titik antar | Parkiran umum | Depan mess atau kantor tujuan |
 
-Untuk perjalanan dinas perorangan, tarif Rp190.000 dengan cakupan itu lebih murah daripada menyewa mobil setengah hari. Nominalnya juga tetap sejak awal, memudahkan bagian umum kantor saat menyusun pertanggungjawaban biaya perjalanan.
+Untuk perjalanan dinas perorangan, tarif Rp230.000 dengan cakupan itu lebih murah daripada menyewa mobil setengah hari. Nominalnya juga tetap sejak awal, memudahkan bagian umum kantor saat menyusun pertanggungjawaban biaya perjalanan.
 
 Rombongan yang terdiri dari empat orang atau lebih sebaiknya menghitung opsi carter. Satu kendaraan penuh dibagi rata sering menghasilkan biaya per orang yang tidak jauh berbeda, dengan jam berangkat yang lebih bebas.
 
@@ -107,7 +108,7 @@ Dua format layanan tersedia, dan pilihannya bergantung pada jumlah orang serta v
 
 | Aspek | Kursi reguler | Carter privat |
 |---|---|---|
-| Tarif | Rp190.000 per orang | Dihitung per kendaraan |
+| Tarif | Rp230.000 per orang | Dihitung per kendaraan |
 | Armada | Avanza Veloz, Innova Reborn, Hiace | Innova Reborn atau Hiace Premio |
 | Waktu berangkat | Mengikuti rotasi trip harian | Langsung jalan setelah bagasi keluar |
 | Privasi | Berbagi kabin dengan penumpang lain | Satu kendaraan untuk rombongan sendiri |

@@ -90,6 +90,7 @@ const ROUTE_BLOG_MAP: Record<string, string> = {
   'prabumulih-palembang': '/blog/travel-palembang-prabumulih',
   'betung-palembang': '/blog/travel-palembang-ke-betung-rekomendasi-hotel',
   'simpang-belimbing-palembang': '/blog/travel-palembang-simpang-belimbing',
+  'tanjung-enim-palembang': '/blog/travel-palembang-tanjung-enim',
   'pendopo-lintang-palembang': '/blog/travel-palembang-pendopo-lintang',
   'babat-toman-palembang': '/blog/travel-palembang-babat-toman-harga',
   'tebing-tinggi-palembang': '/blog/travel-palembang-tebing-tinggi-empat-lawang',
