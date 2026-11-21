@@ -10,6 +10,8 @@ kategori: "rute"
 pengantar: "Mendarat di Bandara Sultan Mahmud Badaruddin II dengan rencana melanjutkan perjalanan ke Lubuklinggau sering kali menghadirkan rasa bimbang antara harus menginap semalam atau mencari taksi sambungan. Layanan jemputan langsung di pintu kedatangan domestik membawa Anda melaju tanpa jeda oper angkutan umum hingga sampai tepat di depan pagar rumah atau hotel di Lubuklinggau."
 kesimpulan: "Perjalanan lanjutan dari Bandara SMB II Palembang menuju Lubuklinggau kini jauh lebih teratur tanpa harus menembus kemacetan kota atau mencari taksi sambungan di luar bandara. Pesan kursi reguler atau jadwalkan carter privat Anda sebelum jadwal terbang dengan menghubungi admin Lincah Travel melalui WhatsApp di nomor 0813-6923-1893."
 tags: ["travel bandara smb ii", "travel bandara palembang lubuklinggau", "jemputan bandara palembang", "travel palembang lubuklinggau"]
+from: palembang
+to: lubuklinggau
 faq:
   - q: "Di mana titik penjemputan penumpang di Bandara SMB II Palembang?"
     a: "Pengemudi kami menunggu langsung di depan lobi kedatangan domestik Terminal Bandara Sultan Mahmud Badaruddin II Palembang dan segera mengontak Anda sesaat setelah pesawat mendarat."

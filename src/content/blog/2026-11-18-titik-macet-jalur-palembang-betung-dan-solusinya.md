@@ -10,6 +10,8 @@ kategori: "tips"
 pengantar: "Simpang Betung sudah bertahun-tahun jadi momok perjalanan di Lintas Timur Sumatera. Artikel ini merinci titik macetnya satu per satu, jam rawan truk CPO dan pasar tumpah, serta jam keberangkatan yang kami sarankan berdasarkan data operasional harian."
 kesimpulan: "Kemacetan Jalur Palembang Betung bukan hal yang bisa dihilangkan penumpang, tetapi bisa dihindari dengan memilih jam berangkat yang tepat dan armada yang sopirnya paham ritme jalur ini. Konsultasikan waktu keberangkatan Anda ke admin Lincah Travel di 0813-6923-1893, kami siaga 24 jam."
 tags: ["jalur palembang betung", "macet lintas timur sumatera", "simpang betung banyuasin", "travel palembang jambi", "tol palembang betung"]
+from: palembang
+to: betung
 ---
 
 Simpang Betung di Kabupaten Banyuasin adalah pertemuan dua jalur penting sekaligus. Jalur lurus membawa kendaraan ke Sungai Lilin dan Jambi, sedangkan belokan di simpang ini menuntun arus ke Lais dan Sekayu, ibukota Musi Banyuasin. Karena kedua arus itu harus melewati satu titik persimpangan dengan jalan yang sempit, macet di sini sudah jadi pemandangan harian sejak bertahun-tahun.

@@ -10,6 +10,8 @@ kategori: "rute"
 pengantar: "Mendarat di Bandara Sultan Mahmud Badaruddin II dengan jadwal dinas tambang atau urusan keluarga yang padat di Muara Enim sering kali membuat lelah jika harus berpindah-pindah angkutan umum. Layanan penjemputan langsung di pintu lobi kedatangan bandara menawarkan perjalanan bebas repot melintasi Tol Indraprabu hingga tiba tepat di depan pintu mess atau kantor tujuan Anda."
 kesimpulan: "Perjalanan lanjutan dari Bandara SMB II Palembang menuju Muara Enim kini jauh lebih praktis tanpa perlu transit ke terminal atau pool dalam kota. Amankan slot kursi atau carter privat Anda sebelum terbang dengan menghubungi admin Lincah Travel melalui WhatsApp di nomor 0813-6923-1893."
 tags: ["travel bandara smb ii", "travel bandara palembang muara enim", "jemputan bandara palembang", "travel palembang muara enim"]
+from: palembang
+to: muara-enim
 faq:
   - q: "Di mana titik penjemputan penumpang di Bandara SMB II Palembang?"
     a: "Sopir kami bersiap di area lobi kedatangan domestik Terminal Bandara Sultan Mahmud Badaruddin II (SMB II) Palembang dan akan mengontak Anda begitu pesawat mendarat."

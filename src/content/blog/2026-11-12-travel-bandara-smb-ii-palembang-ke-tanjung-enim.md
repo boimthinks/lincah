@@ -10,6 +10,8 @@ kategori: "rute"
 pengantar: "Pesawat mendarat di Bandara Sultan Mahmud Badaruddin II pukul sembilan pagi, sementara rapat koordinasi di kantor tambang Lawang Kidul sudah dijadwalkan pukul dua siang. Selisih lima jam itu cukup untuk sampai, asalkan kendaraan sudah menunggu di lobi kedatangan dan tidak ada waktu terbuang untuk mencari angkutan ke pool travel di kota."
 kesimpulan: "Jemputan bandara ke Tanjung Enim memangkas satu sampai dua jam waktu tunggu yang biasanya habis di terminal dan pool travel. Kirim data penerbangan ke admin Lincah Travel di WhatsApp 0813-6923-1893 sehari sebelum terbang, lalu sopir yang mengurus sisa perjalanan sampai depan mess atau kantor tujuan."
 tags: ["travel bandara smb ii", "travel bandara palembang tanjung enim", "jemputan bandara palembang", "travel palembang tanjung enim"]
+from: palembang
+to: tanjung-enim
 faq:
   - q: "Berapa lama perjalanan dari Bandara SMB II ke Tanjung Enim?"
     a: "Rata-rata 4,5 sampai 5 jam dari lobi kedatangan sampai alamat tujuan. Jarak tempuhnya sekitar 210 kilometer, terdiri dari 40 sampai 60 menit keluar dari bandara menuju Gerbang Tol Kramasan, sekitar 75 menit di ruas tol, lalu 2,5 jam terakhir di jalur arteri Lintas Tengah lewat Muara Enim."

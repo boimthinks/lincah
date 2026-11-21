@@ -10,6 +10,8 @@ kategori: "rute"
 pengantar: "Mendarat di Bandara Sultan Mahmud Badaruddin II dengan tujuan akhir Kabupaten Lahat sering menyisakan rasa bimbang, terutama jika Anda harus memikirkan cara transit ke pool travel di pusat kota Palembang. Layanan penjemputan langsung di pintu kedatangan terminal bandara menawarkan kepraktisan meluncur melintasi Tol Palindra dan Tol Indraprabu hingga tiba tepat di depan gerbang rumah, hotel, maupun kantor instansi di Lahat."
 kesimpulan: "Perjalanan lanjutan dari Bandara SMB II Palembang menuju Lahat kini jauh lebih nyaman dan praktis tanpa perlu mencari taksi bandara atau berpindah moda angkutan. Segera amankan kursi reguler atau carter privat Anda sebelum jadwal penerbangan lepas landas dengan menghubungi admin Lincah Travel via WhatsApp di 0813-6923-1893."
 tags: ["travel bandara smb ii", "travel bandara palembang lahat", "jemputan bandara palembang", "travel palembang lahat"]
+from: palembang
+to: lahat
 faq:
   - q: "Di mana titik kumpul penjemputan penumpang di Bandara SMB II Palembang?"
     a: "Sopir kami bersiap di area lobi kedatangan domestik Terminal Bandara Sultan Mahmud Badaruddin II (SMB II) Palembang dan langsung mengontak Anda begitu pesawat mendarat."

@@ -10,6 +10,8 @@ kategori: "rute"
 pengantar: "Pesawat mendarat pagi, sementara agenda di kompleks perkantoran Pemkab OKU Timur sudah menunggu siang. Jarak 220 kilometer bukan masalah besar asal kendaraan sudah menunggu di lobi kedatangan, bukan di pool travel dalam kota."
 kesimpulan: "Jemputan bandara ke Martapura menghapus satu sampai satu setengah jam waktu tunggu yang biasanya habis di terminal dan pool travel. Kirim data penerbangan ke admin Lincah Travel di WhatsApp 0813-6923-1893 sehari sebelum terbang, lalu sopir yang mengurus sisa perjalanan sampai alamat tujuan."
 tags: ["travel bandara smb ii", "travel bandara palembang martapura", "jemputan bandara palembang", "travel palembang martapura oku timur"]
+from: palembang
+to: martapura
 faq:
   - q: "Di mana sopir menunggu penumpang di Bandara SMB II Palembang?"
     a: "Sopir berdiri di area penjemputan depan lobi kedatangan domestik Terminal Bandara Sultan Mahmud Badaruddin II. Begitu ponsel Anda aktif, sopir mengirim posisi parkir dan nomor pelat kendaraan lewat WhatsApp sehingga Anda tidak perlu berkeliling area parkir dengan koper."

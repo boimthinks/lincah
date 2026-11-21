@@ -10,6 +10,8 @@ kategori: "rute"
 pengantar: "Pesawat mendarat di Bandara Sultan Mahmud Badaruddin II sore hari, sementara agenda rapat di Prabumulih sudah menunggu esok pagi. Selisih waktu inilah yang sering bikin penumpang keluar masuk terminal hanya untuk mencari sambungan kendaraan. Jemputan langsung dari lobi kedatangan menutup celah itu tanpa perlu singgah ke pool travel di pusat kota."
 kesimpulan: "Perjalanan lanjutan dari Bandara SMB II ke Prabumulih sebenarnya bisa selesai dalam dua jam tanpa drama tawar harga di trotoar terminal. Kirimkan data penerbangan Anda ke admin Lincah Travel di WhatsApp 0813-6923-1893 sehari sebelum terbang, lalu biarkan sopir yang mengurus sisanya."
 tags: ["travel bandara smb ii", "travel bandara palembang prabumulih", "jemputan bandara palembang", "travel palembang prabumulih"]
+from: palembang
+to: prabumulih
 faq:
   - q: "Di mana sopir menunggu penumpang di Bandara SMB II Palembang?"
     a: "Sopir menunggu di area penjemputan depan lobi kedatangan domestik Terminal Bandara Sultan Mahmud Badaruddin II, lalu mengirim posisi parkir dan nomor pelat kendaraan lewat WhatsApp begitu Anda mengaktifkan ponsel."
