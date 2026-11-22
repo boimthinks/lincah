@@ -76,6 +76,7 @@ Gunakan data ini sebagai social proof dalam artikel:
 | **Palembang-Tugumulyo** | 7-8 jam | Tol Indraprabu - Lintas OKU Timur | Rp 180.000 | Sentra pangan OKU Timur, transmigrasi |
 | **Palembang-Pelabuhan Tanjung Api-api** | 1 jam 55 menit | Jl. Akses TAA (koridor Gasing) | Rp 150.000 | Gerbang feri ke Bangka (Tanjung Kalian/Muntok) |
 | **Palembang-Muara Lakitan** | 5-6 jam | Sekayu / PALI | Rp 200.000 | 20 desa di Musi Rawas, door-to-door |
+| **Palembang-Bangko (Merangin)** | 8-9 jam | Lintas Tengah (Lubuklinggau - Sarolangun) | Rp 450.000 | Ibu kota Kab. Merangin Jambi, perkebunan sawit & karet, gerbang Geopark Merangin |
 | **Palembang-Martapura** | 5 jam | Lintas Tengah | Rp 220.000 | OKU Timur, perbatasan Lampung |
 | **Palembang-Batu Marta** | 5-6 jam | Lintas Tengah / OKU Timur | Rp 250.000 | Batas antar maks. Unit 2 (jalan unit dalam rusak) |
 | **Palembang-Babat Supat** | 3 jam 15 menit | Lintas Timur (Betung - Babat Supat) | Rp 160.000 | Jalintim Muba, door-to-door, 92 km |

@@ -2,12 +2,12 @@
 title: "Travel Palembang Bangko Merangin"
 judul_seo: "Travel Palembang ke Bangko Merangin Jadwal Ongkos Door to Door"
 slug: "travel-palembang-bangko-merangin"
-description: "Travel Palembang ke Bangko Merangin Rp250.000 door-to-door. Durasi 8-9 jam via Lintas Tengah. Jadwal pagi dan malam. Pesan WA 0813-6923-1893."
+description: "Travel Palembang ke Bangko Merangin Rp450.000 door-to-door. Durasi 8-9 jam via Lintas Tengah. Jadwal pagi dan malam. Pesan WA 0813-6923-1893."
 pubDate: "2026-10-10"
 author: "Tim Konten Lincah Travel"
 image_url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj23SJ0UOi-jvZl5w7j3ig8thgJFjiCqZXRtiCZN3Tvi6EaIq2v_BU_99sbAUnyd9ilx7BLq5YlHhQsKHuJIIRbEQ3HodO2f_J-EZ4v0JxcgDlM27UY5LGoQ-QWP7lWr8w4SP8vOGNfhpS4gcdq9ksbUVLL0JHu7TI3E8kQ01LStlTeAoiYjTHiKh-SExTF/s600/travel-palembang-bangko-merangin_poco.webp"
 kategori: "rute"
-pengantar: "Perjalanan darat dari Palembang menuju Bangko di Kabupaten Merangin menjadi akses utama bagi pegawai instansi, pebisnis perkebunan kelapa sawit, dan warga perantau. Lincah Travel menghadirkan layanan door-to-door dengan harga flat Rp250.000 per orang untuk jarak tempuh 380 km melintasi Jalur Lintas Tengah Sumatera."
+pengantar: "Perjalanan darat dari Palembang menuju Bangko di Kabupaten Merangin menjadi akses utama bagi pegawai instansi, pebisnis perkebunan kelapa sawit, dan warga perantau. Lincah Travel menghadirkan layanan door-to-door dengan harga flat Rp450.000 per orang untuk jarak tempuh 380 km melintasi Jalur Lintas Tengah Sumatera."
 kesimpulan: "Perjalanan melintasi perbatasan Sumatera Selatan menuju barat Jambi kini lebih praktis tanpa repot berganti kendaraan. Hubungi WhatsApp Lincah Travel di 0813-6923-1893 untuk memesan kursi Anda menuju Bangko."
 tags: ["travel palembang bangko", "travel palembang jambi", "merangin", "bangko jambi", "lintas tengah sumatera"]
 from: "palembang"
@@ -16,7 +16,7 @@ faq:
   - q: "Palembang ke Bangko Merangin berapa jam naik travel?"
     a: "Waktu tempuh normal dari Palembang ke Bangko berkisar antara 8 hingga 9 jam perjalanan darat dengan jarak tempuh sekitar 380 km via Jalur Lintas Tengah Sumatera."
   - q: "Berapa ongkos travel Palembang ke Bangko per orang?"
-    a: "Tarif resmi Lincah Travel untuk rute Palembang ke Bangko adalah Rp250.000 flat per kursi, sudah mencakup antar jemput door to door ke alamat tujuan."
+    a: "Tarif resmi Lincah Travel untuk rute Palembang ke Bangko adalah Rp450.000 flat per kursi, sudah mencakup antar jemput door to door ke alamat tujuan."
   - q: "Lewat mana rute perjalanan darat Palembang menuju Bangko?"
     a: "Armada melintasi Tol Palembang Prabumulih, Muara Enim, Lahat, Tebing Tinggi, Lubuklinggau, Musi Rawas Utara, Sarolangun, hingga tiba di Bangko Kabupaten Merangin."
   - q: "Kapan saja jam keberangkatan travel Palembang Bangko?"
@@ -52,7 +52,7 @@ Lincah Travel mengoperasikan dua kali jadwal keberangkatan setiap hari untuk men
 | 08.00 WIB | 8 - 9 jam | 17.00 WIB | Trip pagi, tiba sore hari sebelum malam |
 | 19.00 WIB | 8 - 9 jam | 04.00 WIB | Trip malam, istirahat tidur, tiba saat fajar |
 
-Ongkos tiket travel Palembang ke Bangko dibanderol flat Rp250.000 per penumpang. Harga ini sudah mencakup penjemputan di Palembang dan pengantaran langsung ke titik koordinat tujuan di kawasan Merangin tanpa biaya tambahan di tengah perjalanan.
+Ongkos tiket travel Palembang ke Bangko dibanderol flat Rp450.000 per penumpang. Harga ini sudah mencakup penjemputan di Palembang dan pengantaran langsung ke titik koordinat tujuan di kawasan Merangin tanpa biaya tambahan di tengah perjalanan.
 
 ## Pilihan Armada untuk Perjalanan Jarak Jauh
 

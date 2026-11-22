@@ -1,12 +1,12 @@
 ---
 from: bangko
 to: palembang
-price: 250000
+price: 450000
 duration: 8 - 9 Jam
 departureTimes: ["08:00 WIB", "19:00 WIB"]
 type: jambi
 distance: 380 km
-description: Travel Bangko Merangin ke Palembang door-to-door Rp 250.000. Antar jemput alamat, rute Lintas Tengah, armada AC nyaman. Reservasi WhatsApp 0813-6923-1893.
+description: Travel Bangko Merangin ke Palembang door-to-door Rp 450.000. Antar jemput alamat, rute Lintas Tengah, armada AC nyaman. Reservasi WhatsApp 0813-6923-1893.
 img: src\content\city-images.md
 ---
 
