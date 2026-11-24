@@ -20,7 +20,7 @@ faq:
   - q: "Wilayah mana saja di Provinsi Jambi yang dijangkau pengiriman paket?"
     a: "Selain Kota Jambi, pengantaran mencakup Muaro Jambi, Batanghari (Muara Bulian), Muara Bungo, Tebo, Merangin (Bangko), Sarolangun, dan Tanjung Jabung Barat (Kuala Tungkal)."
   - q: "Berapa ongkos kirim paket Palembang ke Jambi via travel?"
-    a: "Tarif dihitung fleksibel dan transparan berdasarkan dimensi ukuran (P x L x T), bobot aktual, dan alamat tujuan, mulai dari puluhan ribu rupiah untuk amplop berkas."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Jambi. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, amplop berkas maupun koli barang dibayar dengan nominal yang sama."
   - q: "Bagaimana cara memesan jasa kirim paket kilat Palembang ke Jambi?"
     a: "Hubungi WhatsApp admin di 0813-6923-1893 dengan mengirimkan foto dan ukuran paket, alamat penjemputan di Palembang, serta nomor kontak penerima di Jambi."
 ---
@@ -48,9 +48,9 @@ Jika peta di atas sulit dilihat, Anda bisa membuka rute langsung di aplikasi Goo
 
 ## Berapa Biaya Kirim Paket dengan Travel Executive
 
-Tarif penumpang untuk rute Palembang Jambi adalah Rp 250.000 per orang, sudah termasuk door-to-door dari alamat jemput hingga alamat tujuan. Untuk kirim paket, biaya dihitung terpisah berdasarkan tiga hal: berat, ukuran, dan jarak turun di kota atau kabupaten tujuan.
+Tarif penumpang untuk rute Palembang Jambi adalah Rp 250.000 per orang, sudah termasuk door-to-door dari alamat jemput hingga alamat tujuan. Untuk kirim paket, ongkosnya disamakan dengan tarif penumpang tersebut. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, amplop dokumen maupun koli barang dibayar dengan nominal yang sama.
 
-Karena tarif barang memakai perhitungan dimensi yang tidak bisa disamakan, angka pastinya baru muncul setelah admin melihat jenis kirimannya. Barang ringan seperti dokumen dan surat jelas jauh lebih murah dibanding koli besar atau kardus mesin. Yang paling mudah adalah mengirim detail isi dan ukuran lewat WhatsApp, lalu admin mengonfirmasi estimasi biaya dalam hitungan menit.
+Ukuran barang tidak memengaruhi harga paket. Amplop dokumen dan surat dibayar sama dengan koli berisi mesin, asalkan muatannya tidak melebihi satu bangku penumpang. Yang paling mudah adalah mengirim detail isi dan ukuran lewat WhatsApp, lalu admin mengonfirmasi biaya dalam hitungan menit.
 
 Untuk kiriman dokumen, amplop surat, atau kertas nota, ongkosnya termasuk yang paling ringan. Anda bisa titip lewat penumpang yang sama tanpa khawatir barang sampai terlambat.
 
@@ -108,7 +108,7 @@ Keuntungan lain, paket diantar sampai alamat tujuan di Jambi. Anda tidak perlu m
 
 Mengirim satu orang dengan mobil pribadi untuk menanggung paket ke Jambi jelas boros. Biaya bensin, tol, dan tidak jarang menginap jika perjalanan molor sebab satu-satunya barang yang diantar cukup kecil. Paket berangkat sendiri juga lebih praktis daripada Anda harus ikut naik penumpang dan membawa koper besar ke dalam kabin.
 
-Menitipkan barang melalui travel executive memotong semua biaya itu. Anda membayar sesuai ukuran barang, bukan berdasarkan biaya operasional satu mobil penuh. Untuk kiriman kecil, ini jauh lebih ekonomis, dan tetap sampai di alamat tujuan di Jambi.
+Menitipkan barang melalui travel memotong semua biaya itu. Anda membayar tarif penumpang yang sama, bukan biaya operasional satu mobil penuh. Untuk kiriman kecil, ini jauh lebih ekonomis, dan tetap sampai di alamat tujuan di Jambi.
 
 ## Hal yang Perlu Dicek Sebelum Mengirim
 

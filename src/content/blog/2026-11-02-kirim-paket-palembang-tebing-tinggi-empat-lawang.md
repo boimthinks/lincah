@@ -18,7 +18,7 @@ faq:
   - q: "Jenis muatan apa saja yang bisa dikirimkan lewat travel?"
     a: "Kami menerima kiriman berkas resmi kedinasan, dokumen tender, suku cadang kendaraan bermotor, perkakas kebun, pasokan obat darurat, pakaian grosir, hingga kuliner pempek beku kemasan vakum."
   - q: "Berapa kisaran ongkos kirim paket ke Tebing Tinggi?"
-    a: "Tarif titip dokumen berkisar mulai Rp50.000 per amplop. Untuk muatan kardus atau barang bervolume sedang, biaya kirim mulai Rp80.000 hingga Rp150.000 tergantung dimensi koli dan berat timbangan barang."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Tebing Tinggi. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, dokumen maupun muatan kardus dibayar dengan nominal yang sama."
   - q: "Kapan batas waktu penyerahan paket agar tiba di hari yang sama?"
     a: "Supaya barang Anda terkirim di hari yang sama, serahkan paket ke pool atau jadwalkan penjemputan alamat minimal satu jam sebelum trip pagi pukul 08.00 WIB atau trip siang pukul 13.00 WIB."
   - q: "Bagaimana cara pengemasan untuk barang pecah belah atau cairan?"
@@ -67,16 +67,18 @@ Perjalanan darat dapat mengalami penyesuaian waktu saat terjadi perbaikan jalan 
 
 ## Estimasi Ongkos Kirim Titipan Paket Bagasi
 
-Biaya jasa pengiriman barang lewat travel dihitung berdasarkan jenis kemasan, volume fisik kardus, serta bobot riil barang. Penetapan harga per koli memberikan transparansi tanpa ada biaya tambahan tak terduga saat barang tiba di tujuan.
+Biaya jasa pengiriman barang lewat travel disamakan dengan tarif travel passenger reguler untuk rute yang sama. Tidak ada tarif per jenis kemasan, per volume fisik kardus, atau per bobot riil barang.
+
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut. Cara ini memberikan transparansi tanpa ada biaya tambahan tak terduga saat barang tiba di tujuan.
 
 Acuan ongkos kirim paket kilat dari Palembang ke kawasan Tebing Tinggi disajikan pada tabel di bawah ini.
 
-| Kategori Kemasan Barang | Ukuran dan Bobot Maksimal | Kisaran Ongkos Kirim | Posisi Penempatan di Mobil |
+| Kategori Kemasan Barang | Ukuran dan Bobot Maksimal | Ongkos Kirim | Posisi Penempatan di Mobil |
 |---|---|---|---|
-| Amplop Berkas atau Map | Dokumen kertas tipis (maksimal 1 kg) | Rp 50.000 - Rp 60.000 | Saku belakang jok atau laci dashboard ber-AC |
-| Kardus Kecil (Koli S) | Kotak seukuran dus sepatu (maksimal 3 hingga 5 kg) | Rp 80.000 - Rp 100.000 | Lantai kabin tengah atau ruang bawah kursi |
-| Kardus Sedang (Koli M) | Kotak dus mie instan (maksimal 8 hingga 10 kg) | Rp 100.000 - Rp 120.000 | Ruang bagasi belakang beralas karpet lembut |
-| Kardus Besar (Koli L) | Kotak besar atau onderdil logam (11 hingga 15 kg) | Rp 130.000 - Rp 160.000 | Area dasar lantai bagasi belakang tertutup |
+| Amplop Berkas atau Map | Dokumen kertas tipis (maksimal 1 kg) | Sama dengan tarif travel passenger rute ini | Saku belakang jok atau laci dashboard ber-AC |
+| Kardus Kecil (Koli S) | Kotak seukuran dus sepatu (maksimal 3 hingga 5 kg) | Sama dengan tarif travel passenger rute ini | Lantai kabin tengah atau ruang bawah kursi |
+| Kardus Sedang (Koli M) | Kotak dus mie instan (maksimal 8 hingga 10 kg) | Sama dengan tarif travel passenger rute ini | Ruang bagasi belakang beralas karpet lembut |
+| Kardus Besar (Koli L) | Kotak besar atau onderdil logam (11 hingga 15 kg) | Sama dengan tarif travel passenger rute ini | Area dasar lantai bagasi belakang tertutup |
 
 Untuk barang kiriman yang membutuhkan pengambilan langsung ke rumah pengirim di sudut Kota Palembang, tim operasional kami menyediakan opsi kurir penjemputan lokal dengan penyesuaian ongkos yang wajar.
 

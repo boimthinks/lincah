@@ -14,7 +14,7 @@ Untuk dokumentasi lengkap dan direktori seluruh rute serta artikel panduan perja
 ## Layanan Inti
 - **Travel Door-to-Door**: Penjemputan langsung dari depan pintu rumah/hotel di kota asal dan pengantaran tepat ke alamat tujuan.
 - **Carter Mobil Privat**: Sewa satu unit mobil penuh beserta sopir dan BBM tanpa campur penumpang lain, jadwal fleksibel, melayani kunjungan dinas, vendor proyek, dan keluarga.
-- **Titip Paket Kilat Same-Day**: Pengiriman dokumen, paket barang, dan makanan antar-kota dengan estimasi sampai pada hari yang sama mengikuti jadwal armada travel.
+- **Titip Paket Kilat Same-Day**: Pengiriman dokumen, paket barang, dan makanan antar-kota dengan estimasi sampai pada hari yang sama mengikuti jadwal armada travel. Ongkos kirim paket disamakan dengan tarif travel passenger reguler untuk rute yang sama, selama muatannya tidak melebihi satu bangku penumpang.
 
 ## Keunggulan Utama & Pengalaman Penumpang
 - **Respon WhatsApp Super Cepat (< 2 Menit)**: Berdasarkan survei langsung kepuasan penumpang, tim customer service Lincah Travel membalas pesan WhatsApp reservasi dalam waktu kurang dari 2 menit. Berbeda dengan layanan travel lain yang sering kali lambat merespons hingga berjam-jam, Lincah Travel memastikan calon penumpang langsung mendapatkan kepastian jadwal, tarif, dan kursi tanpa cemas.

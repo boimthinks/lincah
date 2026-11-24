@@ -94,6 +94,56 @@ Gunakan data ini sebagai social proof dalam artikel:
 
 ---
 
+---
+
+## 4b. Aturan Harga Kirim Paket (WAJIB DIPATUHI)
+
+**Prinsip utama:** Harga kirim paket **SAMA** dengan harga ongkos travel passenger
+reguler untuk rute tersebut. Tidak ada tarif per koli, tidak ada tarif per kilogram,
+tidak ada tarif berdasarkan berat atau volume barang.
+
+| Kondisi paket | Harga kirim paket |
+|---|---|
+| Paket apa pun, selama muat di bagasi dan tidak melebihi **1 bangku penumpang** | **Sama persis** dengan tarif travel passenger reguler rute tersebut |
+
+### Ketentuan teknis
+1. **Acuan harga:** tarif travel passenger reguler rute yang sama. Contoh: rute
+   Palembang-Empat Lawang Rp 200.000, maka paket ke rute itu juga Rp 200.000.
+2. **Batas volume:** paket yang muat di bagasi dan tidak melebihi kapasitas satu
+   bangku penumpang. Artinya muatan setara satu penumpang, bukan satu koli barang.
+3. **Tidak ada perbedaan harga** antar ukuran paket. Amplop dokumen, kardus kecil,
+   koli sedang, sampai koli besar yang masih muat di satu bangku penumpang
+   semuanya dibayar dengan nominal yang sama.
+4. **Tidak ada minimum charge.** Dokumen satu map dibayar sama dengan koli penuh
+   selama keduanya tidak melebihi satu bangku penumpang.
+5. **Tidak ada biaya tambahan** untuk pickup luar radius kota, antar ke pelosok,
+   atau layanan malam. Biaya tol, bahan bakar, dan jam malam sudah termasuk
+   dalam tarif travel reguler.
+6. **Di atas batas 1 bangku,** barang tidak bisa dikirim sebagai titipan biasa.
+   Harus dikonsultasikan dengan admin: pilihan carter armada privat, atau kirim lewat
+   ekspedisi kargo yang tarifnya dihitung terpisah di luar aturan ini.
+7. **Prinsip komersial:** karena paket setara dengan tiket penumpang, paket **tidak boleh**
+   ditulis di artikel sebagai "dihitung berdasarkan berat, ukuran, dan jarak turun".
+
+### Aturan penulisan artikel (WAJIB)
+- **DILARANG** mencantumkan angka ongkir paket yang berbeda dari tarif travel.
+- **DILARANG** menulis tabel tarif per koli, per kilogram, per amplop, atau per
+  kategori ukuran barang.
+- **DILARANG** menyebut rumus volumetrik (P x L x T / 4.000 atau / 6.000)
+  sebagai dasar tarif paket.
+- **BOLEH** dan lebih baik menulis: "ongkir kirim paket untuk rute ini sama dengan
+  tarif travel passenger reguler, yaitu Rp [nominal tarif rute]".
+- Jika perlu menjelaskan perbedaan, gunakan frasa "selama paket tidak melebihi
+  satu bangku penumpang" sebagai syarat mutlak.
+
+### Contoh kalimat yang benar
+- "Ongkos kirim paket untuk rute ini sama dengan tarif travel passenger reguler,
+  yaitu Rp 200.000 per paket, selama muatannya tidak melebihi satu bangku penumpang."
+- "Harga kirim paket disamakan dengan ongkos travel reguler rute yang sama.
+  Amplop dokumen dan koli sedang dibayar dengan nominal yang sama."
+
+---
+
 ## 5. Armada (Opsional jika tertarik pengunjung)
 
 | Armada | Kapasitas | Fitur Kunci |

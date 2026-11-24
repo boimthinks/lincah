@@ -61,16 +61,20 @@ Untuk kiriman pempek beku atau kuliner segar lainnya, pastikan produk dikemas me
 
 Untuk barang elektronik, perangkat kaca, maupun komponen mesin presisi, lapisi bodi barang menggunakan plastik gelembung (bubble wrap) minimal tiga putaran tebal. Berikan ganjalan potongan kardus di dalam kotak kemasan agar komponen tidak bergeser saat mobil melintasi tikungan jalan perbukitan. Beri tanda arah posisi barang secara jelas di bagian luar kotak dus.
 
-## Estimasi Biaya Kirim Paket Berdasarkan Ukuran
+## Biaya Kirim Paket
 
-Penentuan biaya kirim paket dihitung secara transparan menurut dimensi fisik, berat timbangan barang, serta ruang yang digunakan di area bagasi kendaraan. Hal ini memudahkan pelanggan memperkirakan total biaya kirim tanpa khawatir munculnya pungutan liar tambahan saat barang tiba di tempat.
+Biaya kirim paket disamakan dengan tarif travel passenger reguler untuk rute yang sama. Tidak ada tarif per koli, per kilogram, atau per kategori ukuran barang.
 
-| Klasifikasi Muatan | Ukuran Maksimal dan Berat | Estimasi Tarif Pengiriman | Contoh Muatan |
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut.
+
+| Klasifikasi Muatan | Ukuran Maksimal dan Berat | Tarif Pengiriman | Contoh Muatan |
 |---|---|---|---|
-| Amplop Berkas Ringan | Ukuran map dokumen (hingga 1 kg) | Rp 50.000 sampai Rp 70.000 | Berkas kantor, ijazah, dokumen tender |
-| Kotak Kardus Kecil | 20 x 20 x 15 cm (hingga 3 kg) | Rp 70.000 sampai Rp 100.000 | Pempek paket kecil, suku cadang motor |
-| Kotak Kardus Sedang | 35 x 30 x 25 cm (hingga 7 kg) | Rp 120.000 sampai Rp 160.000 | Paket oleh-oleh besar, komponen mesin |
-| Muatan Khusus Kargo | Dimensi di atas batas standar | Disesuaikan hasil ukur | Memerlukan alokasi ruang kursi kosong |
+| Amplop Berkas Ringan | Ukuran map dokumen (hingga 1 kg) | Sama dengan tarif travel passenger rute ini | Berkas kantor, ijazah, dokumen tender |
+| Kotak Kardus Kecil | 20 x 20 x 15 cm (hingga 3 kg) | Sama dengan tarif travel passenger rute ini | Pempek paket kecil, suku cadang motor |
+| Kotak Kardus Sedang | 35 x 30 x 25 cm (hingga 7 kg) | Sama dengan tarif travel passenger rute ini | Paket oleh-oleh besar, komponen mesin |
+| Muatan Khusus Kargo | Melebihi satu bangku penumpang | Disesuaikan hasil ukur | Memerlukan alokasi ruang kursi kosong |
+
+Ukuran paket tidak memengaruhi harga. Amplop map folio dan koli berisi komponen mesin dibayar dengan nominal yang sama. Tidak ada biaya tersembunyi yang muncul saat barang tiba di tempat.
 
 ## Alur Pengiriman dari Palembang Menuju Lubuklinggau
 

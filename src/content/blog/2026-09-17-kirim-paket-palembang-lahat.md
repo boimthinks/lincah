@@ -20,7 +20,7 @@ faq:
   - q: "Apakah paket dijemput langsung ke alamat pengirim di Palembang?"
     a: "Ya, sopir Lincah Travel dapat menjemput paket langsung di rumah atau kantor pengirim di Palembang dan mengantarkannya ke depan pintu penerima di Lahat."
   - q: "Berapa kisaran ongkos kirim paket Palembang Lahat via travel?"
-    a: "Tarif titip paket bervariasi mulai dari puluhan ribu rupiah untuk amplop dokumen atau kardus kecil, tergantung ukuran, berat barang, dan jangkauan alamat."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Lahat. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, amplop dokumen maupun kardus kecil dibayar dengan nominal yang sama."
   - q: "Bagaimana cara memastikan kiriman pempek tetap segar sampai di Lahat?"
     a: "Pastikan pempek divakum kedap udara atau dibekukan. Paket makanan ditempatkan di kabin penumpang ber-AC dingin, bukan di bagasi panas atau tertumpuk barang berat."
   - q: "Bagaimana prosedur pengiriman paket Palembang Lahat?"
@@ -50,7 +50,7 @@ Kami pernah mengirim BPKB dari dealer Palembang ke Lahat pukul 08.00. Penerima s
 Untuk muatan partai besar atau barang tidak mendesak, ekspedisi kargo darat lebih ekonomis. Truk box atau blind van mengangkut berdasarkan timbangan berat atau perhitungan volume.
 
 **Perbedaan utama:**
-- Travel same day: muatan ikut jadwal penumpang, harga per koli atau amplop
+- Travel same day: muatan ikut jadwal penumpang, harga sama dengan tarif penumpang
 - Kargo reguler: sistem hub transit, harga berdasarkan berat atau volume
 
 ## Jadwal Keberangkatan Armada
@@ -65,37 +65,32 @@ Armada Lincah Travel rute Palembang-Lahat berangkat tiga kali sehari. Bagi pengi
 
 Waktu tiba adalah estimasi berdasarkan durasi rute 5-6 jam. Kondisi jalan bisa memengaruhi, terutama di jalur industri sekitar Gelumbang hingga Muara Enim. Untuk paket yang harus tiba di hari yang sama, konfirmasikan dulu slot bagasi ke admin sebelum jam penjemputan.
 
-## Simulasi Ongkir Kirim Paket Palembang Lahat
+## Ongkir Kirim Paket Palembang Lahat
 
-Angka di bawah adalah simulasi berdasarkan struktur tarif titipan travel kami. Nominal akhir bisa berbeda tergantung ukuran, berat, dan titik jemput atau antar. Tanyakan ke admin untuk penawaran pastinya.
+Ongkos kirim paket disamakan dengan tarif travel passenger reguler untuk rute yang sama. Tidak ada tarif per koli, per kilogram, atau per ukuran barang.
+
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut.
 
 **Dokumen amplop (surat atau berkas):**
-- Tarif flat per amplop
+- Harga sama dengan tarif travel passenger rute Palembang Lahat
 - Sudah termasuk penjemputan door-to-door di Palembang
 - Pengantaran langsung ke alamat penerima di Lahat
 
 **Kardus kecil (dus mie instan hingga air mineral 1 liter):**
 - Ukuran maksimal 40x30x20 cm
+- Harga sama dengan tarif travel passenger rute Palembang Lahat
 - Masuk kategori ini untuk kemasan pempek vakum standar
 
 **Koli medium (dus ukuran sedang):**
 - Ukuran maksimal 60x40x30 cm
+- Harga sama dengan tarif travel passenger rute Palembang Lahat
 - Cocok untuk suku cadang atau elektronik
 
-**Biaya tambahan yang mungkin muncul:**
-- Penjemputan di luar radius kota Palembang
-- Pengantaran ke kecamatan pelosok Lahat seperti Merapi Barat, Merapi Timur, atau Kikim
-- Layanan malam hari setelah jam 20.00
+Ukuran paket tidak memengaruhi harga. Amplop map folio dan koli berisi elektronik dibayar dengan nominal yang sama. Tidak ada biaya tambahan untuk penjemputan di luar radius kota Palembang, pengantaran ke kecamatan pelosok Lahat seperti Merapi Barat, Merapi Timur, atau Kikim, maupun layanan malam hari setelah jam 20.00.
 
-### Perhitungan Ekspedisi Kargo
+### Muatan yang Melebihi Satu Bangku Penumpang
 
-Ekspedisi kargo pakai rumus volumetrik:
-
-```
-Berat Volume (Kg) = Panjang (cm) × Lebar (cm) × Tinggi (cm) ÷ 4.000
-```
-
-Contoh: dus 50x40x30 cm punya berat volume 15 kg (50×40×30÷4000). Tarif dasar kargo darat Palembang-Lahat biasanya dihitung per kilogram. Total ongkir bergantung berat aktual atau berat volume yang lebih besar.
+Kalau muatan melebihi satu bangku penumpang, aturan tarif di atas tidak lagi berlaku. Anda perlu berdiskusi dengan admin untuk pilihan carter armada privat, atau kirim lewat ekspedisi kargo yang tarifnya dihitung terpisah.
 
 ## Titik Penjemputan dan Area Antar
 

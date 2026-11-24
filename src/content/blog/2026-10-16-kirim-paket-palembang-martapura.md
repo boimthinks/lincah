@@ -16,7 +16,7 @@ faq:
   - q: "Apakah paket diantar langsung sampai ke alamat rumah penerima di Martapura?"
     a: "Ya, pengemudi kami menerapkan sistem door to door. Paket dijemput dari alamat pengirim di Palembang dan diantar langsung ke alamat tujuan di Martapura."
   - q: "Berapa tarif ongkir titip paket kilat rute Palembang ke Martapura?"
-    a: "Tarif dokumen atau surat berharga mulai dari Rp 50.000 per amplop. Untuk kardus ukuran kecil berkisar Rp 60.000 hingga Rp 80.000, dan koli suku cadang sedang Rp 90.000 hingga Rp 130.000."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Martapura. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, amplop dokumen maupun koli barang dibayar dengan nominal yang sama."
   - q: "Apakah bisa mengirim makanan beku seperti pempek vakum ke Martapura?"
     a: "Bisa. Pastikan makanan dikemas dalam plastik kedap udara (vakum) dan dilapisi kardus tebal agar kualitas rasa tetap terjaga selama perjalanan 5 jam."
   - q: "Bagaimana cara melacak posisi paket yang sedang dibawa mobil travel?"
@@ -47,18 +47,20 @@ Sistem door to door juga menghemat waktu dan tenaga Anda. Kurir menjemput titipa
 
 Layanan Lincah Travel selalu mengedepankan ketepatan waktu keberangkatan. Sebagai salah satu penyedia travel palembang dengan jam operasional konsisten, armada kami meluncur setiap hari membawa penumpang sekaligus titipan paket kilat secara aman.
 
-## Perbandingan Estimasi Tarif dan Kapasitas Muatan
+## Tarif Ongkir dan Kapasitas Muatan
 
-Penentuan biaya kirim paket titipan travel didasarkan pada jenis kemasan, volume fisik, dan bobot barang. Struktur harga disusun secara transparan tanpa biaya tersembunyi agar pengirim mendapatkan kepastian sejak awal.
+Biaya kirim paket disamakan dengan tarif travel passenger reguler untuk rute yang sama. Tidak ada tarif per koli, per kilogram, atau per kategori ukuran barang.
 
-| Kategori Kemasan | Ukuran Dimensi Maksimal | Estimasi Waktu Tiba | Kisaran Tarif Ongkir | Contoh Muatan |
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut.
+
+| Kategori Kemasan | Ukuran Dimensi Maksimal | Estimasi Waktu Tiba | Tarif Ongkir | Contoh Muatan |
 |---|---|---|---|---|
-| Dokumen Folio | Map plastik atau amplop cokelat (maks. 1 kg) | 5 hingga 6 jam | Rp 50.000 - Rp 60.000 | Ijazah, BPKB, berkas kontrak, akta notaris |
-| Kardus Kecil | 30 x 20 x 20 cm (berat maks. 5 kg) | 5 hingga 6 jam | Rp 60.000 - Rp 80.000 | Pempek vakum, pakaian, paket kosmetik |
-| Kardus Sedang | 45 x 35 x 30 cm (berat maks. 15 kg) | 5 hingga 6 jam | Rp 90.000 - Rp 130.000 | Suku cadang traktor, printer, sparepart mobil |
-| Muatan Khusus | Dimensi lebih dari 50 cm | Sesuai ketersediaan slot | Hubungi CS Admin | Alat ukur perkebunan, sampel proyek |
+| Dokumen Folio | Map plastik atau amplop cokelat (maks. 1 kg) | 5 hingga 6 jam | Sama dengan tarif travel passenger rute ini | Ijazah, BPKB, berkas kontrak, akta notaris |
+| Kardus Kecil | 30 x 20 x 20 cm (berat maks. 5 kg) | 5 hingga 6 jam | Sama dengan tarif travel passenger rute ini | Pempek vakum, pakaian, paket kosmetik |
+| Kardus Sedang | 45 x 35 x 30 cm (berat maks. 15 kg) | 5 hingga 6 jam | Sama dengan tarif travel passenger rute ini | Suku cadang traktor, printer, sparepart mobil |
+| Muatan Khusus | Melebihi satu bangku penumpang | Sesuai ketersediaan slot | Hubungi CS Admin | Alat ukur perkebunan, sampel proyek |
 
-Untuk area pengantaran di kawasan pusat kota Martapura seperti Paku Sengkunyit, Kota Baru Selatan, dan Terukis Rahayu, tarif di atas sudah mencakup layanan antar ke pintu rumah. Bila alamat tujuan berada di pedesaan pemekaran yang cukup jauh dari jalur poros lintas tengah, penyesuaian biaya bahan bakar akan diinformasikan secara terbuka oleh admin.
+Ukuran paket tidak memengaruhi harga. Amplop map folio dan koli berisi suku cadang dibayar dengan nominal yang sama. Tidak ada biaya tambahan untuk pengantaran ke pintu rumah di pusat kota Martapura seperti Paku Sengkunyit, Kota Baru Selatan, dan Terukis Rahayu, maupun untuk alamat di pedesaan pemekaran.
 
 ## Jadwal Keberangkatan Armada dan Batas Penyerahan Barang
 

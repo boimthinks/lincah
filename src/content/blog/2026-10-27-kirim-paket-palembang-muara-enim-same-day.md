@@ -18,7 +18,7 @@ faq:
   - q: "Apakah paket dijemput langsung ke rumah atau kantor di Palembang?"
     a: "Ya, sopir Lincah Travel dapat menjemput paket langsung ke lokasi pengirim di area Palembang dan mengantarkannya tepat ke depan pintu kantor, mess, atau rumah penerima di Muara Enim."
   - q: "Berapa estimasi ongkos kirim paket Palembang Muara Enim?"
-    a: "Tarif titip paket berkisar mulai dari Rp40.000 untuk amplop dokumen resmi, serta Rp60.000 hingga Rp120.000 untuk paket kardus tergantung ukuran, bobot barang, dan titik jangkauan alamat antar."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Muara Enim. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, amplop dokumen resmi maupun paket kardus dibayar dengan nominal yang sama."
   - q: "Apakah kiriman makanan beku seperti pempek aman dan tidak basi?"
     a: "Sangat aman. Paket makanan beku yang sudah divakum dan diberi ice gel ditempatkan khusus di dalam ruang kabin penumpang ber-AC dingin, bukan di bagasi belakang yang panas atau tertindih muatan berat."
   - q: "Bagaimana cara memesan slot kirim paket Palembang Muara Enim?"
@@ -59,18 +59,20 @@ Waktu kedatangan dapat dipengaruhi oleh kepadatan lalu lintas di sekitar pasar t
 
 ## Rincian Tarif Titip Paket Same Day
 
-Penetapan biaya kirim paket travel dihitung secara fleksibel per koli atau per amplop berdasarkan dimensi fisik, bobot, dan perlakuan khusus barang di kendaraan. Sistem ini jauh lebih hemat bagi pengirim barang satuan berbobot ringan daripada harus menyewa mobil carteran secara penuh.
+Biaya kirim paket disamakan dengan tarif travel passenger reguler untuk rute yang sama. Tidak ada tarif per koli, per kilogram, atau per perlakuan khusus barang di kendaraan.
+
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut. Sistem ini jauh lebih hemat bagi pengirim barang satuan daripada menyewa mobil carteran secara penuh.
 
 Tabel di bawah menyajikan panduan tarif kirim paket kilat dari Palembang ke Muara Enim.
 
-| Kategori Muatan | Acuan Ukuran dan Berat Maksimal | Kisaran Ongkos Kirim | Tempat Penempatan di Mobil |
+| Kategori Muatan | Acuan Ukuran dan Berat Maksimal | Ongkos Kirim | Tempat Penempatan di Mobil |
 |---|---|---|---|
-| Amplop Dokumen Resmi | Map folio tebal atau map plastik (maksimal 1 kg) | Rp 40.000 - Rp 60.000 | Dashboard depan atau kantong jok kabin ber-AC |
-| Paket Kardus Kecil (Koli S) | Dimensi kotak sepatu (maksimal 3 sampai 5 kg) | Rp 60.000 - Rp 80.000 | Ruang lantai bawah kursi kabin / bagasi datar |
-| Paket Kardus Sedang (Koli M) | Dimensi dus mi instan (maksimal 8 sampai 10 kg) | Rp 80.000 - Rp 120.000 | Bagasi belakang mobil terlindung matras |
-| Paket Pempek Frozen | Kardus atau boks styrofoam rapat (maksimal 5 kg) | Rp 70.000 - Rp 90.000 | Kabin penumpang berpendingin udara aktif |
+| Amplop Dokumen Resmi | Map folio tebal atau map plastik (maksimal 1 kg) | Sama dengan tarif travel passenger rute ini | Dashboard depan atau kantong jok kabin ber-AC |
+| Paket Kardus Kecil (Koli S) | Dimensi kotak sepatu (maksimal 3 sampai 5 kg) | Sama dengan tarif travel passenger rute ini | Ruang lantai bawah kursi kabin / bagasi datar |
+| Paket Kardus Sedang (Koli M) | Dimensi dus mi instan (maksimal 8 sampai 10 kg) | Sama dengan tarif travel passenger rute ini | Bagasi belakang mobil terlindung matras |
+| Paket Pempek Frozen | Kardus atau boks styrofoam rapat (maksimal 5 kg) | Sama dengan tarif travel passenger rute ini | Kabin penumpang berpendingin udara aktif |
 
-Biaya final dapat sedikit menyesuaikan jika alamat pengantaran berada jauh di luar jalan poros utama Muara Enim, seperti kawasan mess tambang di pedalaman pelosok atau area proyek terpencil di sekitar Tanjung Enim.
+Ukuran paket tidak memengaruhi harga. Tidak ada biaya tambahan untuk alamat di luar jalan poros utama Muara Enim, seperti kawasan mess tambang di pedalaman pelosok atau area proyek terpencil di sekitar Tanjung Enim.
 
 ## Petunjuk Pengemasan Paket agar Aman Selama Perjalanan
 

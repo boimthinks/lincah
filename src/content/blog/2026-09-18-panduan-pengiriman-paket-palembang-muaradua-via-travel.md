@@ -20,7 +20,7 @@ faq:
   - q: "Bagaimana cara pengemasan makanan basah seperti pempek agar tidak rusak?"
     a: "Makanan basah wajib dikemas vakum kedap udara dan dibekukan terlebih dahulu. Di armada, paket makanan ditempatkan di kompartemen kabin ber-AC dingin."
   - q: "Bagaimana cara menghitung tarif kirim paket via travel?"
-    a: "Tarif dihitung berdasarkan berat aktual atau berat volumetrik (P x L x T / 6.000) serta jenis layanan penjemputan, dengan harga hemat mulai puluhan ribu rupiah."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Muaradua. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, amplop dokumen maupun koli barang dibayar dengan nominal yang sama."
   - q: "Bagaimana cara mengirim paket Palembang ke Muaradua?"
     a: "Hubungi WhatsApp Lincah Travel di 0813-6923-1893 dengan mengirimkan detail ukuran paket, alamat penjemputan, dan nomor kontak penerima di Muaradua."
 ---
@@ -63,28 +63,24 @@ Setiap jenis barang memerlukan penanganan khusus untuk menjaga kondisi selama pe
 
 **Kompartemen atas (roof rack)** hanya digunakan untuk barang non-pecah belah dengan proteksi terpal kedap air berlapis, dan hanya bila tersedia sesuai regulasi keselamatan Dishub.
 
-## Metode Perhitungan Berat Volumetrik vs Berat Aktual
+## Muatan dan Keseimbangan Armada
 
-Dalam logistik mini via travel, seringkali volume paket lebih menentukan daripada berat sebenarnya. Kami menggunakan formula standar berat volumetrik untuk menentukan biaya pengiriman:
+Walaupun harga paket disamakan dengan tarif travel passenger, penempatan barang tetap mengikuti aturan ruang di kendaraan. Muatan harus menjaga keseimbangan armada (payload balance) terutama pada mobil seperti Kijang Innova atau HiAce yang punya batas kapasitas tertentu untuk keselamatan armada.
 
-Berat Volumetrik (kg) = Panjang (cm) × Lebar (cm) × Tinggi (cm) ÷ 6.000
+## Tarif Pengiriman Paket Palembang-Muaradua
 
-Contoh: sebuah kardus berukuran 40x30x20 cm memiliki berat volumetrik (40×30×20) ÷ 6.000 = 4 kg. Meski berat sebenarnya hanya 2 kg, biaya dihitung berdasarkan 4 kg karena paket memakan ruang yang cukup besar di bagasi.
+Biaya pengiriman disamakan dengan tarif travel passenger reguler untuk rute Palembang-Muaradua. Tidak ada tarif per dimensi, per kilogram, atau per berat volumetrik.
 
-Ketentuan ini penting untuk menjaga keseimbangan muatan armada (payload balance) terutama pada mobil seperti Kijang Innova atau HiAce yang memiliki batas kapasitas tertentu untuk keselamatan berkendara.
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut.
 
-## Estimasi Tarif Pengiriman Paket Palembang–Muaradua
-
-Biaya pengiriman ditentukan oleh beberapa variabel: dimensi paket, bobot aktual atau volumetrik, tipe layanan serah-terima (pool-to-pool atau door-to-door), serta tingkat kerentanan barang (fragile).
-
-Berikut tabel simulasi biaya pengiriman berdasarkan jenis komoditas yang umum dikirim via travel Palembang-Muaradua:
-
-| Jenis Paket / Komoditas | Dimensi / Berat Rata-rata | Layanan | Estimasi Tarif (Rp) | Catatan Khusus Penanganan |
+| Jenis Paket / Komoditas | Dimensi / Berat Rata-rata | Layanan | Tarif Pengiriman | Catatan Khusus Penanganan |
 |---|---|---|---|---|
-| **Dokumen Penting / Berkas** | Amplop Folio / Map (< 1 kg) | Pool-to-Pool | 30.000 –6 50.000 | Wajib segel lakban kedap air & map plastik tebal |
-| **Makanan Basah (Pempek/Kue)** | Kotak Kardus Kecil (2–5 kg) | Door-to-Door | 50.000 –8 80.000 | Wajib kemasan vakum + dry ice / ice gel pendingin |
-| **Karton Konveksi / Suku Cadang** | Kardus Sedang (10–15 kg) | Pool-to-Pool | 80.000 –13 130.000 | Label fragile jika memuat kaca/bohlam kendaraan |
-| **Sepeda Motor (Bebek/Matic Kecil)** | Unit Kendaraan Utuh | Pool-to-Pool | 350.000 –5 500.000 | Tangki bensin wajib dikosongkan, spion dilepas, packing kardus |
+| **Dokumen Penting / Berkas** | Amplop Folio / Map (< 1 kg) | Pool-to-Pool | Sama dengan tarif travel passenger rute ini | Wajib segel lakban kedap air & map plastik tebal |
+| **Makanan Basah (Pempek/Kue)** | Kotak Kardus Kecil (2-5 kg) | Door-to-Door | Sama dengan tarif travel passenger rute ini | Wajib kemasan vakum + ice gel pendingin |
+| **Karton Konveksi / Suku Cadang** | Kardus Sedang (10-15 kg) | Pool-to-Pool | Sama dengan tarif travel passenger rute ini | Label fragile jika memuat kaca/bohlam kendaraan |
+| **Sepeda Motor (Bebek/Matic Kecil)** | Unit Kendaraan Utuh | Pool-to-Pool | Disesuaikan karena melebihi satu bangku penumpang | Tangki bensin wajib dikosongkan, spion dilepas, packing kardus |
+
+Ukuran paket tidak memengaruhi harga. Amplop map folio dan koli berisi suku cadang dibayar dengan nominal yang sama selama keduanya muat di satu bangku penumpang.
 
 ## Standar Packaging Makanan Segar Asal Palembang
 

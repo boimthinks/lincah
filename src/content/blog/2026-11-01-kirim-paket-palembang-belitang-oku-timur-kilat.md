@@ -18,7 +18,7 @@ faq:
   - q: "Muatan apa saja yang paling sering dikirim ke Belitang lewat travel?"
     a: "Kiriman yang paling sering dititipkan adalah suku cadang traktor atau combine harvester, pompa air irigasi, dokumen koperasi dan perbankan tani, benih tanaman, serta paket pempek beku."
   - q: "Berapa kisaran ongkos kirim paket Palembang Belitang?"
-    a: "Biaya titip paket berkisar mulai dari Rp40.000 untuk dokumen resmi, serta Rp70.000 sampai Rp130.000 untuk paket kardus tergantung ukuran koli, berat timbangan, dan jarak desa tujuan."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Belitang. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, dokumen resmi maupun paket kardus dibayar dengan nominal yang sama."
   - q: "Bagaimana cara menitipkan suku cadang mesin yang berminyak atau berat?"
     a: "Komponen mesin wajib dibersihkan dari ceceran oli, dilapisi kardus tebal, dan dilakban rapat. Muatan tersebut ditempatkan khusus di lantai bagasi beralas karpet pelindung agar tidak bergeser."
   - q: "Kapan batas waktu penyerahan paket agar sampai di hari yang sama?"
@@ -59,16 +59,18 @@ Kondisi arus jalan lintas pedesaan di kawasan Belitang umumnya ramai lancar, den
 
 ## Panduan Tarif Titip Paket Cepat
 
-Ongkos pengiriman paket kilat travel dihitung secara transparan berdasarkan ukuran fisik kardus, berat muatan, serta tingkat kehati-hatian barang selama di kendaraan. Skema tarif per koli ini jauh lebih terjangkau bagi pengusaha bengkel tani dibandingkan harus menyewa mobil sewaan khusus.
+Ongkos pengiriman paket kilat travel disamakan dengan tarif travel passenger reguler untuk rute yang sama. Tidak ada tarif per ukuran fisik kardus, per kilogram, atau per tingkat kehati-hatian barang.
+
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut. Cara ini jauh lebih terjangkau bagi pengusaha bengkel tani dibandingkan harus menyewa mobil sewaan khusus.
 
 Tabel di bawah menyajikan acuan biaya kirim barang kilat dari Palembang ke kawasan Belitang OKU Timur.
 
-| Kategori Muatan | Patokan Dimensi dan Bobot Maksimal | Perkiraan Ongkos Kirim | Tempat Penyimpanan di Mobil |
+| Kategori Muatan | Patokan Dimensi dan Bobot Maksimal | Ongkos Kirim | Tempat Penyimpanan di Mobil |
 |---|---|---|---|
-| Amplop Berkas Resmi | Amplop cokelat tebal atau map plastik (maksimal 1 kg) | Rp 40.000 - Rp 60.000 | Dashboard kabin depan atau saku jok ber-AC |
-| Paket Kardus Kecil (Koli S) | Kotak seukuran dus sepatu (maksimal 3 hingga 5 kg) | Rp 70.000 - Rp 90.000 | Ruang bawah kursi kabin atau lantai bagasi datar |
-| Paket Kardus Sedang (Koli M) | Kotak kardus mi instan (maksimal 8 hingga 10 kg) | Rp 90.000 - Rp 130.000 | Ruang bagasi belakang beralas karpet tebal |
-| Titipan Pempek Vakum Beku | Kardus mini atau boks gabus styrofoam (maksimal 5 kg) | Rp 70.000 - Rp 100.000 | Kabin penumpang berpendingin udara dingin |
+| Amplop Berkas Resmi | Amplop cokelat tebal atau map plastik (maksimal 1 kg) | Sama dengan tarif travel passenger rute ini | Dashboard kabin depan atau saku jok ber-AC |
+| Paket Kardus Kecil (Koli S) | Kotak seukuran dus sepatu (maksimal 3 hingga 5 kg) | Sama dengan tarif travel passenger rute ini | Ruang bawah kursi kabin atau lantai bagasi datar |
+| Paket Kardus Sedang (Koli M) | Kotak kardus mi instan (maksimal 8 hingga 10 kg) | Sama dengan tarif travel passenger rute ini | Ruang bagasi belakang beralas karpet tebal |
+| Titipan Pempek Vakum Beku | Kardus mini atau boks gabus styrofoam (maksimal 5 kg) | Sama dengan tarif travel passenger rute ini | Kabin penumpang berpendingin udara dingin |
 
 ## Standar Pengemasan Aman untuk Kiriman Pertanian
 

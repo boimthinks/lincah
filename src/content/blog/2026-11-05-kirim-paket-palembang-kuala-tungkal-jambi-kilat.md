@@ -16,7 +16,7 @@ faq:
   - q: "Apakah paket bisa diantar langsung ke Pelabuhan Roro Kuala Tungkal?"
     a: "Bisa, tim sopir kami dapat mengantarkan paket dokumen atau barang langsung ke pos dermaga Pelabuhan Roro Kuala Tungkal, Pelabuhan Marina, kantor perkapalan, maupun alamat rumah warga."
   - q: "Berapa kisaran ongkos kirim titipan paket ke Kuala Tungkal?"
-    a: "Biaya kirim dokumen resmi mulai Rp80.000 per map segel. Untuk muatan kardus suku cadang atau pempek beku mulai Rp100.000 hingga Rp180.000 tergantung dimensi volume dan berat paket."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Kuala Tungkal. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, map segel dokumen resmi maupun koli suku cadang dibayar dengan nominal yang sama."
   - q: "Kapan batas waktu penyerahan barang agar langsung berangkat?"
     a: "Paket sebaiknya sudah diserahkan ke pool atau dijemput sopir paling lambat satu jam sebelum jam keberangkatan armada, yaitu sebelum pukul 07.00 WIB untuk trip pagi dan sebelum 19.00 WIB untuk trip malam."
   - q: "Bagaimana cara melacak posisi paket selama di perjalanan darat?"
@@ -65,16 +65,18 @@ Penyesuaian waktu tempuh dapat terjadi apabila terdapat antrean perbaikan jembat
 
 ## Estimasi Biaya Titip Paket Kilat Antarprovinsi
 
-Tarif jasa kirim barang lewat bagasi travel ditentukan secara transparan berdasarkan dimensi bentuk barang serta berat timbangan riil. Skema tarif flat per koli ini membebaskan Anda dari hitungan biaya siluman saat barang sampai di alamat tujuan.
+Tarif jasa kirim barang lewat bagasi travel disamakan dengan tarif travel passenger reguler untuk rute yang sama. Tidak ada tarif per dimensi bentuk barang, per kilogram, atau per berat timbangan riil.
 
-Daftar berikut merangkum estimasi ongkos kirim paket Palembang ke Kuala Tungkal:
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut. Cara ini membebaskan Anda dari hitungan biaya siluman saat barang sampai di alamat tujuan.
 
-* Kategori Dokumen Segel: Map plastik atau amplop tebal berat maksimal satu kilogram dikenakan tarif mulai Rp80.000 per berkas.
-* Kategori Kardus Kecil: Ukuran kotak kardus mie instan atau berat maksimal lima kilogram dikenakan tarif mulai Rp100.000 per kardus.
-* Kategori Kardus Sedang: Dimensi volume hingga 40 x 30 x 30 sentimeter atau berat maksimal sepuluh kilogram dikenakan tarif mulai Rp130.000 hingga Rp150.000.
-* Kategori Komponen Berat: Suku cadang besi atau koli khusus dengan berat antara 11 sampai 20 kilogram dikenakan tarif mulai Rp180.000 hingga Rp220.000.
+Daftar berikut merangkum ongkos kirim paket Palembang ke Kuala Tungkal:
 
-Untuk muatan barang berukuran istimewa atau pengiriman dalam jumlah banyak sekaligus, Anda dapat berkonsultasi langsung dengan petugas operasional guna memperoleh penawaran khusus.
+* Kategori Dokumen Segel: Map plastik atau amplop tebal berat maksimal satu kilogram dikenakan tarif sama dengan tarif travel passenger rute ini per berkas.
+* Kategori Kardus Kecil: Ukuran kotak kardus mie instan atau berat maksimal lima kilogram dikenakan tarif sama dengan tarif travel passenger rute ini per kardus.
+* Kategori Kardus Sedang: Dimensi volume hingga 40 x 30 x 30 sentimeter atau berat maksimal sepuluh kilogram dikenakan tarif sama dengan tarif travel passenger rute ini.
+* Kategori Komponen Berat: Suku cadang besi atau koli khusus dengan berat antara 11 sampai 20 kilogram dikenakan tarif sama dengan tarif travel passenger rute ini selama masih muat di satu bangku penumpang.
+
+Ukuran paket tidak memengaruhi harga, jadi dokumen dan koli komponen berat dibayar dengan nominal yang sama selama keduanya muat di satu bangku penumpang. Untuk muatan berukuran istimewa atau pengiriman dalam jumlah banyak sekaligus, Anda dapat berkonsultasi langsung dengan petugas operasional guna memperoleh penawaran khusus.
 
 ## Panduan Pengemasan Mandiri agar Muatan Aman
 

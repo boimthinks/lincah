@@ -14,7 +14,7 @@ faq:
   - q: "Berapa lama paket sampai via travel Palembang?"
     a: "Paket ikut trip harian sehingga tiba di hari yang sama. Rute Palembang Jambi butuh 6-7 jam, Palembang Baturaja 4-6 jam, dan rute lain menyesuaikan durasi perjalanan armada yang berangkat."
   - q: "Berapa biaya kirim paket via travel Palembang?"
-    a: "Ongkir dihitung dari berat, ukuran, dan jarak turun. Sebagai rujukan rute Baturaja: amplop dokumen Rp 50.000, kardus kecil maksimal 40x30x20 cm Rp 69.690, koli medium maksimal 60x40x30 cm Rp 140.000. Admin konfirmasi angka pasti lewat WhatsApp."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler untuk rute yang sama. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, amplop dokumen maupun koli barang dibayar dengan nominal yang sama, yaitu tarif rute tersebut. Admin konfirmasi angka pasti lewat WhatsApp."
   - q: "Apa saja jenis barang yang boleh dititipkan?"
     a: "Dokumen penting seperti BPKB dan akta, makanan kemasan, suku cadang darurat, barang elektronik kecil, serta sampel produk. Hindari barang cair tak dikemas, bahan berbahaya, dan muatan yang melampaui kapasitas bagasi."
   - q: "Apakah bisa kirim makanan seperti pempek?"
@@ -60,17 +60,24 @@ Waktu tempuh paket mengikuti durasi perjalanan armada penumpang ke masing-masing
 
 Paket yang dititipkan pada trip pagi biasanya tiba di siang hari di kota tujuan. Trip sore membawa kiriman tiba menjelang malam, cocok untuk dokumen yang dipakai rapat keesokan harinya.
 
-## Tarif dan Cara Hitung Ongkir
+## Tarif Ongkir Kirim Paket
 
-Ongkir dihitung terpisah dari tiket penumpang, berdasarkan berat, ukuran, dan jarak turun di kota tujuan. Sebagai rujukan, struktur tarif rute Baturaja ialah sebagai berikut:
+Ongkos kirim paket disamakan dengan tarif travel passenger reguler untuk rute yang sama. Tidak ada tarif per koli, per kilogram, atau per ukuran barang.
 
-- Amplop dokumen (surat atau berkas): flat Rp 50.000 sudah termasuk jemput door-to-door di Palembang.
-- Kardus kecil maksimal 40x30x20 cm (dus mie instan atau pempek vakum standar): Rp 69.690 per dus.
-- Koli medium maksimal 60x40x30 cm (suku cadang atau elektronik): Rp 140.000 per koli.
+Kunci aturan ini sederhana: selama paket masih muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang untuk rute tersebut. Jadi paket ke Baturaja dibayar sama dengan tarif travel Palembang Baturaja, dan paket ke Jambi sama dengan tarif travel Palembang Jambi.
 
-Biaya tambahan berlaku untuk pengambilan di luar radius kota Palembang (Rp 10.000-30.000), pengantaran ke pelosok tujuan (Rp 15.000-50.000), serta layanan malam setelah pukul 20.00 (tambah Rp 25.000). Untuk muatan partai besar, ekspedisi kargo memakai rumus volumetrik panjang x lebar x tinggi dibagi 4.000.
+| Isi paket | Harga kirim paket |
+|---|---|
+| Amplop dokumen, berkas, atau map | Sama dengan tarif travel passenger rute tersebut |
+| Kardus kecil, kardus sedang, atau koli berisi barang | Sama dengan tarif travel passenger rute tersebut |
 
-Angka pasti baru muncul setelah admin melihat jenis kiriman. Cara termudah adalah mengirim detail isi dan ukuran lewat WhatsApp, lalu admin mengonfirmasi estimasi biaya dalam hitungan menit.
+Ukuran paket tidak memengaruhi harga. Amplop map folio dan koli berisi suku cadang dibayar dengan nominal yang sama, asalkan muatannya tidak melebihi satu bangku penumpang.
+
+Tidak ada minimum charge dan tidak ada biaya tambahan untuk penjemputan di luar radius kota, pengantaran ke pelosok, atau layanan malam. Biaya tol, bahan bakar, dan waktu perjalanan sudah termasuk dalam tarif travel reguler.
+
+Kalau muatannya melebihi satu bangku penumpang, paket tidak bisa lagi mengikuti aturan ini. Anda perlu berdiskusi dengan admin untuk pilihan carter armada privat, atau kirim lewat ekspedisi kargo yang tarifnya dihitung terpisah di luar aturan ini.
+
+Angka pasti dikonfirmasi admin setelah melihat jenis kiriman. Cara termudah adalah mengirim detail isi dan ukuran lewat WhatsApp, lalu admin mengonfirmasi biaya dalam hitungan menit.
 
 ## Area Jemput dan Antar di Palembang
 

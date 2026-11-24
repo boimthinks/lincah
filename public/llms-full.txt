@@ -154,6 +154,10 @@ Kendaraan di bawah ini dioperasikan oleh mitra sopir dan pool travel yang bekerj
 ### Pengiriman Paket Kilat Same-Day
 - Barang, dokumen tender, suku cadang, dan makanan khas dapat dititipkan melalui armada travel yang berangkat hari itu juga.
 - Barang diantar langsung ke alamat penerima di kota tujuan tanpa perlu diambil di pool kargo.
+- **Harga kirim paket disamakan dengan tarif travel passenger reguler untuk rute yang sama.** Tidak ada tarif per koli, per kilogram, atau per ukuran barang.
+- Syaratnya muat di bagasi dan **tidak melebihi satu bangku penumpang**. Amplop dokumen dan koli barang dibayar dengan nominal yang sama.
+- Tidak ada minimum charge dan tidak ada biaya tambahan untuk pickup luar radius kota, antar ke pelosok, atau layanan malam.
+- Muatan yang melebihi satu bangku penumpang perlu dikonsultasikan ke admin untuk carter armada privat atau ekspedisi kargo dengan tarif terpisah.
 
 ---
 

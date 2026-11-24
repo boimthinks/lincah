@@ -18,7 +18,7 @@ faq:
   - q: "Jenis barang apa saja yang biasa dikirimkan ke Tanjung Enim?"
     a: "Barang yang sering dititipkan mencakup dokumen lelang dan kontrak kerja sama, komponen hidrolik mesin darurat, perlengkapan K3, sampel batubara atau uji laboratorium, serta paket kuliner khas seperti pempek beku."
   - q: "Berapa ongkos kirim paket Palembang ke Tanjung Enim lewat travel?"
-    a: "Tarif titip barang mulai dari Rp40.000 untuk dokumen resmi, serta Rp70.000 hingga Rp130.000 untuk kardus ukuran kecil sampai sedang tergantung dimensi, berat, dan titik antar penerima."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Tanjung Enim. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, dokumen resmi maupun kardus ukuran sedang dibayar dengan nominal yang sama."
   - q: "Bagaimana cara menitipkan pempek atau makanan beku agar tetap segar?"
     a: "Kemasan makanan wajib divakum kedap udara dan dilengkapi pendingin ice gel. Paket makanan khusus ditempatkan di dalam kabin penumpang ber-AC agar suhunya terjaga dan tidak rusak selama perjalanan."
   - q: "Kapan batas waktu penyerahan paket untuk pengiriman same day?"
@@ -59,16 +59,18 @@ Laju kendaraan di jalan arteri setelah exit tol sesekali dipengaruhi oleh penutu
 
 ## Panduan Ongkos Kirim Paket Same Day
 
-Penetapan tarif titip kargo travel dihitung berdasarkan ukuran fisik kemasan, bobot, dan sifat kehati-hatian barang di dalam mobil. Metode perhitungan per koli jauh lebih ekonomis bagi pengiriman komponen satuan jika dibandingkan dengan menyewa carter satu unit kendaraan secara penuh.
+Tarif titip paket disamakan dengan tarif travel passenger reguler untuk rute yang sama. Tidak ada tarif per ukuran fisik kemasan, per kilogram, atau per sifat barang.
 
-Tabel berikut menyajikan perkiraan ongkos kirim paket same day dari Palembang ke Tanjung Enim.
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut. Cara ini jauh lebih ekonomis bagi pengiriman komponen satuan jika dibandingkan dengan menyewa carter satu unit kendaraan secara penuh.
 
-| Kategori Muatan | Ukuran dan Berat Maksimal | Estimasi Tarif Kirim | Area Penempatan di Kendaraan |
+Tabel berikut menyajikan ongkos kirim paket same day dari Palembang ke Tanjung Enim.
+
+| Kategori Muatan | Ukuran dan Berat Maksimal | Ongkos Kirim | Area Penempatan di Kendaraan |
 |---|---|---|---|
-| Amplop Dokumen Resmi | Map kertas tebal atau amplop plastik tahan air (maks 1 kg) | Rp 40.000 - Rp 60.000 | Dashboard kabin depan atau kantong jok ber-AC |
-| Paket Kardus Kecil (Koli S) | Kotak seukuran kardus sepatu (maksimal 3 sampai 5 kg) | Rp 70.000 - Rp 90.000 | Ruang bawah kursi kabin berpendingin / lantai datar |
-| Paket Kardus Sedang (Koli M) | Kotak kardus mi instan (maksimal 8 sampai 10 kg) | Rp 90.000 - Rp 130.000 | Bagasi belakang kendaraan dengan alas karpet pelindung |
-| Titipan Pempek Beku (Vacuum) | Kotak styrofoam atau kardus berpembungkus rapi (maks 5 kg) | Rp 70.000 - Rp 100.000 | Kabin penumpang sejuk berpendingin udara |
+| Amplop Dokumen Resmi | Map kertas tebal atau amplop plastik tahan air (maks 1 kg) | Sama dengan tarif travel passenger rute ini | Dashboard kabin depan atau kantong jok ber-AC |
+| Paket Kardus Kecil (Koli S) | Kotak seukuran kardus sepatu (maksimal 3 sampai 5 kg) | Sama dengan tarif travel passenger rute ini | Ruang bawah kursi kabin berpendingin / lantai datar |
+| Paket Kardus Sedang (Koli M) | Kotak kardus mi instan (maksimal 8 sampai 10 kg) | Sama dengan tarif travel passenger rute ini | Bagasi belakang kendaraan dengan alas karpet pelindung |
+| Titipan Pempek Beku (Vacuum) | Kotak styrofoam atau kardus berpembungkus rapi (maks 5 kg) | Sama dengan tarif travel passenger rute ini | Kabin penumpang sejuk berpendingin udara |
 
 ## Standar Pengemasan Mandiri Agar Kiriman Terlindungi
 

@@ -16,7 +16,7 @@ faq:
   - q: "Apa bedanya titip travel dengan ekspedisi kargo ke Bungo Tebo?"
     a: "Titip travel ikut keberangkatan harian tanpa gudang antara, sehingga barang sampai hari yang sama. Ekspedisi kargo reguler lewat hub transit dan butuh 2-3 hari kerja untuk mencapai kecamatan dalam di Tebo."
   - q: "Berapa biaya kirim paket ke Muara Bungo dan Muara Tebo?"
-    a: "Ongkir dihitung dari berat, ukuran, dan jarak turun. Rujukan: pickup luar radius Palembang Rp 10.000-30.000, antar pelosok Rp 15.000-50.000, layanan malam tambah Rp 25.000, serta kargo partai besar pakai rumus volumetrik p x l x t dibagi 4.000. Admin konfirmasi angka pasti lewat WhatsApp."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Muara Bungo dan Muara Tebo. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, dokumen maupun koli barang dibayar dengan nominal yang sama. Admin konfirmasi angka pasti lewat WhatsApp."
   - q: "Bisa kirim suku cadang pabrik ke perkebunan Tebo?"
     a: "Bisa. Suku cadang mesin kelapa sawit dan alat berat sering dititipkan karena butuh sampai hari sama. Pastikan barang dibungkus rapat dan beri label nama penerima bila lebih dari satu koli."
   - q: "Bagaimana kalau tujuan kecamatan dalam di Tebo?"
@@ -56,15 +56,11 @@ Paket yang dititipkan pada trip pagi biasanya tiba di Bungo saat jam check-in ho
 
 ## Simulasi Biaya Kirim
 
-Tarif penumpang Palembang Jambi ialah Rp 250.000 per orang sudah termasuk door-to-door. Rute ke Bungo dan Tebo lebih jauh dari Kota Jambi, sehingga konfirmasikan angka pasti ke admin sebelum mengirim. Untuk kirim paket, ongkir dihitung terpisah dari tiket berdasarkan berat, ukuran, dan jarak turun.
+Tarif penumpang Palembang Jambi ialah Rp 250.000 per orang sudah termasuk door-to-door. Rute ke Bungo dan Tebo lebih jauh dari Kota Jambi, sehingga konfirmasikan angka pasti ke admin sebelum mengirim. Untuk kirim paket, ongkosnya disamakan dengan tarif travel passenger reguler untuk rute tersebut.
 
-Struktur biaya mengikuti layanan kirim paket umum Lincah Travel:
-- Pickup di luar radius kota Palembang: Rp 10.000-30.000.
-- Antar ke pelosok tujuan: Rp 15.000-50.000.
-- Layanan malam setelah pukul 20.00: tambah Rp 25.000.
-- Kargo partai besar: rumus volumetrik panjang x lebar x tinggi dibagi 4.000.
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut. Tidak ada tarif per koli, per kilogram, atau per jenis barang, dan tidak ada biaya tambahan untuk pickup di luar radius kota, antar ke pelosok, maupun layanan malam.
 
-Sebagai gambaran, dokumen amplop masuk kategori paling ringan dan ikut penumpang tanpa biaya berat besar. Kardus suku cadang 10 kilogram dikenai biaya volumetrik plus antar pelosok ke alamat di Tebo. Angka pasti baru muncul setelah admin melihat jenis kiriman lewat WhatsApp.
+Sebagai gambaran, dokumen amplop dan kardus suku cadang 10 kilogram dibayar dengan nominal yang sama. Angka pasti baru muncul setelah admin melihat jenis kiriman lewat WhatsApp.
 
 ## Jenis Barang yang Sering Dititipkan
 

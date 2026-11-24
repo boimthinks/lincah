@@ -18,7 +18,7 @@ faq:
   - q: "Apakah barang dijemput langsung ke alamat pengirim di Palembang?"
     a: "Benar. Pengemudi kami dapat menjemput paket ke rumah, ruko, toko suku cadang, atau kantor Anda di area Palembang, lalu mengantarkannya ke titik tujuan di Bayung Lencir."
   - q: "Berapa estimasi ongkos kirim paket kilat Palembang Bayung Lencir?"
-    a: "Ongkos kirim berkisar antara Rp30.000 hingga Rp50.000 untuk dokumen resmi, dan Rp50.000 hingga Rp100.000 untuk kardus barang tergantung dimensi serta bobot paket."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Bayung Lencir. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, dokumen resmi maupun kardus barang dibayar dengan nominal yang sama."
   - q: "Apakah makanan beku seperti pempek aman selama perjalanan Lintas Timur?"
     a: "Sangat aman. Paket makanan beku kemasan vakum yang diberi pendingin ditempatkan di lantai kabin penumpang ber-AC sejuk, bukan di bagian bagasi belakang yang panas."
   - q: "Bagaimana alur pemesanan pengiriman paket kilat ini?"
@@ -69,18 +69,20 @@ Titik pertemuan lalu lintas di Simpang Betung dan pasar tumpah Sungai Lilin terk
 
 ## Panduan Ongkos Kirim Titip Paket Kilat
 
-Biaya titip paket kilat dihitung secara praktis berdasarkan kategori ukuran barang atau per amplop dokumen resmi. Skema ini menguntungkan Anda karena tidak mensyaratkan bobot minimum puluhan kilogram seperti kargo truk angkutan berat.
+Biaya titip paket kilat disamakan dengan tarif travel passenger reguler untuk rute yang sama. Tidak ada tarif per koli, per kilogram, atau per kategori ukuran barang.
 
-Tabel di bawah menyajikan gambaran tarif kirim paket dari Palembang ke Bayung Lencir.
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut.
 
-| Kategori Muatan | Ukuran dan Berat Acuan | Perkiraan Tarif | Penempatan Barang di Kendaraan |
+Tabel di bawah menyajikan tarif kirim paket dari Palembang ke Bayung Lencir.
+
+| Kategori Muatan | Ukuran dan Berat Acuan | Tarif Ongkir | Penempatan Barang di Kendaraan |
 |---|---|---|---|
-| Dokumen dan Berkas Resmi | Amplop cokelat tebal atau map folio (berat di bawah 1 kg) | Rp 30.000 - Rp 50.000 | Kantong belakang jok sopir atau dashboard kabin depan |
-| Kardus Kecil (Koli S) | Ukuran kotak sepatu atau onderdil kecil (berat 1 sampai 3 kg) | Rp 50.000 - Rp 70.000 | Kolong kursi penumpang kabin ber-AC |
-| Kardus Sedang (Koli M) | Ukuran kotak kardus mi instan (berat 4 sampai 8 kg) | Rp 70.000 - Rp 100.000 | Ruang bagasi belakang beralas karpet bersih |
-| Makanan Beku Vakum | Kotak styrofoam mini berisi ice gel (berat 2 sampai 5 kg) | Rp 60.000 - Rp 85.000 | Lantai kabin tengah bersuhu sejuk dingin |
+| Dokumen dan Berkas Resmi | Amplop cokelat tebal atau map folio (berat di bawah 1 kg) | Sama dengan tarif travel passenger rute ini | Kantong belakang jok sopir atau dashboard kabin depan |
+| Kardus Kecil (Koli S) | Ukuran kotak sepatu atau onderdil kecil (berat 1 sampai 3 kg) | Sama dengan tarif travel passenger rute ini | Kolong kursi penumpang kabin ber-AC |
+| Kardus Sedang (Koli M) | Ukuran kotak kardus mi instan (berat 4 sampai 8 kg) | Sama dengan tarif travel passenger rute ini | Ruang bagasi belakang beralas karpet bersih |
+| Makanan Beku Vakum | Kotak styrofoam mini berisi ice gel (berat 2 sampai 5 kg) | Sama dengan tarif travel passenger rute ini | Lantai kabin tengah bersuhu sejuk dingin |
 
-Tarif tersebut sudah mencakup pengantaran langsung ke alamat penerima di sepanjang jalur lintas maupun pemukiman utama Bayung Lencir tanpa biaya tersembunyi.
+Ukuran paket tidak memengaruhi harga. Tarif tersebut sudah mencakup pengantaran langsung ke alamat penerima di sepanjang jalur lintas maupun pemukiman utama Bayung Lencir tanpa biaya tersembunyi.
 
 ## Jangkauan Jemput Palembang dan Lokasi Antar Bayung Lencir
 

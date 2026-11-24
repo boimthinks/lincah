@@ -18,11 +18,11 @@ faq:
   - q: "Bagaimana cara meminta paket dijemput langsung ke rumah di Palembang?"
     a: "Anda cukup mengirimkan foto barang, perkiraan berat atau ukuran, alamat penjemputan lengkap di Palembang, serta nomor kontak penerima di Pagaralam ke WhatsApp admin 0813-6923-1893."
   - q: "Berapa perkiraan ongkos kirim paket dokumen resmi ke Pagaralam?"
-    a: "Ongkos kirim berkas atau dokumen resmi berkisar antara Rp30.000 hingga Rp50.000 per amplop, tergantung lokasi jemput dan antar."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Pagaralam. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, berkas dokumen resmi dibayar dengan nominal yang sama."
   - q: "Apakah kurir travel mengantar paket langsung ke alamat penerima di Pagaralam?"
     a: "Ya, pengemudi kami menerapkan sistem antar langsung ke pintu rumah, ruko, kantor instansi pemerintah, penginapan villa, atau toko tujuan di area Kota Pagaralam."
   - q: "Apakah bisa mengirim barang berukuran besar seperti sepeda atau ban mobil?"
-    a: "Bisa. Barang berdimensi besar atau berjumlah banyak dapat dititipkan dengan penghitungan tarif khusus sesuai kapasitas bagasi atau sewa ruang kursi kosong."
+    a: "Bisa, selama muatannya tidak melebihi satu bangku penumpang, tarifnya sama dengan travel passenger reguler. Untuk barang yang melebihi batas itu, tarif dihitung tersendiri sesuai ketersediaan ruang bagasi atau sewa ruang kursi kosong."
 ---
 
 Jarak darat dari Kota Palembang menuju Kota Pagaralam membentang sejauh 290 kilometer menembus dataran tinggi di lereng Gunung Dempo. Saat keluarga atau rekan kerja di Pagaralam membutuhkan kiriman mendesak, mengandalkan kurir logistik konvensional sering memakan waktu dua hingga empat hari kerja. Rantai penyortiran bertingkat di gudang transit transit Prabumulih, Muara Enim, dan Lahat membuat barang tertahan lama di perjalanan.
@@ -65,18 +65,20 @@ Pengemudi kami sangat memahami karakter rute perbukitan ini. Dua simpul perlamba
 
 ## Panduan Ongkos Kirim Titip Paket Kilat
 
-Tarif pengiriman titipan kilat dihitung secara transparan menurut dimensi kardus atau lembaran dokumen. Anda tidak dikenakan beban bobot minimum yang memberatkan.
+Tarif pengiriman titipan kilat disamakan dengan tarif travel passenger reguler untuk rute yang sama. Tidak ada tarif per dimensi kardus, per kilogram, atau per lembaran dokumen.
 
-Berikut rincian perkiraan ongkos kirim paket dari Palembang menuju Pagaralam:
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut.
 
-| Kategori Ukuran Barang | Ukuran dan Berat Acuan | Perkiraan Ongkos Kirim | Lokasi Penyimpanan di Mobil |
+Berikut rincian ongkos kirim paket dari Palembang menuju Pagaralam:
+
+| Kategori Ukuran Barang | Ukuran dan Berat Acuan | Ongkos Kirim | Lokasi Penyimpanan di Mobil |
 |---|---|---|---|
-| Dokumen dan Berkas Resmi | Map folio atau amplop cokelat tebal (berat di bawah 1 kg) | Rp 30.000 - Rp 50.000 | Saku belakang jok sopir atau dashboard depan |
-| Kardus Kecil (Koli S) | Kotak sepatu atau kardus pempek isi 30-50 butir (berat 1 sampai 3 kg) | Rp 50.000 - Rp 70.000 | Lantai kabin tengah beralas karpet AC |
-| Kardus Sedang (Koli M) | Kardus mi instan atau suku cadang mesin (berat 4 sampai 8 kg) | Rp 70.000 - Rp 100.000 | Ruang bagasi belakang mobil |
-| Kardus Besar (Koli L) | Kardus ukuran besar atau bungkusan koli garmen (berat 9 sampai 15 kg) | Rp 100.000 - Rp 150.000 | Bagasi belakang atau slot kursi khusus |
+| Dokumen dan Berkas Resmi | Map folio atau amplop cokelat tebal (berat di bawah 1 kg) | Sama dengan tarif travel passenger rute ini | Saku belakang jok sopir atau dashboard depan |
+| Kardus Kecil (Koli S) | Kotak sepatu atau kardus pempek isi 30-50 butir (berat 1 sampai 3 kg) | Sama dengan tarif travel passenger rute ini | Lantai kabin tengah beralas karpet AC |
+| Kardus Sedang (Koli M) | Kardus mi instan atau suku cadang mesin (berat 4 sampai 8 kg) | Sama dengan tarif travel passenger rute ini | Ruang bagasi belakang mobil |
+| Kardus Besar (Koli L) | Kardus ukuran besar atau bungkusan koli garmen (berat 9 sampai 15 kg) | Sama dengan tarif travel passenger rute ini | Bagasi belakang atau slot kursi khusus |
 
-Untuk barang yang memakan ruang besar seperti sepeda anak, velg mobil, atau bibit tanaman dalam jumlah banyak, tarif dihitung tersendiri berdasarkan kesepakatan ruang kabin armada.
+Ukuran paket tidak memengaruhi harga. Untuk barang yang memakan ruang besar seperti sepeda anak, velg mobil, atau bibit tanaman dalam jumlah banyak, dan tidak muat dalam satu bangku penumpang, tarif dihitung tersendiri berdasarkan kesepakatan ruang kabin armada.
 
 ## Cara Mengemas Makanan Beku dan Cairan agar Aman
 

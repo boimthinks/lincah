@@ -18,7 +18,7 @@ faq:
   - q: "Apakah barang dijemput langsung ke alamat pengirim di Palembang?"
     a: "Benar. Sopir kami bisa menjemput paket ke rumah atau kantor Anda di seputar area Palembang, lalu mengantarkannya tepat ke depan pintu penerima di Kota Sekayu."
   - q: "Berapa estimasi ongkos kirim paket kilat Palembang Sekayu?"
-    a: "Ongkos kirim berkisar antara Rp30.000 hingga Rp50.000 untuk dokumen resmi, dan Rp50.000 hingga Rp100.000 untuk kardus barang tergantung bobot serta ukuran paket."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Sekayu. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, dokumen resmi maupun kardus barang dibayar dengan nominal yang sama."
   - q: "Kapan jadwal terbaik mengirim berkas dinas agar tiba sebelum kantor tutup?"
     a: "Pilihlah jadwal keberangkatan trip pagi pukul 08.00 WIB. Barang biasanya sudah tiba di kawasan perkantoran Pemkab Muba sekitar pukul 11.30 WIB sebelum jam istirahat siang."
   - q: "Bagaimana alur pemesanan pengiriman paket kilat ini?"
@@ -69,18 +69,20 @@ Arus lalu lintas di Simpang Betung terkadang mengalami perlambatan akibat aktivi
 
 ## Panduan Tarif Titip Paket Kilat
 
-Ongkos titip paket kilat dihitung secara sederhana per koli atau per dokumen tanpa kerumitan hitungan volume berat minimum puluhan kilogram seperti kargo skala besar.
+Ongkos titip paket kilat disamakan dengan tarif travel passenger reguler untuk rute yang sama. Tidak ada tarif per koli, per kilogram, atau per jenis muatan.
 
-Tabel berikut menyajikan perkiraan ongkos kirim paket Palembang ke Sekayu berdasarkan jenis dan ukuran muatan.
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut.
 
-| Jenis Muatan | Ukuran dan Berat Acuan | Estimasi Tarif | Posisi Penyimpanan di Mobil |
+Tabel berikut menyajikan ongkos kirim paket Palembang ke Sekayu.
+
+| Jenis Muatan | Ukuran dan Berat Acuan | Tarif Ongkir | Posisi Penyimpanan di Mobil |
 |---|---|---|---|
-| Dokumen dan Surat Resmi | Map amplop kertas cokelat atau folio (berat di bawah 1 kg) | Rp 30.000 - Rp 50.000 | Kantong belakang jok sopir / dashboard kabin depan |
-| Kardus Kecil (Koli S) | Kotak seukuran kardus sepatu (berat 1 sampai 3 kg) | Rp 50.000 - Rp 70.000 | Kolong kursi penumpang kabin ber-AC |
-| Kardus Sedang (Koli M) | Kotak ukuran kardus mi instan (berat 4 sampai 8 kg) | Rp 70.000 - Rp 100.000 | Bagasi belakang mobil beralas karpet rapi |
-| Makanan Beku Vakum | Kotak styrofoam kecil dengan ice gel (berat 2 sampai 5 kg) | Rp 60.000 - Rp 80.000 | Lantai kabin tengah bersuhu sejuk AC |
+| Dokumen dan Surat Resmi | Map amplop kertas cokelat atau folio (berat di bawah 1 kg) | Sama dengan tarif travel passenger rute ini | Kantong belakang jok sopir / dashboard kabin depan |
+| Kardus Kecil (Koli S) | Kotak seukuran kardus sepatu (berat 1 sampai 3 kg) | Sama dengan tarif travel passenger rute ini | Kolong kursi penumpang kabin ber-AC |
+| Kardus Sedang (Koli M) | Kotak ukuran kardus mi instan (berat 4 sampai 8 kg) | Sama dengan tarif travel passenger rute ini | Bagasi belakang mobil beralas karpet rapi |
+| Makanan Beku Vakum | Kotak styrofoam kecil dengan ice gel (berat 2 sampai 5 kg) | Sama dengan tarif travel passenger rute ini | Lantai kabin tengah bersuhu sejuk AC |
 
-Tarif di atas sudah mencakup layanan pengantaran langsung ke titik alamat tujuan di dalam kawasan perkantoran dan pemukiman Kota Sekayu tanpa biaya tambahan yang membingungkan.
+Ukuran paket tidak memengaruhi harga. Tarif di atas sudah mencakup layanan pengantaran langsung ke titik alamat tujuan di dalam kawasan perkantoran dan pemukiman Kota Sekayu tanpa biaya tambahan yang membingungkan.
 
 ## Titik Penjemputan di Palembang dan Antar di Sekayu
 

@@ -18,7 +18,7 @@ faq:
   - q: "Jenis paket apa saja yang bisa dititipkan ke Baturaja?"
     a: "Dokumen kedinasan/kantor, makanan basah khas Palembang seperti pempek vakum beku, sparepart mesin industri/kendaraan, dan barang elektronik."
   - q: "Berapa ongkos kirim paket Palembang ke Baturaja via travel?"
-    a: "Tarif titip mulai dari Rp 50.000 untuk dokumen/amplop dan kardus kecil, sudah termasuk layanan jemput antar alamat."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Baturaja. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, amplop dokumen maupun koli barang dibayar dengan nominal yang sama, sudah termasuk layanan jemput antar alamat."
   - q: "Apakah paket dijemput langsung ke rumah di Palembang?"
     a: "Ya, sopir kami dapat menjemput paket langsung di rumah atau kantor pengirim di Palembang dan menyerahkannya langsung ke tangan penerima di Baturaja."
   - q: "Bagaimana cara agar kiriman pempek ke Baturaja tidak basi?"
@@ -48,46 +48,35 @@ Kami pernah mengirimkan BPKB mobil dari dealer Palembang ke Baturaja pukul 10 pa
 Untuk muatan partai besar atau barang tidak mendesak, pilihan ekspedisi kargo darat lebih ekonomis. Armada truk box atau blind van mengangkut muatan berdasarkan timbangan berat atau perhitungan volume.
 
 **Perbedaan utama:**
-- Travel same day: muatan ikut jadwal penumpang, harga per koli/amplop
+- Travel same day: muatan ikut jadwal penumpang, harga sama dengan tarif penumpang
 - Kargo reguler: sistem hub transit, harga berdasarkan berat/volume
 
 ## Tarif Ongkir Kirim Paket Palembang Baturaja
 
 ### Struktur Titipan Travel Lincah Travel
 
-Tarif kami transparan tanpa biaya tersembunyi:
+Ongkos kirim paket disamakan dengan tarif travel passenger reguler untuk rute yang sama. Tidak ada tarif per koli, per kilogram, atau per kategori ukuran barang.
+
+Kuncinya satu: selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, harga paket sama dengan harga tiket penumpang rute tersebut.
 
 **Dokumen amplop (surat/berkas):**
-- Flat rate Rp 50.000 per amplop
+- Harga sama dengan tarif travel passenger rute Palembang Baturaja
 - Sudah termasuk penjemputan door-to-door di Palembang
 - Pengantaran langsung ke alamat penerima di Baturaja
 
 **Kardus kecil (dus mie instan hingga dus air mineral 1 liter):**
-- Ukuran maksimal 40x30x20 cm
-- Tarif Rp69690 per dus
+- Harga sama dengan tarif travel passenger rute Palembang Baturaja
 - Untuk kemasan pempek vakum standar biasanya masuk kategori ini
 
 **Koli medium (dus ukuran sedang):**
-- Ukuran maksimal Properti60x40x30 cm
-- Tarif Rp140000 per koli
+- Harga sama dengan tarif travel passenger rute Palembang Baturaja
 - Cocok untuk kiriman suku cadang atau barang elektronik
 
-**Biaya tambahan khusus:**
-- Pengambilan barang di luar radius kota Palembang: Rp 10.000-30.000
-- Pengantaran ke pelosok Baturaja luar kota: Rp 15.000-50.000
-- Layanan malam hari (setelah jam 20:00): tambah Rp 25.000
+Ukuran paket tidak memengaruhi harga. Amplop map folio dan koli berisi elektronik dibayar dengan nominal yang sama. Tidak ada minimum charge dan tidak ada biaya tambahan untuk pengambilan di luar radius kota Palembang, pengantaran ke pelosok Baturaja, atau layanan malam setelah jam 20.00.
 
-### Perhitungan Ekspedisi Kargo
+### Muatan Berlebihan
 
-Ekspedisi kargo menggunakan rumus volumetrik:
-
-```
-Berat Volume (Kg) = Panjang (cm) × Lebar (cm) × Tinggi (cm) ÷ 4.000
-```
-
-Contoh: dus berukuran，shushu50x40x30 cm punya berat volume 15 kg (50×40×30÷4000). Tarif dasar kargo darat Palembang-Baturaja sekitar Rp 5.000-8.000 per kg. Jadi ongkirnya Rp 75.000-120.000.
-
-Minimum charge biasanya 5-10 kg pertama. Jadi dus kecil sekalipun tetap kena minimum charge.
+Kalau muatan melebihi satu bangku penumpang, aturan tarif di atas tidak lagi berlaku. Anda perlu berdiskusi dengan admin untuk pilihan carter armada privat, atau kirim lewat ekspedisi kargo yang tarifnya dihitung terpisah.
 
 ## Titik Loket dan Area Jemput Barang di Palembang
 

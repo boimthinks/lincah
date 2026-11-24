@@ -20,7 +20,7 @@ faq:
   - q: "Apakah paket bisa diantar sampai ke mess kebun atau pabrik kelapa sawit?"
     a: "Ya, sopir kami dapat mengantarkan paket langsung ke alamat penerima, baik rumah warga, perkantoran, maupun kawasan pabrik/mess perkebunan sawit di Sungai Lilin dan sekitarnya."
   - q: "Berapa ongkos kirim paket ke Sungai Lilin via travel?"
-    a: "Biaya dihitung adil berdasarkan ukuran dimensi dan berat paket mulai dari puluhan ribu rupiah untuk dokumen/koli kecil tanpa biaya tersembunyi."
+    a: "Ongkos kirim paket disamakan dengan tarif travel passenger reguler rute Palembang Sungai Lilin. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, dokumen maupun koli kecil dibayar dengan nominal yang sama tanpa biaya tersembunyi."
   - q: "Bagaimana cara titip paket kilat Palembang ke Sungai Lilin?"
     a: "Kirim foto barang, perkiraan ukuran, alamat penjemputan di Palembang, serta nomor penerima di Sungai Lilin ke WhatsApp admin di 0813-6923-1893."
 ---
@@ -43,9 +43,9 @@ Tiga jadwal ini beroperasi setiap hari tanpa libur. Anda tinggal menyesuaikan se
 
 ## Berapa Biaya Kirim Paket via Travel ke Sungai Lilin
 
-Tarif penumpang reguler rute Palembang ke Sungai Lilin adalah Rp 180.000 per orang. Untuk paket, biaya dihitung terpisah berdasarkan tiga faktor: berat, ukuran, dan jenis barang. Karena setiap kiriman punya dimensi yang berbeda, angka pastinya muncul setelah admin melihat detail pengiriman.
+Tarif penumpang reguler rute Palembang ke Sungai Lilin adalah Rp 180.000 per orang. Untuk paket, ongkosnya disamakan dengan tarif penumpang tersebut. Selama paket muat di bagasi dan tidak melebihi satu bangku penumpang, amplop dokumen maupun koli barang dibayar dengan nominal yang sama. Angka pastinya muncul setelah admin melihat detail pengiriman.
 
-Cara paling cepat adalah mengirim foto barang beserta ukuran dan beratnya lewat WhatsApp. Dalam hitungan menit, admin akan mengonfirmasi estimasi biaya dan jadwal keberangkatan yang tersedia. Untuk dokumen ringan seperti amplop surat, faktur, atau nota, ongkosnya jauh lebih ringan dibanding kardus berisi suku cadang atau elektronik.
+Cara paling cepat adalah mengirim foto barang beserta ukuran dan beratnya lewat WhatsApp. Dalam hitungan menit, admin akan mengonfirmasi biaya dan jadwal keberangkatan yang tersedia. Ukuran barang tidak memengaruhi harga, sehingga dokumen ringan seperti amplop surat, faktur, atau nota dibayar sama dengan kardus berisi suku cadang atau elektronik.
 
 Tidak ada biaya tersembunyi yang ditagihkan di tengah jalan. Harga yang dikonfirmasi admin di awal adalah harga final, termasuk penjemputan dan pengantaran langsung ke alamat.
 
@@ -86,7 +86,7 @@ Keuntungan lain, kiriman diantar sampai ke alamat penerima. Penerima tidak perlu
 
 Mengirim seseorang dengan mobil pribadi hanya untuk menitipkan satu paket ke Sungai Lilin jelas tidak efisien. Biaya bensin, tol, dan waktu perjalanan pulang pergi tidak sebanding dengan ukuran kiriman. Apalagi jika barangnya cuma seamplop dokumen atau satu kardus kecil.
 
-Menitipkan paket lewat travel memotong semua biaya itu. Anda membayar sesuai ukuran barang, bukan berdasarkan biaya operasional satu kendaraan penuh. Untuk kiriman kecil hingga menengah, cara ini jauh lebih praktis dan tetap sampai di alamat tujuan.
+Menitipkan paket lewat travel memotong semua biaya itu. Anda membayar tarif penumpang yang sama, bukan biaya operasional satu kendaraan penuh. Untuk kiriman kecil hingga menengah, cara ini jauh lebih praktis dan tetap sampai di alamat tujuan.
 
 ## Tips Sebelum Mengirim Paket
 
