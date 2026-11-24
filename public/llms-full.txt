@@ -97,6 +97,7 @@ Kendaraan di bawah ini dioperasikan oleh mitra sopir dan pool travel yang bekerj
 - **Palembang – Lahat**: Tarif Rp 200.000 | Durasi 5 - 6 jam | Jadwal 08.00, 14.00, 20.00 WIB via Koridor Merapi.
 - **Palembang – Kikim**: Tarif Rp 200.000 | Durasi 7 - 8 jam | Jadwal 08.00, 14.00, 20.00 WIB.
 - **Palembang – Tebing Tinggi (Empat Lawang)**: Tarif Rp 210.000 | Durasi 8 - 9 jam | Jadwal 09.00, 16.00, 21.00 WIB.
+- **Palembang – Empat Lawang**: Tarif Rp 200.000 | Durasi 8 - 9 jam | Jadwal 08.00, 15.00, 20.00 WIB (Door-to-door sampai desa di Tebing Tinggi, Pendopo, Muara Pinang, dan Lintang Kanan).
 - **Palembang – Pendopo Lintang**: Tarif Rp 230.000 | Durasi 8 - 9 jam | Jadwal 08.00, 14.00, 20.00 WIB.
 - **Palembang – Muara Beliti**: Tarif Rp 250.000 | Durasi 6,5 jam | Jadwal 08.00, 14.00, 20.00 WIB.
 - **Palembang – Lubuklinggau**: Tarif Rp 200.000 | Durasi 7 - 8 jam | Jadwal 09.00, 16.00, 20.00 WIB.

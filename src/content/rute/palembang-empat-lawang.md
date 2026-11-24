@@ -1,12 +1,12 @@
 ---
 from: palembang
 to: empat lawang
-price: 220000
+price: 200000
 duration: 8 - 9 Jam
 departureTimes: ["08:00 WIB", "15:00 WIB", "20:00 WIB"]
 type: sumatera selatan
 distance: 330 km
-description: Travel Palembang ke Empat Lawang 8-9 jam Rp 220.000 door-to-door via Lintas Tengah. Jemput di rumah, antar sampai desa. Booking via WhatsApp!
+description: Travel Palembang ke Empat Lawang 8-9 jam Rp 200.000 door-to-door via Lintas Tengah. Jemput di rumah, antar sampai desa. Booking via WhatsApp!
 img: src\content\city-images.md
 ---
 
@@ -23,12 +23,12 @@ Perjalanan Palembang menuju Empat Lawang menempuh sekitar 330 km dengan waktu te
 
 Jalur Lahat–Empat Lawang punya tanjakan panjang dan tikungan tajam. Driver kami biasa menurunkan kecepatan di titik rawan longsor saat hujan, jadi perjalanan tetap aman meski waktu tempuh sedikit bertambah.
 
-## Apa yang Didapat dengan Tarif Rp 220.000
+## Apa yang Didapat dengan Tarif Rp 200.000
 
 * **Penjemputan di Palembang:** driver datang ke rumah, kos, hotel, atau kantor Anda pada jam yang disepakati.
 * **Pengantaran sampai alamat:** turun tepat di halaman rumah, mess, atau lokasi kerja di Empat Lawang.
 * **Armada ber-AC:** Hiace Premio untuk rombongan, Innova Reborn untuk perjalanan privat, Avanza/Veloz untuk solo atau pasangan.
-* **Tarif tetap:** Rp 220.000 per orang, tanpa tambahan biaya penjemputan standar.
+* **Tarif tetap:** Rp 200.000 per orang, tanpa tambahan biaya penjemputan standar.
 
 ## Pilihan Jam Keberangkatan
 

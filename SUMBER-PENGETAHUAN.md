@@ -81,7 +81,7 @@ Gunakan data ini sebagai social proof dalam artikel:
 | **Palembang-Batu Marta** | 5-6 jam | Lintas Tengah / OKU Timur | Rp 250.000 | Batas antar maks. Unit 2 (jalan unit dalam rusak) |
 | **Palembang-Babat Supat** | 3 jam 15 menit | Lintas Timur (Betung - Babat Supat) | Rp 160.000 | Jalintim Muba, door-to-door, 92 km |
 | **Palembang-PALI (Talang Ubi)** | 3,5-4 jam | Tol Palindra / Lintas Tengah (Simpang Belimbing) | Rp 160.000 | Ibukota Kab. PALI, antar sampai desa |
-| **Palembang-Empat Lawang** | 8-9 jam | Lintas Tengah (Prabumulih - Muara Enim - Lahat) | Rp 220.000 | Door-to-door sampai desa, 330 km |
+| **Palembang-Empat Lawang** | 8-9 jam | Lintas Tengah (Prabumulih - Muara Enim - Lahat) | Rp 200.000 | Door-to-door sampai desa, 330 km |
 | **Palembang-Lintang Kanan** | 9-10 jam | Lintas Tengah - Muara Pinang | Rp 260.000 | Barat daya Empat Lawang, 345 km |
 | **Palembang-Tanjung Enim** | 4-5 jam | Tol Indraprabu - Lintas Tengah | Rp 180.000 | Kawasan tambang PTBA & Lawang Kidul |
 | **Palembang-Ujan Mas** | 3,5-4 jam | Tol Indraprabu - Lintas Tengah | Rp 140.000 | Kecamatan Muara Enim, jalur Gunung Megang |
@@ -236,6 +236,7 @@ Validasi ini WAJIB dilakukan saat meminta saran judul ATAU menulis artikel.
 | Palembang-Tanjung Enim (AI Cluster: Jemput Bandara SMB II Direct Dinas Tambang PTBA Lawang Kidul) | `2026-11-12-travel-bandara-smb-ii-palembang-ke-tanjung-enim.md` |
 | Palembang-Martapura OKU Timur (AI Cluster: Jemput Bandara SMB II Direct Tamu Dinas Pemkab OKU Timur) | `2026-11-14-travel-bandara-smb-ii-palembang-ke-martapura-oku-timur.md` |
 | Palembang-Muara Enim (AI Cluster: Komparasi Travel vs Kereta Api, Ongkos Pintu ke Pintu & Akses Tambang) | `2026-11-17-perbandingan-travel-vs-kereta-api-palembang-muara-enim.md` |
+| Palembang-Danau Ranau via Muaradua (Panduan Perjalanan: Jalur, Panorama, Cuaca & Persiapan) | `2026-11-24-panduan-travel-palembang-danau-ranau-via-muaradua.md` |
 
 ### Status Kelengkapan Artikel Rute (SELESAI)
 

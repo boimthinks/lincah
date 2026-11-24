@@ -12,7 +12,7 @@ kesimpulan: "Lima rute baru ini dibuka karena jaringan mitra sopir dan pool trav
 tags: ["rute baru lincah travel", "agensi travel palembang", "travel palembang pali", "travel palembang tanjung enim", "rute baru sumatera selatan"]
 faq:
   - q: "Rute baru apa saja yang dibuka Lincah Travel?"
-    a: "Ada lima koridor: Palembang ke PALI (Talang Ubi) Rp 160.000, Empat Lawang Rp 220.000, Lintang Kanan Rp 260.000, Tanjung Enim Rp 180.000, dan Ujan Mas Rp 140.000. Semuanya berjalan dua arah, jadi penumpang dari kota tujuan juga bisa memesan ke Palembang."
+    a: "Ada lima koridor: Palembang ke PALI (Talang Ubi) Rp 160.000, Empat Lawang Rp 200.000, Lintang Kanan Rp 260.000, Tanjung Enim Rp 180.000, dan Ujan Mas Rp 140.000. Semuanya berjalan dua arah, jadi penumpang dari kota tujuan juga bisa memesan ke Palembang."
   - q: "Apakah Lincah Travel punya armada sendiri?"
     a: "Tidak. Lincah Travel adalah agensi perjalanan. Kendaraan yang menjemput Anda dioperasikan oleh sopir atau pool travel mitra yang bekerja sama dengan kami. Tugas kami mencocokkan rute, memastikan ketersediaan kursi, dan mengunci tarif sebelum Anda berangkat."
   - q: "Kenapa bisa membuka lima rute dalam waktu bersamaan?"
@@ -52,7 +52,7 @@ Penolakan itu bukan akhir prosesnya. Karena jaringan mitra kami cukup lebar, adm
 | Rute | Jarak | Durasi | Tarif | Jam berangkat dari Palembang |
 |---|---|---|---|---|
 | Palembang ke PALI (Talang Ubi) | 165 km | 3,5 - 4 jam | Rp 160.000 | 08.00, 13.00, 17.00, 21.00 |
-| Palembang ke Empat Lawang | 330 km | 8 - 9 jam | Rp 220.000 | 08.00, 15.00, 20.00 |
+| Palembang ke Empat Lawang | 330 km | 8 - 9 jam | Rp 200.000 | 08.00, 15.00, 20.00 |
 | Palembang ke Lintang Kanan | 345 km | 9 - 10 jam | Rp 260.000 | 08.00, 15.00, 20.00 |
 | Palembang ke Tanjung Enim | 205 km | 4 - 5 jam | Rp 180.000 | 08.00, 14.00, 17.00, 20.00 |
 | Palembang ke Ujan Mas | 165 km | 3,5 - 4 jam | Rp 140.000 | 08.00, 13.00, 17.00 |

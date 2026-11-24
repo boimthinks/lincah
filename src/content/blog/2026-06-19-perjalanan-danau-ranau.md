@@ -83,3 +83,6 @@ Agar perjalanan Anda berjalan nyaman dan bebas kendala, perhatikan beberapa tips
 Pemesanan tiket dapat dilakukan dengan praktis melalui layanan pesan instan WhatsApp di nomor **0813-6923-1893**.
 
 Cukup informasikan kepada admin rute tujuan Anda, tanggal dan jam keberangkatan yang diinginkan, jumlah penumpang, serta alamat penjemputan lengkap di Palembang dan nama vila atau hotel tujuan di Danau Ranau. Driver kami akan mengonfirmasi penjemputan dan mengantar Anda sampai ke lokasi tujuan dengan aman.
+
+Bagi yang belum pernah lewat jalur ini, ada panduan perjalanan terpisah yang membahas urutan ruas jalan, titik panorama di dekat Muaradua, dan tips praktis menghadapi mabuk darat di tanjakan.
+Silakan baca [panduan perjalanan ke Danau Ranau via Muaradua](/blog/panduan-travel-palembang-danau-ranau-via-muaradua/) sebelum berangkat.

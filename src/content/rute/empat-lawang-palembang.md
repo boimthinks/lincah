@@ -1,12 +1,12 @@
 ---
 from: empat lawang
 to: palembang
-price: 220000
+price: 200000
 duration: 8 - 9 Jam
 departureTimes: ["09:00 WIB", "16:00 WIB", "21:00 WIB"]
 type: sumatera selatan
 distance: 330 km
-description: Travel Empat Lawang ke Palembang 8-9 jam Rp 220.000 door-to-door. Jemput di rumah di Tebing Tinggi dan desa sekitar. Pesan via WhatsApp!
+description: Travel Empat Lawang ke Palembang 8-9 jam Rp 200.000 door-to-door. Jemput di rumah di Tebing Tinggi dan desa sekitar. Pesan via WhatsApp!
 img: src\content\city-images.md
 ---
 
@@ -26,7 +26,7 @@ Estimasi total waktu 8 sampai 9 jam. Penjemputan di desa yang jauh dari jalan na
 * **Antar jemput di dua ujung:** driver menjemput di Empat Lawang dan mengantar sampai pintu rumah atau kantor di Palembang.
 * **Tidak perlu ke terminal:** tidak ada biaya ojek lanjutan atau menunggu bus yang tidak jelas jamnya.
 * **Kabin nyaman:** Hiace Premio, Innova Reborn, dan Avanza/Veloz dengan AC double blower serta reclining seat.
-* **Ongkos pasti Rp 220.000** per orang untuk penjemputan dan pengantaran standar.
+* **Ongkos pasti Rp 200.000** per orang untuk penjemputan dan pengantaran standar.
 
 ## Jadwal dari Empat Lawang
 

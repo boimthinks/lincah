@@ -95,7 +95,7 @@ Tabel terbit (baris baru ditambahkan):
 - [ ] **Travel Palembang Ujan Mas (Muara Enim): Rute Komuter Jalur Lintas Tengah**
   - Rute 165 km, 3,5-4 jam, tarif Rp 140.000. Angle komuter pekerja tambang dan petani karet, hambatan palang kereta babaranjang di Ujan Mas. Slug target: `travel-palembang-ujan-mas-muara-enim`. Wajib backlink ke pilar Muara Enim.
 - [ ] **Travel Palembang Empat Lawang Door to Door: Cakupan Antar Lintas Kecamatan**
-  - Rute 330 km, 8-9 jam, tarif Rp 220.000. Fokus pada jangkauan antar sampai desa di Tebing Tinggi, Pendopo, Muara Pinang, Ulu Musi, Saling, dan Sikap Dalam. Slug target: `travel-palembang-empat-lawang-door-to-door`. Wajib merujuk artikel Tebing Tinggi dan Pendopo Lintang.
+  - Rute 330 km, 8-9 jam, tarif Rp 200.000. Fokus pada jangkauan antar sampai desa di Tebing Tinggi, Pendopo, Muara Pinang, Ulu Musi, Saling, dan Sikap Dalam. Slug target: `travel-palembang-empat-lawang-door-to-door`. Wajib merujuk artikel Tebing Tinggi dan Pendopo Lintang.
 - [ ] **Travel Palembang Lintang Kanan: Jalur Barat Daya Empat Lawang**
   - Rute 345 km, 9-10 jam, tarif Rp 260.000 (tertinggi di Empat Lawang). Angle kondisi jalan kabupaten via Muara Pinang, jemput di kebun dan dusun. Slug target: `travel-palembang-lintang-kanan`.
 - [ ] **Travel Palembang Muara Rupit (Muratara): Jadwal Keberangkatan & Tarif Tiket Terbaru 2026**
