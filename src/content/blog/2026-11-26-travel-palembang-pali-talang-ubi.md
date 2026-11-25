@@ -46,7 +46,7 @@ Pilihan pertama lebih masuk akal kalau titik jemput Anda di kawasan Jakabaring, 
 
 Jaraknya sekitar 165 km. Dengan kondisi jalan normal, perjalanan selesai dalam 3,5 sampai 4 jam. Kalau berangkat pagi, Anda masih sempat menyelesaikan urusan di Talang Ubi sebelum makan siang.
 
-Untuk yang perlu melanjutkan ke arah timur, artikel [travel Palembang Muara Enim](/blog/travel-palembang-muara-enim) membahas koridor yang bersambung dengan jalur ini. Kalau titik tujuan Anda justru di kawasan tambang, [travel Palembang Tanjung Enim](/blog/travel-palembang-tanjung-enim) lebih dekat dibaca.
+Untuk yang perlu melanjutkan ke arah timur, artikel [travel Palembang Muara Enim](/blog/travel-palembang-muara-enim-door-to-door) membahas koridor yang bersambung dengan jalur ini. Kalau titik tujuan Anda justru di kawasan tambang, [travel Palembang Tanjung Enim](/blog/travel-palembang-tanjung-enim) lebih dekat dibaca.
 
 ## Jadwal Keberangkatan dan Tarif
 

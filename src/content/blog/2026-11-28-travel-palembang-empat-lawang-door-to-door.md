@@ -48,7 +48,7 @@ Total jaraknya sekitar 330 km. Dengan kondisi jalan normal, waktu tempuh 8 sampa
 
 Ruas yang paling melelahkan biasanya antara Lahat dan Tebing Tinggi. Jalannya menanjak, berkelok, dan cukup sempit di beberapa bagian. Pada musim hujan, kabut di kawasan perbukitan bisa membatasi jarak pandang, terutama bila berangkat sore atau malam.
 
-Untuk konteks koridor yang sama, artikel [travel Palembang Tebing Tinggi Empat Lawang](/blog/travel-palembang-tebing-tinggi-empat-lawang) membahas kota ibukota kabupaten ini secara lebih khusus. Kalau tujuan Anda kawasan Pendopo, [travel Palembang Pendopo Lintang](/blog/travel-palembang-pendopo-lintang) lebih sesuai dibaca. Untuk perjalanan ke arah kota berikutnya, [travel Palembang Lubuklinggau](/blog/travel-palembang-lubuklinggau) membahas kelanjutan koridor ini.
+Untuk konteks koridor yang sama, artikel [travel Palembang Tebing Tinggi Empat Lawang](/blog/travel-palembang-tebing-tinggi-empat-lawang) membahas kota ibukota kabupaten ini secara lebih khusus. Kalau tujuan Anda kawasan Pendopo, [travel Palembang Pendopo Lintang](/blog/travel-palembang-pendopo-lintang) lebih sesuai dibaca. Untuk perjalanan ke arah kota berikutnya, [travel Palembang Lubuklinggau](/blog/travel-palembang-lubuk-linggau-door-to-door) membahas kelanjutan koridor ini.
 
 ## Jadwal Keberangkatan dan Tarif
 
