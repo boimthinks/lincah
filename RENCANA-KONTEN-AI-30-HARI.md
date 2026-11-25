@@ -42,7 +42,7 @@ Setiap artikel dirancang dengan standar E-E-A-T, anti-kanibalisasi kata kunci, j
 | 26 | 2026-11-16 | Carter Mobil Palembang ke Sekayu untuk Perjalanan Dinas | Carter Mobil Palembang ke Sekayu untuk Perjalanan Dinas Kantor Muba | `carter-mobil-palembang-ke-sekayu-perjalanan-dinas` | Carter Privat / Drop-Off OPD & Vendor Muba | ✅ Selesai (2026-11-20) |
 | 27 | 2026-11-17 | Carter Mobil Palembang Lahat untuk Rombongan Keluarga | Carter Mobil Palembang Lahat untuk Rombongan Keluarga Besar | `carter-mobil-palembang-lahat-rombongan-keluarga` | Carter Privat / Innova & Hiace All-In | ✅ Selesai (2026-11-21) |
 | 28 | 2026-11-18 | Panduan Perjalanan Travel Palembang Danau Ranau via Muaradua | Panduan Travel Palembang Danau Ranau via Muaradua Tips Jalur Wisata | `panduan-travel-palembang-danau-ranau-via-muaradua` | Wisata Alam / Rute Berkelok Bukit Barisan | ✅ Selesai (2026-11-24) |
-| 29 | 2026-11-19 | Travel Palembang Belitang via Jalur Tol dan Komering | Rute Travel Palembang Belitang via Tol Indraprabu dan Lintas Komering | `rute-travel-palembang-belitang-via-tol-komering` | Rute Koridor / Alternatif Tol vs Non-Tol | Menunggu |
+| 29 | 2026-11-19 | Travel Palembang Belitang via Jalur Tol dan Komering | Rute Travel Palembang Belitang via Tol Indraprabu dan Lintas Komering | `rute-travel-palembang-belitang-via-tol-komering` | Rute Koridor / Alternatif Tol vs Non-Tol | ✅ Selesai, digabung ke pilar `travel-palembang-belitang-oku-timur` (2026-11-25) |
 | 30 | 2026-11-20 | Kirim Paket Pempek Palembang ke Luar Kota via Travel | Cara Kirim Pempek Palembang ke Luar Kota via Travel Cepat | `cara-kirim-pempek-palembang-ke-luar-kota-via-travel` | Panduan Edukasi / Vakum, Es Beku, Kabin AC | Menunggu |
 
 ---
@@ -88,8 +88,8 @@ Setiap artikel dirancang dengan standar E-E-A-T, anti-kanibalisasi kata kunci, j
 * **Hari 26 (`carter-mobil-palembang-ke-sekayu-perjalanan-dinas`)**: Opsi privat drop-off rombongan OPD dan vendor menggunakan Innova Reborn / Hiace Premio.
 * **Hari 27 (`carter-mobil-palembang-lahat-rombongan-keluarga`)**: Layanan carter satu mobil penuh untuk hajatan keluarga, mudik, atau liburan tanpa campur penumpang lain.
 * **Hari 28 (`panduan-travel-palembang-danau-ranau-via-muaradua`)**: Rute wisata menembus OKU Selatan, tips mabuk darat, dan titik panorama Danau Ranau.
-* **Hari 29 (`rute-travel-palembang-belitang-via-tol-komering`)**: Membandingkan rute via tol Indraprabu Prabumulih vs koridor sungai Komering Kayuagung.
-* **Hari 30 (`cara-kirim-pempek-palembang-ke-luar-kota-via-travel`)**: Panduan teknis pengemasan pempek beku (frozen/vacuum pack), daya tahan cuka, dan penempatan aman di kabin ber-AC travel.
+* **Hari 29 (`rute-travel-palembang-belitang-via-tol-komering`)**: DIGABUNG ke artikel pilar `/blog/travel-palembang-belitang-oku-timur` sebagai bagian "Jalur Tol Indraprabu atau Koridor Komering" pada 2026-11-25. Tidak dibuat file baru karena aturan 1 rute 1 artikel pilar penumpang.
+* **Hari 30 (`cara-kirim-pempek-palembang-ke-luar-kota-via-travel`)**: Panduan teknis pengemasan pempek beku (frozen/vacuum pack), daya tahan cuka, dan penempatan aman di kabin ber-AC travel. STATUS: draf siap, `draft: true`, menunggu giliran terbit.
 
 ---
 
@@ -99,12 +99,14 @@ Lima rute sudah punya halaman rute aktif (`/[from]/[to]`), namun belum punya art
 
 | No | Prioritas | Rute | Tarif | Rencana Artikel | Slug Rekomendasi | Angka Kunci & Angle |
 |---|---|---|---|---|---|---|
-| 31 | 1 | Palembang–Tanjung Enim | Rp 180.000 | **REVAMP** artikel pilar lama (bukan artikel baru) | `travel-palembang-tanjung-enim` (sudah ada, 2026-08-16) | Pilar lama tanpa tarif & tanpa FAQ. Angle: tarif resmi Rp 180.000, jemputan bandara Rp 230.000 (reguler + Rp 50.000), durasi 4-5 jam, 205 km |
-| 32 | 2 | Palembang–PALI (Talang Ubi) | Rp 160.000 | Artikel pilar baru | `travel-palembang-pali-talang-ubi` | Kabupaten termuda Sumsel, 3,5-4 jam, 165 km, cakupan 6 kecamatan (Talang Ubi, Pendopo, Pendopo Barat, Abab, Penukal, Penukal Utara) |
-| 33 | 3 | Palembang–Ujan Mas | Rp 140.000 | Artikel pilar baru | `travel-palembang-ujan-mas-muara-enim` | Kecamatan jalur Lintas Tengah, 3,5-4 jam, komuter pekerja tambang, antrean kereta babaranjang. Wajib backlink ke pilar Muara Enim agar tidak kanibal |
-| 34 | 4 | Palembang–Empat Lawang | Rp 200.000 | Artikel pilar baru | `travel-palembang-empat-lawang-door-to-door` | 8-9 jam, 330 km. Angle khusus: cakupan antar lintas kecamatan (Tebing Tinggi, Pendopo, Muara Pinang, Ulu Musi, Saling, Sikap Dalam). Wajib backlink ke artikel Tebing Tinggi & Pendopo Lintang |
-| 35 | 5 | Palembang–Lintang Kanan | Rp 260.000 | Artikel pilar baru | `travel-palembang-lintang-kanan` | 9-10 jam, 345 km, tarif tertinggi di Empat Lawang. Angle: akses jalur kabupaten barat daya via Muara Pinang, jemput di kebun |
+| 31 | 1 | Palembang–Tanjung Enim | Rp 180.000 | **REVAMP** artikel pilar lama (bukan artikel baru) | `travel-palembang-tanjung-enim` (sudah ada, 2026-08-16) | Pilar lama tanpa tarif & tanpa FAQ. Angle: tarif resmi Rp 180.000, jemputan bandara Rp 230.000 (reguler + Rp 50.000), durasi 4-5 jam, 205 km | STATUS: REVAMP SELESAI 2026-11-25 (tarif Rp180.000, jemput bandara Rp230.000, 7 FAQ, gambar lokal).
+| 32 | 2 | Palembang–PALI (Talang Ubi) | Rp 160.000 | Artikel pilar baru | `travel-palembang-pali-talang-ubi` | Kabupaten termuda Sumsel, 3,5-4 jam, 165 km, cakupan 6 kecamatan (Talang Ubi, Pendopo, Pendopo Barat, Abab, Penukal, Penukal Utara) | STATUS: draf siap `2026-11-26-travel-palembang-pali-talang-ubi.md`, `draft: true`.
+| 33 | 3 | Palembang–Ujan Mas | Rp 140.000 | Artikel pilar baru | `travel-palembang-ujan-mas-muara-enim` | Kecamatan jalur Lintas Tengah, 3,5-4 jam, komuter pekerja tambang, antrean kereta babaranjang. Wajib backlink ke pilar Muara Enim agar tidak kanibal | STATUS: draf siap `2026-11-27-travel-palembang-ujan-mas-muara-enim.md`, `draft: true`.
+| 34 | 4 | Palembang–Empat Lawang | Rp 200.000 | Artikel pilar baru | `travel-palembang-empat-lawang-door-to-door` | 8-9 jam, 330 km. Angle khusus: cakupan antar lintas kecamatan (Tebing Tinggi, Pendopo, Muara Pinang, Ulu Musi, Saling, Sikap Dalam). Wajib backlink ke artikel Tebing Tinggi & Pendopo Lintang | STATUS: draf siap `2026-11-28-travel-palembang-empat-lawang-door-to-door.md`, `draft: true`.
+| 35 | 5 | Palembang–Lintang Kanan | Rp 260.000 | Artikel pilar baru | `travel-palembang-lintang-kanan` | 9-10 jam, 345 km, tarif tertinggi di Empat Lawang. Angle: akses jalur kabupaten barat daya via Muara Pinang, jemput di kebun | STATUS: draf siap `2026-11-29-travel-palembang-lintang-kanan.md`, `draft: true`.
 | 36 | Khusus | Pengumuman 5 rute baru (agensi) | - | **SELESAI** 2026-11-20 | `lincah-travel-buka-lima-rute-baru` | Artikel pengumuman resmi: lima koridor baru, alasan jaringan mitra bertambah, penegasan model agensi (bukan pemilik armada), dan penurunan tarif Simpang Belimbing ke Rp 120.000. Bukan artikel pilar rute, sehingga tidak menyerap keyword komersial rute mana pun |
+| 37 | 6 | Palembang–Babat Supat | Rp 160.000 | Artikel pilar baru | `travel-palembang-babat-supat` | 3 jam 15 menit, 92 km, koridor utara via Betung. Rute sudah live tetapi belum punya artikel sehingga autolink jatuh ke landing page. STATUS: draf siap `2026-12-01-travel-palembang-babat-supat.md`, `draft: true`. |
+| 38 | 7 | Palembang–Kayu Agung | Rp 150.000 | Artikel pilar baru | `travel-palembang-kayu-agung-door-to-door` | 1,5 jam, 65 km, ibu kota OKI. `ROUTE_BLOG_MAP` sudah menunjuk ke slug ini sejak lama tetapi artikelnya belum ada, sehingga tautan "travel Palembang Kayu Agung" di artikel lama mengarah ke halaman 404. STATUS: draf siap `2026-12-02-travel-palembang-kayu-agung-door-to-door.md`, `draft: true`. |
 
 **Aturan anti-kanibalisasi fase ini:**
 * Tanjung Enim **tidak** dibuat artikel baru. Pilar lama di-revamp karena sudah ada 4 artikel pendukung (berapa jam, bandara, kirim paket, pilar).

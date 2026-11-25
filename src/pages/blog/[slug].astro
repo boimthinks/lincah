@@ -10,11 +10,12 @@ import SidebarSimilarPosts from '../../components/SidebarSimilarPosts.astro';
 import SidebarPopularTags from '../../components/SidebarPopularTags.astro';
 import RouteCard from '../../components/RouteCard.astro';
 import { getCollection, getEntries, render, getEntry } from 'astro:content';
+import { getPublishedPosts } from '../../lib/blog';
 import BlogContent from '../../components/BlogContent.astro';
 import GoogleSourcePreferences from '../../components/GoogleSourcePreferences.astro';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+  const posts = await getPublishedPosts();
   return posts.map(post => ({
     params: { slug: post.data.slug },
     props: { post },
@@ -56,7 +57,7 @@ if (pageTitle.length + brandSuffix.length <= 60) {
   }
 }
 
-const relatedPosts = (await getCollection('blog'))
+const relatedPosts = (await getPublishedPosts())
   .filter((item) => item.data.kategori === post.data.kategori && item.data.slug !== post.data.slug)
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
   .slice(0, 6);

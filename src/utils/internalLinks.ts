@@ -68,6 +68,11 @@ const ROUTE_BLOG_MAP: Record<string, string> = {
   'palembang-bangko': '/blog/travel-palembang-bangko-merangin',
   'palembang-sungai-penuh': '/blog/travel-palembang-sungai-penuh',
   'palembang-muara-lakitan': '/blog/travel-palembang-muara-lakitan',
+  'palembang-pali': '/blog/travel-palembang-pali-talang-ubi',
+  'palembang-ujan-mas': '/blog/travel-palembang-ujan-mas-muara-enim',
+  'palembang-empat-lawang': '/blog/travel-palembang-empat-lawang-door-to-door',
+  'palembang-lintang-kanan': '/blog/travel-palembang-lintang-kanan',
+  'palembang-babat-supat': '/blog/travel-palembang-babat-supat',
 
   // Kota -> Palembang (arah balik)
   'baturaja-palembang': '/blog/travel-palembang-baturaja-door-to-door',
@@ -98,6 +103,11 @@ const ROUTE_BLOG_MAP: Record<string, string> = {
   'kuala-tungkal-palembang': '/blog/travel-palembang-kuala-tungkal-lintas-provinsi',
   'muara-beliti-palembang': '/blog/travel-palembang-muara-beliti',
   'talang-padang-palembang': '/blog/travel-palembang-talang-padang',
+  'pali-palembang': '/blog/travel-palembang-pali-talang-ubi',
+  'ujan-mas-palembang': '/blog/travel-palembang-ujan-mas-muara-enim',
+  'empat-lawang-palembang': '/blog/travel-palembang-empat-lawang-door-to-door',
+  'lintang-kanan-palembang': '/blog/travel-palembang-lintang-kanan',
+  'babat-supat-palembang': '/blog/travel-palembang-babat-supat',
   'tugumulyo-palembang': '/blog/travel-palembang-tugumulyo',
   'sekernan-palembang': '/blog/travel-palembang-sekernan',
   'bangko-palembang': '/blog/travel-palembang-bangko-merangin',

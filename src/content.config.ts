@@ -25,6 +25,7 @@ const blogCollection = defineCollection({
     description: z.string(),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
+    draft: z.boolean().default(false),
     author: z.string().default('Tim Konten Lincah Travel'),
     image_url: z.string().optional(),
     kategori: z.enum(['rute', 'armada', 'tips', 'lokal']),

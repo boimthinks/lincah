@@ -188,7 +188,7 @@ Berikut adalah daftar artikel panduan perjalanan, komparasi rute, dan jadwal yan
 21. `travel-palembang-sungai-penuh`: Panduan Travel Palembang Sungai Penuh Kerinci Rp500.000.
 22. `travel-palembang-sekernan`: Panduan Travel Palembang Sekernan Muaro Jambi Rp220.000.
 23. `travel-palembang-muara-dua-door-to-door`: Panduan Travel Palembang Muara Dua OKU Selatan Rp220.000.
-24. `travel-palembang-belitang-oku-timur`: Panduan Travel Palembang Belitang OKU Timur Rp150.000.
+24. `travel-palembang-belitang-oku-timur`: Panduan Travel Palembang Belitang OKU Timur Rp150.000, termasuk pilihan jalur Tol Indraprabu atau koridor Komering.
 25. `travel-palembang-martapura-oku-timur`: Panduan Travel Palembang Martapura OKU Timur Rp220.000.
 26. `travel-palembang-prabumulih-jadwal-malam`: Panduan Travel Palembang Prabumulih jadwal malam via Tol Indraprabu.
 27. `rekap-harga-travel-sumatera-selatan-2026`: Rekapitulasi daftar tarif ongkos tiket travel seluruh Sumatera Selatan.

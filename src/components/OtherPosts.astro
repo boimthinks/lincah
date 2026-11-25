@@ -1,5 +1,6 @@
 ---
-import { getCollection, type CollectionEntry } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import { getPublishedPosts } from '../lib/blog';
 
 interface Props {
   currentPostSlug?: string;
@@ -9,7 +10,7 @@ type BlogPost = CollectionEntry<'blog'>;
 
 const { currentPostSlug } = Astro.props;
 
-const allPosts = await getCollection('blog');
+const allPosts = await getPublishedPosts();
 const otherPosts = allPosts
   .filter((post: BlogPost) => post.data.slug !== currentPostSlug)
   .sort((a: BlogPost, b: BlogPost) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())

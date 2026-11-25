@@ -1,10 +1,8 @@
 ---
-import { getCollection } from 'astro:content';
+import { getPublishedPosts } from '../lib/blog';
 
 // Ambil semua blog posts untuk internal linking
-const allBlogPosts = await getCollection('blog', (post) => {
-  return true;
-});
+const allBlogPosts = await getPublishedPosts();
 
 // Ekstrak dan hitung semua tags
 const tagCount = {};

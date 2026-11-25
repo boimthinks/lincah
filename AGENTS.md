@@ -107,12 +107,25 @@
 Semua data dinamis disimpan dalam Markdown, didefinisikan di `src/content.config.ts`:
 
 1. **`rute`**: `from`, `to` (lowercase), `price`, `duration`, `departureTimes`, `type` (`utama`|`semua`), `distance`, `description`, `img`.
-2. **`blog`**: `title`, `judul_seo`, `slug`, `description`, `pubDate`, `author`, `image_url`, `kategori` (`rute`|`armada`|`tips`|`lokal`), `pengantar`, `kesimpulan`, `tags`. Simpan artikel langsung di `src/content/blog/` (tanpa subfolder), nama file `YYYY-MM-DD-slug.md`.
+2. **`blog`**: `title`, `judul_seo`, `slug`, `description`, `pubDate`, `updatedDate?`, `draft`, `author`, `image_url`, `kategori` (`rute`|`armada`|`tips`|`lokal`), `pengantar`, `kesimpulan`, `tags`, `faq`. Simpan artikel langsung di `src/content/blog/` (tanpa subfolder), nama file `YYYY-MM-DD-slug.md`.
 3. **`city_images`**: Pemetaan gambar kota (prioritas: mapping → route `img` → Unsplash).
 4. **`hotels`**: `city`, `items: [{ name, image, address, phone }]`.
 5. **`public_transport`**: bandara → `flight`, stasiun → `train`, terminal → `directions_bus`, pelabuhan → `directions_boat`.
 6. **`districts`**: `city`, `items: ["district-1", ...]`.
 7. **Lainnya**: `vehicles`, `testimonials`, `faq`.
+
+## Status Draft dan Tanggal Terbit (WAJIB)
+
+- Field `draft` (boolean, default `false`) ada di schema `blog`. Artikel yang ditulis tetapi belum waktunya tayang disimpan dengan `draft: true`.
+- Semua halaman dan komponen yang menampilkan artikel **WAJIB** memakai helper `getPublishedPosts()` dan `sortPostsDesc()` dari `src/lib/blog.ts`, bukan `getCollection('blog')` langsung. Ini mencakup `src/pages/blog/[slug].astro`, `src/pages/blog/index.astro`, `src/pages/index.astro`, `OtherPosts.astro`, `SidebarLatestPosts.astro`, `SidebarSimilarPosts.astro`, dan `SidebarPopularTags.astro`. Tanpa helper, draft akan bocor ke build, sitemap, beranda, dan sidebar.
+- `pubDate` **tidak** dipakai untuk menyaring. Tanggal hanya label yang tampil di halaman.
+- Artikel diterbitkan satu per hari lewat:
+  ```bash
+  python3 _workflow/terbit.py daftar --site lincahtravel.web.id
+  python3 _workflow/terbit.py terbit --site lincahtravel.web.id
+  ```
+  Perintah ini menyetel `draft: false` dan `pubDate` ke **tanggal hari ini**, bukan tanggal rencana. Kalau seharinya terlewat, artikel yang tertunda tetap bertanggal hari saat benar-benar diterbitkan. Jangan mengubah `draft` manual.
+- `public/llms.txt` dan `public/llms-full.txt` adalah berkas statis yang dirawat manual, bukan hasil build. Jangan menambahkan slug artikel ke indeks di dalamnya sebelum artikel itu benar-benar terbit, karena berkas ini selalu tersaji ke publik tanpa penyaring draft.
 
 ## UI Components (`src/components/`)
 - `Hero.tsx`: Route selector; jika rute dipilih tombol berubah menjadi "PESAN TRAVEL" (link WhatsApp).
