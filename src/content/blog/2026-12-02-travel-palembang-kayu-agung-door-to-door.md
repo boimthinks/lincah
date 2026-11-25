@@ -1,7 +1,7 @@
 ---
 title: "Travel Palembang Kayu Agung OKI"
 judul_seo: "Jadwal Travel Palembang Kayu Agung 1,5 Jam Harga dan Rute"
-slug: "travel-palembang-kayu-agung-door-to-door"
+slug: "travel-palembang-kayu-agung-oki"
 description: "Travel Palembang ke Kayu Agung OKI Rp150.000 door-to-door sekitar 1,5 jam. Rute tenggara via Tanjung Raja. Booking WA 0813-6923-1893."
 pubDate: "2026-12-02"
 draft: true
