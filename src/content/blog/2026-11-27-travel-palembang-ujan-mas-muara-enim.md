@@ -3,8 +3,8 @@ title: "Travel Palembang Ujan Mas Muara Enim"
 judul_seo: "Ongkos Travel Palembang Ujan Mas Jadwal dan Rute Lintas Tengah"
 slug: "travel-palembang-ujan-mas-muara-enim"
 description: "Travel Palembang ke Ujan Mas Muara Enim Rp140.000 door-to-door 3,5 sampai 4 jam. Tiga jadwal harian, antar sampai desa. Booking WA 0813-6923-1893."
-pubDate: "2026-11-27"
-draft: true
+pubDate: "2026-11-26"
+draft: false
 author: "Tim Konten Lincah Travel"
 image_url: "/img/travel-palembang-ujan-mas-muara-enim.webp"
 kategori: "rute"
