@@ -3,8 +3,8 @@ title: "Travel Palembang Empat Lawang Door to Door"
 judul_seo: "Travel Palembang Empat Lawang 9 Jam Antar Lintas Kecamatan"
 slug: "travel-palembang-empat-lawang-door-to-door"
 description: "Travel Palembang ke Empat Lawang Rp200.000 door-to-door 8 sampai 9 jam. Antar ke Tebing Tinggi, Pendopo, Muara Pinang, dan desa sekitarnya. WA 0813-6923-1893."
-pubDate: "2026-11-28"
-draft: true
+pubDate: "2026-11-27"
+draft: false
 author: "Tim Konten Lincah Travel"
 image_url: "/img/travel-palembang-empat-lawang-door-to-door.webp"
 kategori: "rute"
