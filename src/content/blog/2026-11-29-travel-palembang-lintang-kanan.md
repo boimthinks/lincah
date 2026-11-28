@@ -3,8 +3,8 @@ title: "Travel Palembang Lintang Kanan"
 judul_seo: "Harga Travel Palembang Lintang Kanan 10 Jam Jemput di Kebun"
 slug: "travel-palembang-lintang-kanan"
 description: "Travel Palembang ke Lintang Kanan Empat Lawang Rp260.000 door-to-door 9 sampai 10 jam. Antar sampai kebun dan desa. Booking WA 0813-6923-1893."
-pubDate: "2026-11-29"
-draft: true
+pubDate: "2026-11-28"
+draft: false
 author: "Tim Konten Lincah Travel"
 image_url: "/img/travel-palembang-lintang-kanan.webp"
 kategori: "rute"
